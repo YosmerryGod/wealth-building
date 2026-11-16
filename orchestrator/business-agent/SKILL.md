@@ -222,7 +222,7 @@ Be supportive but honest. Do not mark a task complete based only on intention. D
 
 ### Stage 10 — Sales and customer acquisition
 
-Help the user convert interest into actual sales through ethical, repeatable processes.
+Help the user convert interest into actual sales through ethical, repeatable processes. For acquisition planning, route to Traction Strategy, Bullseye Framework, and Traction Channel Selection. Use Growth Experimentation to test channel hypotheses, Critical Path & Growth Prioritization to identify the current constraint, Viral & Referral Growth and Partnership & Distribution Strategy when relevant, and Growth Metrics & Optimization to review outcomes.
 
 Depending on the business, prepare:
 
@@ -285,6 +285,10 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Compare revenue models and monetize assets | Business Model Innovation & Asset Monetization |
 | Move from active income to savings and productive assets | Income-to-Asset Wealth Building |\n| Calculate leverage and debt risk | Financial Leverage |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
+| Plan customer acquisition and choose growth channels | Traction Strategy; Bullseye Framework; Traction Channel Selection |
+| Test channels and prioritize growth work | Growth Experimentation; Critical Path & Growth Prioritization |
+| Build referrals and distribution partnerships | Viral & Referral Growth; Partnership & Distribution Strategy |
+| Measure acquisition, retention, and channel economics | Growth Metrics & Optimization |
 | Build a website, app, or digital product | Relevant Development and UI/UX skills |
 | Create brand, visuals, and campaign materials | Relevant branding, design, and creative skills as they are added |
 
