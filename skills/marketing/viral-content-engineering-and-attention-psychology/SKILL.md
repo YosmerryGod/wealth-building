@@ -55,8 +55,9 @@ Create and test opening lines, titles, thumbnails, and first frames. Useful patt
 ### 8. Attention-to-value conversion
 Define whether the goal is awareness, education, community, leads, sales, or reputation. Align the call to action with the content and audience readiness. Measure downstream outcomes, not views alone. Ensure the offer and landing experience match the content promise.
 
-### 9. Reputation and ethical boundaries
-Assess truthfulness, evidence, potential harm, brand fit, long-term trust, risk of misunderstanding, and platform rules before recommending a provocative approach. Do not recommend misinformation, impersonation, fabricated testimonials, fake engagement, harassment, discriminatory targeting, or deliberate humiliation.
+### 9. Reputation, controversy, and consequence analysis
+
+Analyze provocative content, controversy, rage bait, misinformation dynamics, impersonation, dogpiling, personal targeting, fake engagement, and reputational attacks as attention and platform phenomena. Explain their mechanisms, incentives, possible reach effects, platform consequences, audience response, and long-term brand costs. Distinguish analysis and detection from operational recommendations. Repository-wide action assessment belongs to Risk Assessment & Consequence Intelligence.
 
 ## AI workflow
 1. **Clarify the objective:** awareness, reach, discussion, follower growth, leads, sales, or education.
