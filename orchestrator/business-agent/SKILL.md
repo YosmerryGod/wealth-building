@@ -299,6 +299,7 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Improve voice, articulation, and nonverbal delivery | Vocal & Nonverbal Delivery |
 | Prepare presentations and build speaking confidence | Public Speaking & Speaking Confidence |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
+| Analyze authority, reputation, incentives, alliances, status, strategic influence, or defensive power dynamics | Power Dynamics & Strategic Influence; Psychology Decision Engine; relevant Communication and workplace Psychology skills |
 | Understand money-related behavior, financial biases, risk perception, and sustainable personal financial decisions | Behavioral Finance & Money Psychology; Financial Intelligence; Emotional Regulation & Calm Decision-Making |
 | Design attention-aware social content, hooks, emotional angles, engagement, and reputation-safe viral experiments | Viral Content Engineering & Attention Psychology; Consumer Psychology & Persuasion; Growth Experimentation; Growth Metrics & Optimization |
 | Design events, live experiences, creator campaigns, and responsible content monetization | Viral Event Marketing & Content Monetization; Consumer Psychology & Persuasion; Growth Experimentation; Growth Metrics & Optimization |
