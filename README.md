@@ -113,6 +113,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 | Business | [Business Model Innovation & Asset Monetization](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) | Comparing sale, rental, lease, subscription, and pay-per-use models; evaluating repeat revenue from reusable assets, deposits, utilization, and asset economics | User-provided video 67299.mp4; umbrella rental scenario summarized with operational and financial framework added |
 | Development / UI/UX | [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md) | Choosing and implementing Floating Pill Navigation, Bottom Tab Bar, and Command Palette patterns with responsive and accessible behavior | User-provided video; implementation and selection framework added |
 | Development / UI/UX | [Micro-Interactions & UI Feedback Design](skills/development/micro-interactions-and-ui-feedback/SKILL.md) | Designing purposeful button animations, card hover states, skeleton loading, and restrained glow effects with accessible, responsive, and performant feedback | User-provided video 67332.mp4; four visual techniques summarized and operational guidance added |
+| Development / UI/UX | [AI Interface Design & Unslop Engineering](skills/development/ai-interface-design-and-unslop-engineering/SKILL.md) | Auditing and designing product-specific interfaces through visual direction, spacing, color, icons, copy, typography, layout, visuals, motion, and quality assurance | Adapted from Unslop by Damir Sokolovsky, CC BY 4.0; expanded operational framework for this repository |
 | Growth & Distribution | [Traction Strategy](skills/growth/traction-strategy/SKILL.md) | Designing repeatable customer acquisition and growth strategies using channel discovery, testing, measurement, and focus | *Traction* by Gabriel Weinberg and Justin Mares; operational synthesis added |
 | Growth & Distribution | [Bullseye Framework](skills/growth/bullseye-framework/SKILL.md) | Brainstorming, ranking, prioritizing, testing, and focusing across the 19 traction channels | *Traction*; five-stage framework with operational experiment records |
 | Growth & Distribution | [Growth Experimentation](skills/growth/growth-experimentation/SKILL.md) | Designing bounded growth tests with hypotheses, budgets, metrics, thresholds, and learning loops | *Traction* approach; operational experimentation framework added |
@@ -155,6 +156,8 @@ skills/
 │   └── vocal-and-nonverbal-delivery/
 │       └── SKILL.md
 ├── development/
+│   ├── ai-interface-design-and-unslop-engineering/
+│   │   └── SKILL.md
 │   ├── micro-interactions-and-ui-feedback/
 │   │   └── SKILL.md
 │   └── modern-web-navigation-patterns/
@@ -269,6 +272,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added AI Interface Design & Unslop Engineering, adapted from Unslop by Damir Sokolovsky under CC BY 4.0 with attribution. Added product-led visual direction, UI audit, nine design passes, responsive and accessibility considerations, functional visual QA, and integration guidance for existing Development / UI/UX skills. Updated the skills index and folder tree.
 
 - **2026-11-17** — Separated specialist knowledge from repository-wide action assessment. Added Risk Assessment & Consequence Intelligence so skills can explain sensitive and controversial subjects without embedding repetitive topic bans, while the AI evaluates intent, legal exposure, safety, exploitation, and downstream consequences before deciding what operational help to provide. Updated AI mentor rules and orchestration routing.
 
