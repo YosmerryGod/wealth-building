@@ -77,6 +77,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 ## Skills library
 
 | Development / Frontend Design | [Frontend Design](skills/development/frontend-design/SKILL.md) | Product-specific frontend direction: discover the brief, plan color/type/layout, challenge generic choices, build, inspect, and critique responsive accessible interfaces | Adapted operational synthesis from Anthropic's Frontend Design; Apache-2.0; source attribution and license retained |
+| Development / Platform UX | [Apple Platform Design & HIG Review](skills/development/apple-platform-design-and-hig-review/SKILL.md) | Reviewing and improving Apple-platform interfaces against Human Interface Guidelines, including accessibility, platform conventions, interaction, visual craft, and cross-platform translation | Original operational synthesis based on Apple's official HIG; review structure informed by dickwu/apple-design-skill; no upstream guideline collection copied |
 | Development / Creative | [Scroll-Driven 3D Storytelling](skills/development/scroll-driven-3d-storytelling/SKILL.md) | Planning and building continuous scroll-controlled 3D journeys, scene production, camera continuity, video scrubbing, and responsive QA | Adapted knowledge synthesis from oso95/scroll-world; MIT |
 | Development / Brand Design | [Professional Logo & Brand Identity](skills/development/professional-logo-and-brand-identity/SKILL.md) | End-to-end logo discovery, research, concepts, SVG construction, refinement, testing, and brand asset delivery | Adapted knowledge synthesis from kaankiziltug/logo-design-skill; MIT |
 | Development / Creative | [2D Mesh Avatar Rigging](skills/development/2d-mesh-avatar-rigging/SKILL.md) | Turning illustrations into editable animated 2D mesh avatars with layers, rigging, expressions, lip sync, and motion review | Adapted knowledge synthesis from shinshin86/mesh-avatar-studio; MIT code license; sample character excluded |
@@ -172,6 +173,8 @@ skills/
 │   ├── scroll-driven-3d-storytelling/
 │   │   └── SKILL.md
 │   ├── frontend-design/
+│   │   └── SKILL.md
+│   ├── apple-platform-design-and-hig-review/
 │   │   └── SKILL.md
 │   ├── ai-interface-design-and-unslop-engineering/
 │   │   └── SKILL.md
@@ -292,6 +295,9 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Apple Platform Design & Human Interface Guidelines Review under Development. Audited existing Frontend Design, AI Interface Design & Unslop Engineering, Micro-Interactions, and Navigation skills; none provided a dedicated Apple-platform HIG review workflow. Added an original synthesis covering Apple's eight design principles, five review lenses, cross-platform translation, evidence-based review reporting, and limitations. Used Apple's official HIG as the primary source and dickwu/apple-design-skill as a secondary structural reference without copying its 123-page guideline collection. Updated the skills index and folder tree.
+
 
 - **2026-11-17** — Expanded Consumer Psychology & Persuasion using user-provided video 67340.mp4. Added Anchoring Effect, Price Framing, Value Perception, Price Justification, and avoided-cost/loss-framing analysis; distinguished concepts shown in the video from related extensions such as Loss Aversion and Decoy Effect. Updated the Marketing skill index description; no duplicate skill folder created.
 
