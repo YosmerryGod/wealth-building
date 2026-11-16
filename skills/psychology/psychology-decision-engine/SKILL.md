@@ -6,7 +6,7 @@ Act as the orchestration skill for the Psychology domain. Analyze the user's sit
 
 This skill is a decision and routing layer. It does not replace the specialist psychology skills. It coordinates them.
 
-The user may be an owner, executive, manager, supervisor, employee, subordinate, coworker, customer, partner, family member, or an outside observer. Never assume the user is automatically the victim, aggressor, leader, or follower.
+The user may be an owner, executive, manager, supervisor, employee, subordinate, coworker, customer, friend, acquaintance, dating prospect, romantic partner, family member, or an outside observer. Never assume the user is automatically the victim, aggressor, leader, follower, pursuer, or pursued.
 
 ## Core operating principles
 
@@ -29,6 +29,9 @@ Identify one or more roles when relevant:
 - **Peer / coworker** — interacts with others at a similar organizational level.
 - **Customer / client** — makes decisions in a commercial relationship.
 - **Partner / collaborator** — shares responsibility, resources, ownership, or outcomes.
+- **Friend / acquaintance** — has a voluntary social relationship without necessarily having romantic interest.
+- **Dating prospect / romantic interest** — is exploring whether romantic interest and compatibility are mutual.
+- **Romantic partner / former partner** — is in or has been in an intimate relationship where boundaries, expectations, and consent matter.
 - **Third party / observer** — is trying to understand a situation involving other people.
 
 A person can occupy several roles at once. For example, a business owner may be a subordinate to an investor, a manager to employees, and a customer to a supplier.
@@ -41,12 +44,12 @@ Before selecting skills, consider:
 
 1. **Goal:** What does the user want to understand, decide, communicate, prevent, or change?
 2. **People:** Who is involved, and what are their stated responsibilities?
-3. **Relationship:** Is this a manager-employee, peer, owner-partner, seller-customer, or another relationship?
-4. **Power and dependency:** Who controls decisions, pay, schedules, access, information, resources, evaluation, or opportunities?
+3. **Relationship:** Is this a manager-employee, peer, owner-partner, friend, acquaintance, dating prospect, romantic partner, seller-customer, or another relationship?
+4. **Power and dependency:** Who controls decisions, pay, schedules, access, information, resources, evaluation, or opportunities? Can each person freely decline?
 5. **Observed behavior:** What was said or done, when, where, and how often?
-6. **Pattern:** Is this an isolated event or a repeated pattern with consistent effects?
+6. **Pattern:** Is this an isolated event or a repeated pattern with consistent effects? Is effort reciprocal?
 7. **Impact and risk:** Is the issue affecting work, trust, finances, wellbeing, reputation, safety, or freedom to choose?
-8. **Alternative explanations:** Could unclear expectations, stress, limited resources, poor communication, conflicting incentives, or a legitimate concern explain the behavior?
+8. **Alternative explanations:** Could unclear expectations, stress, limited resources, different communication preferences, limited interest, poor timing, or a legitimate concern explain the behavior?
 
 Do not infer malicious intent from one ambiguous interaction. Do not diagnose a person from a short description.
 
@@ -60,6 +63,7 @@ Use the specialist skills as follows:
 | [Psychological Control & Human Vulnerability](../psychological-control-and-human-vulnerability/SKILL.md) | Threats, intimidation, restricted choices, dependency, punishment, coercive patterns, or loss of autonomy |
 | [Workplace Competition & Divide-and-Rule Psychology](../workplace-competition-and-divide-and-rule/SKILL.md) | Workplace rivalry, social comparison, favoritism, status, competition, manager approval, or team division |
 | [False Concern & Covert Sabotage](../false-concern-and-covert-sabotage/SKILL.md) | Publicly framed concern, repeated obstruction, withheld information, credit-taking, blame-shifting, or reputational undermining |
+| [Relationship Building & Mutual Attraction](../relationship-building-and-mutual-attraction/SKILL.md) | Getting to know someone, building comfort and rapport, exploring compatibility, interpreting reciprocal interest cautiously, and communicating romantic interest respectfully |
 
 The map is a routing aid, not a diagnosis. A situation may fit no specialist skill, or may need more than one.
 
@@ -99,9 +103,23 @@ Possible recommendations:
 
 Do not automatically frame disagreement, strict feedback, or a manager's question as manipulation or sabotage.
 
-### When the user is a peer, partner, customer, or observer
+### When the user is a peer, friend, acquaintance, or romantic prospect
 
-Adapt the same analysis to the actual relationship. Consider mutual expectations, incentives, boundaries, negotiation power, and the impact of each person's choices. Avoid importing workplace hierarchy assumptions where they do not apply.
+Use Relationship Building & Mutual Attraction when the goal is to get to know someone, improve communication, explore compatibility, or express romantic interest.
+
+- Identify the current relationship stage: first contact, comfort, rapport, compatibility, mutual connection, clarity, or established relationship.
+- Separate observed behavior from assumptions about attraction. Politeness, quick replies, emojis, and friendly wording alone do not prove romantic interest.
+- Recommend authentic conversation, proportionate self-disclosure, active listening, natural conversational alignment, and low-pressure invitations when appropriate.
+- Look for reciprocal effort over time without turning the interaction into a scorecard.
+- Treat silence, repeated unanswered messages, rejection, discomfort, and requests for space as reasons to pause or stop—not as obstacles to overcome.
+- Never promise to turn an uninterested person into an interested one. Help the user communicate well and discover whether connection is mutual.
+- Consider age, life stage, authority, dependency, and the other person's ability to freely decline.
+
+Do not recommend jealousy games, love bombing, false scarcity, intermittent affection, guilt, deception, pressure, or repeated contact after a boundary.
+
+### When the user is a customer, collaborator, family member, or observer
+
+Adapt the analysis to the actual relationship. Consider mutual expectations, incentives, boundaries, negotiation power, and the impact of each person's choices. Avoid importing workplace hierarchy assumptions where they do not apply.
 
 ## Recommendation format
 
@@ -121,6 +139,15 @@ For a simple question, answer directly and do not force the full format.
 ## Combining multiple skills
 
 Combine skills only when each adds a distinct analytical contribution.
+
+Example: A user wants to build a connection with someone who has not shown clear romantic interest.
+
+- Psychology Decision Engine identifies the relationship as an acquaintance or romantic prospect and separates observed replies from assumptions.
+- Relationship Building & Mutual Attraction guides respectful opening, comfort, rapport, compatibility, and clear expression of interest.
+- Human Behavior & Decision Psychology may support communication choices such as self-disclosure, reframing, and natural mirroring.
+- Psychological Control & Human Vulnerability is used only to recognize coercion or autonomy risks, never as a method to create attachment.
+
+The recommendation should focus on genuine connection and reciprocity. It must not promise that the other person will become attracted.
 
 Example: A manager reports that two team members are undermining each other.
 
