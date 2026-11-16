@@ -85,6 +85,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Business | [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
 | Business | [Business Operations & Scaling](skills/business/business-operations-and-scaling/SKILL.md) | Running repeatable operations and scaling production, inventory, quality, staffing, sales channels, and working capital | User-provided oyster mushroom business video; operational framework added |
 | Psychology | [Human Behavior & Decision Psychology](skills/psychology/human-behavior-decision-psychology/SKILL.md) | Behavior, communication, trust, decision framing, customer motivation, and ethical influence | User-provided video; operational AI framework added |
+| Psychology | [Emotional Regulation & Calm Decision-Making](skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md) | Recognizing emotional triggers, reducing impulsive reactions, reframing situations accurately, focusing on controllable actions, and making proportionate decisions under pressure | *Rahasia Bersikap Tenang dalam Kondisi Apa Pun* by Sabrina Ara; operational framework inspired by its themes, not a chapter transcription |
 | Psychology | [Relationship Building & Mutual Attraction](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) | Respectful relationship development from first contact and comfort to compatibility, mutual interest, and clear romantic communication; emphasizes reciprocity, autonomy, and boundaries | AI operational framework; not a scientific review or a guaranteed attraction method |
 | Psychology | [Psychological Control & Human Vulnerability](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) | Recognizing coercive control, learned helplessness, intermittent reinforcement, economic coercion, dependency, workplace power imbalance, and protecting autonomy | Two user-provided allegorical videos; psychological framing and AI safeguards added |
 | Psychology | [Workplace Competition & Divide-and-Rule Psychology](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) | Analyzing workplace rivalry, social comparison, manager approval, power asymmetry, and the difference between healthy competition and deliberate division | User-provided video 67280.mp4; interpretation clarified by user; operational framework added |
@@ -181,6 +182,8 @@ skills/
     │   └── SKILL.md
     ├── psychological-control-and-human-vulnerability/
     │   └── SKILL.md
+    ├── emotional-regulation-and-calm-decision-making/
+    │   └── SKILL.md
     ├── psychology-decision-engine/
     │   └── SKILL.md
     ├── relationship-building-and-mutual-attraction/
@@ -267,3 +270,5 @@ The goal is not to collect the largest number of skills. The goal is to build re
 - **2026-11-17** — Added seven Finance skills inspired by the financial education themes in *Rich Dad Poor Dad*: Financial Intelligence, Asset & Liability Analysis, Cash Flow Management, Pay Yourself First, Financial Statement Literacy, Opportunity & Investment Evaluation, and Skill-Based Income Development. Clarified the difference between Kiyosaki's practical cash-flow shorthand and formal accounting definitions; added risk, liquidity, and affordability safeguards.
 
 - **2026-11-17** — Added a Communication domain with six skills inspired by *Bicara Itu Ada Seninya* by Oh Su Hyang: Effective Communication & First Impressions, Active Listening & Conversational Rapport, Persuasive Communication & Negotiation, Message Design & Storytelling, Vocal & Nonverbal Delivery, and Public Speaking & Speaking Confidence. Added ethical boundaries and routing links to prevent overlap with existing Psychology and Marketing skills.
+
+- **2026-11-17** — Added Emotional Regulation & Calm Decision-Making in the Psychology domain, inspired by the themes of *Rahasia Bersikap Tenang dalam Kondisi Apa Pun* by Sabrina Ara. Added practical guidance for emotional awareness, pausing, fact-versus-interpretation checks, controllability, realistic reframing, resilience, and calm decisions across work, relationships, business, and personal choices. Clarified source limitations and safeguards against emotional suppression or tolerating harm. Updated the Psychology Decision Engine, skill index, folder tree, and changelog.
