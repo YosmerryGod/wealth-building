@@ -68,6 +68,13 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Orchestration | [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md) | Coordinates the full user-approved business project lifecycle, from discovery and selection through research, financial planning, branding, marketing preparation, execution, and review | AI orchestration skill; routes to existing specialist skills |
 | Marketing | [Consumer Psychology & Persuasion](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) | Applying social proof, scarcity, herd behavior, FOMO, and perceived popularity to honest marketing and customer persuasion | User-provided video 67295.mp4; source observations and ethical operational framework added |
 | Finance | [Income-to-Asset Wealth Building](skills/finance/income-to-asset-wealth-building/SKILL.md) | Turning active income into savings, capital, productive assets, validated asset-based income, and disciplined reinvestment | User-provided video 67313.mp4; source figures treated as illustrative and unverified |\n| Finance | [Financial Leverage](skills/finance/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing; includes cash-flow and debt-risk checks | User-provided video: @detektifmodal |
+| Finance | [Financial Intelligence](skills/finance/financial-intelligence/SKILL.md) | Integrating financial facts, trade-offs, liquidity, risk, and goals into sound financial decisions | *Rich Dad Poor Dad* themes; operational decision framework added |
+| Finance | [Asset & Liability Analysis](skills/finance/asset-and-liability-analysis/SKILL.md) | Evaluating assets, liabilities, equity, liquidity, and practical cash-flow effects without confusing cash-flow shorthand with accounting definitions | *Rich Dad Poor Dad* asset/liability theme; accounting distinctions added |
+| Finance | [Cash Flow Management](skills/finance/cash-flow-management/SKILL.md) | Forecasting receipts, payments, liquidity, reserves, and cash shortfalls for personal and business finances | *Rich Dad Poor Dad* financial education theme; operational framework added |
+| Finance | [Pay Yourself First](skills/finance/pay-yourself-first/SKILL.md) | Building sustainable savings and goal-allocation habits while protecting essentials and required obligations | *Rich Dad Poor Dad* principle; flexible implementation and safeguards added |
+| Finance | [Financial Statement Literacy](skills/finance/financial-statement-literacy/SKILL.md) | Reading income statements, balance sheets, and cash flow statements and understanding their limitations | Accounting fundamentals; operational educational framework |
+| Finance | [Opportunity & Investment Evaluation](skills/finance/opportunity-and-investment-evaluation/SKILL.md) | Assessing business and investment opportunities through evidence, cash-flow scenarios, liquidity, and downside risk | *Rich Dad Poor Dad* opportunity/investment themes; independent evaluation framework added |
+| Finance | [Skill-Based Income Development](skills/finance/skill-based-income-development/SKILL.md) | Turning useful capabilities into stronger earning power through demand validation, proof of competence, and monetization | AI operational synthesis inspired by the book's financial education and entrepreneurship themes |
 | Business | [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
 | Business | [Business Operations & Scaling](skills/business/business-operations-and-scaling/SKILL.md) | Running repeatable operations and scaling production, inventory, quality, staffing, sales channels, and working capital | User-provided oyster mushroom business video; operational framework added |
 | Psychology | [Human Behavior & Decision Psychology](skills/psychology/human-behavior-decision-psychology/SKILL.md) | Behavior, communication, trust, decision framing, customer motivation, and ethical influence | User-provided video; operational AI framework added |
@@ -129,7 +136,23 @@ skills/
 │   └── viral-and-referral-growth/
 │       └── SKILL.md
 ├── finance/
-│   └── financial-leverage/
+│   ├── asset-and-liability-analysis/
+│   │   └── SKILL.md
+│   ├── cash-flow-management/
+│   │   └── SKILL.md
+│   ├── financial-intelligence/
+│   │   └── SKILL.md
+│   ├── financial-leverage/
+│   │   └── SKILL.md
+│   ├── financial-statement-literacy/
+│   │   └── SKILL.md
+│   ├── income-to-asset-wealth-building/
+│   │   └── SKILL.md
+│   ├── opportunity-and-investment-evaluation/
+│   │   └── SKILL.md
+│   ├── pay-yourself-first/
+│   │   └── SKILL.md
+│   └── skill-based-income-development/
 │       └── SKILL.md
 └── psychology/
     ├── false-concern-and-covert-sabotage/
@@ -184,10 +207,10 @@ These are planned knowledge areas, not claims that complete skills already exist
 3. **Marketing, Sales & Distribution** — foundational coverage now includes Traction Strategy, the Bullseye Framework, channel selection, growth experiments, referral growth, partnerships, and growth metrics. Further work can deepen positioning, offer design, sales processes, lifecycle marketing, and retention.
 4. **Product & Offer Development** — product-market fit, differentiation, quality, packaging, and customer experience.
 5. **Business Operations & Systems** — standard operating procedures, staffing, inventory, quality control, capacity, and process improvement. Core coverage added through Business Operations & Scaling.
-6. **Financial Management** — bookkeeping, cash-flow forecasting, budgeting, working capital, reserves, and separation of business and personal money.
+6. **Financial Management** — foundational coverage now includes Financial Intelligence, Asset & Liability Analysis, Cash Flow Management, Pay Yourself First, and Financial Statement Literacy. Further work can deepen tax planning, debt management, and financial controls.
 7. **Growth & Capital Allocation** — reinvestment priorities, return on invested capital, productive assets, expansion decisions, and responsible leverage.
 8. **Risk, Resilience & Compliance** — downside planning, insurance, fraud prevention, legal requirements, taxes, and business continuity.
-9. **Personal Finance & Wealth Preservation** — emergency funds, debt management, saving, investing fundamentals, diversification, and long-term planning.
+9. **Personal Finance & Wealth Preservation** — foundational coverage now includes income-to-asset planning, savings allocation, asset/liability analysis, and investment evaluation. Further work can deepen emergency-fund design, diversification, retirement planning, and wealth preservation.
 10. **Execution & Progress Coaching** — goal setting, prioritization, habits, accountability, progress reviews, and adapting plans to results.
 11. **Digital Product Design & Development** — frontend and backend foundations, UI/UX, accessibility, responsive design, application architecture, and testing.
 12. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
@@ -219,3 +242,5 @@ These are planned knowledge areas, not claims that complete skills already exist
 This knowledge base grows incrementally as useful sources are reviewed. Each skill should contribute a reusable principle or method that helps the future AI mentor give grounded, context-aware, and actionable guidance.
 
 The goal is not to collect the largest number of skills. The goal is to build reliable knowledge that improves the AI's decisions and the user's ability to act.
+
+- **2026-11-17** — Added seven Finance skills inspired by the financial education themes in *Rich Dad Poor Dad*: Financial Intelligence, Asset & Liability Analysis, Cash Flow Management, Pay Yourself First, Financial Statement Literacy, Opportunity & Investment Evaluation, and Skill-Based Income Development. Clarified the difference between Kiyosaki's practical cash-flow shorthand and formal accounting definitions; added risk, liquidity, and affordability safeguards.
