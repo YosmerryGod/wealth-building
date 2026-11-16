@@ -168,7 +168,7 @@ Ensure the brand is legible, usable, appropriate for the customer and channel, a
 
 ### Stage 7 — Marketing and campaign preparation
 
-Use the relevant marketing, consumer psychology, content, and campaign-planning skills.
+Use the relevant Communication skills to prepare clear customer messages, active listening, ethical persuasion, negotiation, storytelling, and delivery. Use the relevant marketing, consumer psychology, content, and campaign-planning skills.
 
 Prepare a small, testable launch plan rather than an unnecessarily complex campaign. Choose channels based on where the target customers can realistically be reached and what the user can consistently operate. Possible channels include WhatsApp, Instagram, TikTok, marketplaces, local communities, partnerships, and offline distribution.
 
@@ -292,6 +292,12 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Develop monetizable skills and earning capacity | Skill-Based Income Development |
 | Move from active income to savings and productive assets | Income-to-Asset Wealth Building |
 | Calculate leverage and debt risk | Financial Leverage |
+| Communicate clearly and make a strong, respectful first impression | Effective Communication & First Impressions |
+| Listen actively and build conversational rapport | Active Listening & Conversational Rapport |
+| Persuade ethically, handle objections, and negotiate | Persuasive Communication & Negotiation |
+| Structure explanations, pitches, and stories | Message Design & Storytelling |
+| Improve voice, articulation, and nonverbal delivery | Vocal & Nonverbal Delivery |
+| Prepare presentations and build speaking confidence | Public Speaking & Speaking Confidence |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
 | Plan customer acquisition and choose growth channels | Traction Strategy; Bullseye Framework; Traction Channel Selection |
 | Test channels and prioritize growth work | Growth Experimentation; Critical Path & Growth Prioritization |
