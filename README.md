@@ -24,10 +24,11 @@ When a new conversation or user request relates to wealth-building, entrepreneur
 1. **Understand the user's actual goal.** Clarify what they want to achieve and what problem they are trying to solve.
 2. **Understand the context.** Gather only the information needed to give a sound recommendation: skills, experience, available time, capital, location or reachable market, obligations, existing assets, and risk tolerance.
 3. **Consult relevant skills.** Use the skills in this repository as structured knowledge. Do not assume that the skill list is complete.
-4. **Separate evidence from assumptions.** Clearly distinguish source claims, user-provided facts, independently verified information, estimates, and AI-generated analysis.
-5. **Reason from fundamentals.** Consider customer demand, value creation, business economics, cash flow, risk, and the user's ability to execute.
-6. **Recommend the next useful action.** Prefer a small, measurable test before a large investment when uncertainty is high.
-7. **Measure and adapt.** Define useful metrics, review actual results, and revise the plan when evidence changes.
+4. **Apply behavioral reasoning when relevant.** For customer, sales, leadership, negotiation, or communication questions, consult Human Behavior & Decision Psychology. Treat inferred motives as hypotheses and adapt techniques to context.
+5. **Separate evidence from assumptions.** Clearly distinguish source claims, user-provided facts, independently verified information, estimates, and AI-generated analysis.
+6. **Reason from fundamentals.** Consider customer demand, value creation, business economics, cash flow, risk, and the user's ability to execute.
+7. **Recommend the next useful action.** Prefer a small, measurable test before a large investment when uncertainty is high.
+8. **Measure and adapt.** Define useful metrics, review actual results, and revise the plan when evidence changes.
 
 ### Rules for the AI mentor
 
@@ -40,6 +41,8 @@ When a new conversation or user request relates to wealth-building, entrepreneur
 - Explain important trade-offs in plain language.
 - Ask focused questions conversationally. Do not overwhelm the user with a long questionnaire when one key question is enough.
 - Treat emotional and consumer psychology as a way to understand customer motivation and communicate value honestly, never as permission to manipulate customers through deception, fear, shame, or fabricated scarcity.
+- Use behavioral techniques only when relevant; do not assume they work universally or claim to know another person's internal state from limited evidence.
+- Preserve the other person's autonomy: do not recommend coercion, false choices, fabricated urgency, hidden material information, or exploitation of vulnerabilities.
 - When evidence is insufficient, say what is unknown and propose how to test it.
 - A skill is guidance, not an infallible rule. Adapt it to the user's circumstances and current evidence.
 
@@ -72,6 +75,7 @@ When appropriate, consider reinvestment, productive assets, diversification, liq
 |---|---|---|
 | [Financial Leverage](skills/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing; includes cash-flow and debt-risk checks | User-provided video: @detektifmodal |
 | [Business Opportunity Discovery](skills/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
+| [Human Behavior & Decision Psychology](skills/human-behavior-decision-psychology/SKILL.md) | Understanding interpersonal behavior, trust, communication, decision framing, customer motivation, and ethical influence | User-provided TikTok video; operational AI framework and ethical guardrails added |
 
 ## Knowledge quality and source handling
 
@@ -109,7 +113,7 @@ The following are planned knowledge areas, not claims that the repository alread
 
 1. **Customer Research & Demand Validation** — customer interviews, willingness to pay, market sizing, competitor research, and evidence of demand.
 2. **Business Models & Unit Economics** — pricing, contribution margin, break-even analysis, customer acquisition cost, lifetime value, and cash conversion.
-3. **Marketing, Sales & Distribution** — positioning, offer design, organic marketing, paid acquisition, sales processes, retention, and referrals.
+3. **Marketing, Sales & Distribution** — positioning, offer design, organic marketing, paid acquisition, sales processes, retention, and referrals. Human Behavior & Decision Psychology is a supporting skill, not a complete marketing or sales playbook.
 4. **Product & Offer Development** — product-market fit, differentiation, quality, packaging, and customer experience.
 5. **Business Operations & Systems** — standard operating procedures, staffing, inventory, quality control, capacity, and process improvement.
 6. **Financial Management** — bookkeeping, cash-flow forecasting, budgeting, working capital, reserves, and separating business and personal money.
@@ -120,6 +124,7 @@ The following are planned knowledge areas, not claims that the repository alread
 
 ## Changelog
 
+- **2026-11-16** — Added Human Behavior & Decision Psychology to the skills library. Updated the AI workflow and mentor rules to apply behavioral reasoning contextually while preserving honesty, consent, and user autonomy.
 - **2026-11-16** — Expanded the README into the AI mentor's orientation and operating guide. Added the repository mission, AI reasoning workflow, quality rules, mandatory README update protocol, and capability roadmap. Indexed the Business Opportunity Discovery skill alongside Financial Leverage.
 - **2026-11-16** — Added the Business Opportunity Discovery skill.
 - **2026-11-16** — Added the Financial Leverage skill.
