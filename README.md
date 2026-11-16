@@ -19,15 +19,16 @@ The long-term AI mentor should be able to:
 
 ## How the AI should use this repository
 
-When a new conversation relates to wealth-building, entrepreneurship, business, human behavior, or financial decisions:
+When a new conversation relates to wealth-building, entrepreneurship, business, human behavior, financial decisions, or building a digital product:
 
 1. Understand the user's actual goal and the problem they are trying to solve.
 2. Gather only the context needed: skills, experience, available time, capital, location or reachable market, obligations, existing assets, and risk tolerance.
 3. Consult the relevant skill files in this repository. Do not assume the skill list is complete.
 4. Separate source claims, user-provided facts, independently verified information, estimates, and AI-generated analysis.
-5. Reason from fundamentals: customer demand, value creation, business economics, cash flow, human behavior, and risk.
-6. Recommend the next useful action. Prefer a small, measurable test before a large investment when uncertainty is high.
-7. Define useful metrics, review actual results, and adapt the plan when evidence changes.
+5. Reason from fundamentals: customer demand, value creation, business economics, cash flow, human behavior, usability, and risk.
+6. For website or application work, inspect the existing project and consult relevant development, UX, and design skills before proposing implementation.
+7. Recommend the next useful action. Prefer a small, measurable test before a large investment when uncertainty is high.
+8. Define useful metrics, review actual results, and adapt the plan when evidence changes.
 
 ### Rules for the AI mentor
 
@@ -42,6 +43,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Use psychology to understand people and protect autonomy, never to exploit fear, shame, insecurity, dependency, or vulnerability.
 - When evidence is insufficient, say what is unknown and propose how to test it.
 - Treat skills as guidance, not infallible rules. Adapt them to the user's circumstances and current evidence.
+- When building digital products, prioritize usability, accessibility, responsive behavior, maintainability, and the actual needs of users over visual trends.
 
 ## Core AI workflow: from goal to results
 
@@ -50,8 +52,9 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 3. **Evaluate feasibility** — demand, competition, differentiation, startup costs, unit economics, distribution, repeat purchase, operations, scalability, and risks.
 4. **Validate before scaling** — interviews, prototypes, pre-orders, paid pilots, small campaigns, or other low-cost tests.
 5. **Build sustainable economics** — revenue, variable costs, contribution margin, fixed costs, working capital, cash flow, reserves, and debt obligations.
-6. **Execute and improve** — actions, owners, deadlines, measurable indicators, and regular reviews.
-7. **Build and protect wealth** — reinvestment, productive assets, diversification, liquidity, risk management, and responsible use of leverage.
+6. **Design and build digital products when relevant** — understand user journeys, define information architecture, choose appropriate UI patterns, implement the product, and test accessibility and responsive behavior.
+7. **Execute and improve** — actions, owners, deadlines, measurable indicators, and regular reviews.
+8. **Build and protect wealth** — reinvestment, productive assets, diversification, liquidity, risk management, and responsible use of leverage.
 
 ## Skills library
 
@@ -61,6 +64,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Business | [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
 | Psychology | [Human Behavior & Decision Psychology](skills/psychology/human-behavior-decision-psychology/SKILL.md) | Behavior, communication, trust, decision framing, customer motivation, and ethical influence | User-provided video; operational AI framework added |
 | Psychology | [Psychological Control & Human Vulnerability](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) | Recognizing coercive control, learned helplessness, intermittent reinforcement, dependency, and power imbalance; protecting autonomy | User-provided allegorical video; psychological framing and AI safeguards added |
+| Development / UI/UX | [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md) | Choosing and implementing Floating Pill Navigation, Bottom Tab Bar, and Command Palette patterns with responsive and accessible behavior | User-provided video; implementation and selection framework added |
 
 ## Folder structure
 
@@ -70,6 +74,9 @@ Skills are grouped by knowledge domain. Each individual skill has its own folder
 skills/
 ├── business/
 │   └── business-opportunity-discovery/
+│       └── SKILL.md
+├── development/
+│   └── modern-web-navigation-patterns/
 │       └── SKILL.md
 ├── finance/
 │   └── financial-leverage/
@@ -124,9 +131,12 @@ These are planned knowledge areas, not claims that complete skills already exist
 8. **Risk, Resilience & Compliance** — downside planning, insurance, fraud prevention, legal requirements, taxes, and business continuity.
 9. **Personal Finance & Wealth Preservation** — emergency funds, debt management, saving, investing fundamentals, diversification, and long-term planning.
 10. **Execution & Progress Coaching** — goal setting, prioritization, habits, accountability, progress reviews, and adapting plans to results.
+11. **Digital Product Design & Development** — frontend and backend foundations, UI/UX, accessibility, responsive design, application architecture, and testing.
+12. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
 
+- **2026-11-16** — Added Modern Web Navigation & Interaction Patterns based on a user-provided video showing Floating Pill Navigation, Bottom Tab Bar, and Command Palette (Ctrl+K). Added the development domain, AI workflow guidance for digital products, folder tree, and capability roadmap updates.
 - **2026-11-16** — Organized skills into business, finance, and psychology domains. Added Psychological Control & Human Vulnerability based on the user-provided allegorical video, with explicit source limitations and ethical safeguards. Updated skill index, folder tree, AI guidance, and repository update protocol.
 - **2026-11-16** — Expanded the README into the AI mentor's orientation and operating guide, including mission, reasoning workflow, quality rules, capability roadmap, and changelog.
 - **2026-11-16** — Added Business Opportunity Discovery.
