@@ -44,7 +44,8 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Ask focused questions conversationally instead of overwhelming the user with a long questionnaire.
 - Use psychology to understand people and protect autonomy, never to exploit fear, shame, insecurity, dependency, or vulnerability.
 - In marketing recommendations, verify social-proof, popularity, scarcity, and urgency claims; never recommend fake customers, reviews, queues, sales counters, endorsements, or false deadlines.
-- For psychology-related situations, identify the user's role and relationship dynamics, then consult the Psychology Decision Engine to select and combine relevant specialist skills. Do not assume the user is always a leader, subordinate, victim, or aggressor.
+- For psychology-related situations, identify the user's role and relationship dynamics, then consult the Psychology Decision Engine to select and combine relevant specialist skills. The Psychology domain applies flexibly across workplace, business, social, family, friendship, dating, and romantic contexts—not only manager-employee relationships. Do not assume the user is always a leader, subordinate, victim, aggressor, pursuer, or pursued.
+- For dating or romantic-interest situations, use Relationship Building & Mutual Attraction to support respectful communication, comfort, compatibility, and mutual clarity. Never promise to change someone's feelings or recommend tactics that bypass consent, rejection, or boundaries.
 - When evidence is insufficient, say what is unknown and propose how to test it.
 - Treat skills as guidance, not infallible rules. Adapt them to the user's circumstances and current evidence.
 - When building digital products, prioritize usability, accessibility, responsive behavior, maintainability, and the actual needs of users over visual trends.
@@ -70,6 +71,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Business | [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
 | Business | [Business Operations & Scaling](skills/business/business-operations-and-scaling/SKILL.md) | Running repeatable operations and scaling production, inventory, quality, staffing, sales channels, and working capital | User-provided oyster mushroom business video; operational framework added |
 | Psychology | [Human Behavior & Decision Psychology](skills/psychology/human-behavior-decision-psychology/SKILL.md) | Behavior, communication, trust, decision framing, customer motivation, and ethical influence | User-provided video; operational AI framework added |
+| Psychology | [Relationship Building & Mutual Attraction](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) | Respectful relationship development from first contact and comfort to compatibility, mutual interest, and clear romantic communication; emphasizes reciprocity, autonomy, and boundaries | AI operational framework; not a scientific review or a guaranteed attraction method |
 | Psychology | [Psychological Control & Human Vulnerability](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) | Recognizing coercive control, learned helplessness, intermittent reinforcement, economic coercion, dependency, workplace power imbalance, and protecting autonomy | Two user-provided allegorical videos; psychological framing and AI safeguards added |
 | Psychology | [Workplace Competition & Divide-and-Rule Psychology](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) | Analyzing workplace rivalry, social comparison, manager approval, power asymmetry, and the difference between healthy competition and deliberate division | User-provided video 67280.mp4; interpretation clarified by user; operational framework added |
 | Psychology | [False Concern & Covert Sabotage](skills/psychology/false-concern-and-covert-sabotage/SKILL.md) | Recognizing fake concern, covert workplace obstruction, impression management, and professional responses to public undermining | User-provided video 67279.mp4; operational framework and safeguards added |
@@ -112,6 +114,8 @@ skills/
     ├── psychological-control-and-human-vulnerability/
     │   └── SKILL.md
     ├── psychology-decision-engine/
+    │   └── SKILL.md
+    ├── relationship-building-and-mutual-attraction/
     │   └── SKILL.md
     └── workplace-competition-and-divide-and-rule/
         └── SKILL.md
@@ -164,6 +168,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 12. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Relationship Building & Mutual Attraction as a Psychology specialist skill. Expanded the Psychology Decision Engine beyond workplace roles to include acquaintances, dating prospects, romantic partners, and other voluntary relationships. Added a staged framework for respectful opening, comfort, rapport, compatibility, mutual connection, and clear romantic communication, with safeguards against manipulation, pressure, and boundary violations. Updated the skill index, folder tree, and AI mentor rules.
 
 - **2026-11-16** — Added Income-to-Asset Wealth Building based on user-provided video 67313.mp4. Documented the progression from active income and controlled spending to savings, capital formation, productive-asset validation, reinvestment, and staged asset-based business development. Added safeguards against blaming poverty on mindset, treating illustrative figures as verified, or expanding before demand and unit economics are proven. Updated the skill index, folder tree, and orchestration routing.
 
