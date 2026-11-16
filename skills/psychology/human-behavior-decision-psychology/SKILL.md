@@ -133,7 +133,7 @@ Treat inferred motivations as hypotheses. Validate them through customer convers
 - Do not assume that a psychological technique works for everyone.
 - Do not diagnose a person's mental state, personality, or intentions from limited behavior.
 - Distinguish observed facts from interpretations and hypotheses.
-- Do not exploit fear, shame, insecurity, dependency, grief, or other vulnerabilities.
+- Analyze fear, shame, insecurity, dependency, grief, and other vulnerabilities as psychological variables, including how they can affect attention, judgment, compliance, trust, and decision-making. Assess consequences through the repository-wide Risk Assessment layer.
 - Do not recommend deception, coercion, dark patterns, fabricated scarcity, or hidden material information.
 - Do not treat attention, agreement, politeness, or compliance as proof of trust.
 - Respect consent, privacy, cultural context, and personal boundaries.
