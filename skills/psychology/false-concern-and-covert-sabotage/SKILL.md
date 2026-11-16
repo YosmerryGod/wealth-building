@@ -14,7 +14,7 @@ language: Indonesian
 
 Help an AI mentor recognize situations where apparent concern, help, or friendliness may be used to undermine another person's credibility, confidence, or work. The skill focuses on careful pattern recognition, evidence, professional responses, and protection from workplace manipulation.
 
-It must not become a guide for sabotaging colleagues or disguising harmful behavior as kindness.
+This skill analyzes false concern and covert sabotage as workplace behavior patterns, including mechanisms, motives, detection, consequences, and responses.
 
 ## What the supplied video says and depicts
 
