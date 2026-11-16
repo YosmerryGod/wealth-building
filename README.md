@@ -19,6 +19,8 @@ The long-term AI mentor should be able to:
 
 ## How the AI should use this repository
 
+For end-to-end business-building requests, start with the [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md). It coordinates discovery, recommendation approval, project focus, research, financial planning, creative preparation, marketing, execution, and performance review. The orchestrator routes to specialist skills where they exist; it does not replace them.
+
 When a new conversation relates to wealth-building, entrepreneurship, business, human behavior, financial decisions, or building a digital product:
 
 1. Understand the user's actual goal and the problem they are trying to solve.
@@ -62,6 +64,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 
 | Domain | Skill | Focus | Source / status |
 |---|---|---|---|
+| Orchestration | [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md) | Coordinates the full user-approved business project lifecycle, from discovery and selection through research, financial planning, branding, marketing preparation, execution, and review | AI orchestration skill; routes to existing specialist skills |
 | Marketing | [Consumer Psychology & Persuasion](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) | Applying social proof, scarcity, herd behavior, FOMO, and perceived popularity to honest marketing and customer persuasion | User-provided video 67295.mp4; source observations and ethical operational framework added |
 | Finance | [Financial Leverage](skills/finance/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing; includes cash-flow and debt-risk checks | User-provided video: @detektifmodal |
 | Business | [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
@@ -80,6 +83,10 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 Skills are grouped by knowledge domain. Each individual skill has its own folder and a `SKILL.md` file.
 
 ```text
+orchestrator/
+└── business-agent/
+    └── SKILL.md
+
 skills/
 ├── business/
 │   ├── business-opportunity-discovery/
@@ -158,6 +165,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 
 ## Changelog
 
+- **2026-11-16** — Added Business Agent Orchestrator to coordinate the end-to-end business project lifecycle: user discovery, opportunity evaluation, explicit approval and business lock, market research, financial planning/HPP, brand and creative preparation, marketing campaigns, weekly execution tasks, sales support, and performance review. Clarified user-controlled real-world execution, specialist skill routing, evidence standards, and project-state requirements. Updated the AI usage guide, skill index, and folder tree.
 - **2026-11-16** — Added Business Model Innovation & Asset Monetization based on user-provided video 67299.mp4. Documented the umbrella rental scenario, refundable-deposit distinction, sale-versus-rental trade-offs, asset utilization, break-even calculations, and validation/operational safeguards. Updated the skills index, folder tree, and changelog.\n\n- **2026-11-16** — Added Consumer Psychology & Persuasion in the Marketing domain based on user-provided video 67295.mp4. Documented social proof, manufactured social proof, scarcity, herd behavior, FOMO, and perceived popularity, with safeguards against fake queues, reviews, customers, and deceptive urgency. Updated the AI mentor marketing rules, skill index, and folder tree.
 
 - **2026-11-16** — Expanded Psychological Control & Human Vulnerability with a second allegorical workplace case study covering economic coercion, fear-based leadership, manufactured dependency, contrast effects in negotiation, and power imbalance. Distinguished visible source details from interpretation and added guidance for both workers and employers. Updated the skill index and source description.
