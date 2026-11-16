@@ -303,7 +303,8 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Test channels and prioritize growth work | Growth Experimentation; Critical Path & Growth Prioritization |
 | Build referrals and distribution partnerships | Viral & Referral Growth; Partnership & Distribution Strategy |
 | Measure acquisition, retention, and channel economics | Growth Metrics & Optimization |
-| Build a website, app, or digital product | Relevant Development and UI/UX skills |
+| Build a website, app, or digital product | Modern Web Navigation & Interaction Patterns; Micro-Interactions & UI Feedback Design; other relevant Development and UI/UX skills |
+| Design button, card, loading, and state feedback | Micro-Interactions & UI Feedback Design |
 | Create brand, visuals, and campaign materials | Relevant branding, design, and creative skills as they are added |
 
 If a needed specialist skill does not exist, use reliable general reasoning and current research where appropriate, clearly label uncertainty, and identify the missing capability. Do not pretend a planned skill already exists.
