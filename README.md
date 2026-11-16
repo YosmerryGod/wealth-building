@@ -41,6 +41,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Explain important trade-offs in plain language.
 - Ask focused questions conversationally instead of overwhelming the user with a long questionnaire.
 - Use psychology to understand people and protect autonomy, never to exploit fear, shame, insecurity, dependency, or vulnerability.
+- For psychology-related situations, identify the user's role and relationship dynamics, then consult the Psychology Decision Engine to select and combine relevant specialist skills. Do not assume the user is always a leader, subordinate, victim, or aggressor.
 - When evidence is insufficient, say what is unknown and propose how to test it.
 - Treat skills as guidance, not infallible rules. Adapt them to the user's circumstances and current evidence.
 - When building digital products, prioritize usability, accessibility, responsive behavior, maintainability, and the actual needs of users over visual trends.
@@ -67,6 +68,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Psychology | [Psychological Control & Human Vulnerability](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) | Recognizing coercive control, learned helplessness, intermittent reinforcement, dependency, and power imbalance; protecting autonomy | Earlier user-provided allegorical video; psychological framing and AI safeguards added |
 | Psychology | [Workplace Competition & Divide-and-Rule Psychology](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) | Analyzing workplace rivalry, social comparison, manager approval, power asymmetry, and the difference between healthy competition and deliberate division | User-provided video 67280.mp4; interpretation clarified by user; operational framework added |
 | Psychology | [False Concern & Covert Sabotage](skills/psychology/false-concern-and-covert-sabotage/SKILL.md) | Recognizing fake concern, covert workplace obstruction, impression management, and professional responses to public undermining | User-provided video 67279.mp4; operational framework and safeguards added |
+| Psychology | [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md) | Detecting user role and relationship dynamics, selecting and combining relevant psychology skills, and producing ethical recommendations for leaders, subordinates, peers, owners, and other roles | AI orchestration skill; coordinates existing Psychology skills |
 | Business | [Business Ownership & Equity Basics](skills/business/business-ownership-and-equity/SKILL.md) | Explaining business expansion models, ownership versus management, equity, shares, capital, revenue, and profit | User-provided video 67278.mp4; bakery example summarized and educational framework added |
 | Development / UI/UX | [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md) | Choosing and implementing Floating Pill Navigation, Bottom Tab Bar, and Command Palette patterns with responsive and accessible behavior | User-provided video; implementation and selection framework added |
 
@@ -95,6 +97,8 @@ skills/
     ├── human-behavior-decision-psychology/
     │   └── SKILL.md
     ├── psychological-control-and-human-vulnerability/
+    │   └── SKILL.md
+    ├── psychology-decision-engine/
     │   └── SKILL.md
     └── workplace-competition-and-divide-and-rule/
         └── SKILL.md
@@ -148,6 +152,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 
 ## Changelog
 
+- **2026-11-16** — Added Psychology Decision Engine as the Psychology domain's orchestration skill. It identifies the user's role and relationship dynamics, selects and combines specialist skills, and provides ethical, context-aware recommendations for leaders, subordinates, peers, owners, and other roles. Updated the AI mentor rules, skills index, and folder tree.
 - **2026-11-16** — Added Workplace Competition & Divide-and-Rule Psychology, False Concern & Covert Sabotage, and Business Ownership & Equity Basics based on three user-provided videos (67280.mp4, 67279.mp4, and 67278.mp4). Distinguished healthy performance competition from deliberate workplace division, documented false-concern and covert-sabotage warning signs, and explained the bakery ownership/equity example. Updated the skills index, folder tree, and source limitations.\n- **2026-11-16** — Added Business Operations & Scaling based on a user-provided oyster mushroom cultivation business video. Added guidance for production capacity, inventory, quality, staffing, sales channels, working capital, staged expansion, source limitations, and AI operating rules. Updated the skill index, folder tree, roadmap status, and changelog.
 - **2026-11-16** — Added Modern Web Navigation & Interaction Patterns based on a user-provided video showing Floating Pill Navigation, Bottom Tab Bar, and Command Palette (Ctrl+K). Added the development domain, AI workflow guidance for digital products, folder tree, and capability roadmap updates.
 - **2026-11-16** — Organized skills into business, finance, and psychology domains. Added Psychological Control & Human Vulnerability based on the user-provided allegorical video, with explicit source limitations and ethical safeguards. Updated skill index, folder tree, AI guidance, and repository update protocol.
