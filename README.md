@@ -74,7 +74,9 @@ Skills are grouped by knowledge domain. Each individual skill has its own folder
 ```text
 skills/
 ├── business/
-│   └── business-opportunity-discovery/
+│   ├── business-opportunity-discovery/
+│   │   └── SKILL.md
+│   └── business-operations-and-scaling/
 │       └── SKILL.md
 ├── development/
 │   └── modern-web-navigation-patterns/
