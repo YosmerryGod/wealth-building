@@ -108,14 +108,11 @@ To improve discipline and performance without manipulation:
 - Provide safe channels for disagreement and reporting.
 - Review whether targets create unsafe shortcuts or destructive internal competition.
 
-## AI guardrails
+## AI analysis scope
 
-- Never provide a playbook for pitting employees against one another, manufacturing jealousy, or creating dependency on a manager's approval.
-- Do not label a manager manipulative based on one incident or an allegorical video.
-- Distinguish observation, hypothesis, and confirmed evidence.
-- Do not recommend retaliation, sabotage, gossip, or covert surveillance.
-- Protect privacy and consider employment, financial, and safety constraints.
-- Prefer fair performance management, transparent communication, and voluntary cooperation.
+Analyze healthy competition, deliberate division, rivalry, social comparison, status games, dependency, favoritism, information control, and manager incentives. Explain how these patterns emerge, how they affect employees and organizations, what evidence supports or weakens an interpretation, and what outcomes may follow.
+
+Do not treat a single disagreement or competitive event as proof of deliberate division. Separate observations, hypotheses, and confirmed patterns. Repository-wide action assessment belongs to Risk Assessment & Consequence Intelligence.
 
 ## Relationship to other skills
 
