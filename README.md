@@ -79,7 +79,9 @@ skills/
 ├── business/
 │   ├── business-opportunity-discovery/
 │   │   └── SKILL.md
-│   └── business-operations-and-scaling/
+│   ├── business-operations-and-scaling/
+│   │   └── SKILL.md
+│   └── business-ownership-and-equity/
 │       └── SKILL.md
 ├── development/
 │   └── modern-web-navigation-patterns/
@@ -88,9 +90,13 @@ skills/
 │   └── financial-leverage/
 │       └── SKILL.md
 └── psychology/
+    ├── false-concern-and-covert-sabotage/
+    │   └── SKILL.md
     ├── human-behavior-decision-psychology/
     │   └── SKILL.md
-    └── psychological-control-and-human-vulnerability/
+    ├── psychological-control-and-human-vulnerability/
+    │   └── SKILL.md
+    └── workplace-competition-and-divide-and-rule/
         └── SKILL.md
 ```
 
