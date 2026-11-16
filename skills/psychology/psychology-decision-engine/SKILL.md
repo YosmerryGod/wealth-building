@@ -65,12 +65,15 @@ Use the specialist skills as follows:
 | [Message Design & Storytelling](../../communication/message-design-and-storytelling/SKILL.md) | Structuring explanations, introductions, and stories |
 | [Vocal & Nonverbal Delivery](../../communication/vocal-and-nonverbal-delivery/SKILL.md) | Voice, pace, posture, gestures, and delivery |
 | [Public Speaking & Speaking Confidence](../../communication/public-speaking-and-speaking-confidence/SKILL.md) | Presentation preparation, speaking practice, and confidence |
+| [Power Dynamics & Strategic Influence](../power-dynamics-and-strategic-influence/SKILL.md) | Authority, status, reputation, incentives, alliances, dependency, ethical influence, strategic timing, competition, and defensive recognition of power games |
 | [Human Behavior & Decision Psychology](../human-behavior-decision-psychology/SKILL.md) | Communication, motivation, trust, decision framing, customer behavior, and ethical influence |
 | [Emotional Regulation & Calm Decision-Making](../emotional-regulation-and-calm-decision-making/SKILL.md) | Emotional triggers, impulsive reactions, stress, accurate reframing, controllability, and decisions made under pressure |
 | [Psychological Control & Human Vulnerability](../psychological-control-and-human-vulnerability/SKILL.md) | Threats, intimidation, restricted choices, dependency, punishment, coercive patterns, or loss of autonomy |
 | [Workplace Competition & Divide-and-Rule Psychology](../workplace-competition-and-divide-and-rule/SKILL.md) | Workplace rivalry, social comparison, favoritism, status, competition, manager approval, or team division |
 | [False Concern & Covert Sabotage](../false-concern-and-covert-sabotage/SKILL.md) | Publicly framed concern, repeated obstruction, withheld information, credit-taking, blame-shifting, or reputational undermining |
 | [Relationship Building & Mutual Attraction](../relationship-building-and-mutual-attraction/SKILL.md) | Getting to know someone, building comfort and rapport, exploring compatibility, interpreting reciprocal interest cautiously, and communicating romantic interest respectfully |
+
+Use Power Dynamics & Strategic Influence when the central issue is authority, status, reputation, incentives, alliances, information asymmetry, strategic positioning, or recognizing power games. Use Psychological Control & Human Vulnerability when there are concrete signs of coercion, dependency, threats, or restricted autonomy; combine them only when both lenses add distinct value.
 
 The map is a routing aid, not a diagnosis. For ordinary communication requests, route directly to the relevant Communication skill. Use this engine when role, relationship, behavioral interpretation, or power dynamics materially affect the recommendation. A situation may fit no specialist skill, or may need more than one.
 
@@ -203,5 +206,8 @@ Before finalizing a recommendation, verify:
 - Have I stated uncertainty and alternative explanations where appropriate?
 
 ## Relationship to the repository
+
+Power Dynamics & Strategic Influence is a specialist lens for understanding strategic power structures and ethical influence. Route questions about authority, reputation, alliances, incentives, information asymmetry, and defensive power literacy to it. Keep this engine responsible for role detection and cross-skill selection; do not use power concepts to justify coercion or manipulation.
+
 
 This is the Psychology domain's orchestration skill. When a new psychology skill is added, update the skill selection map and README index. Keep specialist skills focused on their own concepts; keep cross-skill routing, role detection, and recommendation logic here.
