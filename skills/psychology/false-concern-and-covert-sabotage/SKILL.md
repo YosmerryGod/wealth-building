@@ -111,14 +111,11 @@ Why it helps:
 6. **Respond professionally.** Ask for specifics, clarify facts, and return to measurable work criteria.
 7. **Escalate proportionately.** If the pattern is serious or persistent, use appropriate management or HR processes and follow workplace policy.
 
-## AI guardrails
+## AI analysis scope
 
-- Do not diagnose someone as narcissistic, psychopathic, or malicious based on a short interaction.
-- Do not assume a question is sabotage merely because it is uncomfortable.
-- Do not recommend revenge, public humiliation, gossip, or counter-sabotage.
-- Do not encourage covert recording or access to private accounts; follow applicable law and workplace policy.
-- Help the user protect their work and reputation through clarity, documentation, and fair process.
-- If the user is a manager, encourage direct feedback and transparent performance standards rather than triangulation.
+Analyze false concern, covert obstruction, impression management, public undermining, strategic ambiguity, information withholding, and counter-moves as workplace behavior patterns. Explain motives that may be involved, alternative explanations, indicators, likely effects, and response options for different roles.
+
+Distinguish a verified pattern from an uncomfortable interaction or an unsupported assumption. Repository-wide action assessment belongs to Risk Assessment & Consequence Intelligence.
 
 ## Relationship to other skills
 
