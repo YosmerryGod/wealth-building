@@ -111,6 +111,23 @@ skills/
 ├── marketing/
 │   └── consumer-psychology-and-persuasion/
 │       └── SKILL.md
+├── growth/
+│   ├── bullseye-framework/
+│   │   └── SKILL.md
+│   ├── critical-path-prioritization/
+│   │   └── SKILL.md
+│   ├── growth-experimentation/
+│   │   └── SKILL.md
+│   ├── growth-metrics-optimization/
+│   │   └── SKILL.md
+│   ├── partnership-distribution/
+│   │   └── SKILL.md
+│   ├── traction-channel-selection/
+│   │   └── SKILL.md
+│   ├── traction-strategy/
+│   │   └── SKILL.md
+│   └── viral-and-referral-growth/
+│       └── SKILL.md
 ├── finance/
 │   └── financial-leverage/
 │       └── SKILL.md
