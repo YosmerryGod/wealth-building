@@ -76,6 +76,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 
 ## Skills library
 
+| Development / Frontend Design | [Frontend Design](skills/development/frontend-design/SKILL.md) | Product-specific frontend direction: discover the brief, plan color/type/layout, challenge generic choices, build, inspect, and critique responsive accessible interfaces | Adapted operational synthesis from Anthropic's Frontend Design; Apache-2.0; source attribution and license retained |
 | Development / Creative | [Scroll-Driven 3D Storytelling](skills/development/scroll-driven-3d-storytelling/SKILL.md) | Planning and building continuous scroll-controlled 3D journeys, scene production, camera continuity, video scrubbing, and responsive QA | Adapted knowledge synthesis from oso95/scroll-world; MIT |
 | Development / Brand Design | [Professional Logo & Brand Identity](skills/development/professional-logo-and-brand-identity/SKILL.md) | End-to-end logo discovery, research, concepts, SVG construction, refinement, testing, and brand asset delivery | Adapted knowledge synthesis from kaankiziltug/logo-design-skill; MIT |
 | Development / Creative | [2D Mesh Avatar Rigging](skills/development/2d-mesh-avatar-rigging/SKILL.md) | Turning illustrations into editable animated 2D mesh avatars with layers, rigging, expressions, lip sync, and motion review | Adapted knowledge synthesis from shinshin86/mesh-avatar-studio; MIT code license; sample character excluded |
@@ -169,6 +170,8 @@ skills/
 │   ├── professional-logo-and-brand-identity/
 │   │   └── SKILL.md
 │   ├── scroll-driven-3d-storytelling/
+│   │   └── SKILL.md
+│   ├── frontend-design/
 │   │   └── SKILL.md
 │   ├── ai-interface-design-and-unslop-engineering/
 │   │   └── SKILL.md
@@ -289,6 +292,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Frontend Design under Development, adapted from Anthropic's Frontend Design skill under Apache License 2.0. Added product-grounded visual planning, typography and layout direction, review against generic defaults, intentional motion and copy, implementation, screenshot critique, responsive behavior, and accessibility. Retained source attribution and the Apache license; updated the Development index and folder tree.
 
 - **2026-11-17** — Added five specialist skills based on permissively licensed or free-software reference projects: Scroll-Driven 3D Storytelling (MIT), Professional Logo & Brand Identity (MIT), 2D Mesh Avatar Rigging (MIT code license; sample character excluded), 3D Media Storefront Experience (inspired by GPL-3.0 Halcyon without copying its code), and OSINT & Digital Footprint Intelligence (MIT SpiderFoot reference). Added source attribution, license notes, and updated the skills index and folder tree.
 
