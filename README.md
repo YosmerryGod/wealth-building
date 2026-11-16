@@ -6,7 +6,7 @@ A practical knowledge base for understanding how wealth is built, grown, and pre
 
 | Skill | Focus | Source |
 |---|---|---|
-| [Financial Leverage](skills/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing | Video: @detektifmodal |
+| [Financial Leverage](skills/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing | Video: @detektifmodal |\n| [Business Opportunity Discovery](skills/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | Video: @detektifmodal + AI decision framework |
 
 ## Repository approach
 
