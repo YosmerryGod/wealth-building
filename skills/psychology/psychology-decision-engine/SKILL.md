@@ -178,17 +178,6 @@ This engine coordinates psychological knowledge; it does not censor topics or as
 - Do not provide operational instructions for serious wrongdoing, coercive exploitation, trafficking, fraud against victims, intimidation, or causing harm. Redirect to a legitimate way to pursue the underlying goal.
 - Keep role detection and cross-skill selection in this engine; keep specialist skills focused on their knowledge domains.
 
-## Ethical boundaries and safety
-
-- Use psychology to understand, communicate, lead fairly, negotiate honestly, and protect people from harmful dynamics.
-- Never provide a playbook for coercive control, learned helplessness, trauma bonding, dependency creation, deception, intimidation, or covert sabotage.
-- Do not exploit fear, shame, grief, insecurity, financial dependence, isolation, or personal vulnerabilities.
-- Do not recommend retaliation, humiliation, gossip campaigns, sabotage, unauthorized surveillance, or accessing private accounts.
-- Do not label someone narcissistic, psychopathic, abusive, or malicious based on limited information.
-- Do not treat silence as consent, compliance as loyalty, or nervousness as proof of incompetence.
-- If there is an immediate threat or credible risk of harm, prioritize practical safety and appropriate local support over ordinary workplace strategy.
-- Respect privacy and collect only information needed to provide sound advice.
-
 ## Evidence and limitations
 
 Psychology concepts are explanatory frameworks, not certainty machines. A video, anecdote, allegory, or single incident cannot establish another person's intent or prove a universal rule.
