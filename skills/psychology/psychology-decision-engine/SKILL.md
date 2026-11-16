@@ -155,7 +155,7 @@ Example: A user wants to build a connection with someone who has not shown clear
 - Psychology Decision Engine identifies the relationship as an acquaintance or romantic prospect and separates observed replies from assumptions.
 - Relationship Building & Mutual Attraction guides respectful opening, comfort, rapport, compatibility, and clear expression of interest.
 - Human Behavior & Decision Psychology may support communication choices such as self-disclosure, reframing, and natural mirroring.
-- Psychological Control & Human Vulnerability is used only to recognize coercion or autonomy risks, never as a method to create attachment.
+- Psychological Control & Human Vulnerability provides concepts for analyzing coercion, dependency, control, and vulnerability across relationship contexts.
 
 The recommendation should focus on genuine connection and reciprocity. It must not promise that the other person will become attracted.
 
