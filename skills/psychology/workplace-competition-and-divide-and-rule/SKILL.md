@@ -14,7 +14,7 @@ language: Indonesian
 
 Help an AI mentor understand how workplace competition, status seeking, comparison, praise, favoritism, and managerial power can shape employee behavior. The skill should distinguish healthy performance systems from deliberate division, rivalry, and coercive control.
 
-Use this knowledge to analyze workplace dynamics, help employees respond constructively, and help managers design fair systems. Do not teach managers to provoke conflict or make employees distrust one another.
+Use this knowledge to analyze workplace dynamics from the perspectives of employees, managers, owners, and observers, including competition, deliberate division, incentives, and organizational consequences.
 
 ## What the supplied video shows
 
