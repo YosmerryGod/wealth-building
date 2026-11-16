@@ -72,6 +72,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Communication | [Vocal & Nonverbal Delivery](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) | Improving pace, articulation, pauses, tone, posture, gestures, and context-appropriate delivery | *Bicara Itu Ada Seninya*; voice and nonverbal themes operationalized |
 | Communication | [Public Speaking & Speaking Confidence](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) | Preparing, practicing, and evaluating presentations while building confidence gradually | *Bicara Itu Ada Seninya*; speaking-practice framework added |
 | Orchestration | [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md) | Coordinates the full user-approved business project lifecycle, from discovery and selection through research, financial planning, branding, marketing preparation, execution, and review | AI orchestration skill; routes to existing specialist skills |
+| Marketing | [Viral Event Marketing & Content Monetization](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) | Designing responsible attention-generating events, participant experiences, live distribution, content repurposing, and transparent monetization | User-provided video 67333.mp4; event-to-content-to-revenue framework and safety safeguards added |
 | Marketing | [Consumer Psychology & Persuasion](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) | Applying social proof, scarcity, herd behavior, FOMO, and perceived popularity to honest marketing and customer persuasion | User-provided video 67295.mp4; source observations and ethical operational framework added |
 | Finance | [Income-to-Asset Wealth Building](skills/finance/income-to-asset-wealth-building/SKILL.md) | Turning active income into savings, capital, productive assets, validated asset-based income, and disciplined reinvestment | User-provided video 67313.mp4; source figures treated as illustrative and unverified |
 | Finance | [Financial Leverage](skills/finance/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing; includes cash-flow and debt-risk checks | User-provided video: @detektifmodal |
@@ -140,7 +141,9 @@ skills/
 │   └── modern-web-navigation-patterns/
 │       └── SKILL.md
 ├── marketing/
-│   └── consumer-psychology-and-persuasion/
+│   ├── consumer-psychology-and-persuasion/
+│   │   └── SKILL.md
+│   └── viral-event-marketing-and-content-monetization/
 │       └── SKILL.md
 ├── growth/
 │   ├── bullseye-framework/
@@ -265,6 +268,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 - **2026-11-16** — Expanded the README into the AI mentor's orientation and operating guide, including mission, reasoning workflow, quality rules, capability roadmap, and changelog.
 - **2026-11-16** — Added Business Opportunity Discovery.
 - **2026-11-16** — Added Financial Leverage.
+
+- **2026-11-17** — Added Viral Event Marketing & Content Monetization in the Marketing domain based on user-provided video 67333.mp4. Documented the eight-participant boxing-event scenario, social distribution, potential YouTube monetization, and a responsible event-to-content workflow. Added explicit consent, participant welfare, physical safety, legal, platform-eligibility, and financial validation safeguards; updated the skill index and folder tree.
 
 ## Repository approach
 
