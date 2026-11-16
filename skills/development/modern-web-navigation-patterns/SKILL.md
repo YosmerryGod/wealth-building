@@ -148,6 +148,8 @@ These are starting points, not rigid rules. A product may combine patterns when 
 
 ## Relationship to other skills
 
+- **AI Interface Design & Unslop Engineering:** provides the broader product-specific visual direction, interface audit, composition, and visual QA process that complements this skill's focused subject.
+
 - **Frontend Development:** Implements components, responsive layouts, routing, and interaction states.
 - **Visual Design & Design Systems:** Defines visual hierarchy, spacing, typography, color, and reusable tokens.
 - **Accessibility:** Provides deeper guidance for inclusive interaction and assistive technologies.
