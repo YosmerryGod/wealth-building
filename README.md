@@ -72,6 +72,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Communication | [Vocal & Nonverbal Delivery](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) | Improving pace, articulation, pauses, tone, posture, gestures, and context-appropriate delivery | *Bicara Itu Ada Seninya*; voice and nonverbal themes operationalized |
 | Communication | [Public Speaking & Speaking Confidence](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) | Preparing, practicing, and evaluating presentations while building confidence gradually | *Bicara Itu Ada Seninya*; speaking-practice framework added |
 | Orchestration | [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md) | Coordinates the full user-approved business project lifecycle, from discovery and selection through research, financial planning, branding, marketing preparation, execution, and review | AI orchestration skill; routes to existing specialist skills |
+| Marketing | [Viral Content Engineering & Attention Psychology](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) | Designing attention-aware content, hooks, emotional angles, engagement, distribution tests, and reputation-safe paths from attention to value | User-provided video 67334.mp4; references *The 48 Laws of Power*, Law 6; operational AI synthesis added |
 | Marketing | [Viral Event Marketing & Content Monetization](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) | Designing responsible attention-generating events, participant experiences, live distribution, content repurposing, and transparent monetization | User-provided video 67333.mp4; event-to-content-to-revenue framework and safety safeguards added |
 | Marketing | [Consumer Psychology & Persuasion](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) | Applying social proof, scarcity, herd behavior, FOMO, and perceived popularity to honest marketing and customer persuasion | User-provided video 67295.mp4; source observations and ethical operational framework added |
 | Finance | [Income-to-Asset Wealth Building](skills/finance/income-to-asset-wealth-building/SKILL.md) | Turning active income into savings, capital, productive assets, validated asset-based income, and disciplined reinvestment | User-provided video 67313.mp4; source figures treated as illustrative and unverified |
@@ -143,6 +144,8 @@ skills/
 │       └── SKILL.md
 ├── marketing/
 │   ├── consumer-psychology-and-persuasion/
+│   │   └── SKILL.md
+│   ├── viral-content-engineering-and-attention-psychology/
 │   │   └── SKILL.md
 │   └── viral-event-marketing-and-content-monetization/
 │       └── SKILL.md
@@ -275,6 +278,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 - **2026-11-17** — Added Viral Event Marketing & Content Monetization in the Marketing domain based on user-provided video 67333.mp4. Documented the eight-participant boxing-event scenario, social distribution, potential YouTube monetization, and a responsible event-to-content workflow. Added explicit consent, participant welfare, physical safety, legal, platform-eligibility, and financial validation safeguards; updated the skill index and folder tree.
 
 - **2026-11-17** — Added Behavioral Finance & Money Psychology, inspired by *The Psychology of Money* by Morgan Housel. Audited existing Finance and Psychology skills to avoid duplicating cash-flow, leverage, investment evaluation, emotional regulation, and general human-behavior guidance. Added a 20-chapter theme map, behavioral decision workflow, uncertainty and risk safeguards, and specialist routing. The skill is an operational synthesis, not a full-text transcription.
+
+- **2026-11-17** — Added Viral Content Engineering & Attention Psychology in the Marketing domain based on user-provided video 67334.mp4. Documented attention design, viral content structure, emotional triggers, controversy/rage-bait analysis, hook engineering, engagement design, distribution experiments, attention-to-value conversion, and reputation safeguards. Recorded *The 48 Laws of Power*, Law 6, as the video's named reference and clarified that displayed view counts are illustrative rather than verified. Updated the skills index, folder tree, and Business Agent Orchestrator routing.
 
 ## Repository approach
 
