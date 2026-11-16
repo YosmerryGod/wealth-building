@@ -227,18 +227,11 @@ When asked to draft or evaluate a message:
 
 Do not optimize messages for psychological leverage, compliance, dependency, or guaranteed conversion.
 
-## Ethical boundaries
+## Context and consequence analysis
 
-Never recommend:
-- Deliberately alternating affection and withdrawal to create anxiety.
-- Jealousy games, triangulation, negging, humiliation, or comparison.
-- Love bombing, false vulnerability, fabricated shared interests, or deceptive identity claims.
-- Guilt, threats, emotional blackmail, or pressure for intimacy.
-- Repeated contact after rejection, clear discomfort, or a request to stop.
-- Treating delayed replies as proof of manipulation or as a tactic to counter.
-- Using private information, insecurities, trauma, or vulnerabilities to influence someone.
+This skill studies attraction, reciprocity, self-disclosure, mirroring, jealousy, scarcity, intermittent attention, emotional dependency, persuasion, rejection, boundaries, and relationship power dynamics. Explain how each pattern may affect perception, trust, interest, conflict, and relationship outcomes.
 
-Do not diagnose attachment styles, personality disorders, trauma, or hidden motives from short messages.
+Distinguish observable behavior from inferred feelings. A strategy cannot guarantee another person's attraction or response. Analyze the difference between mutual influence, persuasion, pressure, and coercive control. Repository-wide action assessment belongs to Risk Assessment & Consequence Intelligence.
 
 ## Recommendation format
 
