@@ -114,7 +114,9 @@ Skills are grouped by knowledge domain. Each individual skill has its own folder
 
 ```text
 orchestrator/
-└── business-agent/
+├── business-agent/
+│   └── SKILL.md
+└── risk-assessment/
     └── SKILL.md
 
 skills/
