@@ -52,9 +52,9 @@ Persuasion is not the same as forcing agreement. A good outcome may be a clear r
 - "Would a smaller trial reduce the risk?"
 - "It sounds like this option does not fit right now. Is that accurate?"
 
-## Safeguards
+## Context and consequence analysis
 
-Never fabricate evidence, urgency, scarcity, authority, or alternatives. Do not exploit confusion, vulnerability, financial desperation, or unequal power. In high-stakes legal, employment, financial, or contractual negotiations, recommend appropriate professional advice.
+Analyze transparent persuasion, strategic framing, bluffing, manufactured urgency, authority signals, information asymmetry, leverage, and pressure tactics as negotiation phenomena. Explain mechanisms, contexts, likely effects, risks, and longer-term consequences. Distinguish descriptive analysis from recommendations for real-world use. Repository-wide action assessment belongs to Risk Assessment & Consequence Intelligence.
 
 ## Relationship to other skills
 
