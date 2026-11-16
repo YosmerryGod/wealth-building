@@ -76,14 +76,13 @@ Every new skill should explain its subject as fully and accurately as the availa
 
 ## Skills library
 
-| Development / Frontend Design | [Frontend Design](skills/development/frontend-design/SKILL.md) | Product-specific frontend direction: discover the brief, plan color/type/layout, challenge generic choices, build, inspect, and critique responsive accessible interfaces | Adapted operational synthesis from Anthropic's Frontend Design; Apache-2.0; source attribution and license retained |
+| Knowledge Engineering | [Knowledge Graph Builder](skills/knowledge/knowledge-graph-builder/SKILL.md) | AI-only workflow for discovering repository skills and concepts, mapping evidence-backed relationships, auditing overlap and gaps, and reasoning across domains | Original AI reasoning skill; no code-based graph engine or persistent graph database |\n| Development / Frontend Design | [Frontend Design](skills/development/frontend-design/SKILL.md) | Product-specific frontend direction: discover the brief, plan color/type/layout, challenge generic choices, build, inspect, and critique responsive accessible interfaces | Adapted operational synthesis from Anthropic's Frontend Design; Apache-2.0; source attribution and license retained |
 | Development / Platform UX | [Apple Platform Design & HIG Review](skills/development/apple-platform-design-and-hig-review/SKILL.md) | Reviewing and improving Apple-platform interfaces against Human Interface Guidelines, including accessibility, platform conventions, interaction, visual craft, and cross-platform translation | Original operational synthesis based on Apple's official HIG; review structure informed by dickwu/apple-design-skill; no upstream guideline collection copied |
 | Development / Creative | [Scroll-Driven 3D Storytelling](skills/development/scroll-driven-3d-storytelling/SKILL.md) | Planning and building continuous scroll-controlled 3D journeys, scene production, camera continuity, video scrubbing, and responsive QA | Adapted knowledge synthesis from oso95/scroll-world; MIT |
 | Development / Brand Design | [Professional Logo & Brand Identity](skills/development/professional-logo-and-brand-identity/SKILL.md) | End-to-end logo discovery, research, concepts, SVG construction, refinement, testing, and brand asset delivery | Adapted knowledge synthesis from kaankiziltug/logo-design-skill; MIT |
 | Development / Creative | [2D Mesh Avatar Rigging](skills/development/2d-mesh-avatar-rigging/SKILL.md) | Turning illustrations into editable animated 2D mesh avatars with layers, rigging, expressions, lip sync, and motion review | Adapted knowledge synthesis from shinshin86/mesh-avatar-studio; MIT code license; sample character excluded |
 | Development / 3D Experience | [3D Media Storefront Experience](skills/development/3d-media-storefront-experience/SKILL.md) | Designing walkable 3D catalogs and storefront experiences for media and digital collections | Original descriptive skill inspired by halcyon-video/halcyon-video; GPL-3.0 source project |
 | Research / Intelligence | [OSINT & Digital Footprint Intelligence](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) | Structured public-source collection, entity correlation, evidence validation, and defensive exposure reporting | Adapted knowledge synthesis from smicallef/spiderfoot; MIT |
-
 | Domain | Skill | Focus | Source / status |
 |---|---|---|---|
 | Communication | [Effective Communication & First Impressions](skills/communication/effective-communication-and-first-impressions/SKILL.md) | Adapting message clarity, relevance, credibility, and opening style to the audience and context | *Bicara Itu Ada Seninya* by Oh Su Hyang; operational framework added |
@@ -143,6 +142,9 @@ orchestrator/
     └── SKILL.md
 
 skills/
+├── knowledge/
+│   └── knowledge-graph-builder/
+│       └── SKILL.md
 ├── business/
 │   ├── business-opportunity-discovery/
 │   │   └── SKILL.md
@@ -167,8 +169,7 @@ skills/
 │   ├── 2d-mesh-avatar-rigging/
 │   │   └── SKILL.md
 │   ├── 3d-media-storefront-experience/
-│   │   └── SKILL.md
-│   ├── professional-logo-and-brand-identity/
+│   │   └── SKILL.md│   ├── professional-logo-and-brand-identity/
 │   │   └── SKILL.md
 │   ├── scroll-driven-3d-storytelling/
 │   │   └── SKILL.md
@@ -252,7 +253,6 @@ Add a domain folder only when there is a real skill to place in it. Avoid empty 
 ## Knowledge quality and source handling
 
 For every new video, article, book, or other source:
-
 - Record the source type, title or account/author, and link or identifying details when available.
 - Extract the source's actual claims and examples without presenting them as independently verified facts.
 - Separate source-derived ideas from additional analysis or frameworks added by the AI.
@@ -296,7 +296,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 
 ## Changelog
 
-- **2026-11-17** — Added Apple Platform Design & Human Interface Guidelines Review under Development. Audited existing Frontend Design, AI Interface Design & Unslop Engineering, Micro-Interactions, and Navigation skills; none provided a dedicated Apple-platform HIG review workflow. Added an original synthesis covering Apple's eight design principles, five review lenses, cross-platform translation, evidence-based review reporting, and limitations. Used Apple's official HIG as the primary source and dickwu/apple-design-skill as a secondary structural reference without copying its 123-page guideline collection. Updated the skills index and folder tree.
+- **2026-11-17** — Added Knowledge Graph Builder under Knowledge Engineering. Defined an AI-only workflow for full-repository discovery, concept extraction, evidence-labeled relationships, cross-skill queries, overlap and gap audits, and maintenance after repository changes. Clarified that no code-based graph engine, persistent database, watcher, or visual explorer is included. Added the domain index and updated the README skill table and folder tree.\n\n- **2026-11-17** — Added Apple Platform Design & Human Interface Guidelines Review under Development. Audited existing Frontend Design, AI Interface Design & Unslop Engineering, Micro-Interactions, and Navigation skills; none provided a dedicated Apple-platform HIG review workflow. Added an original synthesis covering Apple's eight design principles, five review lenses, cross-platform translation, evidence-based review reporting, and limitations. Used Apple's official HIG as the primary source and dickwu/apple-design-skill as a secondary structural reference without copying its 123-page guideline collection. Updated the skills index and folder tree.
 
 
 - **2026-11-17** — Expanded Consumer Psychology & Persuasion using user-provided video 67340.mp4. Added Anchoring Effect, Price Framing, Value Perception, Price Justification, and avoided-cost/loss-framing analysis; distinguished concepts shown in the video from related extensions such as Loss Aversion and Decoy Effect. Updated the Marketing skill index description; no duplicate skill folder created.
@@ -337,7 +337,6 @@ These are planned knowledge areas, not claims that complete skills already exist
 - **2026-11-17** — Added Viral Event Marketing & Content Monetization in the Marketing domain based on user-provided video 67333.mp4. Documented the eight-participant boxing-event scenario, social distribution, potential YouTube monetization, and a responsible event-to-content workflow. Added explicit consent, participant welfare, physical safety, legal, platform-eligibility, and financial validation safeguards; updated the skill index and folder tree.
 
 - **2026-11-17** — Added Behavioral Finance & Money Psychology, inspired by *The Psychology of Money* by Morgan Housel. Audited existing Finance and Psychology skills to avoid duplicating cash-flow, leverage, investment evaluation, emotional regulation, and general human-behavior guidance. Added a 20-chapter theme map, behavioral decision workflow, uncertainty and risk safeguards, and specialist routing. The skill is an operational synthesis, not a full-text transcription.
-
 - **2026-11-17** — Added Viral Content Engineering & Attention Psychology in the Marketing domain based on user-provided video 67334.mp4. Documented attention design, viral content structure, emotional triggers, controversy/rage-bait analysis, hook engineering, engagement design, distribution experiments, attention-to-value conversion, and reputation safeguards. Recorded *The 48 Laws of Power*, Law 6, as the video's named reference and clarified that displayed view counts are illustrative rather than verified. Updated the skills index, folder tree, and Business Agent Orchestrator routing.
 
 ## Repository approach
