@@ -113,11 +113,11 @@ When a user shares a marketing tactic or asks for a campaign:
 - Tailor recommendations to the product, audience, channel, price, and business constraints.
 - Do not treat short-term conversion as the only success metric; consider trust, refunds, retention, reputation, and long-term customer value.
 
-## Ethical boundaries
+## Context and consequence analysis
 
-Never help create fake queues, fake customers, fabricated testimonials, false sales counters, deceptive scarcity, fake countdowns, or misleading endorsements. Do not exploit vulnerable consumers or encourage purchases through shame, panic, or financial pressure.
+This subject includes genuine and manufactured social proof, scarcity, urgency, herd behavior, FOMO, perceived popularity, emotional framing, and persuasive design. Analyze both authentic and deceptive applications, their psychological mechanisms, conversion effects, limitations, customer responses, reputational consequences, and detection signals.
 
-Persuasion should make a real offer easier to understand and evaluate. It should not manufacture false evidence or remove the customer's ability to choose freely.
+Separate descriptive analysis of a tactic from a recommendation to deploy it. Repository-wide assessment of deceptive or harmful operational requests belongs to Risk Assessment & Consequence Intelligence.
 
 ## Relationship to other skills
 
