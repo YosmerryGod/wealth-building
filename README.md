@@ -85,6 +85,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Finance | [Skill-Based Income Development](skills/finance/skill-based-income-development/SKILL.md) | Turning useful capabilities into stronger earning power through demand validation, proof of competence, and monetization | AI operational synthesis inspired by the book's financial education and entrepreneurship themes |
 | Business | [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
 | Business | [Business Operations & Scaling](skills/business/business-operations-and-scaling/SKILL.md) | Running repeatable operations and scaling production, inventory, quality, staffing, sales channels, and working capital | User-provided oyster mushroom business video; operational framework added |
+| Psychology / Finance | [Behavioral Finance & Money Psychology](skills/psychology/behavioral-finance-and-money-psychology/SKILL.md) | Applying personal financial history, behavioral biases, risk perception, compounding, wealth preservation, social pressure, and uncertainty-aware decision-making | *The Psychology of Money* by Morgan Housel; book-inspired AI synthesis, not a full-text transcription |
 | Psychology | [Human Behavior & Decision Psychology](skills/psychology/human-behavior-decision-psychology/SKILL.md) | Behavior, communication, trust, decision framing, customer motivation, and ethical influence | User-provided video; operational AI framework added |
 | Psychology | [Emotional Regulation & Calm Decision-Making](skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md) | Recognizing emotional triggers, reducing impulsive reactions, reframing situations accurately, focusing on controllable actions, and making proportionate decisions under pressure | *Rahasia Bersikap Tenang dalam Kondisi Apa Pun* by Sabrina Ara; operational framework inspired by its themes, not a chapter transcription |
 | Psychology | [Relationship Building & Mutual Attraction](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) | Respectful relationship development from first contact and comfort to compatibility, mutual interest, and clear romantic communication; emphasizes reciprocity, autonomy, and boundaries | AI operational framework; not a scientific review or a guaranteed attraction method |
@@ -190,6 +191,8 @@ skills/
     │   └── SKILL.md
     ├── emotional-regulation-and-calm-decision-making/
     │   └── SKILL.md
+    ├── behavioral-finance-and-money-psychology/
+    │   └── SKILL.md
     ├── psychology-decision-engine/
     │   └── SKILL.md
     ├── relationship-building-and-mutual-attraction/
@@ -270,6 +273,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 - **2026-11-16** — Added Financial Leverage.
 
 - **2026-11-17** — Added Viral Event Marketing & Content Monetization in the Marketing domain based on user-provided video 67333.mp4. Documented the eight-participant boxing-event scenario, social distribution, potential YouTube monetization, and a responsible event-to-content workflow. Added explicit consent, participant welfare, physical safety, legal, platform-eligibility, and financial validation safeguards; updated the skill index and folder tree.
+
+- **2026-11-17** — Added Behavioral Finance & Money Psychology, inspired by *The Psychology of Money* by Morgan Housel. Audited existing Finance and Psychology skills to avoid duplicating cash-flow, leverage, investment evaluation, emotional regulation, and general human-behavior guidance. Added a 20-chapter theme map, behavioral decision workflow, uncertainty and risk safeguards, and specialist routing. The skill is an operational synthesis, not a full-text transcription.
 
 ## Repository approach
 
