@@ -60,7 +60,7 @@ Verbal and nonverbal communication can influence how confidence and credibility 
 AI application:
 - Encourage clear, calm, prepared communication and consistency between claims and evidence.
 - Distinguish confidence from competence.
-- Never recommend bluffing, fabricated credentials, or certainty unsupported by evidence.
+- Analyze bluffing, fabricated credentials, confidence signaling, and uncertainty as distinct social mechanisms; distinguish observable evidence from impression and inference.
 
 ### 5. Mirroring
 
