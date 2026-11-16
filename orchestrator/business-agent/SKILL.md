@@ -290,7 +290,8 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Read income statements, balance sheets, and cash flow statements | Financial Statement Literacy |
 | Evaluate business or investment opportunities | Opportunity & Investment Evaluation |
 | Develop monetizable skills and earning capacity | Skill-Based Income Development |
-| Move from active income to savings and productive assets | Income-to-Asset Wealth Building |\n| Calculate leverage and debt risk | Financial Leverage |
+| Move from active income to savings and productive assets | Income-to-Asset Wealth Building |
+| Calculate leverage and debt risk | Financial Leverage |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
 | Plan customer acquisition and choose growth channels | Traction Strategy; Bullseye Framework; Traction Channel Selection |
 | Test channels and prioritize growth work | Growth Experimentation; Critical Path & Growth Prioritization |
