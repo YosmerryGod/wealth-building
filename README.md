@@ -76,6 +76,12 @@ Every new skill should explain its subject as fully and accurately as the availa
 
 ## Skills library
 
+| Development / Creative | [Scroll-Driven 3D Storytelling](skills/development/scroll-driven-3d-storytelling/SKILL.md) | Planning and building continuous scroll-controlled 3D journeys, scene production, camera continuity, video scrubbing, and responsive QA | Adapted knowledge synthesis from oso95/scroll-world; MIT |
+| Development / Brand Design | [Professional Logo & Brand Identity](skills/development/professional-logo-and-brand-identity/SKILL.md) | End-to-end logo discovery, research, concepts, SVG construction, refinement, testing, and brand asset delivery | Adapted knowledge synthesis from kaankiziltug/logo-design-skill; MIT |
+| Development / Creative | [2D Mesh Avatar Rigging](skills/development/2d-mesh-avatar-rigging/SKILL.md) | Turning illustrations into editable animated 2D mesh avatars with layers, rigging, expressions, lip sync, and motion review | Adapted knowledge synthesis from shinshin86/mesh-avatar-studio; MIT code license; sample character excluded |
+| Development / 3D Experience | [3D Media Storefront Experience](skills/development/3d-media-storefront-experience/SKILL.md) | Designing walkable 3D catalogs and storefront experiences for media and digital collections | Original descriptive skill inspired by halcyon-video/halcyon-video; GPL-3.0 source project |
+| Research / Intelligence | [OSINT & Digital Footprint Intelligence](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) | Structured public-source collection, entity correlation, evidence validation, and defensive exposure reporting | Adapted knowledge synthesis from smicallef/spiderfoot; MIT |
+
 | Domain | Skill | Focus | Source / status |
 |---|---|---|---|
 | Communication | [Effective Communication & First Impressions](skills/communication/effective-communication-and-first-impressions/SKILL.md) | Adapting message clarity, relevance, credibility, and opening style to the audience and context | *Bicara Itu Ada Seninya* by Oh Su Hyang; operational framework added |
@@ -156,6 +162,14 @@ skills/
 │   └── vocal-and-nonverbal-delivery/
 │       └── SKILL.md
 ├── development/
+│   ├── 2d-mesh-avatar-rigging/
+│   │   └── SKILL.md
+│   ├── 3d-media-storefront-experience/
+│   │   └── SKILL.md
+│   ├── professional-logo-and-brand-identity/
+│   │   └── SKILL.md
+│   ├── scroll-driven-3d-storytelling/
+│   │   └── SKILL.md
 │   ├── ai-interface-design-and-unslop-engineering/
 │   │   └── SKILL.md
 │   ├── micro-interactions-and-ui-feedback/
@@ -204,6 +218,9 @@ skills/
 │   ├── pay-yourself-first/
 │   │   └── SKILL.md
 │   └── skill-based-income-development/
+│       └── SKILL.md
+├── research/
+│   └── osint-and-digital-footprint-intelligence/
 │       └── SKILL.md
 └── psychology/
     ├── false-concern-and-covert-sabotage/
@@ -272,6 +289,9 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added five specialist skills based on permissively licensed or free-software reference projects: Scroll-Driven 3D Storytelling (MIT), Professional Logo & Brand Identity (MIT), 2D Mesh Avatar Rigging (MIT code license; sample character excluded), 3D Media Storefront Experience (inspired by GPL-3.0 Halcyon without copying its code), and OSINT & Digital Footprint Intelligence (MIT SpiderFoot reference). Added source attribution, license notes, and updated the skills index and folder tree.
+
 
 - **2026-11-17** — Added AI Interface Design & Unslop Engineering, adapted from Unslop by Damir Sokolovsky under CC BY 4.0 with attribution. Added product-led visual direction, UI audit, nine design passes, responsive and accessibility considerations, functional visual QA, and integration guidance for existing Development / UI/UX skills. Updated the skills index and folder tree.
 
