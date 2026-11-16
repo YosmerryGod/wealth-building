@@ -79,6 +79,14 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Business | [Business Ownership & Equity Basics](skills/business/business-ownership-and-equity/SKILL.md) | Explaining business expansion models, ownership versus management, equity, shares, capital, revenue, and profit | User-provided video 67278.mp4; bakery example summarized and educational framework added |
 | Business | [Business Model Innovation & Asset Monetization](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) | Comparing sale, rental, lease, subscription, and pay-per-use models; evaluating repeat revenue from reusable assets, deposits, utilization, and asset economics | User-provided video 67299.mp4; umbrella rental scenario summarized with operational and financial framework added |
 | Development / UI/UX | [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md) | Choosing and implementing Floating Pill Navigation, Bottom Tab Bar, and Command Palette patterns with responsive and accessible behavior | User-provided video; implementation and selection framework added |
+| Growth & Distribution | [Traction Strategy](skills/growth/traction-strategy/SKILL.md) | Designing repeatable customer acquisition and growth strategies using channel discovery, testing, measurement, and focus | *Traction* by Gabriel Weinberg and Justin Mares; operational synthesis added |
+| Growth & Distribution | [Bullseye Framework](skills/growth/bullseye-framework/SKILL.md) | Brainstorming, ranking, prioritizing, testing, and focusing across the 19 traction channels | *Traction*; five-stage framework with operational experiment records |
+| Growth & Distribution | [Growth Experimentation](skills/growth/growth-experimentation/SKILL.md) | Designing bounded growth tests with hypotheses, budgets, metrics, thresholds, and learning loops | *Traction* approach; operational experimentation framework added |
+| Growth & Distribution | [Traction Channel Selection](skills/growth/traction-channel-selection/SKILL.md) | Selecting acquisition channels based on audience fit, economics, reachability, repeatability, and operational constraints | *Traction* 19-channel inventory; additional evaluation criteria |
+| Growth & Distribution | [Critical Path & Growth Prioritization](skills/growth/critical-path-prioritization/SKILL.md) | Identifying the current growth constraint and prioritizing the next highest-impact action | AI operational synthesis supporting the *Traction* workflow |
+| Growth & Distribution | [Viral & Referral Growth](skills/growth/viral-and-referral-growth/SKILL.md) | Evaluating word of mouth, referral programs, and viral loops while measuring referred-customer quality | *Traction* Viral Marketing channel; operational framework added |
+| Growth & Distribution | [Partnership & Distribution Strategy](skills/growth/partnership-distribution/SKILL.md) | Building and evaluating distribution partnerships, affiliates, platform relationships, and pilots | *Traction* related channels; operational framework added |
+| Growth & Distribution | [Growth Metrics & Optimization](skills/growth/growth-metrics-optimization/SKILL.md) | Measuring acquisition, activation, conversion, retention, referral, and sustainable channel economics | AI operational synthesis supporting *Traction* channel evaluation |
 
 ## Folder structure
 
@@ -156,7 +164,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 
 1. **Customer Research & Demand Validation** — customer interviews, willingness to pay, market sizing, competitor research, and evidence of demand.
 2. **Business Models & Unit Economics** — pricing, contribution margin, break-even analysis, customer acquisition cost, lifetime value, and cash conversion.
-3. **Marketing, Sales & Distribution** — positioning, offer design, organic marketing, paid acquisition, sales processes, retention, and referrals.
+3. **Marketing, Sales & Distribution** — foundational coverage now includes Traction Strategy, the Bullseye Framework, channel selection, growth experiments, referral growth, partnerships, and growth metrics. Further work can deepen positioning, offer design, sales processes, lifecycle marketing, and retention.
 4. **Product & Offer Development** — product-market fit, differentiation, quality, packaging, and customer experience.
 5. **Business Operations & Systems** — standard operating procedures, staffing, inventory, quality control, capacity, and process improvement. Core coverage added through Business Operations & Scaling.
 6. **Financial Management** — bookkeeping, cash-flow forecasting, budgeting, working capital, reserves, and separation of business and personal money.
@@ -168,6 +176,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 12. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added a Growth & Distribution domain based on *Traction: How Any Startup Can Achieve Explosive Customer Growth* by Gabriel Weinberg and Justin Mares. Added eight specialist skills: Traction Strategy, Bullseye Framework, Growth Experimentation, Traction Channel Selection, Critical Path & Growth Prioritization, Viral & Referral Growth, Partnership & Distribution Strategy, and Growth Metrics & Optimization. Documented the 19 traction channels, separated book-derived ideas from additional operational synthesis, and added channel-testing, measurement, and ethical growth safeguards. Updated the skills index, folder tree, roadmap, and Business Agent Orchestrator routing.
 
 - **2026-11-17** — Added Relationship Building & Mutual Attraction as a Psychology specialist skill. Expanded the Psychology Decision Engine beyond workplace roles to include acquaintances, dating prospects, romantic partners, and other voluntary relationships. Added a staged framework for respectful opening, comfort, rapport, compatibility, mutual connection, and clear romantic communication, with safeguards against manipulation, pressure, and boundary violations. Updated the skill index, folder tree, and AI mentor rules.
 
