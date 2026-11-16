@@ -57,7 +57,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 3. **Evaluate feasibility** — demand, competition, differentiation, startup costs, unit economics, distribution, repeat purchase, operations, scalability, and risks.
 4. **Validate before scaling** — interviews, prototypes, pre-orders, paid pilots, small campaigns, or other low-cost tests.
 5. **Build sustainable economics** — revenue, variable costs, contribution margin, fixed costs, working capital, cash flow, reserves, and debt obligations.
-6. **Design and build digital products when relevant** — understand user journeys, define information architecture, choose appropriate UI patterns, implement the product, and test accessibility and responsive behavior.
+6. **Design and build digital products when relevant** — understand user journeys, define information architecture, choose appropriate UI patterns, design purposeful micro-interactions and UI feedback, implement the product, and test accessibility and responsive behavior.
 7. **Execute and improve** — actions, owners, deadlines, measurable indicators, and regular reviews.
 8. **Build and protect wealth** — reinvestment, productive assets, diversification, liquidity, risk management, and responsible use of leverage.
 
@@ -94,6 +94,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Business | [Business Ownership & Equity Basics](skills/business/business-ownership-and-equity/SKILL.md) | Explaining business expansion models, ownership versus management, equity, shares, capital, revenue, and profit | User-provided video 67278.mp4; bakery example summarized and educational framework added |
 | Business | [Business Model Innovation & Asset Monetization](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) | Comparing sale, rental, lease, subscription, and pay-per-use models; evaluating repeat revenue from reusable assets, deposits, utilization, and asset economics | User-provided video 67299.mp4; umbrella rental scenario summarized with operational and financial framework added |
 | Development / UI/UX | [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md) | Choosing and implementing Floating Pill Navigation, Bottom Tab Bar, and Command Palette patterns with responsive and accessible behavior | User-provided video; implementation and selection framework added |
+| Development / UI/UX | [Micro-Interactions & UI Feedback Design](skills/development/micro-interactions-and-ui-feedback/SKILL.md) | Designing purposeful button animations, card hover states, skeleton loading, and restrained glow effects with accessible, responsive, and performant feedback | User-provided video 67332.mp4; four visual techniques summarized and operational guidance added |
 | Growth & Distribution | [Traction Strategy](skills/growth/traction-strategy/SKILL.md) | Designing repeatable customer acquisition and growth strategies using channel discovery, testing, measurement, and focus | *Traction* by Gabriel Weinberg and Justin Mares; operational synthesis added |
 | Growth & Distribution | [Bullseye Framework](skills/growth/bullseye-framework/SKILL.md) | Brainstorming, ranking, prioritizing, testing, and focusing across the 19 traction channels | *Traction*; five-stage framework with operational experiment records |
 | Growth & Distribution | [Growth Experimentation](skills/growth/growth-experimentation/SKILL.md) | Designing bounded growth tests with hypotheses, budgets, metrics, thresholds, and learning loops | *Traction* approach; operational experimentation framework added |
@@ -134,6 +135,8 @@ skills/
 │   └── vocal-and-nonverbal-delivery/
 │       └── SKILL.md
 ├── development/
+│   ├── micro-interactions-and-ui-feedback/
+│   │   └── SKILL.md
 │   └── modern-web-navigation-patterns/
 │       └── SKILL.md
 ├── marketing/
@@ -240,6 +243,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Micro-Interactions & UI Feedback Design in the Development / UI/UX domain based on user-provided video 67332.mp4. Documented button animation, card hover, skeleton loading, and glow effects, with additional guidance for interaction states, accessibility, reduced motion, performance, implementation, and testing. Clarified the distinction from Modern Web Navigation & Interaction Patterns and updated the skills index, folder tree, AI workflow, and Business Agent Orchestrator routing.
 
 - **2026-11-17** — Added a Growth & Distribution domain based on *Traction: How Any Startup Can Achieve Explosive Customer Growth* by Gabriel Weinberg and Justin Mares. Added eight specialist skills: Traction Strategy, Bullseye Framework, Growth Experimentation, Traction Channel Selection, Critical Path & Growth Prioritization, Viral & Referral Growth, Partnership & Distribution Strategy, and Growth Metrics & Optimization. Documented the 19 traction channels, separated book-derived ideas from additional operational synthesis, and added channel-testing, measurement, and ethical growth safeguards. Updated the skills index, folder tree, roadmap, and Business Agent Orchestrator routing.
 
