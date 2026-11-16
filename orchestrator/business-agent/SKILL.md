@@ -300,6 +300,7 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Prepare presentations and build speaking confidence | Public Speaking & Speaking Confidence |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
 | Understand money-related behavior, financial biases, risk perception, and sustainable personal financial decisions | Behavioral Finance & Money Psychology; Financial Intelligence; Emotional Regulation & Calm Decision-Making |
+| Design attention-aware social content, hooks, emotional angles, engagement, and reputation-safe viral experiments | Viral Content Engineering & Attention Psychology; Consumer Psychology & Persuasion; Growth Experimentation; Growth Metrics & Optimization |
 | Design events, live experiences, creator campaigns, and responsible content monetization | Viral Event Marketing & Content Monetization; Consumer Psychology & Persuasion; Growth Experimentation; Growth Metrics & Optimization |
 | Plan customer acquisition and choose growth channels | Traction Strategy; Bullseye Framework; Traction Channel Selection |
 | Test channels and prioritize growth work | Growth Experimentation; Critical Path & Growth Prioritization |
