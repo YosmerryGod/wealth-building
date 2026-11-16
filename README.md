@@ -272,3 +272,19 @@ The goal is not to collect the largest number of skills. The goal is to build re
 - **2026-11-17** — Added a Communication domain with six skills inspired by *Bicara Itu Ada Seninya* by Oh Su Hyang: Effective Communication & First Impressions, Active Listening & Conversational Rapport, Persuasive Communication & Negotiation, Message Design & Storytelling, Vocal & Nonverbal Delivery, and Public Speaking & Speaking Confidence. Added ethical boundaries and routing links to prevent overlap with existing Psychology and Marketing skills.
 
 - **2026-11-17** — Added Emotional Regulation & Calm Decision-Making in the Psychology domain, inspired by the themes of *Rahasia Bersikap Tenang dalam Kondisi Apa Pun* by Sabrina Ara. Added practical guidance for emotional awareness, pausing, fact-versus-interpretation checks, controllability, realistic reframing, resilience, and calm decisions across work, relationships, business, and personal choices. Clarified source limitations and safeguards against emotional suppression or tolerating harm. Updated the Psychology Decision Engine, skill index, folder tree, and changelog.
+
+## Future AI Company Naming Note
+
+The following names are reserved as proposed identities for the future AI department agents. This is a planning note only; it does not mean the agents or organization structure have been implemented.
+
+| AI name | Planned department |
+|---|---|
+| Mekki | Marketing |
+| Tachy | Technology |
+| Fini | Finance |
+| Operi | Operations |
+| Hura | Human Resources |
+| Straty | Strategy & Growth |
+| Puddi | Product |
+
+The CEO name and the final organization structure are still to be decided. These names should be retained for the future AI Company architecture and revisited when the organization layer is designed.
