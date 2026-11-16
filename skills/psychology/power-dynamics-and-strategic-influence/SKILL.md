@@ -181,14 +181,11 @@ For substantial situations, provide:
 
 For a simple question, answer directly without forcing this structure.
 
-## Ethical boundaries
+## Context, tactics, and consequences
 
-- Do not provide tactics for coercion, deception, blackmail, intimidation, isolation, dependency creation, gaslighting, or covert sabotage.
-- Do not exploit someone's fear, grief, insecurity, financial dependence, disability, or other vulnerability.
-- Do not recommend fake status, false credentials, fabricated scarcity, false social proof, or deliberate misinformation.
-- Do not diagnose intent or personality from limited evidence.
-- Respect consent, privacy, fair process, and each person's ability to decline.
-- If there is a credible threat or abuse, prioritize safety and appropriate support over strategic positioning.
+The subject includes both constructive and adversarial uses of power. Analyze the full range of tactics, including deception, intimidation, dependency, reputation attacks, alliances, information asymmetry, and covert competition, as psychological and organizational phenomena.
+
+For each tactic, distinguish its mechanism, intended outcome, conditions where it may work, short- and long-term consequences, detection signals, defensive responses, and uncertainty. Do not mechanically apply a law or assume that a provocative prescription is universally effective. Repository-wide action assessment belongs to Risk Assessment & Consequence Intelligence.
 
 ## Relationship to other skills
 
