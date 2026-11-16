@@ -3,7 +3,7 @@ name: consumer-psychology-and-persuasion
 title: Consumer Psychology & Persuasion
 category: marketing
 source_type: user-provided-video-and-operational-framework
-source: User-provided video 67295.mp4; animated restaurant/queue scenario with the phrase "Manufactured Social Proof"
+source: User-provided videos 67295.mp4 and 67340.mp4; animated restaurant/queue scenario and pricing-copy explanation
 language: Indonesian
 ---
 
@@ -89,6 +89,68 @@ AI application:
 - Distinguish actual popularity from the perception of popularity.
 - Do not infer satisfaction from sales volume alone; examine refunds, repeat purchases, complaints, and customer outcomes too.
 
+
+### 7. Anchoring effect in price perception
+
+The video 67340.mp4 explicitly names the **Anchoring Effect** and explains how a price can feel expensive when it is shown without a useful reference point. A buyer may judge the same nominal price differently depending on the first number or comparison presented.
+
+Practical applications:
+- Present a relevant, truthful reference point before or alongside the offer price.
+- Compare the price with a real alternative, a clearly defined previous price, or a meaningful cost the customer already understands.
+- Explain what the customer receives for the price, including scope, duration, support, deliverables, or measurable outcomes.
+- Make the comparison easy to understand; do not bury the actual price or make the customer calculate hidden costs.
+
+The reference point must be genuine and comparable. A fabricated original price, irrelevant expensive alternative, or exaggerated competitor cost creates a misleading anchor rather than useful context.
+
+### 8. Price framing and contextual presentation
+
+**Price framing** means presenting the same price with context that helps a customer understand what it represents. The video contrasts a price standing alone with copy that first establishes a comparison and then explains the offer.
+
+The video's example moves from a bare statement—private consultation for one month with an experienced practitioner for Rp3,000,000—to a contextual comparison: people may spend Rp10–15 million testing ads unsuccessfully without knowing what is wrong, while the consultation is positioned as a way to improve the process from the beginning. The figures are part of the video's illustrative copy, not verified market statistics or a universal benchmark.
+
+Useful framing elements:
+- **Context:** What problem, alternative, or cost makes the price meaningful?
+- **Benefit:** What practical result or improvement is the customer paying for?
+- **Scope:** What exactly is included, and for how long?
+- **Comparison:** What is the fair basis for comparing the offer?
+- **Price clarity:** What is the total amount, and are there additional fees or conditions?
+
+### 9. Value perception and price justification
+
+Customers do not evaluate a price only as a number; they also consider the expected benefit, credibility, risk, effort, alternatives, and fit with their needs.
+
+When presenting value:
+1. State the customer's problem in recognizable terms.
+2. Explain the relevant benefit without promising an outcome that cannot be guaranteed.
+3. Specify what is included and what is not included.
+4. Connect the price to the real work, access, time, or resources provided.
+5. Give evidence where available, such as a demonstration, case study, transparent process, or genuine testimonial.
+6. State limitations and conditions before purchase.
+
+A strong justification makes the value understandable; it does not make an unsuitable or overpriced offer automatically worthwhile.
+
+### 10. Loss framing and avoided-cost comparisons
+
+The video uses the idea of money being wasted on unsuccessful trial-and-error advertising as a comparison for the consultation offer. This can be understood as an avoided-cost frame: explain the cost of a relevant problem or inefficient alternative, then show how the offer may help address it.
+
+Use this carefully:
+- Compare against a realistic cost the customer could actually incur.
+- Explain the assumptions, time period, and source of any numerical comparison.
+- Do not imply that buying the offer guarantees the customer will avoid all losses.
+- Do not invent frightening outcomes or inflate a hypothetical loss to pressure a decision.
+
+This is an interpretive extension of the video's example, not a claim that the video provides a complete theory of loss aversion.
+
+### 11. Distinguishing related pricing concepts
+
+- **Anchoring Effect:** A reference number influences how a later price is judged.
+- **Price Framing:** Context and wording change how the same price is interpreted.
+- **Value Perception:** The customer's assessment of benefits relative to price, effort, risk, and alternatives.
+- **Price Justification:** Evidence and explanation that help the customer understand why the price is what it is.
+- **Loss Aversion:** A broader behavioral-economics concept in which potential losses can weigh more heavily than equivalent gains; use it as a related analytical lens, not as a direct claim from video 67340.mp4.
+- **Decoy Effect:** A choice-architecture technique involving a strategically dominated option; related to pricing design but not demonstrated in the supplied video.
+
+
 ## Practical framework for ethical marketing
 
 When helping a business use consumer psychology:
@@ -115,7 +177,7 @@ When a user shares a marketing tactic or asks for a campaign:
 
 ## Context and consequence analysis
 
-This subject includes genuine and manufactured social proof, scarcity, urgency, herd behavior, FOMO, perceived popularity, emotional framing, and persuasive design. Analyze both authentic and deceptive applications, their psychological mechanisms, conversion effects, limitations, customer responses, reputational consequences, and detection signals.
+This subject includes genuine and manufactured social proof, scarcity, urgency, herd behavior, FOMO, perceived popularity, anchoring, price framing, value perception, avoided-cost comparisons, and persuasive design. Analyze both authentic and deceptive applications, their psychological mechanisms, conversion effects, limitations, customer responses, reputational consequences, and detection signals.
 
 Separate descriptive analysis of a tactic from a recommendation to deploy it. Repository-wide assessment of deceptive or harmful operational requests belongs to Risk Assessment & Consequence Intelligence.
 
@@ -125,16 +187,18 @@ Separate descriptive analysis of a tactic from a recommendation to deploy it. Re
 - **Business Opportunity Discovery:** Helps identify customer problems and validate whether a real market exists.
 - **Psychological Control & Human Vulnerability:** Helps recognize coercion and manipulation; this marketing skill applies autonomy-preserving safeguards to customer persuasion.
 - **Business Operations & Scaling:** Connects demand generation to actual production capacity, inventory, service quality, and fulfillment.
+- **Business Models & Unit Economics:** Supplies cost, margin, break-even, and pricing calculations so price comparisons remain economically sound.
+- **Persuasive Communication & Negotiation:** Supports clear explanations and objection handling; this skill focuses on how customers interpret offers and prices.
 - **Marketing, Sales & Distribution (planned capability):** This skill provides an initial foundation for consumer-facing persuasion and trust-building.
 
 ## Source limitations
 
-The source is a short animated video. It introduces the phrase "Manufactured Social Proof" and depicts a restaurant/queue scenario, but does not provide research citations or independently verify a real case. The definitions, examples, ethical rules, and operational framework in this file are explanatory material added for the AI mentor; they should not be represented as claims proven by the video.
+Video 67295.mp4 is a short animation introducing "Manufactured Social Proof" through a restaurant/queue scenario. Video 67340.mp4 explains why a price can feel expensive when shown alone, names the Anchoring Effect, and demonstrates a before/after pricing-copy example using a Rp3,000,000 consultation offer and an illustrative Rp10–15 million advertising-spend comparison. Neither video supplies research citations or independently verifies the illustrative scenario or figures. The additional definitions, related concepts, practical steps, and AI workflow in this file are explanatory synthesis, not claims proven by the videos.
 
 ## Classification
 
 - Primary skill: Consumer Psychology & Persuasion
 - Domain: Marketing
-- Supporting concepts: Social Proof, Manufactured Social Proof, Scarcity, Herd Behavior, FOMO, Perceived Popularity
+- Supporting concepts: Social Proof, Manufactured Social Proof, Scarcity, Herd Behavior, FOMO, Perceived Popularity, Anchoring Effect, Price Framing, Value Perception, Price Justification, Avoided-Cost Framing
 - Primary use cases: Ethical marketing strategy, offer design, trust-building, customer decision support, and campaign review
-- Source status: User-provided video 67295.mp4; source observations separated from added marketing and psychology framework
+- Source status: User-provided videos 67295.mp4 and 67340.mp4; source observations separated from added marketing and psychology framework
