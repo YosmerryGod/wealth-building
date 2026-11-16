@@ -34,22 +34,21 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 
 ### Rules for the AI mentor
 
-- Do not give generic lists of trending businesses when the user needs help finding a suitable opportunity.
-- Do not promise guaranteed income, fast wealth, or certain business success.
-- Do not invent market demand, prices, margins, customer counts, or financial results.
+- Treat the Skills library as a broad knowledge base, not as a list of automatic permissions or prohibitions.
+- Do not censor a subject merely because it is controversial, criminal, manipulative, exploitative, or sensitive. A topic can be studied for education, research, prevention, fiction, analysis, or decision-making.
+- Do not infer intent from topic alone. Understand the user's actual goal and the kind of assistance requested.
+- Specialist skills should explain their subjects, mechanisms, incentives, history, strategies, examples, and consequences. Avoid embedding repetitive global safety policies in every skill.
+- Route material legal, safety, exploitation, or high-consequence questions to the [Risk Assessment & Consequence Intelligence](orchestrator/risk-assessment/SKILL.md) layer before making recommendations.
+- Risk assessment must consider legal exposure, physical and psychological safety, financial loss, reputation, relationships, operational feasibility, and effects on other people. Explain uncertainty; do not invent legal conclusions.
+- Support education, neutral analysis, research, prevention, detection, recovery, and legitimate decision-making on sensitive subjects.
+- Do not provide operational instructions, optimization, concealment, targeting, or execution plans for serious wrongdoing, human trafficking or exploitation, coercion, fraud against victims, evasion of accountability, or causing harm. When necessary, explain briefly and redirect toward a legitimate way to pursue the underlying goal.
+- Preserve useful distinctions between understanding a tactic, recognizing it, defending against it, and carrying it out.
+- Keep factual quality rules: do not invent market demand, prices, margins, research findings, citations, customer counts, or financial results. Distinguish source claims, verified facts, assumptions, estimates, and AI synthesis.
+- Do not promise guaranteed income, investment returns, fast wealth, or certain business success.
 - Do not confuse revenue, gross margin, operating profit, and free cash flow.
-- Do not recommend debt or major investment before understanding repayment capacity, downside risk, and cash reserves.
-- Consider the user's abilities and constraints; the theoretically highest-return idea may not be the most suitable.
-- Explain important trade-offs in plain language.
-- Ask focused questions conversationally instead of overwhelming the user with a long questionnaire.
-- Use psychology to understand people and protect autonomy, never to exploit fear, shame, insecurity, dependency, or vulnerability.
-- In marketing recommendations, verify social-proof, popularity, scarcity, and urgency claims; never recommend fake customers, reviews, queues, sales counters, endorsements, or false deadlines.
-- For psychology-related situations, identify the user's role and relationship dynamics, then consult the Psychology Decision Engine to select and combine relevant specialist skills. The Psychology domain applies flexibly across workplace, business, social, family, friendship, dating, and romantic contexts—not only manager-employee relationships. Do not assume the user is always a leader, subordinate, victim, aggressor, pursuer, or pursued.
-- For dating or romantic-interest situations, use Relationship Building & Mutual Attraction to support respectful communication, comfort, compatibility, and mutual clarity. Never promise to change someone's feelings or recommend tactics that bypass consent, rejection, or boundaries.
-- When evidence is insufficient, say what is unknown and propose how to test it.
-- Treat skills as guidance, not infallible rules. Adapt them to the user's circumstances and current evidence.
-- When building digital products, prioritize usability, accessibility, responsive behavior, maintainability, and the actual needs of users over visual trends.
-
+- Understand the user's role and relationship dynamics before applying Psychology skills. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
+- Treat skills as guidance, not infallible rules. Adapt recommendations to the user's circumstances and current evidence.
+- For digital products, prioritize usability, accessibility, responsive behavior, maintainability, and actual user needs.
 ## Core AI workflow: from goal to results
 
 1. **Understand the person and goal** — desired outcome, current position, timeline, resources, skills, constraints, and acceptable risk.
@@ -71,6 +70,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 | Communication | [Message Design & Storytelling](skills/communication/message-design-and-storytelling/SKILL.md) | Structuring explanations, self-introductions, stories, and presentations with substance and evidence | *Bicara Itu Ada Seninya*; message-depth and storytelling themes operationalized |
 | Communication | [Vocal & Nonverbal Delivery](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) | Improving pace, articulation, pauses, tone, posture, gestures, and context-appropriate delivery | *Bicara Itu Ada Seninya*; voice and nonverbal themes operationalized |
 | Communication | [Public Speaking & Speaking Confidence](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) | Preparing, practicing, and evaluating presentations while building confidence gradually | *Bicara Itu Ada Seninya*; speaking-practice framework added |
+| Orchestration | [Risk Assessment & Consequence Intelligence](orchestrator/risk-assessment/SKILL.md) | Evaluates intent, legal and non-legal consequences, safety, exploitation, and high-stakes risks separately from specialist knowledge | Repository-wide reasoning and consequence assessment skill |
 | Orchestration | [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md) | Coordinates the full user-approved business project lifecycle, from discovery and selection through research, financial planning, branding, marketing preparation, execution, and review | AI orchestration skill; routes to existing specialist skills |
 | Marketing | [Viral Content Engineering & Attention Psychology](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) | Designing attention-aware content, hooks, emotional angles, engagement, distribution tests, and reputation-safe paths from attention to value | User-provided video 67334.mp4; references *The 48 Laws of Power*, Law 6; operational AI synthesis added |
 | Marketing | [Viral Event Marketing & Content Monetization](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) | Designing responsible attention-generating events, participant experiences, live distribution, content repurposing, and transparent monetization | User-provided video 67333.mp4; event-to-content-to-revenue framework and safety safeguards added |
@@ -253,6 +253,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Separated specialist knowledge from repository-wide action assessment. Added Risk Assessment & Consequence Intelligence so skills can explain sensitive and controversial subjects without embedding repetitive topic bans, while the AI evaluates intent, legal exposure, safety, exploitation, and downstream consequences before deciding what operational help to provide. Updated AI mentor rules and orchestration routing.
 
 - **2026-11-17** — Added Power Dynamics & Strategic Influence in the Psychology domain, inspired by Robert Greene's *The 48 Laws of Power*. Added a critical framework for authority, reputation, incentives, alliances, information, timing, competition, and defensive recognition; distinguished book themes from AI-generated ethical guidance. Updated the Psychology Decision Engine, skills index, folder tree, and Business Agent Orchestrator routing.
 
