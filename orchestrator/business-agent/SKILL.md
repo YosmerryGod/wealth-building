@@ -283,7 +283,7 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Discover and select an opportunity | Business Opportunity Discovery |
 | Operate and scale the business | Business Operations & Scaling |
 | Compare revenue models and monetize assets | Business Model Innovation & Asset Monetization |
-| Calculate leverage and debt risk | Financial Leverage |
+| Move from active income to savings and productive assets | Income-to-Asset Wealth Building |\n| Calculate leverage and debt risk | Financial Leverage |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
 | Build a website, app, or digital product | Relevant Development and UI/UX skills |
 | Create brand, visuals, and campaign materials | Relevant branding, design, and creative skills as they are added |
