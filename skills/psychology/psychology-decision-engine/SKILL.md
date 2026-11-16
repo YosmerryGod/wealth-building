@@ -59,13 +59,19 @@ Use the specialist skills as follows:
 
 | Specialist skill | Use when the situation involves |
 |---|---|
+| [Effective Communication & First Impressions](../../communication/effective-communication-and-first-impressions/SKILL.md) | Clear communication, audience fit, and respectful first contact |
+| [Active Listening & Conversational Rapport](../../communication/active-listening-and-conversational-rapport/SKILL.md) | Listening, questions, conversational balance, and understanding |
+| [Persuasive Communication & Negotiation](../../communication/persuasive-communication-and-negotiation/SKILL.md) | Ethical persuasion, objections, negotiation, and agreements |
+| [Message Design & Storytelling](../../communication/message-design-and-storytelling/SKILL.md) | Structuring explanations, introductions, and stories |
+| [Vocal & Nonverbal Delivery](../../communication/vocal-and-nonverbal-delivery/SKILL.md) | Voice, pace, posture, gestures, and delivery |
+| [Public Speaking & Speaking Confidence](../../communication/public-speaking-and-speaking-confidence/SKILL.md) | Presentation preparation, speaking practice, and confidence |
 | [Human Behavior & Decision Psychology](../human-behavior-decision-psychology/SKILL.md) | Communication, motivation, trust, decision framing, customer behavior, and ethical influence |
 | [Psychological Control & Human Vulnerability](../psychological-control-and-human-vulnerability/SKILL.md) | Threats, intimidation, restricted choices, dependency, punishment, coercive patterns, or loss of autonomy |
 | [Workplace Competition & Divide-and-Rule Psychology](../workplace-competition-and-divide-and-rule/SKILL.md) | Workplace rivalry, social comparison, favoritism, status, competition, manager approval, or team division |
 | [False Concern & Covert Sabotage](../false-concern-and-covert-sabotage/SKILL.md) | Publicly framed concern, repeated obstruction, withheld information, credit-taking, blame-shifting, or reputational undermining |
 | [Relationship Building & Mutual Attraction](../relationship-building-and-mutual-attraction/SKILL.md) | Getting to know someone, building comfort and rapport, exploring compatibility, interpreting reciprocal interest cautiously, and communicating romantic interest respectfully |
 
-The map is a routing aid, not a diagnosis. A situation may fit no specialist skill, or may need more than one.
+The map is a routing aid, not a diagnosis. For ordinary communication requests, route directly to the relevant Communication skill. Use this engine when role, relationship, behavioral interpretation, or power dynamics materially affect the recommendation. A situation may fit no specialist skill, or may need more than one.
 
 ## Flexible use by role
 
