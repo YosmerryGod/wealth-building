@@ -41,6 +41,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Explain important trade-offs in plain language.
 - Ask focused questions conversationally instead of overwhelming the user with a long questionnaire.
 - Use psychology to understand people and protect autonomy, never to exploit fear, shame, insecurity, dependency, or vulnerability.
+- In marketing recommendations, verify social-proof, popularity, scarcity, and urgency claims; never recommend fake customers, reviews, queues, sales counters, endorsements, or false deadlines.
 - For psychology-related situations, identify the user's role and relationship dynamics, then consult the Psychology Decision Engine to select and combine relevant specialist skills. Do not assume the user is always a leader, subordinate, victim, or aggressor.
 - When evidence is insufficient, say what is unknown and propose how to test it.
 - Treat skills as guidance, not infallible rules. Adapt them to the user's circumstances and current evidence.
@@ -61,6 +62,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 
 | Domain | Skill | Focus | Source / status |
 |---|---|---|---|
+| Marketing | [Consumer Psychology & Persuasion](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) | Applying social proof, scarcity, herd behavior, FOMO, and perceived popularity to honest marketing and customer persuasion | User-provided video 67295.mp4; source observations and ethical operational framework added |
 | Finance | [Financial Leverage](skills/finance/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing; includes cash-flow and debt-risk checks | User-provided video: @detektifmodal |
 | Business | [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md) | Finding business opportunities through customer needs, consumer psychology, market research, unit economics, and validation | User-provided video: @detektifmodal; operational AI framework added |
 | Business | [Business Operations & Scaling](skills/business/business-operations-and-scaling/SKILL.md) | Running repeatable operations and scaling production, inventory, quality, staffing, sales channels, and working capital | User-provided oyster mushroom business video; operational framework added |
@@ -87,6 +89,9 @@ skills/
 │       └── SKILL.md
 ├── development/
 │   └── modern-web-navigation-patterns/
+│       └── SKILL.md
+├── marketing/
+│   └── consumer-psychology-and-persuasion/
 │       └── SKILL.md
 ├── finance/
 │   └── financial-leverage/
@@ -151,6 +156,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 12. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-16** — Added Consumer Psychology & Persuasion in the Marketing domain based on user-provided video 67295.mp4. Documented social proof, manufactured social proof, scarcity, herd behavior, FOMO, and perceived popularity, with safeguards against fake queues, reviews, customers, and deceptive urgency. Updated the AI mentor marketing rules, skill index, and folder tree.
 
 - **2026-11-16** — Expanded Psychological Control & Human Vulnerability with a second allegorical workplace case study covering economic coercion, fear-based leadership, manufactured dependency, contrast effects in negotiation, and power imbalance. Distinguished visible source details from interpretation and added guidance for both workers and employers. Updated the skill index and source description.
 
