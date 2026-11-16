@@ -299,6 +299,7 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Improve voice, articulation, and nonverbal delivery | Vocal & Nonverbal Delivery |
 | Prepare presentations and build speaking confidence | Public Speaking & Speaking Confidence |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
+| Design events, live experiences, creator campaigns, and responsible content monetization | Viral Event Marketing & Content Monetization; Consumer Psychology & Persuasion; Growth Experimentation; Growth Metrics & Optimization |
 | Plan customer acquisition and choose growth channels | Traction Strategy; Bullseye Framework; Traction Channel Selection |
 | Test channels and prioritize growth work | Growth Experimentation; Critical Path & Growth Prioritization |
 | Build referrals and distribution partnerships | Viral & Referral Growth; Partnership & Distribution Strategy |
