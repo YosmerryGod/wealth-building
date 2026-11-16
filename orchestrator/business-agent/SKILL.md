@@ -114,7 +114,7 @@ Research rules:
 
 ### Stage 5 — Financial plan, HPP, and viability
 
-Use the relevant finance skills when available. Build a transparent model that the user can inspect and update.
+Use the relevant finance skills when available. Start with Financial Intelligence to frame the decision; use Cash Flow Management for liquidity and forecasts, Financial Statement Literacy for reports, Asset & Liability Analysis for balance-sheet questions, Pay Yourself First for sustainable allocations, Income-to-Asset Wealth Building for productive-asset planning, Opportunity & Investment Evaluation for capital decisions, and Financial Leverage for borrowing risk. Build a transparent model that the user can inspect and update.
 
 For product businesses, calculate HPP using actual recipe or bill-of-material quantities, purchase units, usable yield, waste, and batch output. Include relevant costs such as:
 
@@ -283,6 +283,13 @@ Read and apply relevant existing skills rather than recreating their contents.
 | Discover and select an opportunity | Business Opportunity Discovery |
 | Operate and scale the business | Business Operations & Scaling |
 | Compare revenue models and monetize assets | Business Model Innovation & Asset Monetization |
+| Understand a user's overall financial position and trade-offs | Financial Intelligence |
+| Classify assets, liabilities, and equity; assess liquidity and cash-flow effects | Asset & Liability Analysis |
+| Plan personal or business cash flow and reserves | Cash Flow Management |
+| Set sustainable savings and goal allocations | Pay Yourself First |
+| Read income statements, balance sheets, and cash flow statements | Financial Statement Literacy |
+| Evaluate business or investment opportunities | Opportunity & Investment Evaluation |
+| Develop monetizable skills and earning capacity | Skill-Based Income Development |
 | Move from active income to savings and productive assets | Income-to-Asset Wealth Building |\n| Calculate leverage and debt risk | Financial Leverage |
 | Understand customer behavior and ethical persuasion | Consumer Psychology & Persuasion; Human Behavior & Decision Psychology |
 | Plan customer acquisition and choose growth channels | Traction Strategy; Bullseye Framework; Traction Channel Selection |
