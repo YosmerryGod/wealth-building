@@ -66,6 +66,7 @@ Use the specialist skills as follows:
 | [Vocal & Nonverbal Delivery](../../communication/vocal-and-nonverbal-delivery/SKILL.md) | Voice, pace, posture, gestures, and delivery |
 | [Public Speaking & Speaking Confidence](../../communication/public-speaking-and-speaking-confidence/SKILL.md) | Presentation preparation, speaking practice, and confidence |
 | [Human Behavior & Decision Psychology](../human-behavior-decision-psychology/SKILL.md) | Communication, motivation, trust, decision framing, customer behavior, and ethical influence |
+| [Emotional Regulation & Calm Decision-Making](../emotional-regulation-and-calm-decision-making/SKILL.md) | Emotional triggers, impulsive reactions, stress, accurate reframing, controllability, and decisions made under pressure |
 | [Psychological Control & Human Vulnerability](../psychological-control-and-human-vulnerability/SKILL.md) | Threats, intimidation, restricted choices, dependency, punishment, coercive patterns, or loss of autonomy |
 | [Workplace Competition & Divide-and-Rule Psychology](../workplace-competition-and-divide-and-rule/SKILL.md) | Workplace rivalry, social comparison, favoritism, status, competition, manager approval, or team division |
 | [False Concern & Covert Sabotage](../false-concern-and-covert-sabotage/SKILL.md) | Publicly framed concern, repeated obstruction, withheld information, credit-taking, blame-shifting, or reputational undermining |
