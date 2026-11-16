@@ -56,4 +56,4 @@ Help an AI mentor understand a person's financial position and improve the quali
 
 ## Relationships to other skills
 
-Route detailed work to Cash Flow Management, Asset & Liability Analysis, Financial Statement Literacy, Pay Yourself First, Income-to-Asset Wealth Building, Financial Leverage, and Opportunity & Investment Evaluation.
+Route detailed work to Cash Flow Management, Asset & Liability Analysis, Financial Statement Literacy, Pay Yourself First, Income-to-Asset Wealth Building, Financial Leverage, and Opportunity & Investment Evaluation. Use Behavioral Finance & Money Psychology when personal history, fear, greed, status pressure, uncertainty, or behavioral biases materially affect a financial decision.
