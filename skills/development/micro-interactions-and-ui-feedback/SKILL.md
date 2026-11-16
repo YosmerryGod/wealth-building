@@ -192,6 +192,8 @@ Not every component needs every state. Choose states according to the component'
 
 ## Relationship to other skills
 
+- **AI Interface Design & Unslop Engineering:** provides the broader product-specific visual direction, interface audit, composition, and visual QA process that complements this skill's focused subject.
+
 - **Modern Web Navigation & Interaction Patterns:** focuses on navigation structures such as Floating Pill Navigation, Bottom Tab Bar, and Command Palette. This skill focuses on the feedback and state response of individual interface elements.
 - **Frontend Development:** implements components, state transitions, styling, and responsive behavior.
 - **Product & UX Design:** identifies user goals, task flows, and the feedback users need.
