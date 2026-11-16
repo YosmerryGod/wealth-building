@@ -65,6 +65,12 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 
 | Domain | Skill | Focus | Source / status |
 |---|---|---|---|
+| Communication | [Effective Communication & First Impressions](skills/communication/effective-communication-and-first-impressions/SKILL.md) | Adapting message clarity, relevance, credibility, and opening style to the audience and context | *Bicara Itu Ada Seninya* by Oh Su Hyang; operational framework added |
+| Communication | [Active Listening & Conversational Rapport](skills/communication/active-listening-and-conversational-rapport/SKILL.md) | Using relevant questions, attentive listening, reflection, and balanced dialogue to understand others | *Bicara Itu Ada Seninya*; listening and conversation themes operationalized |
+| Communication | [Persuasive Communication & Negotiation](skills/communication/persuasive-communication-and-negotiation/SKILL.md) | Presenting reasons, handling objections, understanding interests, and negotiating transparent agreements | *Bicara Itu Ada Seninya*; ethical persuasion and negotiation framework added |
+| Communication | [Message Design & Storytelling](skills/communication/message-design-and-storytelling/SKILL.md) | Structuring explanations, self-introductions, stories, and presentations with substance and evidence | *Bicara Itu Ada Seninya*; message-depth and storytelling themes operationalized |
+| Communication | [Vocal & Nonverbal Delivery](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) | Improving pace, articulation, pauses, tone, posture, gestures, and context-appropriate delivery | *Bicara Itu Ada Seninya*; voice and nonverbal themes operationalized |
+| Communication | [Public Speaking & Speaking Confidence](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) | Preparing, practicing, and evaluating presentations while building confidence gradually | *Bicara Itu Ada Seninya*; speaking-practice framework added |
 | Orchestration | [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md) | Coordinates the full user-approved business project lifecycle, from discovery and selection through research, financial planning, branding, marketing preparation, execution, and review | AI orchestration skill; routes to existing specialist skills |
 | Marketing | [Consumer Psychology & Persuasion](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) | Applying social proof, scarcity, herd behavior, FOMO, and perceived popularity to honest marketing and customer persuasion | User-provided video 67295.mp4; source observations and ethical operational framework added |
 | Finance | [Income-to-Asset Wealth Building](skills/finance/income-to-asset-wealth-building/SKILL.md) | Turning active income into savings, capital, productive assets, validated asset-based income, and disciplined reinvestment | User-provided video 67313.mp4; source figures treated as illustrative and unverified |
@@ -112,6 +118,19 @@ skills/
 │   ├── business-operations-and-scaling/
 │   │   └── SKILL.md
 │   └── business-ownership-and-equity/
+│       └── SKILL.md
+├── communication/
+│   ├── active-listening-and-conversational-rapport/
+│   │   └── SKILL.md
+│   ├── effective-communication-and-first-impressions/
+│   │   └── SKILL.md
+│   ├── message-design-and-storytelling/
+│   │   └── SKILL.md
+│   ├── persuasive-communication-and-negotiation/
+│   │   └── SKILL.md
+│   ├── public-speaking-and-speaking-confidence/
+│   │   └── SKILL.md
+│   └── vocal-and-nonverbal-delivery/
 │       └── SKILL.md
 ├── development/
 │   └── modern-web-navigation-patterns/
@@ -212,9 +231,10 @@ These are planned knowledge areas, not claims that complete skills already exist
 7. **Growth & Capital Allocation** — reinvestment priorities, return on invested capital, productive assets, expansion decisions, and responsible leverage.
 8. **Risk, Resilience & Compliance** — downside planning, insurance, fraud prevention, legal requirements, taxes, and business continuity.
 9. **Personal Finance & Wealth Preservation** — foundational coverage now includes income-to-asset planning, savings allocation, asset/liability analysis, and investment evaluation. Further work can deepen emergency-fund design, diversification, retirement planning, and wealth preservation.
-10. **Execution & Progress Coaching** — goal setting, prioritization, habits, accountability, progress reviews, and adapting plans to results.
-11. **Digital Product Design & Development** — frontend and backend foundations, UI/UX, accessibility, responsive design, application architecture, and testing.
-12. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
+10. **Communication & Interpersonal Effectiveness** — foundational coverage added through six Communication skills based on *Bicara Itu Ada Seninya*: effective communication, active listening, persuasion and negotiation, message design, vocal delivery, and public speaking.
+11. **Execution & Progress Coaching** — goal setting, prioritization, habits, accountability, progress reviews, and adapting plans to results.
+12. **Digital Product Design & Development** — frontend and backend foundations, UI/UX, accessibility, responsive design, application architecture, and testing.
+13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
 
@@ -245,3 +265,5 @@ This knowledge base grows incrementally as useful sources are reviewed. Each ski
 The goal is not to collect the largest number of skills. The goal is to build reliable knowledge that improves the AI's decisions and the user's ability to act.
 
 - **2026-11-17** — Added seven Finance skills inspired by the financial education themes in *Rich Dad Poor Dad*: Financial Intelligence, Asset & Liability Analysis, Cash Flow Management, Pay Yourself First, Financial Statement Literacy, Opportunity & Investment Evaluation, and Skill-Based Income Development. Clarified the difference between Kiyosaki's practical cash-flow shorthand and formal accounting definitions; added risk, liquidity, and affordability safeguards.
+
+- **2026-11-17** — Added a Communication domain with six skills inspired by *Bicara Itu Ada Seninya* by Oh Su Hyang: Effective Communication & First Impressions, Active Listening & Conversational Rapport, Persuasive Communication & Negotiation, Message Design & Storytelling, Vocal & Nonverbal Delivery, and Public Speaking & Speaking Confidence. Added ethical boundaries and routing links to prevent overlap with existing Psychology and Marketing skills.
