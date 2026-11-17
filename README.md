@@ -136,6 +136,10 @@ For complex practical decisions, use [Situational Intelligence & Contextual Reas
 | Finance | [Asset & Liability Analysis](skills/finance/asset-and-liability-analysis/SKILL.md) | Evaluating assets, liabilities, equity, liquidity, and practical cash-flow effects without confusing cash-flow shorthand with accounting definitions | *Rich Dad Poor Dad* asset/liability theme; accounting distinctions added |
 | Finance | [Cash Flow Management](skills/finance/cash-flow-management/SKILL.md) | Forecasting receipts, payments, liquidity, reserves, and cash shortfalls for personal and business finances | *Rich Dad Poor Dad* financial education theme; operational framework added |
 | Finance | [Pay Yourself First](skills/finance/pay-yourself-first/SKILL.md) | Building sustainable savings and goal-allocation habits while protecting essentials and required obligations | *Rich Dad Poor Dad* principle; flexible implementation and safeguards added |
+| Finance | [Envelope Budgeting System](skills/finance/envelope-budgeting-system/SKILL.md) | Assigning available money to spending categories, bills, sinking funds, and goals using cash or digital envelopes | Original practical synthesis of envelope and zero-based budgeting methods |
+| Finance | [Emergency Fund Strategy](skills/finance/emergency-fund-strategy/SKILL.md) | Sizing, building, holding, using, and replenishing liquid reserves for unexpected essential costs and income disruption | Original practical synthesis of liquidity and resilience planning |
+| Finance | [Debt & Installment Management](skills/finance/debt-and-installment-management/SKILL.md) | Inventorying debt, comparing full borrowing costs, managing BNPL/installments, and choosing repayment strategies | Original practical synthesis of consumer debt and repayment planning |
+| Finance | [Financial Habit Formation](skills/finance/financial-habit-formation/SKILL.md) | Designing repeatable money routines through cues, small actions, friction reduction, feedback, and recovery plans | Original behavioral-finance operational framework |
 | Finance | [Financial Statement Literacy](skills/finance/financial-statement-literacy/SKILL.md) | Reading income statements, balance sheets, and cash flow statements and understanding their limitations | Accounting fundamentals; operational educational framework |
 | Finance | [Opportunity & Investment Evaluation](skills/finance/opportunity-and-investment-evaluation/SKILL.md) | Assessing business and investment opportunities through evidence, cash-flow scenarios, liquidity, and downside risk | *Rich Dad Poor Dad* opportunity/investment themes; independent evaluation framework added |
 | Finance | [Skill-Based Income Development](skills/finance/skill-based-income-development/SKILL.md) | Turning useful capabilities into stronger earning power through demand validation, proof of competence, and monetization | AI operational synthesis inspired by the book's financial education and entrepreneurship themes |
@@ -310,6 +314,14 @@ skills/
 │   └── viral-and-referral-growth/
 │       └── SKILL.md
 ├── finance/
+│   ├── debt-and-installment-management/
+│   │   └── SKILL.md
+│   ├── emergency-fund-strategy/
+│   │   └── SKILL.md
+│   ├── envelope-budgeting-system/
+│   │   └── SKILL.md
+│   ├── financial-habit-formation/
+│   │   └── SKILL.md
 │   ├── asset-and-liability-analysis/
 │   │   └── SKILL.md
 │   ├── cash-flow-management/
@@ -404,6 +416,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+- **2026-11-18** — Added four complementary personal-finance skills: Envelope Budgeting System, Emergency Fund Strategy, Debt & Installment Management, and Financial Habit Formation. Integrated them with existing Cash Flow Management, Pay Yourself First, Financial Intelligence, and Behavioral Finance skills; clarified specialist ownership and routing to avoid duplicating existing responsibilities. The skills distinguish routine spending categories, predictable sinking funds, emergency liquidity, debt obligations, and behavior-design routines.
 - **2026-11-18** — Added the Content Creation domain with 11 YouTube/creator-production specialist skills and a Content Intelligence Orchestrator. Covers scripting and hooks, title-thumbnail packaging, transcript editing, audience retention, Shorts repurposing, comment intelligence, capacity-aware calendars, SEO/search intent, chapters, competitor research, and channel audits. Added explicit ownership boundaries with existing Viral Content Engineering, Digital Brand Awareness, Traction, and Growth skills. Updated governance registry, AI routing guidance, skills index, and folder tree. These are knowledge workflows; they do not provide automatic YouTube API access, media editing, scheduling, or publishing.
 - **2026-11-17** — Added Creative Intelligence Engine under Psychology / Creativity. Covers divergent and lateral thinking, connecting the dots, analogical thinking, assumption challenging, observation-led opportunity discovery, creative problem solving, idea evaluation, and experimentation. Integrated it with Knowledge Graph Builder and Business Agent Orchestrator while routing market validation to existing Business Opportunity Discovery and Growth Experimentation skills. Source note distinguishes original AI synthesis from the broad themes associated with *Oh My Goodness*; the complete book text was not inspected.
 - **2026-11-17** — Expanded Relationship Building & Mutual Attraction with Small-Favor Dynamics & Emotional Investment, based on the examples and framing in user-provided video 67443.mp4. Added voluntary, proportionate requests; mutual effort; interpretation limits; and safeguards against guilt, pressure, emotional debt, and treating favors as proof of attraction. Updated the README skill index. The video's “emotional points” phrase is treated as an informal metaphor, not a validated psychological measure.
