@@ -80,6 +80,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 ## Skills library
 
 | Knowledge Engineering | [Knowledge Graph Builder](skills/knowledge/knowledge-graph-builder/SKILL.md) | AI-only workflow for discovering repository skills and concepts, mapping evidence-backed relationships, auditing overlap and gaps, and reasoning across domains | Original AI reasoning skill; no code-based graph engine or persistent graph database |\n| Development / Frontend Design | [Frontend Design](skills/development/frontend-design/SKILL.md) | Product-specific frontend direction: discover the brief, plan color/type/layout, challenge generic choices, build, inspect, and critique responsive accessible interfaces | Adapted operational synthesis from Anthropic's Frontend Design; Apache-2.0; source attribution and license retained |
+| Development / Reverse Engineering | [Reverse Engineering & Reference-Based Reconstruction](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) | Investigating reference websites, apps, interfaces, journeys, interactions, and technical behavior; extracting evidence-backed patterns and adapting them into an original product experience | Original AI investigation and reconstruction workflow; informed by REA concepts, without bundling or claiming its MCP/CLI/toolchain capabilities |
 | Development / Platform UX | [Apple Platform Design & HIG Review](skills/development/apple-platform-design-and-hig-review/SKILL.md) | Reviewing and improving Apple-platform interfaces against Human Interface Guidelines, including accessibility, platform conventions, interaction, visual craft, and cross-platform translation | Original operational synthesis based on Apple's official HIG; review structure informed by dickwu/apple-design-skill; no upstream guideline collection copied |
 | Development / Creative | [Scroll-Driven 3D Storytelling](skills/development/scroll-driven-3d-storytelling/SKILL.md) | Planning and building continuous scroll-controlled 3D journeys, scene production, camera continuity, video scrubbing, and responsive QA | Adapted knowledge synthesis from oso95/scroll-world; MIT |
 | Development / Brand Design | [Professional Logo & Brand Identity](skills/development/professional-logo-and-brand-identity/SKILL.md) | End-to-end logo discovery, research, concepts, SVG construction, refinement, testing, and brand asset delivery | Adapted knowledge synthesis from kaankiziltug/logo-design-skill; MIT |
@@ -188,6 +189,8 @@ skills/
 │   ├── scroll-driven-3d-storytelling/
 │   │   └── SKILL.md
 │   ├── frontend-design/
+│   │   └── SKILL.md
+│   ├── reverse-engineering-and-reference-based-reconstruction/
 │   │   └── SKILL.md
 │   ├── apple-platform-design-and-hig-review/
 │   │   └── SKILL.md
@@ -313,6 +316,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Reverse Engineering & Reference-Based Reconstruction under Development. The skill defines evidence-led investigation of reference websites, applications, interfaces, user journeys, and technical behavior; distinguishes observations from hypotheses and unknowns; and translates reusable patterns into original product experiences. Integrated it with Frontend Design and Business Agent routing. Clarified that REA's MCP/CLI/toolchain capabilities require separate installation and are not provided by this knowledge skill.
 
 - **2026-11-17** — Added Contextual Understanding & Intent Inference as a foundational orchestration skill for conversation continuity, intent inference, context packets, confidence-aware assumptions, and minimal clarification. Integrated it with Human Behavior Intelligence, Psychology Decision Engine, Communication Decision Engine, and Business Agent. Updated README routing, skills index, and folder structure. This is a reasoning specification; persistent memory and retrieval require runtime implementation.
 
