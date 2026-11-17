@@ -100,6 +100,10 @@ Separate organic recommendations from incentivized referrals. Do not count a soc
 7. Fix recurring product or service issues.
 8. Improve the experience before expanding the program.
 
+## Service recovery integration
+
+Use [Service Recovery Marketing & Trust Building](service-recovery-marketing-and-trust-building/SKILL.md) when a customer complaint or service failure needs an actual remedy and operational correction. A credible recovery may influence word of mouth, but compensation must never be conditional on a positive review, changed rating, or removal of criticism.
+
 ## Relationship to other skills
 
 - **Brand Awareness & Brand Activation:** links customer advocacy to the wider brand memory objective.
