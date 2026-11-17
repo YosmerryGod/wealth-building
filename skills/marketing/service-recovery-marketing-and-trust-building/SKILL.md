@@ -165,6 +165,27 @@ Consider:
 
 Do not treat star rating alone as a severity score. A one-star review can describe a minor preference issue; a four-star review can reveal a serious safety defect. Prioritize the facts and potential harm.
 
+### Step 2A: inspect supplied visual evidence
+
+When the user supplies product photos, menu images, receipts, packaging photos, or screenshots:
+- Compare only visible attributes with the stated menu description, offer, or documented standard.
+- Describe observable differences separately from estimates, interpretations, and unknowns.
+- Account for camera angle, perspective, lighting, cropping, container shape, and distance; these can make portion size, color, or condition appear different.
+- Do not claim that an image proves taste, freshness, weight, temperature, ingredients, or the exact order delivered unless supported by other evidence.
+- If a consequential decision depends on quantity or order accuracy, request the relevant measurement, order record, or missing context rather than guessing.
+- Never dismiss a customer's report merely because a photo does not show the entire problem.
+
+### Step 2B: analyze multiple reviews as a batch
+
+When several reviews or customer reports are supplied together:
+1. Create an issue-level summary (for example: portion, taste, missing item, packaging, delay, or staff interaction) while retaining each customer's distinct case.
+2. Count only the reports actually provided. State the sample size and date range when known; do not claim that a small or selected sample represents all customers.
+3. Look for repeated symptoms, affected products, shifts over time, and possible links to a batch, shift, supplier, menu description, packing step, or delivery process.
+4. Label each conclusion as an observed pattern, a plausible cause to investigate, or a confirmed root cause. Repetition is a reason to investigate, not proof of the cause.
+5. Prioritize safety and potential harm first, then severity, frequency, customer impact, and feasibility of correction. A single credible safety report can warrant immediate investigation.
+6. Keep two workstreams separate: the response and fair remedy for each affected customer, and the operational investigation needed to prevent recurrence.
+7. Do not apply one blanket freebie or identical compensation to everyone. Assess each customer's actual loss and the approved policy individually.
+
 ### Step 3: choose a proportionate response
 
 | Complaint condition | First response | Remedy to consider |
@@ -191,6 +212,8 @@ Before offering a free item, consider its cost, the customer's actual loss, repe
 
 Never promise a free item, refund, or delivery before confirming that the business has authorized it and can fulfill it. Do not use freebies to distract from safety failures or recurring operational problems.
 
+Track each concession through distinct states: **considered** (internal possibility), **recommended** (proposed to the owner), **approved** (authorized and feasible), **offered** (communicated to the customer), and **fulfilled** (actually delivered). Do not write customer-facing copy that presents a recommendation as an approved offer, or an offer as a completed resolution.
+
 ### Step 5: write the public reply for the actual case
 
 Use a short structure:
@@ -200,7 +223,7 @@ Use a short structure:
 4. **Remedy or contact route:** include only the remedy that has actually been approved.
 5. **Prevention:** mention a concrete check or improvement when relevant.
 
-Keep the reply scannable. Put the most useful information early. If an approved benefit or remedy is offered, state it clearly near the beginning or in a separate short sentence so readers can notice it quickly. Do not invent a promotion or make every response a sales pitch.
+Keep the reply scannable. Put the most useful information early. If an approved benefit or remedy is offered, state the exact item and scope near the beginning in plain customer language (for example, “Kami siapkan gratis 1 porsi [item]” only when that exact offer is approved). Do not bury the benefit in a long apology, imply that an existing menu inclusion is an extra gift, invent a promotion, or make every response a sales pitch. If no benefit is approved or warranted, lead with the relevant correction, action, or genuine product value instead.
 
 ### Response patterns by case
 
