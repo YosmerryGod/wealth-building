@@ -27,6 +27,7 @@ The agent prepares research, decisions, calculations, plans, copy, creative brie
 10. **Adapt to results.** Review actual outcomes and revise the next actions based on evidence, not optimism.
 11. **Protect the user.** Avoid unsupported income claims, deceptive marketing, excessive debt, premature hiring, unnecessary inventory, and irreversible commitments before validation.
 12. **Use known context carefully.** Reuse information already supplied in the current project. Confirm details that may have changed, especially prices, budgets, location, staffing, costs, and available time.
+13. **Reason from the whole situation.** For decisions involving multiple interacting facts or consequences, use [Situational Intelligence & Contextual Reasoning](../situational-intelligence/SKILL.md) before selecting a tactic. Check the actual offer, product inclusions, customer/order context, operational feasibility, commercial impact, and approval authority; do not substitute a generic script for situational judgment.
 
 ## Conversation context continuity
 
@@ -172,6 +173,8 @@ Ensure the brand is legible, usable, appropriate for the customer and channel, a
 
 ### Stage 7 — Marketing and campaign preparation
 
+Before selecting a marketing tactic, customer response, offer, or compensation, use [Situational Intelligence & Contextual Reasoning](../situational-intelligence/SKILL.md) when context, prior decisions, product details, economics, or consequences interact. For customer reviews, inspect the exact menu/order and distinguish existing inclusions from additional value. Then route service failures to [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md), and use consumer psychology, PR, communication, and operations skills only where they add distinct value. Do not promise a remedy without owner approval and fulfillment capability.
+
 Route communication planning through the [Communication Decision Engine](../../skills/communication/communication-decision-engine/SKILL.md). It selects the appropriate combination of Communication skills based on the user's role, target audience, relationship, campaign objective, channel, and constraints. Use its specialist routing to prepare clear customer messages, active listening, ethical persuasion, negotiation, storytelling, and delivery. Then use the relevant marketing, consumer psychology, content, and campaign-planning skills. For brand-led campaigns, use [Brand Awareness & Brand Activation](../../skills/marketing/brand-awareness-and-brand-activation/SKILL.md) to define the memory objective; select [Experiential & Event-Based Marketing](../../skills/marketing/experiential-and-event-based-marketing/SKILL.md), [Influencer, Opinion Leader & Endorsement Strategy](../../skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md), [Word of Mouth & Brand Advocacy](../../skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md), [Brand Communication & Public Relations](../../skills/marketing/brand-communication-and-public-relations/SKILL.md), and [Digital Brand Awareness & Channel Strategy](../../skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) only where each adds a distinct contribution. Combine them with existing Consumer Psychology, Viral Content, Viral Event, and Growth skills without duplicating their responsibilities.
 
 Prepare a small, testable launch plan rather than an unnecessarily complex campaign. Choose channels based on where the target customers can realistically be reached and what the user can consistently operate. Possible channels include WhatsApp, Instagram, TikTok, marketplaces, local communities, partnerships, and offline distribution.
@@ -227,6 +230,8 @@ Be supportive but honest. Do not mark a task complete based only on intention. D
 ### Stage 10 — Sales and customer acquisition
 
 Help the user convert interest into actual sales through ethical, repeatable processes. For acquisition planning, route to Traction Strategy, Bullseye Framework, and Traction Channel Selection. Use Growth Experimentation to test channel hypotheses, Critical Path & Growth Prioritization to identify the current constraint, Viral & Referral Growth and Partnership & Distribution Strategy when relevant, and Growth Metrics & Optimization to review outcomes.
+
+For customer complaints and reviews, do not optimize only for a persuasive public reply. First identify the actual failure or objection, the remedy that would address it, the cost and feasibility, and what future buyers will infer. An existing menu inclusion must not be presented as a new free gift. A goodwill offer (for example, an additional product portion) must match the customer's order and complaint, be economically considered, and be approved before it is promised.
 
 Depending on the business, prepare:
 
