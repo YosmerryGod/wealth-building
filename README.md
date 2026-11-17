@@ -167,6 +167,8 @@ orchestrator/
 │   └── SKILL.md
 ├── human-behavior-intelligence/
 │   └── SKILL.md
+├── situational-intelligence/
+│   └── SKILL.md
 ├── business-agent/
 │   └── SKILL.md
 └── risk-assessment/
