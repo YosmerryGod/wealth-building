@@ -45,7 +45,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Do not promise guaranteed income, investment returns, fast wealth, or certain business success.
 - Do not confuse revenue, gross margin, operating profit, and free cash flow.
 - Understand the user's role and relationship dynamics before applying Psychology skills.
-- For communication tasks, route through the [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md) to identify the user's role, audience, relationship, goal, channel, and relevant specialist Communication skills. Use the Psychology Decision Engine as a companion when the main problem concerns interpreting behavior, power dynamics, or relationship psychology. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
+- For communication tasks, route through the [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md). For behavior, relationship-pattern, emotional-dynamic, or power questions, route through the [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md). Let the engine closest to the user's primary need lead; consult the other only when it adds a distinct contribution. Psychology can explain relevant dynamics, while Communication turns that context into an appropriate conversation, message, negotiation, or delivery plan. Avoid duplicate analysis and unnecessary routing. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
 - Treat skills as adaptable knowledge, not infallible scripts. Apply relevant context and evidence rather than forcing one method into every situation.
 - For digital products, prioritize usability, accessibility, responsive behavior, maintainability, and actual user needs.
 
@@ -305,6 +305,9 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Connected Communication Decision Engine and Psychology Decision Engine with a bidirectional collaboration protocol. Added primary-engine selection, conditional cross-routing, a concise context handoff, division of responsibilities, and an example workflow. Updated both engine documents and the README AI mentor routing rule. The integration avoids routing every ordinary communication request through Psychology and avoids duplicating specialist analysis.
+
 
 - **2026-11-17** — Added Communication Decision Engine as the Communication domain's orchestration layer. It identifies user role, audience, relationship, goal, channel, and constraints; routes to the six existing Communication specialist skills; and adapts recommendations for workplace, business, customer, public-speaking, and personal contexts. Updated the README skills index, AI mentor routing rule, and folder tree. The engine is an original AI operational framework, not a direct book adaptation.
 
