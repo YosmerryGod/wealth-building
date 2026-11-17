@@ -298,3 +298,48 @@ The engine succeeds when the chosen response fits the real situation, addresses 
 ## Skill boundary governance
 
 Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This engine owns the response-mode decision only. Accept the context packet and situation model from their respective owners; do not rebuild them unless new evidence exposes a material gap. Select acknowledge, clarify, inform, apologize, remedy, negotiate, persuade, set a boundary, decline, or no further action based on the case. Hand the selected mode and rationale to Communication for wording. Marketing and compensation are optional outcomes, never defaults.
+## Customer-review psychology: state before wording
+
+For every customer-facing review reply, distinguish the customer's observable situation from the psychological need that may follow from it. Do not infer a precise emotion as fact from a star rating alone. Use the review text, stated impact, order facts, and conversation history.
+
+### Required customer-state assessment
+
+Before drafting, classify:
+- **Experience:** positive, mixed, negative, unclear, or serious safety concern.
+- **Responsibility:** business-caused, shared/unclear, customer expectation mismatch, or no failure established.
+- **Impact:** inconvenience, missing value, wasted time/money, disappointment, safety risk, or simple preference.
+- **Likely psychological need:** appreciation/recognition, being heard, fairness/restoration, reassurance, explanation, or practical resolution.
+- **Audience:** the reviewer and silent readers who may judge the business by its response.
+
+Treat these as working hypotheses, not diagnoses. If the customer explicitly states how they feel, prioritize that statement.
+
+### Match the opening to the customer's state
+
+Do not default to an apology-first template. Select the opening by function:
+- **Positive review:** thank and recognize the specific thing the customer appreciated.
+- **Negative review or useful criticism:** thank them for taking the time to report it when sincere; this recognizes their contribution without implying that the failure is acceptable.
+- **Business-caused failure:** acknowledge the specific failure and apologize clearly. Appreciation may come first, but must not delay or dilute accountability.
+- **Unclear complaint:** appreciate the feedback, acknowledge the concern, and ask for the minimum detail needed privately.
+
+“Thank you for the review” is not a substitute for acknowledging harm, apologizing where warranted, or fixing the problem. Likewise, an apology alone does not satisfy a need for fairness when the business caused a tangible loss.
+
+### Psychology-to-response decision
+
+Use this sequence:
+1. Read what happened and who is responsible.
+2. Identify the customer's likely immediate need.
+3. Choose the primary response function: recognition, validation, clarification, restoration, reassurance, or appreciation.
+4. Add a supporting function only when it helps: approved goodwill, product value, prevention, or a clear next step.
+5. Draft in natural customer language, then shorten without deleting the psychological function or concrete remedy.
+
+### Public reply quality check
+
+A reply is ready only when:
+- It addresses the actual review, not a generic complaint category.
+- The opening fits the customer's state.
+- The customer can see that the business understood the impact.
+- Any business-caused loss has a proportionate, feasible remedy or a clear follow-up route.
+- Any goodwill offer is additional, authorized, and not conditional on changing the review.
+- The wording is concise, warm, specific, and credible to silent readers.
+
+Do not force “thank you” into every reply if it sounds dismissive. Do not force “sorry” into praise-only reviews. Choose language by customer need and responsibility.
