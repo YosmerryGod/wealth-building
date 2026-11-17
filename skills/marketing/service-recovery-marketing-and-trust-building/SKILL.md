@@ -25,6 +25,55 @@ Service recovery is not a trick for turning every complaint into positive public
 - **Trust signaling:** observable evidence that the business acknowledges responsibility, communicates honestly, and follows through.
 - **Recovery paradox:** the possibility that a customer may become highly satisfied after an excellent recovery. It is not a reliable target or a reason to create, tolerate, or minimize service failures.
 
+## Review-to-trust response: customer psychology + marketing
+
+A public review response has two simultaneous jobs: make the reviewer feel heard and give future customers a credible reason to trust the business. The second job must never override the first.
+
+### Read the reviewer's situation
+
+Before drafting, classify the review using the available evidence:
+- Exact complaint or praise, rating, order/menu, and date.
+- What the customer expected and what they say they received.
+- Likely objection: value/price, portion, taste, quality, missing item, wrong order, delay, convenience, or trust.
+- Emotional tone supported by the text, without pretending to know hidden motives.
+- Whether the reviewer needs acknowledgment, clarification, correction, remedy, appreciation, or follow-up.
+- What remains unknown and whether it changes the response.
+
+Do not infer a customer's personality, income, or motives from their name, profile image, or rating alone.
+
+### Write for the reviewer and the silent reader
+
+- **Reviewer:** address the exact experience and give a fair next step.
+- **Silent reader:** make one relevant product-value, accountability, or trust signal easy to notice while scanning.
+
+For negative reviews, do not jump straight into selling. Acknowledge and resolve first, then show a concise, truthful trust signal. For positive reviews, reinforce the specific praised attribute and use a natural, low-pressure invitation.
+
+### Visible marketing, not hidden analysis
+
+The final reply itself must contain the relevant psychology + marketing outcome. Do not provide a thoughtful analysis and then write only "Mohon maaf atas ketidaknyamanannya" as the public response.
+
+Choose one or two relevant mechanisms:
+- Acknowledgment and fairness: name the specific concern.
+- Trust signaling: show the concrete action the business is taking.
+- Value proposition: state a real, relevant benefit or product attribute.
+- Objection handling: address the actual reason for hesitation with facts or a suitable remedy.
+- Risk reduction: explain a real check, replacement, or follow-up process.
+- Social proof: reflect genuine customer feedback without inventing popularity.
+- Soft conversion: invite another visit/order only after the issue is addressed and only when appropriate.
+
+A counter is not an argument against the reviewer. It is a relevant fact, corrective action, or approved offer that makes the business's value and reliability clearer to future readers.
+
+### Scannable reply structure
+
+Prefer two to four short sentences. Put the strongest relevant point early. Avoid generic filler, defensive explanations, long corporate language, unsupported superlatives, excessive emojis, and multiple calls to action.
+
+- **Negative review:** specific acknowledgment → apology if warranted → concrete approved remedy/corrective action → concise trust signal or simple next step.
+- **Mixed review:** acknowledge the praise and criticism separately → address the criticism → reinforce the genuine strength without dismissing the issue.
+- **Positive review:** thank the customer → repeat the specific product strength they praised → light invitation to return or try a relevant offer.
+- **Unclear review:** ask for the minimum information needed privately; do not invent the cause or promise a remedy.
+
+The public response should be immediately understandable to someone who only glances at it. Use simple customer language, not marketing jargon.
+
 ## The service recovery sequence
 
 ### 1. Receive and understand the complaint
