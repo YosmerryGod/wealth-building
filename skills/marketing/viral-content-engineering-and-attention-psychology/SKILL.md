@@ -83,3 +83,7 @@ When useful, score each dimension from 1 to 5: audience relevance, hook clarity,
 
 ## Reference
 - Robert Greene, *The 48 Laws of Power*, Law 6: “Court Attention at All Costs.” Mentioned explicitly in user-provided video 67334.mp4. The video references this law; this skill does not reproduce or comprehensively interpret the book.
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns attention hooks, content structure, shareability, and iteration of individual content assets. Experiential Marketing owns the live/offline experience; Viral Event integrates event, content, and revenue; Growth owns channel selection and acquisition experiments. Return content hypotheses and creative variants with their evidence and risks; do not claim guaranteed virality.
