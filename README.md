@@ -110,7 +110,9 @@ Every new skill should explain its subject as fully and accurately as the availa
 | Psychology / Finance | [Behavioral Finance & Money Psychology](skills/psychology/behavioral-finance-and-money-psychology/SKILL.md) | Applying personal financial history, behavioral biases, risk perception, compounding, wealth preservation, social pressure, and uncertainty-aware decision-making | *The Psychology of Money* by Morgan Housel; book-inspired AI synthesis, not a full-text transcription |
 | Psychology | [Power Dynamics & Strategic Influence](skills/psychology/power-dynamics-and-strategic-influence/SKILL.md) | Understanding authority, reputation, incentives, alliances, dependency, strategic communication, ethical influence, and defensive recognition of power games | Robert Greene, *The 48 Laws of Power*; critical AI synthesis with ethical safeguards |
 | Psychology | [Human Behavior & Decision Psychology](skills/psychology/human-behavior-decision-psychology/SKILL.md) | Behavior, communication, trust, decision framing, customer motivation, and ethical influence | User-provided video; operational AI framework added |
+| Psychology | [Self-Deception & Self-Examination](skills/psychology/self-deception-and-self-examination/SKILL.md) | Examining rationalization, self-image protection, hidden-motive hypotheses, ressentiment, conformity, and reflective self-review | Philosophical synthesis inspired by Nietzsche; related empirical psychology kept distinct |
 | Psychology | [Emotional Regulation & Calm Decision-Making](skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md) | Recognizing emotional triggers, reducing impulsive reactions, reframing situations accurately, focusing on controllable actions, and making proportionate decisions under pressure | *Rahasia Bersikap Tenang dalam Kondisi Apa Pun* by Sabrina Ara; operational framework inspired by its themes, not a chapter transcription |
+| Psychology | [Philosophical Intelligence](skills/psychology/philosophical-intelligence/SKILL.md) | Applying philosophical lenses from Nietzsche, Jung, Schopenhauer, and Socratic inquiry to examine values, identity, desire, assumptions, and decisions | Original knowledge-integration skill; philosophy distinguished from empirical psychology |
 | Psychology | [Relationship Building & Mutual Attraction](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) | Respectful relationship development from first contact and comfort to compatibility, mutual interest, and clear romantic communication; emphasizes reciprocity, autonomy, and boundaries | AI operational framework; not a scientific review or a guaranteed attraction method |
 | Psychology | [Psychological Control & Human Vulnerability](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) | Recognizing coercive control, learned helplessness, intermittent reinforcement, economic coercion, dependency, workplace power imbalance, and protecting autonomy | Two user-provided allegorical videos; psychological framing and AI safeguards added |
 | Psychology | [Workplace Competition & Divide-and-Rule Psychology](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) | Analyzing workplace rivalry, social comparison, manager approval, power asymmetry, and the difference between healthy competition and deliberate division | User-provided video 67280.mp4; interpretation clarified by user; operational framework added |
@@ -240,6 +242,10 @@ skills/
     │   └── SKILL.md
     ├── behavioral-finance-and-money-psychology/
     │   └── SKILL.md
+    ├── philosophical-intelligence/
+    │   └── SKILL.md
+    ├── self-deception-and-self-examination/
+    │   └── SKILL.md
     ├── psychology-decision-engine/
     │   └── SKILL.md
     ├── relationship-building-and-mutual-attraction/
@@ -295,6 +301,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Self-Deception & Self-Examination, inspired by Nietzsche's philosophical themes, and Philosophical Intelligence, a cross-thinker knowledge skill covering Nietzsche, Jung, Schopenhauer, and Socratic inquiry. Updated Psychology Decision Engine routing, skills index, folder tree, and source-boundary guidance. Explicitly distinguished philosophical interpretation from empirical psychology and avoided diagnostic or mind-reading claims.
 
 - **2026-11-17** — Added Knowledge Graph Builder under Knowledge Engineering. Defined an AI-only workflow for full-repository discovery, concept extraction, evidence-labeled relationships, cross-skill queries, overlap and gap audits, and maintenance after repository changes. Clarified that no code-based graph engine, persistent database, watcher, or visual explorer is included. Added the domain index and updated the README skill table and folder tree.\n\n- **2026-11-17** — Added Apple Platform Design & Human Interface Guidelines Review under Development. Audited existing Frontend Design, AI Interface Design & Unslop Engineering, Micro-Interactions, and Navigation skills; none provided a dedicated Apple-platform HIG review workflow. Added an original synthesis covering Apple's eight design principles, five review lenses, cross-platform translation, evidence-based review reporting, and limitations. Used Apple's official HIG as the primary source and dickwu/apple-design-skill as a secondary structural reference without copying its 123-page guideline collection. Updated the skills index and folder tree.
 
