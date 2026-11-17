@@ -4,7 +4,7 @@ title: Effective Communication & First Impressions
 category: communication
 subcategory: communication-foundations
 source_type: book-inspired-framework-and-operational-synthesis
-source: *Bicara Itu Ada Seninya* by Oh Su Hyang; themes from the book's first chapter and communication fundamentals
+source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); themes from the book's first chapter and communication fundamentals
 language: English
 ---
 
@@ -48,3 +48,18 @@ Do not encourage fake confidence, fabricated credentials, flattery that is not g
 ## Relationship to other skills
 
 Use Active Listening & Conversational Rapport for two-way interaction, Message Design & Storytelling for structuring content, Vocal & Nonverbal Delivery for delivery, and Persuasive Communication & Negotiation when the goal is to influence a decision.
+
+## Source integration: *Rahasia Lancar Berkomunikasi*
+
+This skill is additionally informed by the publicly available description and topic outline of *Rahasia Lancar Berkomunikasi: Sukses Berkomunikasi dengan Siapa Pun, di Mana Pun, dan Kapan Pun* by Mulasih Tary and Devi Ardiyanti (Checklist, ISBN 978-623-7661-60-3). The outline identifies communication success, enjoyable communication with different people, fourteen communication tips, communication practice, and overcoming fear. The complete chapter text has not been inspected; the following is an operational synthesis of those stated themes, not a chapter-by-chapter transcription.
+
+### Practical communication preparation
+
+- Clarify the purpose before choosing words: inform, ask, connect, coordinate, resolve, or negotiate.
+- Adapt formality, vocabulary, detail, and channel to the relationship and setting without pretending to be someone else.
+- Make the message understandable to the receiver; check what they understood rather than assuming delivery equals understanding.
+- Treat communication as a social process with a sender, message, channel, receiver, context, and possible misunderstanding.
+- When communication becomes tense, slow down, restate the shared issue, and clarify one point at a time.
+- Practice difficult everyday conversations in low-stakes settings; review clarity and the receiver's actual response.
+
+Do not invent the book's fourteen tips or attribute additional techniques to the authors without access to the relevant pages.
