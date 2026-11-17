@@ -254,7 +254,11 @@ Public catalogue descriptions are not equivalent to access to complete book text
 
 ## Relationship to other orchestration skills
 
-- **Psychology Decision Engine:** analyzes human behavior, role dynamics, power differences, and psychological context. Use it when the problem is primarily about interpreting behavior or relationship dynamics; use this Communication engine to decide how to communicate next.
+- **Psychology Decision Engine:** analyzes behavior, relationship patterns, emotional dynamics, incentives, and power differences. Consult it when these factors materially affect the communication recommendation. This Communication engine remains responsible for turning that context into a practical communication approach.
+- **Joint workflow:** first identify the primary problem. If the user mainly needs wording, listening, presentation, negotiation, or delivery, lead with Communication and consult Psychology only for meaningful behavioral or relationship context. If the user mainly needs to interpret repeated behavior, motives, conflict patterns, emotional reactions, or power dynamics, lead with Psychology and consult Communication when a concrete conversation or message is needed.
+- **Information handoff:** pass only relevant context between engines: roles, relationship, observed facts, stated goal, channel, constraints, hypotheses with uncertainty, and the practical decision still needed. Do not repeat the full analysis or duplicate specialist advice.
+- **Avoid unnecessary routing:** ordinary low-stakes communication does not need a Psychology analysis. A psychological topic does not automatically require a communication script. Use both only when each contributes a distinct result.
+- **Sequence:** Psychology may explain what dynamics could be occurring; Communication then designs how to listen, clarify, express, negotiate, or set expectations. New evidence from the interaction can return to Psychology for reassessment.
 - **Business Agent Orchestrator:** coordinates business lifecycle work. During customer research, sales, negotiation, team management, and marketing preparation, it can delegate communication-specific decisions to this engine.
 - **Risk Assessment & Consequence Intelligence:** evaluates material risks and consequences of a proposed action. It does not replace communication expertise or suppress analysis of difficult topics.
 
