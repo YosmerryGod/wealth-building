@@ -143,6 +143,7 @@ Remove at least one unnecessary visual element during critique when it does not 
 
 ## 11. Relationship to other Development skills
 
+- **[Reverse Engineering & Reference-Based Reconstruction](../reverse-engineering-and-reference-based-reconstruction/SKILL.md):** investigates reference products and extracts evidence-backed patterns before this skill establishes the new product's distinct visual direction.
 - [AI Interface Design & Unslop Engineering](../ai-interface-design-and-unslop-engineering/SKILL.md) provides a broader UI audit and quality-review framework. Use Frontend Design to establish the visual direction and design plan; use the audit skill to inspect and improve the resulting interface.
 - [Micro-Interactions & UI Feedback Design](../micro-interactions-and-ui-feedback/SKILL.md) provides detailed interaction-state and feedback patterns.
 - [Modern Web Navigation & Interaction Patterns](../modern-web-navigation-patterns/SKILL.md) provides navigation structures and interaction models.
