@@ -285,3 +285,7 @@ The engine succeeds when it:
 - Explains the rationale without overexplaining.
 - Adapts to evidence and feedback.
 - Improves mutual understanding while respecting the choices and boundaries of everyone involved.
+
+## Ownership and routing boundary
+
+Follow the canonical [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This engine owns communication approach, channel, structure, and selection of Communication specialists. Context-Aware Response Strategy owns the decision about what kind of response is appropriate; Psychology Decision Engine owns psychology specialist selection. Accept their handoff when present and do not repeat situation analysis. Message Design owns message structure; Persuasive Communication owns ethical persuasion/negotiation; Active Listening owns listening/rapport; Public Speaking and Vocal/Nonverbal Delivery own live delivery. Use only those that materially improve the outcome.
