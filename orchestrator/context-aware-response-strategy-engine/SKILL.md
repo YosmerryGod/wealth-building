@@ -125,6 +125,24 @@ Select a primary strategy and add a supporting strategy only when useful.
 
 The table is a starting map, not a rigid script. Use the actual context to choose or combine strategies.
 
+## Responsibility-Based Response Selection
+
+For every customer complaint or public review, explicitly assess who is responsible before selecting an apology, remedy, compensation, or marketing action. Do not let a general preference to avoid freebies override a clear seller-caused failure.
+
+Use this sequence:
+
+1. **Attribute the failure:** classify the likely source as seller/business, customer, delivery partner, external event, shared responsibility, or unknown. Base attribution on the review, order details, supplied evidence, and available history. Do not assign blame beyond the evidence.
+2. **Identify the customer's entitlement:** determine what was ordered, promised, paid for, included, and actually received. A missing paid or promised item is a fulfilment failure, not merely subjective dissatisfaction.
+3. **Restore the original value first:** for a verified missing item, wrong item, or short delivery, prioritize delivering the correct item, arranging a suitable replacement, or refunding the affected value. An unrelated free item must not replace the customer's original entitlement.
+4. **Assess residual impact:** after the direct loss is restored, consider inconvenience, disruption to the meal or service, time, repeated failures, customer effort, and the public trust impact. Do not assume that refunding the item's price automatically restores the whole experience.
+5. **Evaluate additional goodwill separately:** when the business caused a material failure or meaningfully disrupted the customer's experience, actively consider a relevant additional benefit—such as a complimentary serving of the core product—if it is proportionate, economically feasible, operationally available, fair, and owner-approved. This is a genuine recovery and relationship-marketing option, not an automatic rule.
+6. **Select and explain the combined action:** state whether the case needs correction only, correction plus refund/replacement, or correction plus additional goodwill. Explain internally why the selected remedy fits the cause and impact.
+7. **Check authority and fulfilment:** distinguish proposed, approved, offered, and fulfilled commitments. Never publish an unapproved promise. If approval is pending, give the owner a recommended offer and a customer-facing draft that is explicitly conditional or directs the customer to an official private channel for confirmation.
+
+**Decision principle:** seller responsibility increases the business's obligation to correct the failure and increases the relevance of considering additional goodwill. It does not mean every seller error requires the same free item. Match the gesture to the customer's actual experience, the original order, the business's economics, and the ability to fulfil it.
+
+For example, if a restaurant failed to include rice that the customer ordered, the primary remedy is to provide the missing rice or refund its value. Because the omission disrupted the customer's meal and was caused by the seller, the AI should also assess whether an approved additional serving of the restaurant's main product is a suitable goodwill gesture. Do not present that extra serving as a substitute for the missing rice.
+
 ## Compensation and concession decision
 
 A complaint, low rating, objection, or negative emotion does not automatically justify a free item, discount, refund, apology, or concession.
