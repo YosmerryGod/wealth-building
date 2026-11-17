@@ -373,3 +373,7 @@ The skill succeeds when the customer receives a fair and completed resolution, t
 ## Ownership and routing boundary
 
 Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
