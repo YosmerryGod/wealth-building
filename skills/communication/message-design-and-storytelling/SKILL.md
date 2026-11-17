@@ -88,3 +88,30 @@ This skill is additionally informed by the publicly listed chapter outline of *C
 7. Close by restating the main takeaway and the action, decision, or reflection expected from the audience.
 
 An engaging presentation is not necessarily theatrical. Relevance, clarity, credible support, and audience comprehension matter more than spectacle.
+## Concise customer-review reply design
+
+When writing public replies to reviews, preserve the psychological purpose while removing unnecessary words. A short reply should not become a generic reply.
+
+### Build by communicative function
+
+Choose only the functions the situation needs:
+1. **Recognition:** thank the customer for sharing, reviewing, or reporting the issue.
+2. **Acknowledgment:** name the specific praise, concern, or failure.
+3. **Accountability:** apologize when the business caused a failure.
+4. **Resolution:** state the actual remedy and one clear way to claim it.
+5. **Trust signal:** mention one concrete corrective action when useful.
+
+Not every reply needs all five. Positive reviews usually need recognition and reinforcement. A business-caused failure needs acknowledgment, accountability, and resolution. Do not omit a fair remedy merely to make the reply shorter.
+
+### Ordering and tone
+
+- A thank-you may lead when it sincerely recognizes the customer's effort.
+- If the business caused harm, follow appreciation immediately with specific accountability; do not let gratitude sound like deflection.
+- Use everyday customer language and a respectful form of address.
+- Prefer concrete wording over corporate phrases such as “ketidaknyamanan yang terjadi.”
+- Avoid repeating the same apology, multiple calls to action, long explanations, and marketing jargon.
+- Keep goodwill separate from the remedy owed.
+
+### Editing test
+
+After drafting, remove any sentence that does not do at least one of these jobs: recognize, validate, take responsibility, resolve, or build credible trust. Keep the final reply easy to scan and faithful to the actual offer.
