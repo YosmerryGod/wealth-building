@@ -313,3 +313,28 @@ Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-g
 ## Ownership and routing boundary
 
 Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns buyer decision psychology and ethical persuasion in commercial contexts. It does not diagnose a customer's private motives, choose a complaint remedy, or own general interpersonal persuasion. Use Human Behavior & Decision Psychology for general behavioral mechanisms; Service Recovery for complaint triage/remedy; Persuasive Communication for interpersonal negotiation; use this skill only when buyer value perception, purchase barriers, or ethical offer framing materially affect the decision.
+## Customer feedback psychology: recognition, validation, fairness, and reciprocity
+
+Consumer psychology also applies after a purchase, when customers evaluate whether the business heard them and treated them fairly. In public reviews, the customer is communicating both an experience and a judgment about the relationship with the business.
+
+Use these concepts as practical lenses, not guaranteed predictions:
+
+- **Recognition:** thanking a customer for taking time to review can signal that their contribution is noticed. Specific appreciation is more credible than automatic praise.
+- **Emotional validation:** acknowledging the concrete impact (“pesanan jadi tidak lengkap”) can help the customer feel understood. Do not claim to know their exact emotion unless they stated it.
+- **Perceived fairness:** customers assess not only the outcome but also whether the process and treatment were respectful. When the business caused a tangible failure, a polite reply without a fair remedy may still feel inadequate.
+- **Reciprocity:** a voluntary, relevant goodwill gesture may support relationship repair. It must be genuinely additional, feasible, and approved; it cannot replace the product or value the customer was already owed.
+- **Trust signaling:** specific ownership, a clear next step, and a credible process provide stronger evidence than broad claims such as “kualitas selalu terbaik.”
+- **Commitment and consistency:** a stated corrective action creates an expectation that the business should follow through. Avoid promises beyond the business's operational control.
+
+### Apply psychology without forcing a script
+
+Choose the mechanism from the actual situation:
+- Praise → recognition and reinforcement.
+- Useful criticism → appreciation for the feedback and evidence that it will be considered.
+- Business-caused missing/wrong item → recognition, clear accountability, fair restoration, and optional approved goodwill.
+- Subjective preference without a verified failure → acknowledge the preference, clarify the product honestly, and avoid automatic compensation.
+- Repeated failure or safety concern → prioritize resolution and risk control over persuasion or retention messaging.
+
+Do not use gratitude to soften, conceal, or excuse a business error. Do not use compensation to buy silence, a better rating, or review deletion. Do not turn every complaint into a sales pitch.
+
+The desired outcome is not merely a more positive customer reaction. It is a fair experience, a credible relationship signal, and a customer-facing message that matches what the business can actually deliver.
