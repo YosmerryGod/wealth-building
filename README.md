@@ -48,6 +48,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Use Contextual Understanding & Intent Inference to preserve conversational continuity, infer intent carefully, and minimize unnecessary clarification. Ask one focused question only when a missing detail materially changes the answer or a consequential action requires confirmation.
 - Understand the user's role and relationship dynamics before applying Psychology skills.
 - For interpersonal advice or communication requests, use [Conversational Intelligence & Psychology Router](orchestrator/conversational-intelligence-and-psychology-router/SKILL.md) to select relevant Communication and Psychology skills, then apply [Companion Interaction Style](orchestrator/companion-interaction-style/SKILL.md) so practical answers feel natural, concise, and companion-like rather than like formal consultation reports.
+- For customer complaints, poor reviews, refunds, replacements, repeat service failures, or reputation repair, consult [Service Recovery Marketing & Trust Building](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) and coordinate it with the relevant Communication, Public Relations, Word of Mouth, and Business Operations skills. Prioritize a real remedy and root-cause correction; never condition compensation on a positive review or rating change.
 - For human situations where behavior, relationships, social or power dynamics, and communication interact, use the [Human Behavior Intelligence Layer](orchestrator/human-behavior-intelligence/SKILL.md) to map the situation and coordinate the appropriate engines. For focused behavior or psychological analysis, use the [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md); for focused messages, conversations, presentations, or negotiation, use the [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md). Let the layer closest to the user's primary need lead, and consult another only when it adds a distinct contribution. Avoid duplicate analysis and unnecessary routing. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
 - Treat skills as adaptable knowledge, not infallible scripts. Apply relevant context and evidence rather than forcing one method into every situation.
 - For digital products, prioritize usability, accessibility, responsive behavior, maintainability, and actual user needs.
@@ -108,6 +109,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 | Marketing | [Word of Mouth & Brand Advocacy](skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md) | Building recommendation-worthy customer experiences, referral mechanisms, customer advocacy, and feedback loops | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
 | Marketing | [Brand Communication & Public Relations](skills/marketing/brand-communication-and-public-relations/SKILL.md) | Developing brand messages, storytelling, media relations, public communication, and reputation response | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
 | Marketing | [Digital Brand Awareness & Channel Strategy](skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) | Coordinating search, social, video, blog, email, digital catalog, and offer channels for brand discovery and memory | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
+| Marketing | [Service Recovery Marketing & Trust Building](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) | Resolving customer complaints through fair remedies, public accountability, operational root-cause correction, retention, and reputation trust-building | Original AI operational framework synthesizing service recovery, customer experience, and reputation concepts |
 | Finance | [Income-to-Asset Wealth Building](skills/finance/income-to-asset-wealth-building/SKILL.md) | Turning active income into savings, capital, productive assets, validated asset-based income, and disciplined reinvestment | User-provided video 67313.mp4; source figures treated as illustrative and unverified |
 | Finance | [Financial Leverage](skills/finance/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing; includes cash-flow and debt-risk checks | User-provided video: @detektifmodal |
 | Finance | [Financial Intelligence](skills/finance/financial-intelligence/SKILL.md) | Integrating financial facts, trade-offs, liquidity, risk, and goals into sound financial decisions | *Rich Dad Poor Dad* themes; operational decision framework added |
@@ -221,6 +223,8 @@ skills/
 │   ├── consumer-psychology-and-persuasion/
 │   │   └── SKILL.md
 │   ├── digital-brand-awareness-and-channel-strategy/
+│   │   └── SKILL.md
+│   ├── service-recovery-marketing-and-trust-building/
 │   │   └── SKILL.md
 │   ├── experiential-and-event-based-marketing/
 │   │   └── SKILL.md
@@ -341,6 +345,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+- **2026-11-17** — Added Service Recovery Marketing & Trust Building under Marketing. Covers complaint intake, fair remedies, public review responses, customer trust, ethical compensation, operational root-cause correction, and recovery metrics. Integrated with Brand Communication & PR, Word of Mouth & Brand Advocacy, Business Agent routing, README index, and folder tree. The framework treats public trust as a possible outcome of genuine service recovery, not a guaranteed marketing result.
+
 - **2026-11-17** — Added Conversational Intelligence & Psychology Router to select relevant Communication and Psychology skills for interpersonal requests, plus Companion Interaction Style to make responses natural, concise, contextual, and companion-like. Integrated both with Human Behavior Intelligence, Communication Decision Engine, README routing, index, and folder tree. These are knowledge specifications; automatic skill retrieval and agent execution require runtime implementation.
 
 
