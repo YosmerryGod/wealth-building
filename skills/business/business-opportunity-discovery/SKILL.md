@@ -202,3 +202,80 @@ Make the reasoning traceable:
 
 If a link in this chain is unsupported, state what is unknown and design the smallest practical test. Do not jump from an interesting human desire directly to a business recommendation.
 
+## Conversational opportunity discovery: from curiosity to paid evidence
+
+This skill must work in a natural multi-turn conversation, not only as a static business-analysis checklist.
+
+### 1. Identify the user's current stage
+
+Classify the user's latest move as:
+- Broad uncertainty: wants to start a business but has no direction.
+- Idea exploration: considering a category or possibility.
+- Tentative interest: reacts positively to one candidate.
+- Candidate evaluation: wants to understand whether it could work.
+- Validation: wants to test customer demand.
+- Commitment: explicitly chooses and approves the business.
+- Execution: asks for a concrete operating or launch deliverable.
+
+Continue from that stage. Do not restart the discovery process at every turn.
+
+### 2. Treat product interest as a starting hypothesis
+
+When the user says a product or business "sounds good", do not assume the market wants it or that the user has decided to launch it. Help clarify:
+- The likely buyer and buying occasion.
+- The outcome the buyer wants.
+- The offer that could make the product worth choosing.
+- The most important uncertainty.
+- A small next experiment.
+
+Use conditional language until evidence exists: "potentially", "could be", "worth testing", or "our current hypothesis". Never convert a plausible customer segment into a proven market fact.
+
+### 3. Find the buying reason, not just the product category
+
+For a food product such as a regional cake or snack, distinguish possible buying occasions:
+- Personal snack or everyday consumption.
+- Sharing with family, guests, or coworkers.
+- Gifts and souvenirs.
+- Orders for meetings, events, or celebrations.
+- Resale through shops or partner outlets.
+
+These are candidate segments, not proof of demand. Select one initial segment based on access, product suitability, purchasing behavior, and evidence. Do not try to target all segments at once.
+
+### 4. Test one critical assumption at a time
+
+Examples:
+- If taste is uncertain, prepare a small sample and collect structured feedback from likely buyers.
+- If willingness to pay is uncertain, show a clearly priced offer and seek actual pre-orders rather than asking only whether the idea is liked.
+- If shelf life or delivery is uncertain, test packaging, storage, and delivery conditions before scaling.
+- If repeat purchase is uncertain, observe whether initial buyers reorder after a realistic interval.
+
+A test should define the hypothesis, smallest practical sample, capped cost, observable result, and decision that follows. Do not prescribe a large batch, paid campaign, or permanent equipment purchase before the key uncertainty is tested.
+
+### 5. Keep exploration lightweight
+
+While the user is still curious:
+- Give one useful insight and one concrete next step.
+- Do not require a full business profile or financial forecast.
+- Do not ask for budget, skills, schedule, target market, and product details all at once.
+- Ask the next question only when it determines the next experiment or materially changes feasibility.
+- Preserve the user's freedom to change direction.
+
+### 6. Evidence threshold for advancing
+
+Move from exploration to evaluation when the user wants a serious assessment. Move from evaluation to validation when the key assumptions can be tested. Move to commitment only after the user selects and approves the defined opportunity. Move to scaling only after actual paid demand, viable contribution margin, operational reliability, and adequate cash capacity are demonstrated.
+
+Positive comments, social-media views, likes, and hypothetical purchase intent are weak signals. Paid orders, completed transactions, repeat purchase, and contribution margin are stronger evidence, interpreted in context and sample size.
+
+### 7. Example: regional snack exploration
+
+User: "Roti pisang Banjar boleh nih."
+
+Helpful response:
+"Menarik untuk diuji. Kita jangan langsung produksi banyak. Tentukan dulu satu pembeda yang bisa dirasakan—misalnya tekstur lebih lembut, isian pisang yang terasa, atau kemasan praktis untuk oleh-oleh—lalu uji batch kecil ke calon pembeli. Respons yang paling penting bukan sekadar 'enak', tetapi apakah mereka bersedia membeli dengan harga yang menutup biaya."
+
+This example illustrates the interaction method. It does not assert verified local demand, competitor positioning, or a suitable price.
+
+### Quality gate
+
+A response fails if it jumps from interest to commitment, invents customer demand, overwhelms the user with questions, or gives a generic trend list. It passes if it continues the active idea, identifies a real buying hypothesis, recommends a low-cost test, and waits for evidence and user approval before advancing.
+
