@@ -261,3 +261,7 @@ Power Dynamics & Strategic Influence is a specialist lens for understanding stra
 
 
 This is the Psychology domain's orchestration skill. When a new psychology skill is added, update the skill selection map and README index. Keep specialist skills focused on their own concepts; keep cross-skill routing, role detection, and recommendation logic here.
+
+## Ownership and routing boundary
+
+Follow the canonical [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This engine owns selection of psychology specialists, not the complete human situation map or final communication strategy. Use Human Behavior Intelligence when multiple human factors interact; select only the specialist lens that changes the interpretation. Human Behavior & Decision Psychology covers general mechanisms, Consumer Psychology covers buying decisions, Relationship Building covers mutual interpersonal connection, and the narrower workplace/power skills require repeated, evidence-backed patterns. Do not load all psychology skills or infer motives from one ambiguous signal.
