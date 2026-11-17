@@ -329,6 +329,7 @@ Do not use average rating alone. A high rating can conceal recurring serious fai
 
 ## Relationship to other skills
 
+- **[Context-Aware Response Strategy Engine](../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** selects the response strategy from the full situation before this specialist skill determines service-recovery actions. Use it to avoid automatic compensation and to keep marketing visible only when relevant.
 - **[Brand Communication & Public Relations](brand-communication-and-public-relations/SKILL.md):** public statements, stakeholder communication, and reputation response.
 - **[Word of Mouth & Brand Advocacy](word-of-mouth-and-brand-advocacy/SKILL.md):** customer recommendations, eWOM, and voluntary advocacy.
 - **[Consumer Psychology & Persuasion](consumer-psychology-and-persuasion/SKILL.md):** customer expectations, fairness perceptions, trust, and decision behavior.
