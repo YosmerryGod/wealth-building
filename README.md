@@ -23,14 +23,15 @@ For end-to-end business-building requests, start with the [Business Agent Orches
 
 When a new conversation relates to wealth-building, entrepreneurship, business, human behavior, financial decisions, or building a digital product:
 
-1. Understand the user's actual goal and the problem they are trying to solve.
-2. Gather only the context needed: skills, experience, available time, capital, location or reachable market, obligations, existing assets, and risk tolerance.
+1. Start with [Contextual Understanding & Intent Inference](orchestrator/contextual-understanding/SKILL.md) to interpret the latest message using relevant conversation history, user context, active project state, prior decisions, and constraints. Do not treat every message as a fresh request or ask the user to repeat known details.
+2. Understand the user's actual goal and the problem they are trying to solve.
+3. Gather only the context needed: skills, experience, available time, capital, location or reachable market, obligations, existing assets, and risk tolerance.
 3. Consult the relevant skill files in this repository. Do not assume the skill list is complete.
-4. Separate source claims, user-provided facts, independently verified information, estimates, and AI-generated analysis.
-5. Reason from fundamentals: customer demand, value creation, business economics, cash flow, human behavior, usability, and risk.
-6. For website or application work, inspect the existing project and consult relevant development, UX, and design skills before proposing implementation.
-7. Recommend the next useful action. Prefer a small, measurable test before a large investment when uncertainty is high.
-8. Define useful metrics, review actual results, and adapt the plan when evidence changes.
+5. Separate source claims, user-provided facts, independently verified information, estimates, and AI-generated analysis.
+6. Reason from fundamentals: customer demand, value creation, business economics, cash flow, human behavior, usability, and risk.
+7. For website or application work, inspect the existing project and consult relevant development, UX, and design skills before proposing implementation.
+8. Recommend the next useful action. Prefer a small, measurable test before a large investment when uncertainty is high.
+9. Define useful metrics, review actual results, and adapt the plan when evidence changes.
 
 ### Rules for the AI mentor
 
@@ -44,6 +45,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Keep factual quality rules: do not invent market demand, prices, margins, research findings, citations, customer counts, or financial results. Distinguish source claims, verified facts, assumptions, estimates, and AI synthesis.
 - Do not promise guaranteed income, investment returns, fast wealth, or certain business success.
 - Do not confuse revenue, gross margin, operating profit, and free cash flow.
+- Use Contextual Understanding & Intent Inference to preserve conversational continuity, infer intent carefully, and minimize unnecessary clarification. Ask one focused question only when a missing detail materially changes the answer or a consequential action requires confirmation.
 - Understand the user's role and relationship dynamics before applying Psychology skills.
 - For human situations where behavior, relationships, social or power dynamics, and communication interact, use the [Human Behavior Intelligence Layer](orchestrator/human-behavior-intelligence/SKILL.md) to map the situation and coordinate the appropriate engines. For focused behavior or psychological analysis, use the [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md); for focused messages, conversations, presentations, or negotiation, use the [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md). Let the layer closest to the user's primary need lead, and consult another only when it adds a distinct contribution. Avoid duplicate analysis and unnecessary routing. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
 - Treat skills as adaptable knowledge, not infallible scripts. Apply relevant context and evidence rather than forcing one method into every situation.
@@ -119,6 +121,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 | Psychology | [Psychological Control & Human Vulnerability](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) | Recognizing coercive control, learned helplessness, intermittent reinforcement, economic coercion, dependency, workplace power imbalance, and protecting autonomy | Two user-provided allegorical videos; psychological framing and AI safeguards added |
 | Psychology | [Workplace Competition & Divide-and-Rule Psychology](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) | Analyzing workplace rivalry, social comparison, manager approval, power asymmetry, and the difference between healthy competition and deliberate division | User-provided video 67280.mp4; interpretation clarified by user; operational framework added |
 | Psychology | [False Concern & Covert Sabotage](skills/psychology/false-concern-and-covert-sabotage/SKILL.md) | Recognizing fake concern, covert workplace obstruction, impression management, and professional responses to public undermining | User-provided video 67279.mp4; operational framework and safeguards added |
+| Orchestration / Context | [Contextual Understanding & Intent Inference](orchestrator/contextual-understanding/SKILL.md) | Reconstructs relevant conversation context, infers intent, preserves prior decisions and constraints, and determines when clarification is genuinely necessary | Original AI reasoning framework; requires runtime memory/retrieval for persistent cross-session context |
 | Orchestration / Human Behavior | [Human Behavior Intelligence Layer](orchestrator/human-behavior-intelligence/SKILL.md) | Integrates situation mapping, behavioral hypotheses, relationship and power context, Psychology and Communication engine routing, and practical recommendations | Original AI cross-domain orchestration framework; knowledge layer only, not an implemented agent |
 | Psychology | [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md) | Detecting user role and relationship dynamics, selecting and combining relevant psychology skills, and producing ethical recommendations for leaders, subordinates, peers, owners, and other roles | AI orchestration skill; coordinates existing Psychology skills |
 | Business | [Business Ownership & Equity Basics](skills/business/business-ownership-and-equity/SKILL.md) | Explaining business expansion models, ownership versus management, equity, shares, capital, revenue, and profit | User-provided video 67278.mp4; bakery example summarized and educational framework added |
@@ -141,6 +144,8 @@ Skills are grouped by knowledge domain. Each individual skill has its own folder
 
 ```text
 orchestrator/
+├── contextual-understanding/
+│   └── SKILL.md
 ├── human-behavior-intelligence/
 │   └── SKILL.md
 ├── business-agent/
@@ -308,6 +313,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Contextual Understanding & Intent Inference as a foundational orchestration skill for conversation continuity, intent inference, context packets, confidence-aware assumptions, and minimal clarification. Integrated it with Human Behavior Intelligence, Psychology Decision Engine, Communication Decision Engine, and Business Agent. Updated README routing, skills index, and folder structure. This is a reasoning specification; persistent memory and retrieval require runtime implementation.
 
 - **2026-11-17** — Added Human Behavior Intelligence Layer (HBIL) as a cross-domain orchestration skill above the Psychology and Communication Decision Engines. Added situation mapping, evidence-aware behavioral hypotheses, role and power context, primary-engine selection, shared context handoff, specialist routing, practical synthesis, and feedback review. Updated README routing guidance, skills index, folder tree, and Business Agent integration. This is a knowledge/reasoning layer, not an implemented autonomous agent or behavioral tracking system.
 
