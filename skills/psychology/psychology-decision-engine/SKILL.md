@@ -8,6 +8,10 @@ This skill is a decision and routing layer. It does not replace the specialist p
 
 The user may be an owner, executive, manager, supervisor, employee, subordinate, coworker, customer, friend, acquaintance, dating prospect, romantic partner, family member, or an outside observer. Never assume the user is automatically the victim, aggressor, leader, follower, pursuer, or pursued.
 
+## Context continuity
+
+Use [Contextual Understanding & Intent Inference](../../../orchestrator/contextual-understanding/SKILL.md) before analysis when prior conversation context is available. Carry forward relevant roles, relationship history, events, user goals, constraints, and earlier decisions. Do not ask the user to repeat details already supplied. Separate remembered user facts from psychological hypotheses, and ask only one focused question when a missing fact would materially change the analysis. For complex human situations, accept the situation map and context packet from the Human Behavior Intelligence Layer rather than repeating intake.
+
 ## Core operating principles
 
 1. Start with the user's goal and the concrete situation, not with a favorite psychological theory.
