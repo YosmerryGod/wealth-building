@@ -119,6 +119,47 @@ Useful framing elements:
 
 Customers do not evaluate a price only as a number; they also consider the expected benefit, credibility, risk, effort, alternatives, and fit with their needs.
 
+## Psychology-to-Marketing Translation for customer replies and offers
+
+Psychology is not only a way to describe how a customer feels. In commercial communication, it should help determine which marketing action or offer is most relevant. Marketing is not a separate promotional sentence added after psychological analysis; it is the practical expression of that analysis.
+
+Use this translation sequence:
+
+1. **Read the customer state:** identify the need, expectation gap, motivation, objection, trust barrier, relationship stage, and likely next decision from available evidence.
+2. **Select the psychological mechanism:** choose only a mechanism that explains or informs the next action; do not diagnose hidden motives as facts.
+3. **Choose the marketing response:** select a real product benefit, differentiated attribute, package, add-on, goodwill offer, social proof, value frame, risk-reduction detail, or appropriate invitation.
+4. **Connect them:** explain internally why this marketing response fits the psychological need.
+5. **Write the offer clearly:** the final copy must show the concrete benefit or action—not just the tactic's name.
+6. **Validate:** verify product facts, availability, cost, terms, fulfilment, and approval before making a promise.
+
+| Customer situation / psychological need | Psychological mechanism | Matching marketing action |
+|---|---|---|
+| Customer feels let down and needs evidence of care | Reciprocity, fairness, trust repair | An approved goodwill offer featuring the main product, or another proportionate remedy |
+| Customer questions whether the price is worthwhile | Value perception, anchoring, price framing | Explain real package contents, product quality, useful inclusions, or a fair comparison |
+| Customer praises a specific product attribute | Reinforcement, social proof | Repeat the genuine praised attribute and position the relevant product or package |
+| Prospective buyer is uncertain about quality or reliability | Risk reduction, trust formation | Provide verifiable product details, process assurance, policy, or genuine customer evidence |
+| Customer is interested but has no reason to return yet | Relationship continuity, reciprocity where appropriate | Offer a relevant next-order benefit or a natural invitation, if commercially approved |
+| Customer has no relevant unmet need or offer fit | Respect for autonomy and relevance | Do not force an offer; acknowledge, inform, or close naturally |
+
+### Example: one action can serve psychology and marketing together
+
+A customer reports a disappointing experience. If the issue and business policy justify goodwill, and the owner approves it, the business might offer an additional serving of its main product on the next order.
+
+That single offer can:
+- Acknowledge the customer's experience and signal fairness.
+- Apply reciprocity through a voluntary, proportionate goodwill gesture.
+- Support relationship recovery by giving the customer a reason to consider returning.
+- Introduce or reinforce the business's core product.
+- Give silent readers a concrete example of how the business takes responsibility.
+
+The offer does not guarantee forgiveness, a repeat purchase, or a positive review. It must not be conditional on review changes, and it must be feasible and clearly explained.
+
+### Copywriting execution rule
+
+When asked to draft a customer-facing reply, do not finish with only a psychological analysis or a generic polite message. If an integrated strategy is selected, make its practical marketing action visible in the copy: name the product, benefit, approved extra, real inclusion, differentiator, or next step. If no verified offer or product information is available, do not invent one; use the strongest verified value or ask one necessary question.
+
+
+
 When presenting value:
 1. State the customer's problem in recognizable terms.
 2. Explain the relevant benefit without promising an outcome that cannot be guaranteed.
@@ -183,7 +224,8 @@ Separate descriptive analysis of a tactic from a recommendation to deploy it. Re
 
 ## Relationship to other skills
 
-- **[Context-Aware Response Strategy Engine](../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** determines whether marketing and persuasion are appropriate in the current situation, then routes here for customer decision, value-perception, and offer-framing knowledge.
+- **[Context-Aware Response Strategy Engine](../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** determines the response strategy and requires Psychology-to-Marketing integration when a business/customer purchase context makes it relevant; routes here for buyer diagnosis, value perception, offer matching, and ethical persuasion.
+- **[Service Recovery Marketing & Trust Building](service-recovery-marketing-and-trust-building/SKILL.md):** applies this buyer psychology to public reviews, proportionate remedies, approved goodwill offers, and visible recovery copy.
 - **Human Behavior & Decision Psychology:** Explains broader behavior, trust, framing, and decision mechanisms.
 - **Business Opportunity Discovery:** Helps identify customer problems and validate whether a real market exists.
 - **Psychological Control & Human Vulnerability:** Helps recognize coercion and manipulation; this marketing skill applies autonomy-preserving safeguards to customer persuasion.
