@@ -138,6 +138,10 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Income-to-Asset Wealth Building | Framework for converting sustainable surplus income into productive assets | Guaranteeing returns or selecting a specific investment |
 | Opportunity & Investment Evaluation | Compare business/investment opportunities, risk, return, and exit criteria | Personal budget mechanics or asset classification |
 | Pay Yourself First | Sustainable savings allocation from available income | Ignoring essential obligations or choosing investments |
+| Debt & Installment Management | Debt inventory, total borrowing cost, installment/BNPL exposure, repayment sequencing, and restructuring comparison | General capital-structure strategy or cash-flow forecasting ownership |
+| Emergency Fund Strategy | Reserve sizing, liquidity location, qualifying withdrawals, and replenishment policy | Routine budget categories, debt repayment strategy, or productive investment selection |
+| Envelope Budgeting System | Category allocations, spending limits, sinking-fund categories, and envelope rollover rules | Cash timing forecasts, reserve sizing, or debt contract analysis |
+| Financial Habit Formation | Cues, routines, friction reduction, feedback, and recovery plans for repeatable financial behaviors | Financial calculations, reserve targets, or psychological diagnosis |
 | Skill-Based Income Development | Monetizing marketable skills and capability development | Guaranteeing employment or business income |
 
 ### Growth
@@ -259,7 +263,7 @@ Business Agent owns the project → Contextual Understanding supplies project st
 
 ### Financial decision
 
-Financial Intelligence frames and routes → the relevant specialist owns the calculation/question (Cash Flow, Statement Literacy, Asset/Liability, Leverage, Pay Yourself First, Opportunity/Investment Evaluation, etc.) → Behavioral Finance only if behavior changes the decision → Risk Assessment screens material consequences → one lead synthesizes.
+Financial Intelligence frames and routes → Cash Flow Management establishes timing and affordability → select only the needed owner: Envelope Budgeting for category allocations, Pay Yourself First for savings allocation, Emergency Fund Strategy for reserve sizing/withdrawals, Debt & Installment Management for debt cost and repayment, Asset/Liability or Statement Literacy for financial position/report interpretation, Leverage for borrowing strategy, or Opportunity/Investment Evaluation for capital deployment → Financial Habit Formation when routines and follow-through are the bottleneck → Behavioral Finance when biases or emotions materially affect the decision → Risk Assessment screens material consequences → one lead synthesizes.
 
 ### Product/UI design
 
