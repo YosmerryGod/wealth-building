@@ -107,3 +107,7 @@ The five-stage Bullseye process and 19-channel lens are derived from *Traction*.
 - Primary skill: Bullseye Framework
 - Domain: Growth & Distribution
 - Source: *Traction* — Gabriel Weinberg and Justin Mares
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). Bullseye owns the structured channel discovery cycle—brainstorm, rank, prioritize, test, and focus. Use Traction Channel Selection for evidence-based channel fit, Growth Experimentation for test protocol, Growth Metrics for metric definitions, and Critical Path for identifying the current bottleneck. Bullseye integrates their outputs; it must not reproduce their specialist methods or claim a test was run when it was only proposed.
