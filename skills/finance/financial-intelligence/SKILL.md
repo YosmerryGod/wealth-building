@@ -57,3 +57,7 @@ Help an AI mentor understand a person's financial position and improve the quali
 ## Relationships to other skills
 
 Route detailed work to Cash Flow Management, Asset & Liability Analysis, Financial Statement Literacy, Pay Yourself First, Income-to-Asset Wealth Building, Financial Leverage, and Opportunity & Investment Evaluation. Use Behavioral Finance & Money Psychology when personal history, fear, greed, status pressure, uncertainty, or behavioral biases materially affect a financial decision.
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). Financial Intelligence owns high-level financial framing, key constraint identification, and routing to the correct finance specialist. It must not redo detailed specialist calculations. Cash Flow owns liquidity/timing; Financial Statement Literacy owns statement interpretation; Asset & Liability owns balance-sheet classification; Financial Leverage owns borrowing/OPM; Pay Yourself First owns sustainable savings allocation; Opportunity & Investment Evaluation owns opportunity/investment comparison; Behavioral Finance owns decision biases. Return a concise synthesis using their outputs.
