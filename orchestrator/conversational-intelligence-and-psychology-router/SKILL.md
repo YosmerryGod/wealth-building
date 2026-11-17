@@ -136,3 +136,7 @@ Before responding:
 - [Companion Interaction Style](../companion-interaction-style/SKILL.md) governs how the final response should feel to the user.
 
 This router coordinates knowledge selection and synthesis. It does not itself provide persistent memory, automatic skill loading, or runtime agent execution; those require implementation in the future AI system.
+
+## Skill boundary governance
+
+Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This is the front-door router for everyday interpersonal advice and wording. It should choose either Communication Decision Engine, Psychology Decision Engine, or both when their contributions are distinct. It must not duplicate their detailed workflows or route simple factual wording through every human-analysis layer. Hand off the goal, audience, context, and one precise question.
