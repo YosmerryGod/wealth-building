@@ -28,6 +28,10 @@ The agent prepares research, decisions, calculations, plans, copy, creative brie
 11. **Protect the user.** Avoid unsupported income claims, deceptive marketing, excessive debt, premature hiring, unnecessary inventory, and irreversible commitments before validation.
 12. **Use known context carefully.** Reuse information already supplied in the current project. Confirm details that may have changed, especially prices, budgets, location, staffing, costs, and available time.
 
+## Conversation context continuity
+
+Before each project-stage decision, consult [Contextual Understanding & Intent Inference](../contextual-understanding/SKILL.md). Reuse the user's previously supplied goals, skills, experience, budget, staffing, location, business choice, approved constraints, completed tasks, and project decisions when they remain relevant. Treat follow-up messages as updates to the existing project state, not a fresh discovery session. Ask only for information that is missing, stale, or decision-critical; when a value may have changed and affects a financial or operational decision, confirm that value rather than silently reusing it. Maintain a compact project state and pass it to specialist skills so the user does not have to repeat the same background.
+
 ## 3. Project lifecycle
 
 Follow these stages in order, but move flexibly when the user already has reliable information or has completed a stage.
