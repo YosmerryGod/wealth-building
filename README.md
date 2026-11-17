@@ -98,6 +98,18 @@ For complex practical decisions, use [Situational Intelligence & Contextual Reas
 | Research / Intelligence | [OSINT & Digital Footprint Intelligence](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) | Structured public-source collection, entity correlation, evidence validation, and defensive exposure reporting | Adapted knowledge synthesis from smicallef/spiderfoot; MIT |
 | Domain | Skill | Focus | Source / status |
 |---|---|---|---|
+| Content Creation / Orchestration | [Content Intelligence Orchestrator](orchestrator/content-intelligence-orchestrator/SKILL.md) | Routes YouTube and creator workflows to the smallest useful specialist set, coordinates handoffs, and produces one synthesized recommendation | Original repository orchestration architecture; no automatic YouTube API access or publishing |
+| Content Creation | [Video Scriptwriting & Hook Engineering](skills/content-creation/video-scriptwriting-and-hook-engineering/SKILL.md) | Converts a video idea into a creator-voice script with evaluated hook options, clear beats, and a truthful payoff | Original operational framework; editorial scoring is heuristic, not a view predictor |
+| Content Creation | [Title & Thumbnail Packaging Optimization](skills/content-creation/title-thumbnail-packaging-optimization/SKILL.md) | Designs a coordinated title-thumbnail promise with clarity, relevance, mobile readability, and accuracy checks | Original operational framework; does not guarantee CTR or reach |
+| Content Creation | [Transcript-Based Video Editing](skills/content-creation/transcript-based-video-editing/SKILL.md) | Produces timecoded transcript-based cut, repeat, filler, and review recommendations | Original operational framework; does not directly edit media |
+| Content Creation | [Audience Retention Intelligence](skills/content-creation/audience-retention-intelligence/SKILL.md) | Diagnoses viewer drop-offs and retention patterns from supplied YouTube analytics and transcript context | Original operational framework; distinguishes observed data from causal hypotheses |
+| Content Creation | [Short-Form Video Repurposing](skills/content-creation/short-form-video-repurposing/SKILL.md) | Finds self-contained moments in long videos and adapts openings, framing, and on-screen text for short-form formats | Original operational framework; timecodes require source verification |
+| Content Creation | [YouTube Comment Intelligence](skills/content-creation/youtube-comment-intelligence/SKILL.md) | Triages comments, drafts creator-voice replies, identifies recurring questions, and flags moderation concerns | Original operational framework; no automatic moderation or posting |
+| Content Creation | [Content Calendar & Production Planning](skills/content-creation/content-calendar-and-production-planning/SKILL.md) | Plans a sustainable content cadence around real creator capacity, backlog, dependencies, and workload | Original operational framework; schedule is proposed, not published |
+| Content Creation | [YouTube SEO & Search Intent](skills/content-creation/youtube-seo-and-search-intent/SKILL.md) | Aligns video metadata and description with genuine viewer search intent and content delivered | Original operational framework; no ranking or traffic guarantee |
+| Content Creation | [YouTube Chapter & Timestamp Engineering](skills/content-creation/youtube-chapter-and-timestamp-engineering/SKILL.md) | Creates and validates chapter timestamps and concise section labels from verified source timing | Original operational framework; platform requirements must be checked as they change |
+| Content Creation | [YouTube Competitor & Viral Intelligence](skills/content-creation/youtube-competitor-and-viral-intelligence/SKILL.md) | Researches public niche videos and compares performance against channel baselines where data permits | Original operational framework; public data only and no causal virality claims |
+| Content Creation | [YouTube Channel Audit & Optimization](skills/content-creation/youtube-channel-audit-and-optimization/SKILL.md) | Audits channel positioning, consistency, packaging, content, and available analytics to select one priority fix | Original operational framework; private analytics require user-provided data |
 | Communication / Orchestration | [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md) | Routes communication situations by user role, relationship, audience, goal, channel, and constraints to the smallest useful set of specialist Communication skills | Original AI orchestration framework; coordinates six existing Communication skills and related Psychology knowledge |
 | Communication | [Effective Communication & First Impressions](skills/communication/effective-communication-and-first-impressions/SKILL.md) | Adapting message clarity, relevance, credibility, communication purpose, and opening style to audience and context | *Bicara Itu Ada Seninya*; *Rahasia Lancar Berkomunikasi*; public catalogue themes synthesized |
 | Communication | [Active Listening & Conversational Rapport](skills/communication/active-listening-and-conversational-rapport/SKILL.md) | Using relevant questions, attentive listening, reflection, relationship-aware dialogue, and conversational adaptation | *Bicara Itu Ada Seninya*; *Rahasia Lancar Berkomunikasi*; *Seni Membangun Relasi*; public catalogue themes synthesized |
@@ -166,6 +178,8 @@ Skills are grouped by knowledge domain. Each individual skill has its own folder
 
 ```text
 orchestrator/
+├── content-intelligence-orchestrator/
+│   └── SKILL.md
 ├── conversational-intelligence-and-psychology-router/
 │   └── SKILL.md
 ├── companion-interaction-style/
@@ -186,6 +200,29 @@ orchestrator/
     └── SKILL.md
 
 skills/
+├── content-creation/
+│   ├── video-scriptwriting-and-hook-engineering/
+│   │   └── SKILL.md
+│   ├── title-thumbnail-packaging-optimization/
+│   │   └── SKILL.md
+│   ├── transcript-based-video-editing/
+│   │   └── SKILL.md
+│   ├── audience-retention-intelligence/
+│   │   └── SKILL.md
+│   ├── short-form-video-repurposing/
+│   │   └── SKILL.md
+│   ├── youtube-comment-intelligence/
+│   │   └── SKILL.md
+│   ├── content-calendar-and-production-planning/
+│   │   └── SKILL.md
+│   ├── youtube-seo-and-search-intent/
+│   │   └── SKILL.md
+│   ├── youtube-chapter-and-timestamp-engineering/
+│   │   └── SKILL.md
+│   ├── youtube-competitor-and-viral-intelligence/
+│   │   └── SKILL.md
+│   └── youtube-channel-audit-and-optimization/
+│       └── SKILL.md
 ├── knowledge/
 │   └── knowledge-graph-builder/
 │       └── SKILL.md
@@ -367,6 +404,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+- **2026-11-18** — Added the Content Creation domain with 11 YouTube/creator-production specialist skills and a Content Intelligence Orchestrator. Covers scripting and hooks, title-thumbnail packaging, transcript editing, audience retention, Shorts repurposing, comment intelligence, capacity-aware calendars, SEO/search intent, chapters, competitor research, and channel audits. Added explicit ownership boundaries with existing Viral Content Engineering, Digital Brand Awareness, Traction, and Growth skills. Updated governance registry, AI routing guidance, skills index, and folder tree. These are knowledge workflows; they do not provide automatic YouTube API access, media editing, scheduling, or publishing.
 - **2026-11-17** — Added Creative Intelligence Engine under Psychology / Creativity. Covers divergent and lateral thinking, connecting the dots, analogical thinking, assumption challenging, observation-led opportunity discovery, creative problem solving, idea evaluation, and experimentation. Integrated it with Knowledge Graph Builder and Business Agent Orchestrator while routing market validation to existing Business Opportunity Discovery and Growth Experimentation skills. Source note distinguishes original AI synthesis from the broad themes associated with *Oh My Goodness*; the complete book text was not inspected.
 - **2026-11-17** — Expanded Relationship Building & Mutual Attraction with Small-Favor Dynamics & Emotional Investment, based on the examples and framing in user-provided video 67443.mp4. Added voluntary, proportionate requests; mutual effort; interpretation limits; and safeguards against guilt, pressure, emotional debt, and treating favors as proof of attraction. Updated the README skill index. The video's “emotional points” phrase is treated as an informal metaphor, not a validated psychological measure.
 - **2026-11-17** — Expanded Financial Leverage into Financial Leverage & Other People's Money (OPM). Added owner capital, asset rental/leasing, customer-funded pre-orders, family/private funding, supplier credit, capital stacking, source-by-source obligations, cash-flow timing, and downside stress testing. Integrated the chicken-business funding comparison from user-provided video 67439.mp4 (visible watermark: Kita Ulik Dunia), while marking its figures as illustrative and unverified. Updated the skills index; retained the existing skill path to avoid duplication.
