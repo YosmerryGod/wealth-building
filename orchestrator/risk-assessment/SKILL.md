@@ -59,3 +59,7 @@ A useful assessment should identify:
 ## Relationship to the repository
 
 The Business Agent Orchestrator and Psychology Decision Engine should invoke this skill when a request has material legal, safety, exploitation, or high-consequence implications. Specialist skills remain knowledge sources; this skill handles cross-domain consequence assessment.
+
+## Skill boundary governance
+
+Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). Risk Assessment owns the risk/consequence screen, including severity, likelihood, reversibility, exposure, and safeguards. It does not replace situation modelling or the domain specialist's decision. Return concrete risks, constraints, mitigations, and escalation triggers to the lead skill; do not produce a competing full recommendation.
