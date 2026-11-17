@@ -19,6 +19,8 @@ The long-term AI mentor should be able to:
 
 ## How the AI should use this repository
 
+The [Skill Boundary & Routing Governance](orchestrator/skill-boundary-governance/SKILL.md) is the canonical source of truth for skill ownership, handoffs, overlap resolution, and routing. The lead skill must select the smallest sufficient set of specialists, reuse their handoff outputs, and synthesize one recommendation. Do not load every related skill or repeat an analysis without new evidence.
+
 For end-to-end business-building requests, start with the [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md). It coordinates discovery, recommendation approval, project focus, research, financial planning, creative preparation, marketing, execution, and performance review. The orchestrator routes to specialist skills where they exist; it does not replace them.
 
 When a new conversation relates to wealth-building, entrepreneurship, business, human behavior, financial decisions, or building a digital product:
@@ -104,6 +106,7 @@ For complex practical decisions, use [Situational Intelligence & Contextual Reas
 | Communication | [Vocal & Nonverbal Delivery](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) | Improving pace, articulation, pauses, tone, posture, gestures, nonverbal awareness, and context-sensitive adaptation | *Bicara Itu Ada Seninya*; *Seni Membangun Relasi*; public catalogue themes synthesized |
 | Communication | [Public Speaking & Speaking Confidence](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) | Preparing presentation content, adapting to speaking situations, managing fear, practicing, and evaluating audience comprehension | *Bicara Itu Ada Seninya*; *Cara Mudah & Praktis Belajar Public Speaking*; public catalogue themes synthesized |
 | Orchestration | [Situational Intelligence & Contextual Reasoning](orchestrator/situational-intelligence/SKILL.md) | Reconstructs the full situation, separates facts from assumptions, compares feasible options, anticipates consequences, and selects context-fit actions across domains | Original AI cross-domain reasoning framework; knowledge specification, not human consciousness or autonomous software |\n| Orchestration | [Risk Assessment & Consequence Intelligence](orchestrator/risk-assessment/SKILL.md) | Evaluates intent, legal and non-legal consequences, safety, exploitation, and high-stakes risks separately from specialist knowledge | Repository-wide reasoning and consequence assessment skill |
+| Orchestration / Governance | [Skill Boundary & Routing Governance](orchestrator/skill-boundary-governance/SKILL.md) | Defines one primary owner per decision, all 71 skill boundaries, canonical routing, handoff packets, conflict resolution, and maintenance rules | Original repository-wide architecture contract |
 | Orchestration | [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md) | Coordinates the full user-approved business project lifecycle, from discovery and selection through research, financial planning, branding, marketing preparation, execution, and review | AI orchestration skill; routes to existing specialist skills |
 | Marketing | [Viral Content Engineering & Attention Psychology](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) | Designing attention-aware content, hooks, emotional angles, engagement, distribution tests, and reputation-safe paths from attention to value | User-provided video 67334.mp4; references *The 48 Laws of Power*, Law 6; operational AI synthesis added |
 | Marketing | [Viral Event Marketing & Content Monetization](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) | Designing responsible attention-generating events, participant experiences, live distribution, content repurposing, and transparent monetization | User-provided video 67333.mp4; event-to-content-to-revenue framework and safety safeguards added |
@@ -177,7 +180,9 @@ orchestrator/
 │   └── SKILL.md
 ├── business-agent/
 │   └── SKILL.md
-└── risk-assessment/
+├── risk-assessment/
+│   └── SKILL.md
+└── skill-boundary-governance/
     └── SKILL.md
 
 skills/
@@ -439,6 +444,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 - **2026-11-17** — Added Viral Content Engineering & Attention Psychology in the Marketing domain based on user-provided video 67334.mp4. Documented attention design, viral content structure, emotional triggers, controversy/rage-bait analysis, hook engineering, engagement design, distribution experiments, attention-to-value conversion, and reputation safeguards. Recorded *The 48 Laws of Power*, Law 6, as the video's named reference and clarified that displayed view counts are illustrative rather than verified. Updated the skills index, folder tree, and Business Agent Orchestrator routing.
 
 ## Repository approach
+
+- **2026-11-17** — Added Skill Boundary & Routing Governance with an ownership registry for all 71 skills, canonical routing recipes, handoff packet, conflict-resolution protocol, and maintenance policy. Updated all core orchestrators and high-overlap specialist skills to follow the same ownership and handoff contract. No specialist skills were deleted; overlapping capabilities were separated by responsibility.
 
 This knowledge base grows incrementally as useful sources are reviewed. Each skill should contribute a reusable principle or method that helps the future AI mentor give grounded, context-aware, and actionable guidance.
 
