@@ -191,6 +191,7 @@ Report:
 
 ## Integration with other skills
 
+- Use **Creative Intelligence Engine** to generate and develop ideas across domains. Use this skill alongside Knowledge Graph Builder when a task needs both creative synthesis and evidence-backed mapping; the graph identifies relationships, while Creative Intelligence turns relevant connections into hypotheses and candidate solutions.
 - Use the **Business Agent Orchestrator** to coordinate an end-to-end business project. Knowledge Graph Builder helps it discover cross-domain specialist knowledge; it does not replace project orchestration.
 - Use the **Psychology Decision Engine** for role- and relationship-sensitive selection of Psychology skills. The graph can expose related skills but must not replace contextual judgment.
 - Use **Risk Assessment & Consequence Intelligence** for evaluating material action consequences. The graph organizes knowledge; it does not authorize or prohibit actions.
