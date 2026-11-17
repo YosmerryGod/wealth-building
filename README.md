@@ -345,6 +345,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+- **2026-11-17** — Strengthened Service Recovery Marketing & Trust Building with a complaint triage and proportionate remedy decision engine. Added severity and evidence assessment, case-specific remedy guidance, explicit rules against automatic freebies, benefit-first but truthful public reply copywriting, and restaurant examples for leakage, portion issues, missing items, and suspected unsafe food. Clarified that safety incidents require investigation and that compensation must never be conditional on review changes.
+
 - **2026-11-17** — Added Service Recovery Marketing & Trust Building under Marketing. Covers complaint intake, fair remedies, public review responses, customer trust, ethical compensation, operational root-cause correction, and recovery metrics. Integrated with Brand Communication & PR, Word of Mouth & Brand Advocacy, Business Agent routing, README index, and folder tree. The framework treats public trust as a possible outcome of genuine service recovery, not a guaranteed marketing result.
 
 - **2026-11-17** — Added Conversational Intelligence & Psychology Router to select relevant Communication and Psychology skills for interpersonal requests, plus Companion Interaction Style to make responses natural, concise, contextual, and companion-like. Integrated both with Human Behavior Intelligence, Communication Decision Engine, README routing, index, and folder tree. These are knowledge specifications; automatic skill retrieval and agent execution require runtime implementation.
