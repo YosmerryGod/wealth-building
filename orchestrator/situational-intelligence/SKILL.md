@@ -167,6 +167,83 @@ When authority is unknown, present the recommended remedy as a proposal for owne
 
 When the user reports what happened, compare the outcome with the prediction. Update the situation model, identify mistaken assumptions, and improve the next decision. Preserve useful corrections as project context when supported by the runtime.
 
+## Customer review reading and public-response conversion
+
+When the user asks the AI to reply to a public review, the task is not merely customer service and not merely sales copy. The AI must understand the reviewer and the silent readers, then write one concise response that resolves the reviewer's concern while making the business's real value and trustworthiness easy for prospective customers to recognize.
+
+### Read the customer before writing
+
+Infer only what the review supports. Classify:
+- **Stated experience:** what the customer explicitly says happened.
+- **Emotional signal:** frustration, disappointment, satisfaction, surprise, appreciation, or uncertainty, supported by wording and rating.
+- **Underlying objection or motivation:** price/value, portion, taste, quality, accuracy, speed, convenience, trust, or expectations.
+- **Expectation gap:** what the customer expected versus what they say they received.
+- **Relationship state:** first-time, repeat, potentially recoverable, satisfied, or unclear. Do not infer purchase history unless shown.
+- **Response need:** apology, clarification, correction, remedy, appreciation, or no response.
+- **Confidence:** separate clear facts from plausible interpretations. A rating alone does not reveal the full reason.
+
+Do not stereotype customers by name, age, gender, profile photo, or assumed income. Read the actual words, rating, order details, and available history.
+
+### Recognize the two audiences
+
+1. **The reviewer:** wants to know whether the business understood their specific experience and will respond fairly.
+2. **Prospective customers scanning reviews:** want quick signals about product value, consistency, honesty, and how the business handles problems.
+
+The reviewer must not be treated as a prop for advertising. Resolve or acknowledge their concern first. Then make one relevant trust or value signal visible to future readers.
+
+### Psychology + marketing must appear in the actual reply
+
+Do not keep all the marketing reasoning hidden in the analysis while producing a generic apology. Select one or two relevant psychological and marketing mechanisms and express them naturally in the final wording.
+
+Possible mechanisms:
+- **Fairness and acknowledgment:** name the exact concern so the customer sees that the business listened.
+- **Trust signaling:** state a concrete corrective action, transparent process, or approved remedy.
+- **Value proposition:** show a real product attribute or inclusion that is relevant to the concern; never invent or repackage an existing inclusion as a new gift.
+- **Social proof:** when responding to genuine praise, reflect the specific product experience the customer liked; do not fabricate popularity.
+- **Risk reduction:** explain a real way the business will check, replace, correct, or follow up.
+- **Objection handling:** answer the actual concern with evidence or a relevant offer, not defensive claims.
+- **Conversion invitation:** use a soft, natural invitation only when the complaint has been addressed and the business can honor it.
+
+### Write for a fast-scanning reader
+
+Use a compact, readable reply, usually two to four short sentences. Put the most decision-relevant point early. Avoid long corporate introductions, generic filler, excessive emojis, vague claims such as "best quality", and multiple competing calls to action.
+
+For a negative review, a useful order is:
+1. Specific acknowledgment and apology where warranted.
+2. A visible, concrete resolution or approved remedy.
+3. One truthful trust/value signal that helps future readers understand what the business is doing.
+4. A simple next step when needed.
+
+For a positive review:
+1. Thank the customer and name the specific thing they liked.
+2. Reinforce a genuine product strength or experience.
+3. Give a light invitation to return or try a relevant menu item, without sounding pushy.
+
+For a mixed review:
+1. Acknowledge both the positive and the criticism.
+2. Address the criticism with a concrete improvement or approved remedy.
+3. Preserve the positive value signal without using it to dismiss the complaint.
+
+### Counter without arguing
+
+A marketing counter is not a rebuttal that tries to prove the customer wrong. It is a relevant fact, action, or offer that reduces uncertainty and shows why a prospective buyer can still trust the business.
+
+Examples:
+- If the customer says the portion felt small, do not answer by advertising soup that was already included. Acknowledge the portion concern, investigate the serving standard, and—if approved—offer a genuinely additional, order-appropriate remedy.
+- If the customer says the food tasted good but the portion was small, recognize the positive taste feedback while still addressing the portion issue. Do not use the praise to cancel out the complaint.
+- If the customer praises freshness or flavor, echo that exact attribute rather than making unsupported claims about popularity or superiority.
+
+### Final response quality test
+
+Before sending the reply, ask:
+- Would the reviewer feel that their exact point was understood?
+- Can a prospective customer identify the business's relevant value or responsible action at a glance?
+- Is the strongest marketing signal factual, specific, and relevant?
+- Is the actual remedy clear and approved?
+- Is any existing menu inclusion being misleadingly presented as a bonus?
+- Does the reply avoid arguing, overexplaining, or hard-selling?
+- Could the business reliably fulfill every promise in the reply?
+
 ## Customer review and service-recovery application
 
 When a business owner shares customer reviews, screenshots, complaints, or ratings, do not jump directly to writing a reply.
