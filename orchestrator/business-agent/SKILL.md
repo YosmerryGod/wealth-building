@@ -388,3 +388,6 @@ When drafting a public reply, promotion, sales message, or offer:
 - Ensure future readers can understand the offer without misleading them about what happened or what is included.
 - Optimize for trust, customer fit, and sustainable repeat business—not merely immediate conversion.
 
+## Skill boundary governance
+
+Follow the repository's canonical [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). Business Agent owns the end-to-end project state and synthesis; it must delegate specialist calculations, marketing methods, operations methods, and communication craft to their named owners. Do not repeat their full workflows. Pass the project brief and completed work forward, collect bounded specialist outputs, resolve differences, and present one project recommendation. Use the smallest sufficient set of specialists. A new business skill or routing change must be checked against the governance ownership registry before it is added.
