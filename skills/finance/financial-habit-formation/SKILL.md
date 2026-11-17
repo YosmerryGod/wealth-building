@@ -113,3 +113,41 @@ Do not use a streak as the only measure of success. A routine that protects cash
 - **Cash Flow Management** owns cash timing and affordability.
 - **Debt & Installment Management** owns repayment behavior and installment exposure.
 - **Emergency Fund Strategy** owns reserve targets and withdrawal/replenishment rules.
+
+
+## Lifestyle inflation control
+
+Lifestyle inflation occurs when recurring spending rises as income rises, reducing the amount available for reserves, debt reduction, investment, or other goals. Higher spending is not automatically wrong: some increases may improve health, safety, time, or quality of life. The task is to make the increase intentional and affordable rather than automatic.
+
+### Detect the pattern
+
+- Compare recurring essential and discretionary spending before and after an income increase.
+- Identify new subscriptions, installment commitments, upgrades, convenience spending, and status-driven purchases.
+- Separate one-time purchases from new recurring obligations.
+- Check whether savings, reserve contributions, and debt payments have improved alongside income.
+- Consider inflation, household changes, health needs, and other legitimate cost increases before labeling spending as lifestyle inflation.
+
+### Build a deliberate income-increase routine
+
+When income rises:
+1. Confirm the increase is recurring and net of tax, fees, and business costs; do not treat a one-off payment as permanent income.
+2. Recalculate essential costs, obligations, and available surplus.
+3. Decide in advance how the additional surplus will be divided among reserves, high-priority debt, named goals, productive capital, and discretionary enjoyment.
+4. Upgrade recurring spending only after checking its long-term affordability and opportunity cost.
+5. Review the actual allocation after a few pay cycles and adjust if income or costs change.
+
+### Practical controls
+
+- Use a waiting period for nonessential upgrades or new installment commitments.
+- Compare the full recurring cost, including maintenance, fees, insurance, and financing.
+- Set a personal threshold for recurring commitments as a planning guardrail, not a universal rule.
+- Preserve a reasonable enjoyment allowance; a plan based on permanent deprivation is unlikely to be sustainable.
+- Revisit allocations when income falls, household responsibilities change, or an emergency occurs.
+
+### AI coaching rules
+
+- Do not shame users for spending more after earning more.
+- Ask what value the additional spending provides and whether it matches the user's priorities.
+- Do not assume every visible purchase is status consumption.
+- Recommend allocations only after checking actual cash flow and essential needs.
+- Route savings allocation to Pay Yourself First, category limits to Envelope Budgeting System, and liquidity checks to Cash Flow Management.
