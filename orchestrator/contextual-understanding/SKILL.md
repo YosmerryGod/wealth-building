@@ -240,3 +240,29 @@ Context handling fails when the assistant:
 - Moves to execution before the user approves the relevant commitment.
 - Asks a question merely because a discovery checklist contains it, rather than because the answer is needed now.
 
+### Mandatory response-state handoff
+
+Context reconstruction must end with a compact decision state that the response owner can directly use. Do not stop at a general summary of the user.
+
+Required fields:
+- **Latest move:** the immediate conversational action (question, idea, correction, approval, objection, exploration, or execution request).
+- **Active subject:** the exact topic or candidate currently being discussed.
+- **Conversation mode:** exploration, learning, troubleshooting, decision, execution, review, or casual continuation.
+- **Commitment level:** mentioned, interested, exploring, evaluating, selected, approved, or execution-authorized.
+- **Known constraints:** only relevant facts explicitly supplied or reliably retrieved; mark simulated scenarios as simulated.
+- **Prior contribution:** the last useful answer, proposal, or question that the latest message refers to.
+- **Next natural move:** the smallest useful continuation that preserves the user's direction.
+- **Critical unknown:** at most one missing fact that would materially change the next move; otherwise write "none".
+
+### Context-to-response enforcement
+
+1. **Resolve before asking.** If the latest message is short or elliptical, interpret it against the immediately preceding exchange and relevant history. Ask only if two plausible meanings would lead to materially different actions.
+2. **Preserve the active thread.** A user expressing interest in one product, business, or option keeps that candidate active until they reject it, request alternatives, or new evidence materially changes its suitability.
+3. **Do not reset discovery.** Never restart a broad questionnaire because a new message arrived. Collect information progressively, only when the next decision needs it.
+4. **Do not upgrade commitment.** Interest is not selection; selection is not approval; approval is not authorization for external execution.
+5. **Corrections override inferred state.** Apply the latest explicit correction immediately. Do not repeat the corrected behavior or explain why the earlier interpretation happened unless asked.
+6. **Do not expose internal state labels.** Use these classifications to reason, not as user-facing narration, unless the user asks for analysis of the process.
+7. **Deliver the next natural move.** When context is sufficient, act on it. Do not ask a question merely because a specialist checklist contains one.
+8. **Mark uncertainty honestly.** Never convert a remembered possibility, old simulation, or inferred preference into a current fact.
+
+The response owner must use this handoff and should request a context refresh only when a fact is stale, contradictory, or decision-critical.
