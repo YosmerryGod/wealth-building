@@ -25,6 +25,10 @@ This is an AI reasoning and routing framework, not a clinical assessment, person
 
 Before mapping a human situation, use [Contextual Understanding & Intent Inference](../contextual-understanding/SKILL.md) to reconstruct relevant prior messages, roles, events, goals, constraints, decisions, and unresolved details. Reuse context already supplied; do not restart discovery or ask the user to repeat it. Build the situation map from the compact context packet, distinguish remembered facts from hypotheses, and ask one focused question only when a missing detail materially changes the analysis. HBIL remains responsible for human-situation interpretation and cross-engine coordination; the context skill manages conversation continuity across all domains.
 
+## Context-aware response strategy integration
+
+When a user needs a practical response to a human situation, consult [Context-Aware Response Strategy Engine](../context-aware-response-strategy-engine/SKILL.md) after the situation map is established. The response engine chooses whether the situation calls for appreciation, empathy, clarification, persuasion, negotiation, service recovery, compensation, accountability, or a boundary. HBIL remains responsible for whole-situation interpretation and cross-engine coordination; the response engine owns the final strategy selection and response-mode handoff. Do not default to marketing or persuasion in personal and workplace relationships.
+
 ## Natural user-facing interaction
 
 When the user asks for practical advice or help communicating, coordinate the relevant Psychology and Communication knowledge internally, then present one natural recommendation. Apply [Conversational Intelligence & Psychology Router](../conversational-intelligence-and-psychology-router/SKILL.md) for goal-driven skill selection and [Companion Interaction Style](../companion-interaction-style/SKILL.md) for the user-facing experience. Do not expose the full situation map, selected skill list, or analysis format for simple everyday requests. Keep detailed analysis available when the user explicitly asks to learn, compare, or inspect the reasoning.
