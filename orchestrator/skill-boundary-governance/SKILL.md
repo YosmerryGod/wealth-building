@@ -133,6 +133,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Asset & Liability Analysis | Asset/liability classification, equity, and balance-sheet position | Investment selection or cash-flow forecasting |
 | Cash Flow Management | Timing, liquidity, cash forecasts, and operating cash controls | Accounting profit interpretation or investment suitability |
 | Financial Intelligence | High-level financial framing and routing to finance specialists | Repeating specialist calculations or regulated advice |
+| Online Marketplace Pricing & Promo Optimization | AYDO-source-faithful reverse pricing, marketplace fee recovery, promotion burden, package selection, promotion sequence, and price breakdown | HPP costing, cash-flow forecasting, platform policy verification, or inventing rules for fee structures not represented by AYDO |
 | Financial Leverage | Borrowing, OPM, capital stacking, and leverage risk | General cash management or equity legal structuring |
 | Financial Statement Literacy | Reading income statements, balance sheets, and cash-flow statements | Full bookkeeping, audit, tax, or investment advice |
 | Income-to-Asset Wealth Building | Framework for converting sustainable surplus income into productive assets | Guaranteeing returns or selecting a specific investment |
@@ -263,7 +264,7 @@ Business Agent owns the project → Contextual Understanding supplies project st
 
 ### Financial decision
 
-Financial Intelligence frames and routes → Cash Flow Management establishes timing and affordability → select only the needed owner: Envelope Budgeting for category allocations, Pay Yourself First for savings allocation, Emergency Fund Strategy for reserve sizing/withdrawals, Debt & Installment Management for debt cost and repayment, Asset/Liability or Statement Literacy for financial position/report interpretation, Leverage for borrowing strategy, or Opportunity/Investment Evaluation for capital deployment → Financial Habit Formation when routines and follow-through are the bottleneck → Behavioral Finance when biases or emotions materially affect the decision → Risk Assessment screens material consequences → one lead synthesizes.
+Financial Intelligence frames and routes → Cash Flow Management establishes timing and affordability → for online selling-price calculations using marketplace fees and promotions, Online Marketplace Pricing & Promo Optimization reproduces the AYDO source algorithm → otherwise select only the needed owner: Envelope Budgeting for category allocations, Pay Yourself First for savings allocation, Emergency Fund Strategy for reserve sizing/withdrawals, Debt & Installment Management for debt cost and repayment, Asset/Liability or Statement Literacy for financial position/report interpretation, Leverage for borrowing strategy, or Opportunity/Investment Evaluation for capital deployment → Financial Habit Formation when routines and follow-through are the bottleneck → Behavioral Finance when biases or emotions materially affect the decision → Risk Assessment screens material consequences → one lead synthesizes.
 
 ### Product/UI design
 
