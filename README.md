@@ -514,6 +514,8 @@ The goal is not to collect the largest number of skills. The goal is to build re
 
 - **2026-11-17** — Added Emotional Regulation & Calm Decision-Making in the Psychology domain, inspired by the themes of *Rahasia Bersikap Tenang dalam Kondisi Apa Pun* by Sabrina Ara. Added practical guidance for emotional awareness, pausing, fact-versus-interpretation checks, controllability, realistic reframing, resilience, and calm decisions across work, relationships, business, and personal choices. Clarified source limitations and safeguards against emotional suppression or tolerating harm. Updated the Psychology Decision Engine, skill index, folder tree, and changelog.
 
+- **2026-11-18** — Strengthened Context-Aware Response Strategy Engine and Service Recovery Marketing & Trust Building with responsibility-based response selection and seller-fault compensation assessment. Clarified that missing/wrong items must first be restored or refunded, while additional goodwill must be separately evaluated when seller-caused failures materially disrupt the customer experience. Added an example distinguishing the missing-item remedy from an approved complimentary core-product gesture.
+
 ## Future AI Company Naming Note
 
 The following names are reserved as proposed identities for the future AI department agents. This is a planning note only; it does not mean the agents or organization structure have been implemented.
