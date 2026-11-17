@@ -21,6 +21,10 @@ It answers four questions:
 
 This is an AI reasoning and routing framework, not a clinical assessment, personality test, lie detector, or autonomous behavioral surveillance system.
 
+## Context intake and continuity
+
+Before mapping a human situation, use [Contextual Understanding & Intent Inference](../contextual-understanding/SKILL.md) to reconstruct relevant prior messages, roles, events, goals, constraints, decisions, and unresolved details. Reuse context already supplied; do not restart discovery or ask the user to repeat it. Build the situation map from the compact context packet, distinguish remembered facts from hypotheses, and ask one focused question only when a missing detail materially changes the analysis. HBIL remains responsible for human-situation interpretation and cross-engine coordination; the context skill manages conversation continuity across all domains.
+
 ## Position in the architecture
 
 - **Human Behavior Intelligence Layer (HBIL):** frames the whole situation, selects the relevant analytical domains, coordinates handoffs, and synthesizes the result.
