@@ -204,3 +204,7 @@ This AI-only implementation has no persistent graph database, automatic file wat
 ## Governance and ownership boundary
 
 The canonical [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md) is the source of truth for skill ownership and routing. This graph maps evidence-backed relationships, dependencies, overlaps, and gaps; it does not become a second router that overrides the governance registry. For an overlap audit, compare primary responsibility, inputs, outputs, exclusions, and handoff—not keyword similarity alone. Recommend an edit to an existing skill before recommending a new skill. Keep the registry, README index, and skill relationship links synchronized after structural changes.
+
+## Governance and ownership boundary
+
+The canonical [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md) is the source of truth for skill ownership and routing. This graph maps evidence-backed relationships, dependencies, overlaps, and gaps; it does not become a second router that overrides the governance registry. For an overlap audit, compare primary responsibility, inputs, outputs, exclusions, and handoff—not keyword similarity alone. Recommend an edit to an existing skill before recommending a new skill. Keep the registry, README index, and skill relationship links synchronized after structural changes.
