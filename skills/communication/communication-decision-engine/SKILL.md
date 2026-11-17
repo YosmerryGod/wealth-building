@@ -15,6 +15,10 @@ Act as the routing and decision layer for the Communication domain. Understand t
 
 This engine coordinates specialist skills. It does not replace them and does not force every situation into a fixed script.
 
+## Context continuity
+
+Use [Contextual Understanding & Intent Inference](../../../orchestrator/contextual-understanding/SKILL.md) to interpret short follow-ups and reuse relevant prior messages, audience details, roles, communication goals, channel choices, constraints, and approved wording. Do not restart intake or ask the user to repeat context already available. Preserve unchanged constraints when the user changes only one part of the request. Ask one focused clarification only when the missing detail materially changes the communication outcome. For complex human situations, use the context packet prepared by the Human Behavior Intelligence Layer.
+
 ## Core operating principles
 
 1. Start with the user's actual communication goal and the situation, not a favorite technique.
