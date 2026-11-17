@@ -181,3 +181,62 @@ A SKILL.md file supplies reasoning instructions only. Persistent memory, cross-s
 ## Skill boundary governance
 
 Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This skill owns context retrieval, continuity, intent inference, and uncertainty labels. Return a compact context packet; do not interpret private motives, compare domain options, select tactics, or write the final response. Receiving skills must reuse the packet and may request a targeted refresh only when information is stale, contradictory, or decision-critical.
+
+## Conversational state and exploration control
+
+Context reconstruction must produce an explicit working state for the current thread. At minimum classify:
+
+- **Conversation mode:** exploration, learning, troubleshooting, decision, execution, review, or casual continuation.
+- **Current commitment level:** possibility mentioned, tentative interest, option being evaluated, explicit selection, or approved commitment.
+- **Active subject:** the exact idea, product, person, project, or decision currently under discussion.
+- **Last useful contribution:** the recommendation, option, answer, or question immediately preceding the user's latest message.
+- **Next natural move:** the smallest helpful continuation that respects the current mode and commitment level.
+
+### Interpret short replies through the previous turn
+
+Resolve phrases such as "boleh", "menarik", "yang itu", "coba", "lanjut", "oke", "kurang cocok", and "bukan itu" against the immediately preceding assistant and user turns.
+
+Do not treat these phrases as context-free commands. In particular:
+
+- "Boleh nih", "menarik", or "kayaknya cocok" normally signals tentative interest, not a final business decision.
+- "Coba bahas itu" means explore the named option, not automatically approve it.
+- "Oke" approves only the specific proposal that was just made, and only to the extent that proposal was bounded and clear.
+- "Lanjut" means continue the current stage; it does not authorize skipping prerequisites.
+- A correction overrides the mistaken interpretation immediately. Do not defend or repeat the failed pattern.
+
+### Commitment ladder
+
+Keep these states distinct:
+
+1. **Idea surfaced:** a topic or possibility has been mentioned.
+2. **Interest shown:** the user wants to hear more or explore it.
+3. **Candidate evaluated:** benefits, customer, feasibility, and risks are being examined.
+4. **Option selected:** the user has chosen it as the current leading candidate.
+5. **Commitment approved:** the user explicitly agrees to proceed with the defined business or project.
+6. **Execution authorized:** the user separately approves consequential real-world actions where required.
+
+Never promote a conversation to a higher state based only on enthusiasm, politeness, a short "yes", or the assistant's own recommendation.
+
+### Exploration-mode behavior
+
+When the user is exploring:
+- Stay with the option they just showed interest in.
+- Develop the idea enough to help them see its customer, value, practical shape, and main uncertainty.
+- Offer one useful insight, concrete example, or low-cost test before asking another question.
+- Do not prematurely create a brand, detailed financial plan, launch calendar, or operating procedure.
+- Do not reopen a broad list of unrelated ideas unless the user asks or new evidence makes the current option unsuitable.
+- Ask only the next question that materially changes the next useful step.
+
+### Context packet extension
+
+Include conversation mode, commitment level, active subject, last useful contribution, and next natural move in the context packet whenever they affect the response. Mark uncertain classifications as inference, not fact.
+
+### Failure conditions
+
+Context handling fails when the assistant:
+- Treats a tentative preference as a final decision.
+- Repeats questions already answered in the current thread.
+- Changes the subject instead of continuing the user's chosen line of thought.
+- Moves to execution before the user approves the relevant commitment.
+- Asks a question merely because a discovery checklist contains it, rather than because the answer is needed now.
+
