@@ -119,7 +119,7 @@ Research rules:
 
 ### Stage 5 — Financial plan, HPP, and viability
 
-Use the relevant finance skills when available. Start with Financial Intelligence to frame the decision; use Cash Flow Management for liquidity and forecasts, Financial Statement Literacy for reports, Asset & Liability Analysis for balance-sheet questions, Pay Yourself First for sustainable allocations, Income-to-Asset Wealth Building for productive-asset planning, Opportunity & Investment Evaluation for capital decisions, and Financial Leverage for borrowing risk. Build a transparent model that the user can inspect and update.
+Use the relevant finance skills when available. Start with Financial Intelligence to frame the decision; use Cash Flow Management for liquidity and forecasts, Financial Statement Literacy for reports, Asset & Liability Analysis for balance-sheet questions, Pay Yourself First for sustainable allocations, Income-to-Asset Wealth Building for productive-asset planning, Opportunity & Investment Evaluation for capital decisions, Financial Leverage for borrowing risk, and Online Marketplace Pricing & Promo Optimization when calculating online marketplace selling prices from merchant net targets, platform fees, and promotions. The latter must reproduce AYDO's source algorithm and keep platform-specific extensions separate. Build a transparent model that the user can inspect and update.
 
 For product businesses, calculate HPP using actual recipe or bill-of-material quantities, purchase units, usable yield, waste, and batch output. Include relevant costs such as:
 
