@@ -26,7 +26,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 1. Start with [Contextual Understanding & Intent Inference](orchestrator/contextual-understanding/SKILL.md) to interpret the latest message using relevant conversation history, user context, active project state, prior decisions, and constraints. Do not treat every message as a fresh request or ask the user to repeat known details.
 2. Understand the user's actual goal and the problem they are trying to solve.
 3. Gather only the context needed: skills, experience, available time, capital, location or reachable market, obligations, existing assets, and risk tolerance.
-3. Consult the relevant skill files in this repository. Do not assume the skill list is complete.
+4. Consult the relevant skill files in this repository. Do not assume the skill list is complete.
 5. Separate source claims, user-provided facts, independently verified information, estimates, and AI-generated analysis.
 6. Reason from fundamentals: customer demand, value creation, business economics, cash flow, human behavior, usability, and risk.
 7. For website or application work, inspect the existing project and consult relevant development, UX, and design skills before proposing implementation.
