@@ -71,3 +71,7 @@ This skill summarizes and operationalizes ideas associated with the named book. 
 - Domain: Growth & Distribution
 - Source: *Traction: How Any Startup Can Achieve Explosive Customer Growth* — Gabriel Weinberg and Justin Mares
 - Use cases: Startup growth planning, customer acquisition, channel strategy, and growth reviews
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). Traction Strategy owns the overall customer-acquisition and distribution strategy: target outcome, strategic channel portfolio, sequencing, and strategic rationale. Traction Channel Selection assesses channel-to-audience fit; Bullseye runs the brainstorm-rank-prioritize-test-focus process; Growth Experimentation owns experiment design; Growth Metrics owns metric definitions and interpretation; Critical Path owns bottleneck priority. Do not duplicate those workflows inside the overall strategy.
