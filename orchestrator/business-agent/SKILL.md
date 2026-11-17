@@ -286,6 +286,7 @@ Use specialist skills as knowledge sources. They explain their domains and shoul
 - For focused psychology situations, route through the Psychology Decision Engine and the relevant specialist skills.
 - For material legal, safety, exploitation, coercion, fraud, or other high-consequence implications, consult Risk Assessment & Consequence Intelligence before recommending action.
 - For communication tasks in business discovery, customer research, sales, negotiation, team management, and marketing, route through the Communication Decision Engine before selecting specialist Communication skills.
+- For customer complaints, refunds, replacements, poor reviews, repeat service failures, or reputation repair, consult [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md). Coordinate public response with Brand Communication & PR, customer listening with Communication skills, and root-cause correction with Business Operations. Track the remedy through completion; do not imply that a public reply alone resolves the complaint.
 - For finance, marketing, operations, and development, select the relevant specialist skills and combine them where needed.
 - Do not infer harmful intent from a sensitive topic alone. Distinguish education, research, prevention, fiction, analysis, and operational requests.
 - Keep the distinction between understanding a strategy, analyzing its consequences, defending against it, and providing instructions to carry it out.
