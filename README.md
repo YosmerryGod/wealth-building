@@ -19,7 +19,7 @@ The long-term AI mentor should be able to:
 
 ## How the AI should use this repository
 
-The [Skill Boundary & Routing Governance](orchestrator/skill-boundary-governance/SKILL.md) is the canonical source of truth for skill ownership, handoffs, overlap resolution, and routing. The lead skill must select the smallest sufficient set of specialists, reuse their handoff outputs, and synthesize one recommendation. Do not load every related skill or repeat an analysis without new evidence.
+The [Skill Boundary & Routing Governance](orchestrator/skill-boundary-governance/SKILL.md) is the canonical source of truth for skill ownership, handoffs, overlap resolution, and routing. The lead skill must select the smallest sufficient set of specialists, reuse their handoff outputs, and synthesize one recommendation. Do not load every related skill or repeat an analysis without new evidence. For YouTube and creator-production requests, use the [Content Intelligence Orchestrator](orchestrator/content-intelligence-orchestrator/SKILL.md) to route the task to the relevant Content Creation specialist.
 
 For end-to-end business-building requests, start with the [Business Agent Orchestrator](orchestrator/business-agent/SKILL.md). It coordinates discovery, recommendation approval, project focus, research, financial planning, creative preparation, marketing, execution, and performance review. The orchestrator routes to specialist skills where they exist; it does not replace them.
 
