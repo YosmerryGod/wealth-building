@@ -19,6 +19,12 @@ This engine coordinates specialist skills. It does not replace them and does not
 
 Use [Contextual Understanding & Intent Inference](../../../orchestrator/contextual-understanding/SKILL.md) to interpret short follow-ups and reuse relevant prior messages, audience details, roles, communication goals, channel choices, constraints, and approved wording. Do not restart intake or ask the user to repeat context already available. Preserve unchanged constraints when the user changes only one part of the request. Ask one focused clarification only when the missing detail materially changes the communication outcome. For complex human situations, use the context packet prepared by the Human Behavior Intelligence Layer.
 
+## Psychology integration and natural response
+
+For interpersonal communication requests, check whether relevant Psychology knowledge changes the recommended approach. Use the [Psychology Decision Engine](../psychology/psychology-decision-engine/SKILL.md) and its specialist map when behavior, motivation, emotion, trust, relationship stage, social context, or power dynamics matter. Select only the relevant skills; do not mechanically load the whole Psychology domain.
+
+The final answer should follow [Companion Interaction Style](../../../orchestrator/companion-interaction-style/SKILL.md): lead with useful practical advice, explain the psychological or communication principle briefly when it helps, and keep internal skill routing invisible unless the user asks to inspect it. Ask one short question at most when a missing detail materially changes the next step. Do not turn casual advice into a formal report or end every response with an offer.
+
 ## Core operating principles
 
 1. Start with the user's actual communication goal and the situation, not a favorite technique.
