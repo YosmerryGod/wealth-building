@@ -236,3 +236,7 @@ When a user asks for an event or viral campaign:
 - User-provided video: `67333.mp4`.
 - Source-derived scenario: recruitment of eight participants, a boxing challenge/tournament, accommodation as part of the experience, social-platform distribution, YouTube monetization as a possible revenue path, and an explicit warning against exploiting homeless people's hardship.
 - Added synthesis: event planning, monetization analysis, metrics, safety, consent, legal checks, and operational workflows.
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). Viral Event owns the integrated event-to-content-to-revenue plan and dependency map. It must delegate event experience design to Experiential & Event-Based Marketing, hooks and shareability to Viral Content Engineering, distribution tests to Growth, and costs/cash modelling to Finance. It integrates their bounded outputs rather than repeating their specialist workflows. If no event is involved, route directly to the relevant specialist instead of using this combined skill.
