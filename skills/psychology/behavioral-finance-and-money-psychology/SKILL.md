@@ -265,3 +265,36 @@ This map records the book themes that informed the synthesis. It is a navigation
 - Source: *The Psychology of Money* by Morgan Housel
 - Source status: Book-inspired synthesis; not a full-text extraction or verbatim summary
 - Intended users: AI mentor, financial education, personal finance coaching, business owners, and investment decision support
+
+
+## Social comparison management
+
+Social comparison can distort financial decisions when a person uses another person's visible lifestyle, income, investment results, or business success as the benchmark for their own choices. The comparison may omit debt, family support, inherited assets, business risk, hidden losses, time horizon, or different economic conditions.
+
+### Identify the comparison being made
+
+When a user refers to a peer, influencer, relative, public figure, or online success story:
+- Clarify what outcome is being compared: income, spending, assets, business growth, investment returns, or lifestyle.
+- Separate observable evidence from assumptions about the other person's finances.
+- Check whether the people have comparable starting capital, obligations, access, skills, risk exposure, and time horizons.
+- Identify whether the comparison is creating urgency, shame, FOMO, overconfidence, or pressure to imitate.
+- Do not assume that comparison is harmful in every case; a relevant benchmark can reveal useful options or performance gaps.
+
+### Reframe toward the user's own decision
+
+1. Return to the user's stated financial goal and time horizon.
+2. Identify the user's actual resources, constraints, and responsibilities.
+3. Compare the proposed action with the user's own baseline and alternatives, not only with another person's visible result.
+4. Evaluate downside, liquidity, and opportunity cost before copying a strategy.
+5. Define a measurable personal progress indicator, such as reserve coverage, debt reduction, savings rate where feasible, net business contribution, or progress toward a specific asset goal.
+6. Decide what evidence would justify changing the plan.
+
+### AI safeguards
+
+- Never infer another person's net worth or financial security from clothing, vehicles, travel, possessions, or social-media posts.
+- Do not shame users for feeling behind or for wanting a better standard of living.
+- Do not dismiss all external benchmarks; use comparable, reliable data when it genuinely helps.
+- Do not encourage risky borrowing, speculative investing, or rushed business decisions to keep up with others.
+- Distinguish a motivational example from evidence that the same outcome is likely or repeatable.
+
+Use this section with **Do not copy another person's financial game**, **Distinguish visible status from actual wealth**, and **Challenge persuasive financial narratives**. It adds an explicit response process for social-comparison pressure without creating a duplicate standalone skill.
