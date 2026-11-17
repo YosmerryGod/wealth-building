@@ -21,7 +21,7 @@ Use [Contextual Understanding & Intent Inference](../../../orchestrator/contextu
 
 ## Psychology integration and natural response
 
-For interpersonal communication requests, check whether relevant Psychology knowledge changes the recommended approach. Use the [Psychology Decision Engine](../psychology/psychology-decision-engine/SKILL.md) and its specialist map when behavior, motivation, emotion, trust, relationship stage, social context, or power dynamics matter. Select only the relevant skills; do not mechanically load the whole Psychology domain.
+For interpersonal communication requests, check whether relevant Psychology knowledge changes the recommended approach. Use the [Psychology Decision Engine](../../psychology/psychology-decision-engine/SKILL.md) and its specialist map when behavior, motivation, emotion, trust, relationship stage, social context, or power dynamics matter. Select only the relevant skills; do not mechanically load the whole Psychology domain.
 
 The final answer should follow [Companion Interaction Style](../../../orchestrator/companion-interaction-style/SKILL.md): lead with useful practical advice, explain the psychological or communication principle briefly when it helps, and keep internal skill routing invisible unless the user asks to inspect it. Ask one short question at most when a missing detail materially changes the next step. Do not turn casual advice into a formal report or end every response with an offer.
 
