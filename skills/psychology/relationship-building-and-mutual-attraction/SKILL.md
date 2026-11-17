@@ -2,8 +2,8 @@
 name: relationship-building-and-mutual-attraction
 title: Relationship Building & Mutual Attraction
 category: interpersonal-psychology
-source_type: AI-operational-framework-with-book-inspired-integration
-source: *Seni Membangun Relasi* by Devi Ardiyanti (Checklist, ISBN 978-623-7661-77-1); public catalogue descriptions only, complete text not inspected
+source_type: AI-operational-framework-with-book-inspired-integration-and-user-video-analysis
+source: *Seni Membangun Relasi* by Devi Ardiyanti (Checklist, ISBN 978-623-7661-77-1); public catalogue descriptions only, complete text not inspected; supplementary user-provided video 67443.mp4 (TikTok account watermark: priaunggul99)
 language: Indonesian
 ---
 
@@ -213,6 +213,30 @@ Application:
 - Avoid false choices, urgency, guilt, or pressure.
 - Treat a refusal or boundary as sufficient.
 
+### 8. Small-favor dynamics and emotional investment
+
+The user-provided video 67443.mp4 presents a relationship tactic it calls building "poin emosi" (emotional points). Its examples include asking someone to pick the user up, buy food, wake the user at an agreed time, or take a photo. The video suggests that a person's own effort and participation may contribute to emotional involvement. It also emphasizes that the other person must be willing, that refusal should be accepted, and that the approach is not suitable for everyone.
+
+Treat "poin emosi" as the video's informal metaphor, not a scientifically established score or a measurable currency of affection.
+
+Relevant psychological interpretation:
+- **Small, voluntary requests:** A modest, context-appropriate request can create an opportunity for someone to participate or help. The request should be genuine, proportionate, and easy to decline.
+- **Effort and involvement:** Contributing time or effort can sometimes increase a person's sense of participation or personal investment. This effect is context-dependent; it does not prove attraction or guarantee stronger feelings.
+- **Reciprocity:** Healthy relationships involve mutual care and contribution over time, not a ledger in which favors create debts.
+- **Positive shared experiences:** A request can become a pleasant interaction when both people freely choose it and appreciate the exchange.
+
+Application:
+- Use only genuine requests that fit the relationship and the situation; do not invent helplessness or manufacture emergencies.
+- Keep requests small and occasional. Do not escalate the size or frequency to test loyalty or manufacture dependency.
+- Make the request easy to refuse, and accept "no", "not now", silence, or an alternative without guilt, punishment, or repeated pressure.
+- Do not interpret compliance with a favor as proof of romantic interest. A person may help because they are kind, responsible, available, or simply willing to help.
+- Show appreciation without implying that the other person now owes attention, affection, intimacy, or another favor.
+- Offer care and effort yourself, while allowing both people to choose their own level of involvement.
+- Observe the broader pattern of mutual initiative, comfort, reliability, and freely chosen time together rather than counting favors.
+- If the person seems uncomfortable, overburdened, or consistently one-sided, stop making requests and reassess the relationship.
+
+Do not use small favors as a manipulation funnel, a compliance test, a way to create emotional debt, or a method to make someone fall in love. The video's "emotional points" framing is a hypothesis/metaphor for discussion, not a proven formula.
+
 ## Message-writing workflow
 
 When asked to draft or evaluate a message:
@@ -250,7 +274,7 @@ For simple requests, answer directly without forcing every section.
 
 ## Evidence and limitations
 
-These concepts are practical interpersonal frameworks, not deterministic laws. A short message, reply time, emoji, or single interaction cannot establish attraction, intent, or compatibility. Cultural norms, personality, schedule, context, and communication preferences vary.
+These concepts are practical interpersonal frameworks, not deterministic laws. A short message, reply time, emoji, or single interaction cannot establish attraction, intent, or compatibility. Cultural norms, personality, schedule, context, and communication preferences vary. The small-favor examples in user-provided video 67443.mp4 are illustrative relationship advice, not evidence that requests reliably create attraction. Treat the video's "emotional points" phrase as its own metaphor, not an established psychological measurement or guaranteed mechanism.
 
 Distinguish:
 - Observed behavior.
@@ -272,7 +296,7 @@ Never invent scientific certainty, probabilities, or research findings.
 ## Classification
 
 - Primary skill: Relationship Building & Mutual Attraction
-- Supporting concepts: Interpersonal Communication, Social Psychology, Reciprocity, Self-disclosure, Active Listening, Emotional Validation, Autonomy, Relationship Development
+- Supporting concepts: Interpersonal Communication, Social Psychology, Reciprocity, Self-disclosure, Active Listening, Emotional Validation, Autonomy, Relationship Development, Small-Favor Dynamics, Voluntary Effort, Emotional Investment
 - Primary use cases: New acquaintances, friendship, dating, romantic interest, compatibility, respectful communication, and mutual relationship development
 - Source status: AI operational framework; not derived from a specific user-provided video or scientific review
 
