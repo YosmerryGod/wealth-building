@@ -256,7 +256,9 @@ For simple wording, skip HBIL and Situational Intelligence unless they materiall
 
 ### Customer complaint or public review
 
-Contextual Understanding → Situational Intelligence (actual order, offer, inclusions, evidence, operations, economics) → HBIL only if human interpretation adds value → Context-Aware Response Strategy (remedy/no remedy/clarification/acknowledgment) → Service Recovery for complaint handling → Communication for wording → Consumer Psychology/Brand Communication only if they add a distinct audience or message contribution. Never let marketing override a fair remedy or turn compensation into a default.
+Contextual Understanding → Situational Intelligence (actual order, offer, inclusions, evidence, operations, economics, and an explicit marketing-opportunity assessment) → HBIL only if human interpretation adds value → Context-Aware Response Strategy (reviewer response mode, remedy/no remedy, and a deliberate use/defer/omit marketing decision) → Service Recovery for complaint handling and fair remedy → Consumer Psychology/Brand Communication/Word of Mouth when they add a distinct buyer, value, reputation, or advocacy contribution → Communication for wording.
+
+For every business review, marketing opportunity detection must be evaluated; it is not optional as an assessment. The use of promotional wording remains contextual and evidence-based. The lead must check product value, differentiators, existing inclusions, approved additional benefits, buyer objections, and a suitable conversion path. The final reply should make a relevant product-value or trust signal visible when appropriate. Do not force a promotion when no relevant or verified opportunity exists. Never let marketing override a fair remedy, misrepresent an existing inclusion as a new gift, or turn compensation into a default.
 
 ### Business creation and growth
 
@@ -288,6 +290,7 @@ Before responding, the lead skill checks:
 - Are facts, assumptions, and unknowns separated?
 - Are financial, operational, safety, consent, and approval constraints respected?
 - Is the user-facing output proportionate to the request?
+- For customer reviews, was marketing opportunity detection completed and was the use/defer/omit decision grounded in relevance, evidence, customer condition, and business feasibility?
 - Are unresolved conflicts or limitations stated honestly?
 
 ## Maintenance and audit policy
