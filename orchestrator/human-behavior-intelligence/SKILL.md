@@ -29,6 +29,12 @@ Before mapping a human situation, use [Contextual Understanding & Intent Inferen
 
 When the user asks for practical advice or help communicating, coordinate the relevant Psychology and Communication knowledge internally, then present one natural recommendation. Apply [Conversational Intelligence & Psychology Router](../conversational-intelligence-and-psychology-router/SKILL.md) for goal-driven skill selection and [Companion Interaction Style](../companion-interaction-style/SKILL.md) for the user-facing experience. Do not expose the full situation map, selected skill list, or analysis format for simple everyday requests. Keep detailed analysis available when the user explicitly asks to learn, compare, or inspect the reasoning.
 
+## Situational reasoning integration
+
+Before selecting a psychological explanation or communication tactic, consult [Situational Intelligence & Contextual Reasoning](../situational-intelligence/SKILL.md) when the recommendation depends on multiple interacting facts, goals, constraints, prior events, or consequences. HBIL remains the lead layer for human behavior and relationship dynamics; Situational Intelligence supplies the cross-domain situation model and option comparison. Use both without duplicating the same analysis.
+
+For business/customer cases, explicitly map the actual offer, price, product inclusions, order details, operational constraints, and authority to approve remedies. Do not recommend a marketing counter or compensation based only on the customer's wording. Distinguish an existing menu inclusion from an additional benefit, and assess whether a proposed gesture addresses the actual complaint.
+
 ## Position in the architecture
 
 - **Human Behavior Intelligence Layer (HBIL):** frames the whole situation, selects the relevant analytical domains, coordinates handoffs, and synthesizes the result.
@@ -42,15 +48,16 @@ Do not route every ordinary interaction through every layer. HBIL is most useful
 ## Core principles
 
 1. **Context before theory:** start from the concrete situation, not a favored psychological explanation.
-2. **Evidence before attribution:** separate what happened from what someone thinks it means.
-3. **Multiple hypotheses:** consider more than one plausible explanation and identify what would distinguish them.
-4. **Role flexibility:** the user may be a leader, subordinate, peer, owner, customer, partner, family member, friend, or observer.
-5. **Power awareness:** examine authority, dependency, access, resources, information, status, and ability to decline.
-6. **Purposeful routing:** select only engines and specialist skills that add distinct value.
-7. **Practical synthesis:** translate analysis into a decision, conversation, boundary, experiment, or next action.
-8. **Feedback and revision:** update the model when new evidence or outcomes arrive.
-9. **Source discipline:** distinguish empirical research, philosophical ideas, book-derived themes, user-provided material, and AI-generated frameworks.
-10. **Human agency:** preserve informed choice, dignity, privacy, and the ability to disagree or disengage.
+2. **Situation before tactic:** compare the actual goals, constraints, domain facts, and consequences before selecting a response.
+3. **Evidence before attribution:** separate what happened from what someone thinks it means.
+4. **Multiple hypotheses:** consider more than one plausible explanation and identify what would distinguish them.
+5. **Role flexibility:** the user may be a leader, subordinate, peer, owner, customer, partner, family member, friend, or observer.
+6. **Power awareness:** examine authority, dependency, access, resources, information, status, and ability to decline.
+7. **Purposeful routing:** select only engines and specialist skills that add distinct value.
+8. **Practical synthesis:** translate analysis into a decision, conversation, boundary, experiment, or next action.
+9. **Feedback and revision:** update the model when new evidence or outcomes arrive.
+10. **Source discipline:** distinguish empirical research, philosophical ideas, book-derived themes, user-provided material, and AI-generated frameworks.
+11. **Human agency:** preserve informed choice, dignity, privacy, and the ability to disagree or disengage.
 
 ## Situation map
 
@@ -98,6 +105,8 @@ Distinguish ordinary disagreement, negotiation, persuasion, and competition from
 Identify what each party needs to understand; whether the issue is listening, clarity, trust, feedback, negotiation, conflict, presentation, or relationship maintenance; and the best channel, timing, formality, and level of detail.
 
 ## Integrated reasoning workflow
+
+For cross-domain or business situations, apply [Situational Intelligence & Contextual Reasoning](../situational-intelligence/SKILL.md) to reconstruct the situation, separate facts from assumptions, compare feasible actions, and anticipate consequences before selecting specialist skills. HBIL then interprets the human and relationship dynamics and coordinates Psychology/Communication contributions.
 
 ### Step 1 — Define the task
 
