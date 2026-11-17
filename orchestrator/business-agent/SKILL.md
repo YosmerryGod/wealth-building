@@ -278,7 +278,8 @@ If persistent storage is unavailable, be transparent and provide a compact proje
 
 Use specialist skills as knowledge sources. They explain their domains and should not be treated as the repository's global safety or action-policy layer.
 
-- For psychology situations, route through the Psychology Decision Engine and the relevant specialist skills.
+- For business situations where employee behavior, customer psychology, relationship dynamics, power, and communication interact, consult the [Human Behavior Intelligence Layer](../human-behavior-intelligence/SKILL.md) to coordinate the relevant engines and specialist skills.
+- For focused psychology situations, route through the Psychology Decision Engine and the relevant specialist skills.
 - For material legal, safety, exploitation, coercion, fraud, or other high-consequence implications, consult Risk Assessment & Consequence Intelligence before recommending action.
 - For communication tasks in business discovery, customer research, sales, negotiation, team management, and marketing, route through the Communication Decision Engine before selecting specialist Communication skills.
 - For finance, marketing, operations, and development, select the relevant specialist skills and combine them where needed.
