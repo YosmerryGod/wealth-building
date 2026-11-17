@@ -219,7 +219,7 @@ When several reviews or customer reports are supplied together:
 | Minor preference or subjective feedback; order delivered as described and safe | Thank the customer, acknowledge preference, record feedback | Usually no compensation; improve product only if feedback shows a pattern |
 | Minor packaging inconvenience without meaningful product loss | Apologize and identify packaging improvement | Usually apology and process correction; consider a small remedy only if impact warrants it |
 | Product spilled, damaged, or partly unusable | Apologize and verify the affected portion | Replace or refund the affected part; consider full-order remedy only if most of the order was lost |
-| Missing or wrong item | Acknowledge the fulfilment error and verify order | Send the missing/correct item or refund its value; do not default to a free extra item |
+| Missing or wrong item caused by the business | Acknowledge the fulfilment error and verify the order | Restore the missing/correct item or refund its value first; separately assess additional goodwill when the omission materially disrupted the customer's experience |
 | Portion or quantity materially below the stated offer | Check menu promise, portion standard, and actual fulfilment | Correct the shortfall or refund the affected value; update portion controls |
 | Suspected spoiled, contaminated, or otherwise unsafe food/product | Treat as a safety issue; stop serving/selling the suspect batch where appropriate and investigate | Refund or replace only with a verified safe product; provide additional remedy when impact and policy justify it |
 | Repeated defect or multiple affected customers | Escalate beyond a routine reply; investigate supplier, batch, storage, and process | Resolve affected orders and correct the systemic cause; compensation is assessed per affected customer |
@@ -239,6 +239,20 @@ Before offering a free item, consider its cost, the customer's actual loss, repe
 Never promise a free item, refund, or delivery before confirming that the business has authorized it and can fulfill it. Do not use freebies to distract from safety failures or recurring operational problems.
 
 Track each concession through distinct states: **considered** (internal possibility), **recommended** (proposed to the owner), **approved** (authorized and feasible), **offered** (communicated to the customer), and **fulfilled** (actually delivered). Do not write customer-facing copy that presents a recommendation as an approved offer, or an offer as a completed resolution.
+
+### Step 4A: seller-fault compensation assessment
+
+A clear seller-caused error requires more than a generic apology. The AI must distinguish the customer's original entitlement from additional compensation and assess both.
+
+1. **Confirm responsibility proportionately.** Determine whether the business omitted, prepared, packed, described, or charged for something incorrectly. If the evidence is incomplete, say what needs verification rather than assuming the seller or customer is at fault.
+2. **Restore what the customer paid for.** For a missing item, wrong item, or incomplete order, the primary remedy is the correct missing item, a suitable replacement, or a refund of its value. Do not replace this obligation with an unrelated freebie.
+3. **Assess the experience beyond the item value.** Consider whether the omission disrupted the meal, made the order unusable or incomplete, caused extra effort or delay, or compounded a previous failure.
+4. **Actively consider additional goodwill when seller fault materially affected the experience.** A relevant complimentary core product, add-on, or next-order benefit may be appropriate after the original loss is addressed. Assess proportionality, cost, margin, availability, fairness, repeat failures, and the relationship context. A free item is not automatic, but it must not be dismissed merely because the business generally avoids discounts or freebies.
+5. **Connect goodwill to the customer's actual order.** Choose a benefit that makes sense for what was missing or disappointing. For example, when rice was omitted from a meal, restore the rice first; an additional serving of the restaurant's main product may then be considered as separate goodwill if approved.
+6. **Make the decision visible in the public reply.** If the additional offer is approved, state the exact product, quantity, and how to claim it. If it is not yet approved, do not promise it; recommend it to the owner and route order-specific confirmation through an official private channel.
+7. **Fix the cause.** State a concrete packing or order-checking improvement where relevant. Compensation does not replace operational correction.
+
+**Seller-fault decision rule:** when a seller-caused fulfilment error is established, the minimum response is to acknowledge responsibility and restore the missing value. Then explicitly evaluate whether the disruption warrants additional goodwill. The AI must not stop at “replace or refund” without performing this second assessment.
 
 ### Step 5: write the public reply for the actual case
 
