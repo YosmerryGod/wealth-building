@@ -177,3 +177,7 @@ To make this skill work reliably in a future AI agent, implement separate runtim
 7. Privacy-aware retention, access controls, and user-visible memory management.
 
 A SKILL.md file supplies reasoning instructions only. Persistent memory, cross-session retrieval, tool access, and state updates require actual runtime components.
+
+## Skill boundary governance
+
+Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This skill owns context retrieval, continuity, intent inference, and uncertainty labels. Return a compact context packet; do not interpret private motives, compare domain options, select tactics, or write the final response. Receiving skills must reuse the packet and may request a targeted refresh only when information is stale, contradictory, or decision-critical.
