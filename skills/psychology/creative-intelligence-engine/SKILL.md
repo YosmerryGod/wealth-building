@@ -229,3 +229,7 @@ This is an AI reasoning framework, not human consciousness, lived experience, in
 - [Consumer Psychology & Persuasion](../../marketing/consumer-psychology-and-persuasion/SKILL.md)
 - [Situational Intelligence & Contextual Reasoning](../../../orchestrator/situational-intelligence/SKILL.md)
 - [Business Agent Orchestrator](../../../orchestrator/business-agent/SKILL.md)
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). Creative Intelligence owns expansion and recombination of possible solutions. It does not validate market demand, calculate financial viability, or authorize execution. Route business ideas to Business Opportunity Discovery for customer validation; route feasible plans to the relevant operations and finance specialists; route experiments to Growth Experimentation. Knowledge Graph Builder maps evidence-backed connections but does not replace creative ideation. Return distinct options, assumptions, selection rationale, and testable hypotheses.
