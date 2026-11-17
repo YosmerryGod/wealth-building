@@ -44,7 +44,8 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Keep factual quality rules: do not invent market demand, prices, margins, research findings, citations, customer counts, or financial results. Distinguish source claims, verified facts, assumptions, estimates, and AI synthesis.
 - Do not promise guaranteed income, investment returns, fast wealth, or certain business success.
 - Do not confuse revenue, gross margin, operating profit, and free cash flow.
-- Understand the user's role and relationship dynamics before applying Psychology skills. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
+- Understand the user's role and relationship dynamics before applying Psychology skills.
+- For communication tasks, route through the [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md) to identify the user's role, audience, relationship, goal, channel, and relevant specialist Communication skills. Use the Psychology Decision Engine as a companion when the main problem concerns interpreting behavior, power dynamics, or relationship psychology. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
 - Treat skills as adaptable knowledge, not infallible scripts. Apply relevant context and evidence rather than forcing one method into every situation.
 - For digital products, prioritize usability, accessibility, responsive behavior, maintainability, and actual user needs.
 
@@ -85,6 +86,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 | Research / Intelligence | [OSINT & Digital Footprint Intelligence](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) | Structured public-source collection, entity correlation, evidence validation, and defensive exposure reporting | Adapted knowledge synthesis from smicallef/spiderfoot; MIT |
 | Domain | Skill | Focus | Source / status |
 |---|---|---|---|
+| Communication / Orchestration | [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md) | Routes communication situations by user role, relationship, audience, goal, channel, and constraints to the smallest useful set of specialist Communication skills | Original AI orchestration framework; coordinates six existing Communication skills and related Psychology knowledge |
 | Communication | [Effective Communication & First Impressions](skills/communication/effective-communication-and-first-impressions/SKILL.md) | Adapting message clarity, relevance, credibility, communication purpose, and opening style to audience and context | *Bicara Itu Ada Seninya*; *Rahasia Lancar Berkomunikasi*; public catalogue themes synthesized |
 | Communication | [Active Listening & Conversational Rapport](skills/communication/active-listening-and-conversational-rapport/SKILL.md) | Using relevant questions, attentive listening, reflection, relationship-aware dialogue, and conversational adaptation | *Bicara Itu Ada Seninya*; *Rahasia Lancar Berkomunikasi*; *Seni Membangun Relasi*; public catalogue themes synthesized |
 | Communication | [Persuasive Communication & Negotiation](skills/communication/persuasive-communication-and-negotiation/SKILL.md) | Presenting reasons, handling objections, understanding interests, and negotiating transparent agreements | *Bicara Itu Ada Seninya*; ethical persuasion and negotiation framework added |
@@ -155,6 +157,8 @@ skills/
 │   └── business-ownership-and-equity/
 │       └── SKILL.md
 ├── communication/
+│   ├── communication-decision-engine/
+│   │   └── SKILL.md
 │   ├── active-listening-and-conversational-rapport/
 │   │   └── SKILL.md
 │   ├── effective-communication-and-first-impressions/
@@ -301,6 +305,9 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Communication Decision Engine as the Communication domain's orchestration layer. It identifies user role, audience, relationship, goal, channel, and constraints; routes to the six existing Communication specialist skills; and adapts recommendations for workplace, business, customer, public-speaking, and personal contexts. Updated the README skills index, AI mentor routing rule, and folder tree. The engine is an original AI operational framework, not a direct book adaptation.
+
 
 - **2026-11-17** — Integrated three Checklist books into existing Communication and interpersonal skills without creating duplicate folders: *Cara Mudah & Praktis Belajar Public Speaking* (ISBN 978-623-7661-09-2), *Rahasia Lancar Berkomunikasi* (ISBN 978-623-7661-60-3), and *Seni Membangun Relasi* (ISBN 978-623-7661-77-1). Expanded public speaking, presentation content, everyday communication, active listening, nonverbal adaptation, and relationship/networking guidance. Updated source attribution and README index. Integration is based on public publisher/library catalogue descriptions and outlines; complete book texts were not inspected.
 
