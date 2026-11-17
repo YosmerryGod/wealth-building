@@ -84,7 +84,9 @@ For complex practical decisions, use [Situational Intelligence & Contextual Reas
 
 ## Skills library
 
-| Knowledge Engineering | [Knowledge Graph Builder](skills/knowledge/knowledge-graph-builder/SKILL.md) | AI-only workflow for discovering repository skills and concepts, mapping evidence-backed relationships, auditing overlap and gaps, and reasoning across domains | Original AI reasoning skill; no code-based graph engine or persistent graph database |\n| Development / Frontend Design | [Frontend Design](skills/development/frontend-design/SKILL.md) | Product-specific frontend direction: discover the brief, plan color/type/layout, challenge generic choices, build, inspect, and critique responsive accessible interfaces | Adapted operational synthesis from Anthropic's Frontend Design; Apache-2.0; source attribution and license retained |
+| Knowledge Engineering | [Knowledge Graph Builder](skills/knowledge/knowledge-graph-builder/SKILL.md) | AI-only workflow for discovering repository skills and concepts, mapping evidence-backed relationships, auditing overlap and gaps, and reasoning across domains | Original AI reasoning skill; no code-based graph engine or persistent graph database |
+| Psychology / Creativity | [Creative Intelligence Engine](skills/psychology/creative-intelligence-engine/SKILL.md) | Cross-domain idea generation, lateral and analogical thinking, connecting concepts, reframing problems, creative evaluation, and experimentation | Original AI reasoning framework; informed by broad creativity themes associated with *Oh My Goodness*; complete book text not inspected |
+| Development / Frontend Design | [Frontend Design](skills/development/frontend-design/SKILL.md) | Product-specific frontend direction: discover the brief, plan color/type/layout, challenge generic choices, build, inspect, and critique responsive accessible interfaces | Adapted operational synthesis from Anthropic's Frontend Design; Apache-2.0; source attribution and license retained |
 | Development / Reverse Engineering | [Reverse Engineering & Reference-Based Reconstruction](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) | Investigating reference websites, apps, interfaces, journeys, interactions, and technical behavior; extracting evidence-backed patterns and adapting them into an original product experience | Original AI investigation and reconstruction workflow; informed by REA concepts, without bundling or claiming its MCP/CLI/toolchain capabilities |
 | Development / Platform UX | [Apple Platform Design & HIG Review](skills/development/apple-platform-design-and-hig-review/SKILL.md) | Reviewing and improving Apple-platform interfaces against Human Interface Guidelines, including accessibility, platform conventions, interaction, visual craft, and cross-platform translation | Original operational synthesis based on Apple's official HIG; review structure informed by dickwu/apple-design-skill; no upstream guideline collection copied |
 | Development / Creative | [Scroll-Driven 3D Storytelling](skills/development/scroll-driven-3d-storytelling/SKILL.md) | Planning and building continuous scroll-controlled 3D journeys, scene production, camera continuity, video scrubbing, and responsive QA | Adapted knowledge synthesis from oso95/scroll-world; MIT |
@@ -181,6 +183,9 @@ orchestrator/
 skills/
 ├── knowledge/
 │   └── knowledge-graph-builder/
+│       └── SKILL.md
+├── psychology/
+│   └── creative-intelligence-engine/
 │       └── SKILL.md
 ├── business/
 │   ├── business-opportunity-discovery/
@@ -357,6 +362,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+- **2026-11-17** — Added Creative Intelligence Engine under Psychology / Creativity. Covers divergent and lateral thinking, connecting the dots, analogical thinking, assumption challenging, observation-led opportunity discovery, creative problem solving, idea evaluation, and experimentation. Integrated it with Knowledge Graph Builder and Business Agent Orchestrator while routing market validation to existing Business Opportunity Discovery and Growth Experimentation skills. Source note distinguishes original AI synthesis from the broad themes associated with *Oh My Goodness*; the complete book text was not inspected.
 - **2026-11-17** — Expanded Relationship Building & Mutual Attraction with Small-Favor Dynamics & Emotional Investment, based on the examples and framing in user-provided video 67443.mp4. Added voluntary, proportionate requests; mutual effort; interpretation limits; and safeguards against guilt, pressure, emotional debt, and treating favors as proof of attraction. Updated the README skill index. The video's “emotional points” phrase is treated as an informal metaphor, not a validated psychological measure.
 - **2026-11-17** — Expanded Financial Leverage into Financial Leverage & Other People's Money (OPM). Added owner capital, asset rental/leasing, customer-funded pre-orders, family/private funding, supplier credit, capital stacking, source-by-source obligations, cash-flow timing, and downside stress testing. Integrated the chicken-business funding comparison from user-provided video 67439.mp4 (visible watermark: Kita Ulik Dunia), while marking its figures as illustrative and unverified. Updated the skills index; retained the existing skill path to avoid duplication.
 
