@@ -114,6 +114,10 @@ Do not equate publicity volume with reputation or awareness quality. Record the 
 7. Correct misunderstandings and respond to issues.
 8. Review message clarity, trust, and outcomes.
 
+## Service recovery integration
+
+For public complaints, customer-impacting incidents, and reputation repair after a service failure, consult [Service Recovery Marketing & Trust Building](service-recovery-marketing-and-trust-building/SKILL.md). This skill owns the service-recovery sequence, remedy, follow-through, and root-cause correction; Brand Communication & PR owns the wider public and stakeholder messaging. Coordinate them without repeating the same response guidance.
+
 ## Relationship to other skills
 
 - **Brand Awareness & Brand Activation:** sets the broader awareness and brand-memory objective.
