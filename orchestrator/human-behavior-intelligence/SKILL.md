@@ -261,3 +261,7 @@ Before delivering an integrated recommendation:
 ## Implementation status
 
 This file defines a knowledge and reasoning workflow. It does not itself create software agents, persistent memory, background monitoring, behavioral tracking, or automatic access to personal data. Those capabilities require separate implementation, permissions, and system design.
+
+## Skill boundary governance
+
+Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). HBIL owns human-situation interpretation and coordination only when roles, behavior, needs, incentives, emotions, or relationship dynamics materially affect the task. Contextual Understanding owns history retrieval; Situational Intelligence owns the general cross-domain model; Context-Aware Response owns response-mode selection. Accept their outputs and do not repeat their work. Return evidence-separated observations, hypotheses, and human factors to the lead orchestrator.
