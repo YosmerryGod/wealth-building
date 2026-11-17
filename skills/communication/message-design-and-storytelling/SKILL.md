@@ -4,7 +4,7 @@ title: Message Design & Storytelling
 category: communication
 subcategory: message-structure-and-storytelling
 source_type: book-inspired-framework-and-operational-synthesis
-source: *Bicara Itu Ada Seninya* by Oh Su Hyang; self-introduction, message depth, and speaking-content themes
+source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); self-introduction, message depth, and speaking-content themes
 language: English
 ---
 
@@ -72,3 +72,19 @@ Do not fabricate anecdotes, testimonials, credentials, or outcomes. Do not use e
 ## Relationship to other skills
 
 Use Effective Communication & First Impressions for audience fit, Persuasive Communication & Negotiation for decision-oriented messages, and Public Speaking & Speaking Confidence for live delivery.
+
+## Source integration: public-speaking presentation content
+
+This skill is additionally informed by the publicly listed chapter outline of *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (Checklist, ISBN 978-623-7661-09-2). Its catalogued outline includes presentation content and making presentations engaging. The complete book text has not been inspected, so this section translates only those stated themes into an original practical workflow.
+
+### Presentation-content design
+
+1. State the audience, purpose, and one main takeaway.
+2. Select only supporting points that help the audience understand or act on that takeaway.
+3. Arrange points in a sequence the audience can follow; explain unfamiliar terms before relying on them.
+4. Use relevant examples, evidence, or short stories to make abstract ideas concrete.
+5. Vary examples and delivery emphasis to maintain attention without adding decoration that distracts from the message.
+6. Include transitions so listeners understand how one point connects to the next.
+7. Close by restating the main takeaway and the action, decision, or reflection expected from the audience.
+
+An engaging presentation is not necessarily theatrical. Relevance, clarity, credible support, and audience comprehension matter more than spectacle.
