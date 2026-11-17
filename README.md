@@ -45,7 +45,7 @@ When a new conversation relates to wealth-building, entrepreneurship, business, 
 - Do not promise guaranteed income, investment returns, fast wealth, or certain business success.
 - Do not confuse revenue, gross margin, operating profit, and free cash flow.
 - Understand the user's role and relationship dynamics before applying Psychology skills.
-- For communication tasks, route through the [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md). For behavior, relationship-pattern, emotional-dynamic, or power questions, route through the [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md). Let the engine closest to the user's primary need lead; consult the other only when it adds a distinct contribution. Psychology can explain relevant dynamics, while Communication turns that context into an appropriate conversation, message, negotiation, or delivery plan. Avoid duplicate analysis and unnecessary routing. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
+- For human situations where behavior, relationships, social or power dynamics, and communication interact, use the [Human Behavior Intelligence Layer](orchestrator/human-behavior-intelligence/SKILL.md) to map the situation and coordinate the appropriate engines. For focused behavior or psychological analysis, use the [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md); for focused messages, conversations, presentations, or negotiation, use the [Communication Decision Engine](skills/communication/communication-decision-engine/SKILL.md). Let the layer closest to the user's primary need lead, and consult another only when it adds a distinct contribution. Avoid duplicate analysis and unnecessary routing. The Psychology domain applies across workplace, business, social, family, friendship, dating, and romantic contexts.
 - Treat skills as adaptable knowledge, not infallible scripts. Apply relevant context and evidence rather than forcing one method into every situation.
 - For digital products, prioritize usability, accessibility, responsive behavior, maintainability, and actual user needs.
 
@@ -119,6 +119,7 @@ Every new skill should explain its subject as fully and accurately as the availa
 | Psychology | [Psychological Control & Human Vulnerability](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) | Recognizing coercive control, learned helplessness, intermittent reinforcement, economic coercion, dependency, workplace power imbalance, and protecting autonomy | Two user-provided allegorical videos; psychological framing and AI safeguards added |
 | Psychology | [Workplace Competition & Divide-and-Rule Psychology](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) | Analyzing workplace rivalry, social comparison, manager approval, power asymmetry, and the difference between healthy competition and deliberate division | User-provided video 67280.mp4; interpretation clarified by user; operational framework added |
 | Psychology | [False Concern & Covert Sabotage](skills/psychology/false-concern-and-covert-sabotage/SKILL.md) | Recognizing fake concern, covert workplace obstruction, impression management, and professional responses to public undermining | User-provided video 67279.mp4; operational framework and safeguards added |
+| Orchestration / Human Behavior | [Human Behavior Intelligence Layer](orchestrator/human-behavior-intelligence/SKILL.md) | Integrates situation mapping, behavioral hypotheses, relationship and power context, Psychology and Communication engine routing, and practical recommendations | Original AI cross-domain orchestration framework; knowledge layer only, not an implemented agent |
 | Psychology | [Psychology Decision Engine](skills/psychology/psychology-decision-engine/SKILL.md) | Detecting user role and relationship dynamics, selecting and combining relevant psychology skills, and producing ethical recommendations for leaders, subordinates, peers, owners, and other roles | AI orchestration skill; coordinates existing Psychology skills |
 | Business | [Business Ownership & Equity Basics](skills/business/business-ownership-and-equity/SKILL.md) | Explaining business expansion models, ownership versus management, equity, shares, capital, revenue, and profit | User-provided video 67278.mp4; bakery example summarized and educational framework added |
 | Business | [Business Model Innovation & Asset Monetization](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) | Comparing sale, rental, lease, subscription, and pay-per-use models; evaluating repeat revenue from reusable assets, deposits, utilization, and asset economics | User-provided video 67299.mp4; umbrella rental scenario summarized with operational and financial framework added |
@@ -140,6 +141,8 @@ Skills are grouped by knowledge domain. Each individual skill has its own folder
 
 ```text
 orchestrator/
+├── human-behavior-intelligence/
+│   └── SKILL.md
 ├── business-agent/
 │   └── SKILL.md
 └── risk-assessment/
@@ -305,6 +308,9 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added Human Behavior Intelligence Layer (HBIL) as a cross-domain orchestration skill above the Psychology and Communication Decision Engines. Added situation mapping, evidence-aware behavioral hypotheses, role and power context, primary-engine selection, shared context handoff, specialist routing, practical synthesis, and feedback review. Updated README routing guidance, skills index, folder tree, and Business Agent integration. This is a knowledge/reasoning layer, not an implemented autonomous agent or behavioral tracking system.
+
 
 - **2026-11-17** — Connected Communication Decision Engine and Psychology Decision Engine with a bidirectional collaboration protocol. Added primary-engine selection, conditional cross-routing, a concise context handoff, division of responsibilities, and an example workflow. Updated both engine documents and the README AI mentor routing rule. The integration avoids routing every ordinary communication request through Psychology and avoids duplicating specialist analysis.
 
