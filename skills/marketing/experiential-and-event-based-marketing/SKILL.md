@@ -112,3 +112,7 @@ Do not treat attendance, photos, or social impressions as proof of commercial su
 ## Source basis and limitations
 
 The book *150 Brand Awareness Ideas* by Akmal Musyadat Cholil is identified in available bibliographic material as covering brand-awareness ideas and online/offline promotion. Experiential advertising and event-related tactics appear among the partial topic descriptions available for this discussion. This skill is an original operational synthesis, not a verified transcription or complete extraction of the book's 150 ideas.
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns the audience experience and event design/delivery. Viral Event integrates the event with content and monetization; Viral Content Engineering owns hooks, attention, and content iteration; Growth owns distribution tests and metrics. Hand off event format, audience journey, operational requirements, risks, and measurable outcomes. Do not build a separate content monetization or channel-testing strategy here.
