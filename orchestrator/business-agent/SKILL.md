@@ -168,7 +168,7 @@ Ensure the brand is legible, usable, appropriate for the customer and channel, a
 
 ### Stage 7 — Marketing and campaign preparation
 
-Use the relevant Communication skills to prepare clear customer messages, active listening, ethical persuasion, negotiation, storytelling, and delivery. Use the relevant marketing, consumer psychology, content, and campaign-planning skills.
+Route communication planning through the [Communication Decision Engine](../../skills/communication/communication-decision-engine/SKILL.md). It selects the appropriate combination of Communication skills based on the user's role, target audience, relationship, campaign objective, channel, and constraints. Use its specialist routing to prepare clear customer messages, active listening, ethical persuasion, negotiation, storytelling, and delivery. Then use the relevant marketing, consumer psychology, content, and campaign-planning skills.
 
 Prepare a small, testable launch plan rather than an unnecessarily complex campaign. Choose channels based on where the target customers can realistically be reached and what the user can consistently operate. Possible channels include WhatsApp, Instagram, TikTok, marketplaces, local communities, partnerships, and offline distribution.
 
@@ -280,7 +280,8 @@ Use specialist skills as knowledge sources. They explain their domains and shoul
 
 - For psychology situations, route through the Psychology Decision Engine and the relevant specialist skills.
 - For material legal, safety, exploitation, coercion, fraud, or other high-consequence implications, consult Risk Assessment & Consequence Intelligence before recommending action.
-- For finance, marketing, operations, communication, and development, select the relevant specialist skills and combine them where needed.
+- For communication tasks in business discovery, customer research, sales, negotiation, team management, and marketing, route through the Communication Decision Engine before selecting specialist Communication skills.
+- For finance, marketing, operations, and development, select the relevant specialist skills and combine them where needed.
 - Do not infer harmful intent from a sensitive topic alone. Distinguish education, research, prevention, fiction, analysis, and operational requests.
 - Keep the distinction between understanding a strategy, analyzing its consequences, defending against it, and providing instructions to carry it out.
 - If a request seeks operational help for serious wrongdoing or harm, do not provide execution instructions; explain the issue briefly and redirect toward a legitimate way to pursue the user's underlying goal.
