@@ -63,6 +63,32 @@ Choose one or two relevant mechanisms:
 
 A counter is not an argument against the reviewer. It is a relevant fact, corrective action, or approved offer that makes the business's value and reliability clearer to future readers.
 
+### Mandatory integration: turn customer psychology into a marketing action
+
+A correct public reply is not complete merely because it recognizes the customer's emotion, apologizes, or explains an operational correction. When a relevant commercial opportunity exists, translate the customer's psychological situation into a concrete marketing action that is visible in the final copy.
+
+Use this decision chain:
+
+1. **Psychology:** identify what the customer needs now—fairness, acknowledgment, reassurance, restored trust, recognition, better value, reduced risk, or a reason to return.
+2. **Marketing:** identify what the business can truthfully offer or demonstrate—its main product, a differentiator, a useful bundle, a real inclusion, an approved extra benefit, or a suitable next step.
+3. **Combination:** choose a mechanism that connects the two. For example:
+   - Reciprocity + goodwill marketing: an approved extra serving or product benefit acknowledges the customer's experience and gives a concrete reason to order again.
+   - Trust repair + product positioning: show a verified quality attribute and the corrective action that protects it.
+   - Price concern + value marketing: make the real contents, portion, complementary items, or package value clear without automatically discounting.
+   - Positive experience + social proof/product marketing: reflect the customer's actual praise and connect it to a relevant product or package.
+   - Purchase hesitation + risk reduction: clarify ingredients, process, fulfilment, policy, or a genuine trial option.
+4. **Execution:** write the chosen action into the reply. A strategy mentioned only in internal analysis has not been executed.
+
+For a goodwill offer, state the actual product or benefit, quantity, timing, and claim route clearly. Check that it is available, affordable for the business, operationally deliverable, and authorized by the owner. If approval is missing, do not promise it publicly; present it as a proposed option for the owner to approve.
+
+**Illustrative pattern — complaint followed by an approved goodwill offer:**
+
+"Terima kasih atas masukannya, Kak. Kami ingin bertanggung jawab atas pengalaman tersebut. Sebagai bentuk permintaan maaf, kami ingin memberikan tambahan 1 porsi [produk utama] gratis untuk pesanan berikutnya, setelah dikonfirmasi melalui chat kami. Kami juga terus menjaga kualitas [keunggulan produk yang benar-benar terverifikasi]."
+
+This pattern demonstrates how one response can combine acknowledgment, reciprocity, relationship recovery, goodwill marketing, product exposure, and purchase motivation. Adapt the remedy, product, quantity, and wording to the actual case; do not copy the example as an automatic template. The offer must never depend on changing, deleting, or improving the customer's review.
+
+**Important distinction:** a free extra product is an *additional goodwill offer* only when it is genuinely additional to what the customer already purchased or was already entitled to receive. Existing package inclusions must be described accurately, not advertised as a new gift.
+
 ### Scannable reply structure
 
 Prefer two to four short sentences. Put the strongest relevant point early. Avoid generic filler, defensive explanations, long corporate language, unsupported superlatives, excessive emojis, and multiple calls to action.
@@ -338,6 +364,9 @@ Track service recovery as an operational process, not merely a public-relations 
 Do not use average rating alone. A high rating can conceal recurring serious failures, and a low rating does not by itself explain the root cause.
 
 ## Workflow
+
+For every business review or customer complaint, explicitly run the integrated sequence: customer condition → psychological need → marketing opportunity → matching strategy → offer/authority verification → visible copy execution. Do not stop at apology or operational correction when a relevant and supportable product/value opportunity exists. Do not force a promotion when it does not fit.
+
 
 1. Capture the complaint and identify the affected order or experience.
 2. Acknowledge the specific issue and apologize appropriately.
