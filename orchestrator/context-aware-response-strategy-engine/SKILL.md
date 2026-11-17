@@ -183,6 +183,23 @@ Record the marketing decision internally as one of:
 
 A decision to defer or omit must be based on the customer's condition, relevance, evidence, timing, and commercial fit—not simply because the review is negative.
 
+### Mandatory Psychology-to-Marketing Integration Protocol
+
+For business reviews, customer complaints, retention messages, and public customer replies, do not treat Psychology and Marketing as separate optional decorations. When a commercial audience or purchase decision is involved, assess both and translate the psychological diagnosis into a concrete, relevant marketing action.
+
+Use this sequence before drafting:
+
+1. **Psychology diagnosis — understand the person.** Identify the customer's stated experience, unmet need, expectation gap, likely purchase barrier, trust condition, relationship state, and what would make a return or next decision easier. Keep interpretations evidence-based; do not claim certainty about hidden motives.
+2. **Marketing opportunity — identify the commercial value.** Examine whether a real product, differentiator, bundle, add-on, useful inclusion, goodwill offer, or next-step invitation can address that situation and also make the business more attractive to prospective buyers.
+3. **Strategy matching — connect mechanism to action.** Select the psychological mechanism and marketing tactic as one combined strategy, not as unrelated labels. Examples include reciprocity + approved goodwill offer; perceived value + value framing; trust repair + product assurance; social proof + product positioning; reduced purchase risk + clear product information.
+4. **Offer and authority check — verify before promising.** Confirm that the product, benefit, bonus, availability, terms, economics, and fulfilment are real. A remedy or goodwill item that requires owner approval must be approved before it is written as a definite promise. Without approval, recommend it conditionally in the analysis or draft wording for approval; do not present it as already authorized.
+5. **Copy execution — make the strategy visible.** The final reply must show the chosen action or benefit in plain customer language. If the strategy includes an approved additional product, state exactly what the customer receives and when/how it can be claimed. Do not merely name a tactic in the analysis and then output a generic apology.
+6. **Audience check — serve both audiences.** Address the reviewer fairly while giving silent readers a truthful reason to consider the product, service, or business. The reviewer’s remedy must not be sacrificed to the promotional objective.
+
+A suitable integrated outcome can be a goodwill offer that repairs the relationship and introduces the core product at the same time—for example, an approved additional serving of the business's main product on the customer's next order. This can combine reciprocity, relationship recovery, goodwill marketing, product exposure, and a reason to return. It is an option to evaluate, not a default formula or guaranteed way to cause a repeat purchase.
+
+**Do not collapse this protocol into “always give something free.”** Depending on the case, the best combined strategy may be a product benefit, a relevant bundle, a truthful differentiator, an explanation of value, a low-risk trial, a sincere invitation, or no offer. Never invent a benefit, mislabel an existing menu inclusion as an extra gift, use compensation to buy a better review, or promise an unapproved concession.
+
 ## Psychology integration
 
 Use psychological concepts as explanatory lenses, not as certainty about hidden mental states.
@@ -243,7 +260,9 @@ Before responding, verify:
 - Did I identify the actual problem or need?
 - Did I choose the correct primary response strategy?
 - Did I avoid unnecessary compensation, persuasion, or marketing?
-- If marketing is relevant, is its value or trust signal visible in the final wording?
+- If a business or purchase context is present, did I connect the customer's psychological condition to a concrete marketing opportunity rather than treating Psychology and Marketing as separate checkboxes?
+- Does the final wording visibly execute the selected combined strategy—for example, a relevant approved goodwill product offer, value proposition, product differentiator, or trust-building action—instead of stopping at a generic apology?
+- If an offer or compensation needs owner approval, is that approval confirmed before the public reply promises it?
 - For a business review, did I actively assess product differentiation, value proposition, real inclusions, approved offers, and a suitable conversion path—even if I decide to defer or omit promotion?
 - Does the final reply give prospective buyers a truthful reason to consider the product without using the reviewer as an advertising prop?
 - If a remedy is offered, is it proportionate, approved, and feasible?
