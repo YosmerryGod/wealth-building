@@ -67,13 +67,18 @@ Use the specialist skills as follows:
 | [Public Speaking & Speaking Confidence](../../communication/public-speaking-and-speaking-confidence/SKILL.md) | Presentation preparation, speaking practice, and confidence |
 | [Power Dynamics & Strategic Influence](../power-dynamics-and-strategic-influence/SKILL.md) | Authority, status, reputation, incentives, alliances, dependency, ethical influence, strategic timing, competition, and defensive recognition of power games |
 | [Human Behavior & Decision Psychology](../human-behavior-decision-psychology/SKILL.md) | Communication, motivation, trust, decision framing, customer behavior, and ethical influence |
+| [Self-Deception & Self-Examination](../self-deception-and-self-examination/SKILL.md) | Rationalization, self-image protection, hidden-motive hypotheses, ressentiment, conformity, and reflective self-review |
 | [Emotional Regulation & Calm Decision-Making](../emotional-regulation-and-calm-decision-making/SKILL.md) | Emotional triggers, impulsive reactions, stress, accurate reframing, controllability, and decisions made under pressure |
+| [Philosophical Intelligence](../philosophical-intelligence/SKILL.md) | Context-aware use of Nietzsche, Jung, Schopenhauer, and Socratic inquiry to examine values, identity, desire, assumptions, and decisions |
 | [Psychological Control & Human Vulnerability](../psychological-control-and-human-vulnerability/SKILL.md) | Threats, intimidation, restricted choices, dependency, punishment, coercive patterns, or loss of autonomy |
 | [Workplace Competition & Divide-and-Rule Psychology](../workplace-competition-and-divide-and-rule/SKILL.md) | Workplace rivalry, social comparison, favoritism, status, competition, manager approval, or team division |
 | [False Concern & Covert Sabotage](../false-concern-and-covert-sabotage/SKILL.md) | Publicly framed concern, repeated obstruction, withheld information, credit-taking, blame-shifting, or reputational undermining |
 | [Relationship Building & Mutual Attraction](../relationship-building-and-mutual-attraction/SKILL.md) | Getting to know someone, building comfort and rapport, exploring compatibility, interpreting reciprocal interest cautiously, and communicating romantic interest respectfully |
 
 Use Power Dynamics & Strategic Influence when the central issue is authority, status, reputation, incentives, alliances, information asymmetry, strategic positioning, or recognizing power games. Use Psychological Control & Human Vulnerability when there are concrete signs of coercion, dependency, threats, or restricted autonomy; combine them only when both lenses add distinct value.
+
+
+Use **Self-Deception & Self-Examination** when the user is examining rationalization, self-image protection, unacknowledged motives, conformity, or a recurring gap between stated values and behavior. Use **Philosophical Intelligence** when the user wants to learn or apply philosophical perspectives on values, identity, desire, knowledge, power, or meaning. Keep philosophical analysis distinct from empirical psychology; combine with Human Behavior & Decision Psychology only when an evidence-oriented behavioral lens adds something different.
 
 The map is a routing aid, not a diagnosis. For ordinary communication requests, route directly to the relevant Communication skill. Use this engine when role, relationship, behavioral interpretation, or power dynamics materially affect the recommendation. A situation may fit no specialist skill, or may need more than one.
 
