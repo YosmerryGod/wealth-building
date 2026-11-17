@@ -158,3 +158,7 @@ This skill is an original operational synthesis adapted from Anthropic's **Front
 - Source license: Apache License 2.0
 - The source's design principles and workflow have been reorganized and rewritten for the Wealth Building repository. Additional implementation, review, and cross-skill routing guidance is repository-specific synthesis.
 - The Apache License 2.0 text is retained in this directory as required for redistribution.
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). Frontend Design owns product-grounded visual direction and the overall interface design brief. AI Interface Design audits product specificity and generic-pattern quality; Apple HIG Review owns Apple-platform convention review; Modern Web Navigation owns navigation patterns; Micro-Interactions owns interaction feedback; Reverse Engineering owns evidence gathered from supplied references; Professional Logo owns brand identity assets. Invoke those specialists only when their scope is present, and do not treat their audits as replacements for frontend implementation or testing.
