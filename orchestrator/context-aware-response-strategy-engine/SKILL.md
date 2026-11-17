@@ -233,3 +233,7 @@ This is an original AI operational framework. It synthesizes and coordinates exi
 ## Success criteria
 
 The engine succeeds when the chosen response fits the real situation, addresses the relevant need, uses specialist knowledge without unnecessary duplication, communicates the selected strategy clearly, avoids disproportionate or unauthorized commitments, and adapts when new evidence appears.
+
+## Skill boundary governance
+
+Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This engine owns the response-mode decision only. Accept the context packet and situation model from their respective owners; do not rebuild them unless new evidence exposes a material gap. Select acknowledge, clarify, inform, apologize, remedy, negotiate, persuade, set a boundary, decline, or no further action based on the case. Hand the selected mode and rationale to Communication for wording. Marketing and compensation are optional outcomes, never defaults.
