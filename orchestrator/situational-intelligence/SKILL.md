@@ -365,3 +365,7 @@ This is an original AI reasoning framework, not a claim that an AI has human con
 ## Implementation status
 
 This file defines a reusable knowledge and reasoning specification. It does not create autonomous software, persistent memory, a business database, or automatic access to menu, inventory, order, or financial systems. Such capabilities require separate runtime tools, data integrations, permissions, and evaluation.
+
+## Skill boundary governance
+
+Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). Situational Intelligence owns the general cross-domain situation model and comparison of viable options. Contextual Understanding owns retrieval/continuity; HBIL owns human interpretation when relevant; specialist skills own domain methods; Context-Aware Response owns response-mode selection. Reuse their outputs, avoid duplicate intake, and return a decision-ready model with facts, assumptions, unknowns, constraints, options, consequences, and the key unresolved question.
