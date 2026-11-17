@@ -420,3 +420,51 @@ Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-g
 ## Ownership and routing boundary
 
 Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
+## Psychology-led opening and acknowledgment
+
+The first sentence sets the customer's interpretation of whether the business has listened. Choose it based on the reviewer's situation rather than applying one fixed apology template.
+
+### Choose the opening by situation
+
+- **Positive review:** begin with appreciation and name the specific praise where possible.
+  - Example: “Terima kasih sudah berbagi ulasan, Kak! Senang ayam panggang dan bumbunya cocok di Kakak.”
+- **Negative review with actionable feedback:** appreciation can recognize the customer's effort to inform the business.
+  - Example: “Terima kasih sudah memberi tahu kami, Kak.”
+- **Business-caused failure:** appreciation may be followed immediately by specific acknowledgment and apology.
+  - Example: “Terima kasih sudah memberi tahu kami, Kak. Mohon maaf, nasi pesanan Kakak tertinggal.”
+- **Customer experienced a tangible loss:** state the loss plainly and move to restoration; do not rely on “mohon maaf atas ketidaknyamanannya.”
+- **Unclear report:** appreciate the feedback, acknowledge the concern, and invite the customer to contact the official channel to verify details.
+
+### Psychological functions to preserve
+
+- **Recognition:** the customer feels their time and feedback were noticed. Use a specific thank-you, not empty flattery.
+- **Emotional validation:** show that the business understands the practical impact. Do not tell the customer how they must feel; describe the inconvenience supported by the facts.
+- **Procedural and distributive fairness:** explain what will be done to correct the failure and restore what was missing.
+- **Trust repair:** show a concrete corrective action or clear follow-up, not an unsupported promise that it will never happen again.
+- **Reciprocity / goodwill:** an approved extra benefit may create a positive reason to return, but it is additional to the remedy owed and must not replace it.
+
+Thanking a customer for a review does not cancel the need to apologize when the business caused the problem. Apologizing does not cancel the need to restore the missing product, money, or service.
+
+## Concise public-reply composition
+
+Aim for one to three short sentences, usually around these functions:
+1. **Recognition:** thank the customer for reporting or sharing the experience.
+2. **Accountability and remedy:** name the specific issue, apologize when warranted, and state the approved remedy.
+3. **Trust signal:** include one useful prevention or follow-up detail only if it adds value.
+
+Example for a confirmed missing item with an approved replacement and goodwill:
+“Terima kasih sudah memberi tahu kami, Kak. Mohon maaf nasi pesanan Kakak tertinggal; kami akan menggantinya dan memberikan tambahan 1 porsi ayam panggang gratis untuk pesanan berikutnya. Silakan hubungi chat toko agar kami bantu.”
+
+Adapt the example to the actual missing item, approved offer, and claim process. Never imply that a replacement has already been delivered when it is only being offered.
+
+## Final psychology and clarity check
+
+Before publishing, ask internally:
+- Does the opening recognize the customer's contribution or experience?
+- Does the reply name the actual problem?
+- Does it validate the impact without exaggerating or mind-reading?
+- Does it provide restoration before optional goodwill?
+- Can the customer understand the next step at a glance?
+- Would a silent reader see credible responsibility rather than a sales pitch?
+
+Keep the analysis internal unless the user asks for it. The public reply should sound natural, not like a list of psychological techniques.
