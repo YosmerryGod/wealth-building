@@ -212,3 +212,44 @@ The supplied video is a stylized comparison and motivational narrative. It depic
 - Subdomains: Income Management, Saving, Capital Formation, Productive Assets, Reinvestment, Asset-Based Business Development
 - Source example: Two-person income and spending comparison followed by used-motorcycle courier business development
 - Source status: User-provided video 67313.mp4; narrative summarized, figures treated as unverified illustrations
+
+
+## Income diversification strategy
+
+Income diversification means developing more than one economically meaningful source of income while managing the additional time, capital, and operational risk. It is not a requirement to start several businesses at once, and more income streams do not automatically mean greater financial security.
+
+### Evaluate dependence and resilience
+
+- Identify the primary income source, its stability, seasonality, customer or employer concentration, and the consequences if it stops.
+- Distinguish independent income sources from sources that depend on the same employer, customer, platform, market, skill, or economic condition.
+- Estimate how much each source contributes to total net income after its direct costs, taxes, fees, and time requirements.
+- Consider correlation: two income streams exposed to the same downturn may provide less protection than their number suggests.
+
+### Choose a realistic second source
+
+Prioritize options that use existing skills, assets, distribution, or customer relationships where possible. Compare:
+- Startup capital and the amount that must remain available for essential needs and reserves.
+- Time to first revenue and ongoing hours required.
+- Evidence of paying demand and repeatability.
+- Net contribution after direct and indirect costs.
+- Dependence on platforms, major customers, suppliers, or regulation.
+- Conflict with the user's primary work, health, family responsibilities, or existing business.
+
+### Test before depending on it
+
+1. State the hypothesis about the customer and the offer.
+2. Run a small paid pilot or other credible demand test.
+3. Record revenue, costs, time, customer acquisition effort, and repeat purchases.
+4. Calculate net contribution rather than counting gross sales as additional income.
+5. Continue, change, or stop based on evidence and a pre-defined loss limit.
+6. Build operating routines before increasing volume or delegating.
+
+Do not recommend replacing stable income until the alternative has demonstrated sufficient reliability, cash generation, and resilience for the user's obligations and risk capacity.
+
+### AI decision rules
+
+- Do not prescribe a fixed number of income streams.
+- Do not encourage simultaneous projects that exceed the user's time or capital capacity.
+- Prefer genuine diversification over multiple channels that all depend on one fragile source.
+- Distinguish side income, investment returns, business profit, and one-off asset sales.
+- Reassess concentration and resilience as the mix of income changes.
