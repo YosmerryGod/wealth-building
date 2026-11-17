@@ -224,6 +224,38 @@ For a mixed review:
 2. Address the criticism with a concrete improvement or approved remedy.
 3. Preserve the positive value signal without using it to dismiss the complaint.
 
+### Marketing opportunity detection: required decision stage
+
+After reconstructing the customer's situation and before selecting the final public reply, run a deliberate marketing opportunity assessment. Do not stop reasoning once a service-recovery action has been found.
+
+Inspect the actual product, menu, offer, and business context available:
+- **Core product:** what is the business actually selling, and which item or service should remain central?
+- **Product strength / USP:** what concrete, supportable attribute makes the offer worth considering (for example taste, preparation, ingredients, portion, convenience, service feature, or experience)?
+- **Value proposition:** what does the buyer receive, why is it useful, and how does it relate to the buyer's concern?
+- **Existing inclusions:** what is already part of the normal package or menu? It may be highlighted accurately, but must not be presented as a newly granted gift or compensation.
+- **Additional benefits:** what bonus, add-on, bundle, cross-sell, or goodwill offer is genuinely available, relevant, economically sensible, and authorized?
+- **Buyer motivation and objection:** what might make a silent reader hesitate, and what factual benefit can answer that hesitation?
+- **Conversion opportunity:** is a soft invitation, menu suggestion, or contact instruction appropriate after the reviewer's issue has been addressed?
+
+Use the following evidence hierarchy:
+1. Verified menu, product specification, current offer, policy, or business-provided fact.
+2. Specific product experience stated by the reviewer.
+3. Other reliable context supplied by the user.
+4. Clearly labelled hypothesis, used only to guide what to verify—not stated as a fact in public copy.
+
+Never invent product advantages, customer popularity, free items, prices, availability, guarantees, or promotions. If the business's actual product strengths or offer details are not available, do not fabricate them; state what information would unlock a stronger marketing angle.
+
+### Marketing decision by review condition
+
+- **Positive review:** turn the customer's specific praise into product proof; reinforce the praised attribute and, where relevant, introduce a real complementary product or existing package benefit with a natural invitation.
+- **Mixed review:** acknowledge both praise and criticism; resolve the criticism and preserve the genuine product strength without using it to cancel the complaint.
+- **Negative review / fulfilment failure:** address the failure and fair remedy first. Then assess whether a relevant product value, real package inclusion, corrective action, or approved goodwill offer can give future readers a reason to trust and consider the business.
+- **Price or value objection:** explain the actual value composition—product, portion, inclusions, quality, convenience, or service—rather than reflexively discounting.
+- **Quality or safety concern:** prioritize investigation and customer protection. Do not use product promotion or another serving as a hook while the safety or quality issue remains unresolved.
+- **No relevant opportunity:** omit promotion deliberately; do not add generic sales language merely to satisfy a checklist.
+
+The goal is not to force an advertisement into every reply. The goal is to prevent a service-only reflex from hiding a genuine, relevant commercial opportunity.
+
 ### Counter without arguing
 
 A marketing counter is not a rebuttal that tries to prove the customer wrong. It is a relevant fact, action, or offer that reduces uncertainty and shows why a prospective buyer can still trust the business.
@@ -238,6 +270,8 @@ Examples:
 Before sending the reply, ask:
 - Would the reviewer feel that their exact point was understood?
 - Can a prospective customer identify the business's relevant value or responsible action at a glance?
+- Did I explicitly assess the core product, verified USP, value proposition, existing inclusions, approved additional benefits, buyer objection, and conversion opportunity?
+- If I chose not to promote, is that because promotion is irrelevant, unsupported, mistimed, or inappropriate—not because I forgot to evaluate it?
 - Is the strongest marketing signal factual, specific, and relevant?
 - Is the actual remedy clear and approved?
 - Is any existing menu inclusion being misleadingly presented as a bonus?
