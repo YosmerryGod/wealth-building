@@ -183,6 +183,7 @@ Separate descriptive analysis of a tactic from a recommendation to deploy it. Re
 
 ## Relationship to other skills
 
+- **[Context-Aware Response Strategy Engine](../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** determines whether marketing and persuasion are appropriate in the current situation, then routes here for customer decision, value-perception, and offer-framing knowledge.
 - **Human Behavior & Decision Psychology:** Explains broader behavior, trust, framing, and decision mechanisms.
 - **Business Opportunity Discovery:** Helps identify customer problems and validate whether a real market exists.
 - **Psychological Control & Human Vulnerability:** Helps recognize coercion and manipulation; this marketing skill applies autonomy-preserving safeguards to customer persuasion.
