@@ -264,3 +264,6 @@ Before presenting a marketing message, verify:
 - The message can be understood quickly without hiding the actual offer.
 - The promise can be fulfilled operationally and economically.
 
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns buyer decision psychology and ethical persuasion in commercial contexts. It does not diagnose a customer's private motives, choose a complaint remedy, or own general interpersonal persuasion. Use Human Behavior & Decision Psychology for general behavioral mechanisms; use Service Recovery for complaint triage/remedy; use Persuasive Communication for interpersonal negotiation; use this skill only when buyer value perception, purchase barriers, or ethical offer framing materially affect the decision.
