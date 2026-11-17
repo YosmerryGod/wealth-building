@@ -69,3 +69,7 @@ Do not force a metric onto an opportunity when its assumptions are unreliable.
 ## Relationship to other skills
 
 Use Business Opportunity Discovery for customer and market validation, Asset & Liability Analysis for ownership and balance-sheet impact, Financial Leverage for borrowing decisions, and Financial Intelligence for overall decision quality.
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns comparative evaluation of a specific business or investment opportunity, including downside, return assumptions, time horizon, and exit/reassessment criteria. Financial Intelligence frames and routes the question; Cash Flow assesses liquidity; Asset & Liability classifies balance-sheet effects; Financial Leverage assesses borrowing structure; Behavioral Finance addresses decision biases. Do not repeat those specialist analyses or present estimates as verified facts.
