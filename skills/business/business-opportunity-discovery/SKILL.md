@@ -152,3 +152,53 @@ Preferred AI approach:
 - Supporting skills: Consumer Psychology, Emotional Marketing, Market Research, Value Proposition, Unit Economics, Business Validation
 - Primary use case: Helping users who are unsure what business to start
 - Source status: Core consumer-motivation idea derived from a user-provided video; evaluation and validation framework added as an operational AI decision process
+
+## Customer segmentation and buying-motivation analysis
+
+Before recommending an opportunity, segment the market by observable differences that affect the purchase decision. Do not treat everyone who might use a product as one buyer group.
+
+For each relevant segment, identify:
+
+- **Buyer and user:** who pays, who uses the product, and whether they are the same person.
+- **Need and situation:** the job to be done, pain point, desired outcome, and when the need occurs.
+- **Purchase trigger:** the event or condition that makes the customer act now rather than later.
+- **Buying behavior:** frequency, preferred channel, decision speed, comparison habits, and who influences or approves the purchase.
+- **Budget and price sensitivity:** likely spending capacity, acceptable price range, and what the customer currently spends on alternatives. Treat these as hypotheses until validated.
+- **Decision criteria:** quality, convenience, speed, trust, location, status, reliability, service, or other factors that actually matter to this segment.
+- **Barriers and risk:** affordability, uncertainty, habit, switching effort, lack of trust, access, or competing priorities.
+- **Evidence:** observed behavior, paid orders, interviews, repeat purchases, search or market evidence, and unresolved assumptions.
+
+### Distinguish need, desire, and willingness to pay
+
+Analyze separately:
+
+1. **Need:** a problem or requirement the customer wants resolved.
+2. **Desire:** the outcome or experience the customer would prefer.
+3. **Buying motive:** the practical or emotional reason behind choosing an offer, such as saving time, convenience, confidence, belonging, enjoyment, recognition, or reducing risk.
+4. **Willingness to pay:** whether the customer will exchange money for the proposed solution at a specific price.
+5. **Ability to pay:** whether the customer can realistically afford it without unacceptable strain.
+
+A strong desire does not prove willingness or ability to pay. Compliments and stated interest are weaker evidence than deposits, paid trials, completed purchases, and repeat orders.
+
+### Segment prioritization
+
+Compare candidate segments using:
+
+- Severity and frequency of the problem.
+- Urgency and strength of the purchase trigger.
+- Ability and willingness to pay.
+- Reachability and cost of acquiring customers.
+- Competition and quality of existing alternatives.
+- Repeat-purchase potential and contribution margin.
+- Fit with the user's resources and operational capacity.
+
+Recommend a segment only when its attractiveness is supported by evidence or clearly labeled assumptions. Explain why it is a better initial target than the alternatives.
+
+### Required opportunity chain
+
+Make the reasoning traceable:
+
+**Human problem or desire → specific customer segment → purchase situation and motivation → offer → reason to choose → reachable channel → paid validation → unit economics.**
+
+If a link in this chain is unsupported, state what is unknown and design the smallest practical test. Do not jump from an interesting human desire directly to a business recommendation.
+
