@@ -82,3 +82,7 @@ The channel inventory is based on *Traction*. The channel-family groupings, asse
 - Primary skill: Traction Channel Selection
 - Domain: Growth & Distribution
 - Source: *Traction* — Gabriel Weinberg and Justin Mares
+
+## Ownership and routing boundary
+
+Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns channel fit assessment and a shortlist grounded in audience behavior, offer, resources, and market. It does not own the overall acquisition strategy (Traction Strategy), Bullseye's full testing sequence, experiment design (Growth Experimentation), or measurement definitions (Growth Metrics). Return channel candidates with fit rationale, assumptions, constraints, and what evidence would validate them.
