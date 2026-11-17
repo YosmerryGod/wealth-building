@@ -183,6 +183,47 @@ This engine coordinates psychological knowledge; it does not censor topics or as
 - Do not provide operational instructions for serious wrongdoing, coercive exploitation, trafficking, fraud against victims, intimidation, or causing harm. Redirect to a legitimate way to pursue the underlying goal.
 - Keep role detection and cross-skill selection in this engine; keep specialist skills focused on their knowledge domains.
 
+## Communication engine collaboration
+
+Use the [Communication Decision Engine](../../communication/communication-decision-engine/SKILL.md) as a complementary decision layer when psychological analysis needs to become a concrete interaction.
+
+### When Psychology leads
+
+Keep this Psychology Decision Engine in the lead when the user's main need is to:
+- Interpret repeated behavior, relationship patterns, or conflicting accounts.
+- Understand possible motives, incentives, emotional triggers, or power differences.
+- Assess workplace rivalry, coercion, dependency, manipulation, trust, or relationship dynamics.
+- Examine the user's own reactions, assumptions, or recurring behavioral patterns.
+
+After clarifying the situation, consult Communication when the user also needs to speak, write, listen, negotiate, present, or resolve the issue.
+
+### When Communication leads
+
+Let Communication lead when the primary task is a message, conversation, presentation, customer interaction, negotiation, or delivery problem. Consult Psychology only when understanding behavior, relationship history, emotional dynamics, or power asymmetry would materially change the approach.
+
+### Shared handoff protocol
+
+When collaborating, pass a concise context packet:
+1. User role and the other party's role.
+2. Relationship and relevant authority or dependency.
+3. Observable words, actions, and repeated patterns.
+4. User's stated goal and desired practical outcome.
+5. Channel, timing, and constraints.
+6. Plausible interpretations clearly labeled as hypotheses, plus important unknowns.
+7. The specific decision or communication task still unresolved.
+
+Psychology contributes behavioral interpretation, alternative explanations, and relevant relationship or power context. Communication contributes the interaction mode, listening strategy, message structure, tone, questions, negotiation approach, or delivery plan.
+
+Do not let either engine claim certainty about another person's private motives. Do not duplicate specialist skill analysis. Each engine should add a distinct contribution, and the final recommendation should be presented as one coherent plan.
+
+### Combined example
+
+A manager says an employee has become quiet, misses updates, and reacts defensively to feedback.
+
+- Psychology leads by distinguishing observed behavior from assumptions and examining workload, unclear expectations, incentives, trust, and possible power dynamics.
+- Communication joins to plan a private, non-accusatory check-in, open questions, clear expectations, and a follow-up agreement.
+- The recommendation should not label the employee lazy, disloyal, or manipulative without evidence.
+
 ## Evidence and limitations
 
 Psychology concepts are explanatory frameworks, not certainty machines. A video, anecdote, allegory, or single incident cannot establish another person's intent or prove a universal rule.
