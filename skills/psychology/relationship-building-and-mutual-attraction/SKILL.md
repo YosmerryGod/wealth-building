@@ -2,7 +2,8 @@
 name: relationship-building-and-mutual-attraction
 title: Relationship Building & Mutual Attraction
 category: interpersonal-psychology
-source_type: AI-operational-framework
+source_type: AI-operational-framework-with-book-inspired-integration
+source: *Seni Membangun Relasi* by Devi Ardiyanti (Checklist, ISBN 978-623-7661-77-1); public catalogue descriptions only, complete text not inspected
 language: Indonesian
 ---
 
@@ -274,3 +275,26 @@ Never invent scientific certainty, probabilities, or research findings.
 - Supporting concepts: Interpersonal Communication, Social Psychology, Reciprocity, Self-disclosure, Active Listening, Emotional Validation, Autonomy, Relationship Development
 - Primary use cases: New acquaintances, friendship, dating, romantic interest, compatibility, respectful communication, and mutual relationship development
 - Source status: AI operational framework; not derived from a specific user-provided video or scientific review
+
+## Source integration: *Seni Membangun Relasi*
+
+This skill is additionally informed by the published description and topic outline of *Seni Membangun Relasi: Tips & Trik Menjalin Relasi dengan Siapa Saja* by Devi Ardiyanti (Checklist, ISBN 978-623-7661-77-1). Public catalogues list themes including relationship hierarchy, self-understanding, communication, nonverbal ability, adaptation, initiating and maintaining relationships, interpersonal communication, and professional interpersonal communication. A university repository's book description also highlights understanding the other person's character, social and business relationships, and developing personal charisma. The complete book text has not been inspected; this section is an operational synthesis of those public descriptions, not a chapter-by-chapter account.
+
+### Relationship-building and networking practice
+
+1. **Understand your context:** identify whether the relationship is personal, social, professional, commercial, or hierarchical.
+2. **Start with self-awareness:** be clear about what relationship you seek and what value or contribution you can genuinely offer.
+3. **Open naturally:** use a relevant shared context, introduction, event, or genuine question rather than a fabricated pretext.
+4. **Show interest:** ask about the other person's work, interests, or perspective when appropriate; listen to the answer and follow the thread they offer.
+5. **Adapt respectfully:** adjust formality, pace, and communication channel to the context without pretending to share identity or interests.
+6. **Build continuity:** follow up on a relevant conversation or agreed next step; keep contact proportionate and welcome.
+7. **Offer mutual value:** share useful information, make an appropriate introduction, collaborate, or provide help without treating generosity as a debt.
+8. **Maintain boundaries:** recognize differences in status and authority, respect privacy, and allow the other person to decline or disengage.
+
+### Relationship context and hierarchy
+
+A relationship may involve differences in authority, expertise, access, or dependency. Adapt communication to those differences, but do not mistake status for personal worth or assume that a senior contact owes access. In professional networking, be clear about the purpose of contact and respect time, confidentiality, and existing obligations.
+
+### Adaptation and authenticity
+
+Adaptation means choosing a considerate way to communicate in a particular context; it does not mean falsifying personality, interests, achievements, or intentions. Charisma should be treated as the impression created by understandable, attentive, consistent interaction—not as a guaranteed technique for controlling others.
