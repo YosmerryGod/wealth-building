@@ -101,6 +101,12 @@ Every new skill should explain its subject as fully and accurately as the availa
 | Marketing | [Viral Content Engineering & Attention Psychology](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) | Designing attention-aware content, hooks, emotional angles, engagement, distribution tests, and reputation-safe paths from attention to value | User-provided video 67334.mp4; references *The 48 Laws of Power*, Law 6; operational AI synthesis added |
 | Marketing | [Viral Event Marketing & Content Monetization](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) | Designing responsible attention-generating events, participant experiences, live distribution, content repurposing, and transparent monetization | User-provided video 67333.mp4; event-to-content-to-revenue framework and safety safeguards added |
 | Marketing | [Consumer Psychology & Persuasion](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) | Applying social proof, scarcity, herd behavior, FOMO, anchoring, price framing, value perception, and price justification to customer decisions and offer presentation | User-provided videos 67295.mp4 and 67340.mp4; source observations separated from operational synthesis |
+| Marketing | [Brand Awareness & Brand Activation](skills/marketing/brand-awareness-and-brand-activation/SKILL.md) | Planning brand recognition, recall, memorable brand cues, and measurable online/offline activations | Inspired by available descriptions of *150 Brand Awareness Ideas* by Akmal Musyadat Cholil; original operational synthesis; full text not reviewed |
+| Marketing | [Experiential & Event-Based Marketing](skills/marketing/experiential-and-event-based-marketing/SKILL.md) | Designing relevant product trials, demonstrations, pop-ups, community experiences, and measurable brand events | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
+| Marketing | [Influencer, Opinion Leader & Endorsement Strategy](skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md) | Selecting relevant creators and opinion leaders, structuring truthful collaborations, and measuring endorsement outcomes | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
+| Marketing | [Word of Mouth & Brand Advocacy](skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md) | Building recommendation-worthy customer experiences, referral mechanisms, customer advocacy, and feedback loops | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
+| Marketing | [Brand Communication & Public Relations](skills/marketing/brand-communication-and-public-relations/SKILL.md) | Developing brand messages, storytelling, media relations, public communication, and reputation response | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
+| Marketing | [Digital Brand Awareness & Channel Strategy](skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) | Coordinating search, social, video, blog, email, digital catalog, and offer channels for brand discovery and memory | Inspired by available descriptions of *150 Brand Awareness Ideas*; original operational synthesis; full text not reviewed |
 | Finance | [Income-to-Asset Wealth Building](skills/finance/income-to-asset-wealth-building/SKILL.md) | Turning active income into savings, capital, productive assets, validated asset-based income, and disciplined reinvestment | User-provided video 67313.mp4; source figures treated as illustrative and unverified |
 | Finance | [Financial Leverage](skills/finance/financial-leverage/SKILL.md) | Growing productive assets through reinvestment and carefully managed borrowing; includes cash-flow and debt-risk checks | User-provided video: @detektifmodal |
 | Finance | [Financial Intelligence](skills/finance/financial-intelligence/SKILL.md) | Integrating financial facts, trade-offs, liquidity, risk, and goals into sound financial decisions | *Rich Dad Poor Dad* themes; operational decision framework added |
@@ -201,11 +207,23 @@ skills/
 │   └── modern-web-navigation-patterns/
 │       └── SKILL.md
 ├── marketing/
+│   ├── brand-awareness-and-brand-activation/
+│   │   └── SKILL.md
+│   ├── brand-communication-and-public-relations/
+│   │   └── SKILL.md
 │   ├── consumer-psychology-and-persuasion/
+│   │   └── SKILL.md
+│   ├── digital-brand-awareness-and-channel-strategy/
+│   │   └── SKILL.md
+│   ├── experiential-and-event-based-marketing/
+│   │   └── SKILL.md
+│   ├── influencer-opinion-leader-and-endorsement/
 │   │   └── SKILL.md
 │   ├── viral-content-engineering-and-attention-psychology/
 │   │   └── SKILL.md
-│   └── viral-event-marketing-and-content-monetization/
+│   ├── viral-event-marketing-and-content-monetization/
+│   │   └── SKILL.md
+│   └── word-of-mouth-and-brand-advocacy/
 │       └── SKILL.md
 ├── growth/
 │   ├── bullseye-framework/
@@ -316,6 +334,8 @@ These are planned knowledge areas, not claims that complete skills already exist
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Changelog
+
+- **2026-11-17** — Added six Marketing skills inspired by the available descriptions and partial topic information for *150 Brand Awareness Ideas* by Akmal Musyadat Cholil: Brand Awareness & Brand Activation; Experiential & Event-Based Marketing; Influencer, Opinion Leader & Endorsement Strategy; Word of Mouth & Brand Advocacy; Brand Communication & Public Relations; and Digital Brand Awareness & Channel Strategy. Updated the Marketing index and folder tree. Each skill clearly distinguishes book-derived topic indications from original AI operational synthesis; the full book text was not reviewed.
 
 - **2026-11-17** — Added Reverse Engineering & Reference-Based Reconstruction under Development. The skill defines evidence-led investigation of reference websites, applications, interfaces, user journeys, and technical behavior; distinguishes observations from hypotheses and unknowns; and translates reusable patterns into original product experiences. Integrated it with Frontend Design and Business Agent routing. Clarified that REA's MCP/CLI/toolchain capabilities require separate installation and are not provided by this knowledge skill.
 
