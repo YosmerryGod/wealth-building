@@ -19,6 +19,10 @@ This engine coordinates specialist skills. It does not replace them and does not
 
 Use [Contextual Understanding & Intent Inference](../../../orchestrator/contextual-understanding/SKILL.md) to interpret short follow-ups and reuse relevant prior messages, audience details, roles, communication goals, channel choices, constraints, and approved wording. Do not restart intake or ask the user to repeat context already available. Preserve unchanged constraints when the user changes only one part of the request. Ask one focused clarification only when the missing detail materially changes the communication outcome. For complex human situations, use the context packet prepared by the Human Behavior Intelligence Layer.
 
+## Context-aware response strategy integration
+
+For requests that combine situation reading, psychology, communication, and possible marketing or service recovery, consult [Context-Aware Response Strategy Engine](../../../orchestrator/context-aware-response-strategy-engine/SKILL.md) first. It selects the appropriate response strategy from the full context; this Communication engine remains responsible for designing the practical wording, listening, negotiation, feedback, and delivery. Do not assume every interaction requires persuasion, marketing, apology, or compensation.
+
 ## Psychology integration and natural response
 
 For interpersonal communication requests, check whether relevant Psychology knowledge changes the recommended approach. Use the [Psychology Decision Engine](../../psychology/psychology-decision-engine/SKILL.md) and its specialist map when behavior, motivation, emotion, trust, relationship stage, social context, or power dynamics matter. Select only the relevant skills; do not mechanically load the whole Psychology domain.
