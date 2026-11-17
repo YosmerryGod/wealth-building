@@ -80,7 +80,8 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 
 | Skill | Owns | Does not own |
 |---|---|---|
-| Business Agent Orchestrator | End-to-end business project lifecycle, project lock, milestones, and user approvals | Replacing finance, marketing, operations, or customer-service specialist methods |\n| Content Intelligence Orchestrator | Routes YouTube/content-production requests to the smallest sufficient content specialists and synthesizes one result | General business acquisition strategy, specialist content methods, or publishing without approval |
+| Business Agent Orchestrator | End-to-end business project lifecycle, project lock, milestones, and user approvals | Replacing finance, marketing, operations, or customer-service specialist methods |
+| Content Intelligence Orchestrator | Routes YouTube/content-production requests to the smallest sufficient content specialists and synthesizes one result | General business acquisition strategy, specialist content methods, or publishing without approval |\n| Content Intelligence Orchestrator | Routes YouTube/content-production requests to the smallest sufficient content specialists and synthesizes one result | General business acquisition strategy, specialist content methods, or publishing without approval |
 | Companion Interaction Style | User-facing tone, proportionality, and conversational experience | Domain decisions or specialist analysis |
 | Context-Aware Response Strategy Engine | Selects the appropriate response mode for a concrete situation | Full context retrieval, deep specialist psychology, or final copy craft |
 | Contextual Understanding & Intent Inference | Retrieves and structures relevant history, intent, continuity, and uncertainty | Motive attribution or tactic selection |
@@ -157,6 +158,22 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Skill | Owns | Does not own |
 |---|---|---|
 | Knowledge Graph Builder | Discover, map, and maintain evidence-backed relationships and gaps across skills | Becoming a mandatory step for every request or replacing the governance registry |
+
+### Content Creation
+
+| Skill | Owns | Does not own |
+|---|---|---|
+| Video Scriptwriting & Hook Engineering | Video premise-to-script workflow, spoken structure, and editorial hook evaluation | Title-thumbnail pairing or measured retention diagnosis |
+| Title & Thumbnail Packaging Optimization | Coordinated YouTube title-thumbnail promise and packaging quality | Scriptwriting, search metadata, or CTR causal attribution |
+| Transcript-Based Video Editing | Timecoded transcript-derived cut and review recommendations | Direct media editing, retention analytics, or clip selection |
+| Audience Retention Intelligence | Interpretation of YouTube retention data and prioritized viewer-drop-off diagnosis | Prospective scriptwriting or direct editing |
+| Short-Form Video Repurposing | Selection and adaptation of self-contained moments from long-form video | Detailed transcript edit lists or general content strategy |
+| YouTube Comment Intelligence | Comment triage, creator-voice reply drafts, and audience-question extraction | Broader PR ownership or unapproved moderation actions |
+| Content Calendar & Production Planning | Capacity-aware content schedule, workload, dependencies, and production planning | Acquisition channel strategy or competitor research |
+| YouTube SEO & Search Intent | Search intent and YouTube description/metadata alignment | Title-thumbnail packaging or cross-platform channel strategy |
+| YouTube Chapter & Timestamp Engineering | Chapter boundaries, timestamp labels, and platform-rule validation | Retention analytics or general SEO strategy |
+| YouTube Competitor & Viral Intelligence | Public niche/video research and normalized competitor performance observations | User's own channel audit or claims of causal virality |
+| YouTube Channel Audit & Optimization | Integrated channel audit and single highest-priority improvement | Repeating full specialist workflows or claiming access to private analytics |
 
 ### Marketing
 
@@ -247,6 +264,10 @@ Financial Intelligence frames and routes → the relevant specialist owns the ca
 ### Product/UI design
 
 Reverse Engineering owns evidence about a supplied reference → Frontend Design owns product-specific visual direction → AI Interface Design audits generic-pattern quality where useful → platform, navigation, micro-interaction, logo, or 3D specialists are called only for their named scope. Do not run every design skill on every interface.
+
+### YouTube and creator content
+
+Content Intelligence Orchestrator owns YouTube/content-production routing → select one lead from Scriptwriting, Packaging, Transcript Editing, Retention, Shorts, Comments, Calendar, SEO, Chapters, Competitor Intelligence, or Channel Audit → add only specialists whose distinct output is required → synthesize once. General Viral Content Engineering supplies cross-platform attention principles; Growth owns acquisition strategy and measurement governance.
 
 ### Event-led content and monetization
 
