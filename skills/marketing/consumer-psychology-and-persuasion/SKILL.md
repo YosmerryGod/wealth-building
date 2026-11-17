@@ -203,3 +203,64 @@ Video 67295.mp4 is a short animation introducing "Manufactured Social Proof" thr
 - Supporting concepts: Social Proof, Manufactured Social Proof, Scarcity, Herd Behavior, FOMO, Perceived Popularity, Anchoring Effect, Price Framing, Value Perception, Price Justification, Avoided-Cost Framing
 - Primary use cases: Ethical marketing strategy, offer design, trust-building, customer decision support, and campaign review
 - Source status: User-provided videos 67295.mp4 and 67340.mp4; source observations separated from added marketing and psychology framework
+
+## Buyer behavior and customer-segment diagnosis
+
+Before writing persuasive copy or choosing a tactic, diagnose the buyer and the purchase situation. The same message or incentive should not be applied to every customer.
+
+Build a concise buyer snapshot:
+
+- **Customer context:** who the person is in relation to the product, what they are trying to accomplish, and what situation they are in.
+- **Need versus desire:** the problem they need solved versus the outcome they would like.
+- **Purchase trigger and urgency:** why they are considering a purchase now, and whether the urgency is real.
+- **Primary motivation:** practical value, convenience, time savings, comfort, enjoyment, confidence, belonging, recognition, risk reduction, or another supported motive.
+- **Decision style:** fast or considered, habitual or researched, individual or influenced by others.
+- **Price reality:** budget, price sensitivity, perceived value, and credible alternatives. Never infer a person's income or affordability from appearance or a stereotype.
+- **Trust requirements:** what proof, explanation, sample, review, policy, or reassurance would reduce uncertainty.
+- **Objections and friction:** price, quality, access, timing, effort, delivery, unfamiliarity, or previous bad experiences.
+- **Next action:** the smallest reasonable step that helps the customer decide, such as viewing details, asking a question, sampling, booking, or purchasing.
+
+### Separate the buyer's decision variables
+
+Do not collapse these into one generic label such as "customer psychology":
+
+1. **Need:** what problem or requirement exists.
+2. **Desire:** what preferred outcome the customer imagines.
+3. **Motivation:** why that outcome matters to the customer.
+4. **Trigger:** what makes the decision timely.
+5. **Ability to pay:** whether the offer is financially accessible.
+6. **Willingness to pay:** whether the perceived value justifies the actual price.
+7. **Trust:** whether the customer believes the offer and provider can deliver.
+8. **Friction:** what makes the purchase difficult even when interest exists.
+
+A customer can want an offer but lack budget, have budget but lack trust, or trust the business but have no immediate need. Choose the response based on the actual barrier rather than defaulting to a discount or free item.
+
+### Match marketing to the diagnosis
+
+- If the customer does not understand the offer, clarify the product, inclusions, price, and terms.
+- If value is unclear, connect a real customer need to a specific, supportable benefit.
+- If trust is low, use genuine proof, transparent policies, demonstrations, and consistent service.
+- If the offer is inconvenient, improve access, ordering, delivery, or timing where feasible.
+- If price is the barrier, examine the customer's budget and the offer's economics before changing price, scope, or package.
+- If urgency is absent, do not invent scarcity; explain relevant use cases and allow the customer to decide.
+- If the customer is already satisfied, reinforce the genuine positive experience instead of forcing a promotion.
+- If a service failure occurred, prioritize an appropriate remedy and root-cause correction over persuasive wording.
+
+### Evidence and ethical limits
+
+Treat buyer profiles as working hypotheses, not facts about an individual. Ask or observe rather than stereotype. Do not infer sensitive traits, income, motives, or vulnerabilities without relevant evidence. Use customer data only for an appropriate purpose and respect privacy.
+
+Never use psychology to disguise the price, manufacture pressure, shame a buyer, exploit financial distress, or make an unsuitable purchase seem necessary. The goal is to make a relevant offer easier to understand and evaluate—not to override customer judgment.
+
+### Message quality check
+
+Before presenting a marketing message, verify:
+
+- The target buyer and purchase situation are clear.
+- The main benefit is relevant and concrete.
+- Price, inclusions, conditions, and limitations are accurate.
+- Any testimonial, popularity, scarcity, comparison, or performance claim is verifiable.
+- The call to action is proportionate to the customer's readiness.
+- The message can be understood quickly without hiding the actual offer.
+- The promise can be fulfilled operationally and economically.
+
