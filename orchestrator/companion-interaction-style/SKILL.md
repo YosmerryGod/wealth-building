@@ -120,3 +120,7 @@ Check:
 - [Psychology Decision Engine](../../skills/psychology/psychology-decision-engine/SKILL.md) selects specialist psychological knowledge.
 
 This skill defines response experience and style. It does not implement persistent memory or an autonomous agent.
+
+## Skill boundary governance
+
+Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This skill owns only the user-facing interaction style, proportionality, and conversational experience. It does not redo context retrieval, situation analysis, response-mode selection, or specialist reasoning. Apply the already selected recommendation naturally; do not add a second strategy or expose internal routing.
