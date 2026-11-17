@@ -154,6 +154,10 @@ Skills are grouped by knowledge domain. Each individual skill has its own folder
 
 ```text
 orchestrator/
+├── conversational-intelligence-and-psychology-router/
+│   └── SKILL.md
+├── companion-interaction-style/
+│   └── SKILL.md
 ├── contextual-understanding/
 │   └── SKILL.md
 ├── human-behavior-intelligence/
