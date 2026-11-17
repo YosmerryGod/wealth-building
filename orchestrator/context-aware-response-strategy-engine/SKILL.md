@@ -161,6 +161,28 @@ For a public customer response, write for both:
 
 For a positive review, reinforce what the customer genuinely praised; do not invent an extra gift. For a neutral or subjective concern, acknowledge and clarify without automatically compensating. For a verified service failure, state the approved remedy clearly. Do not turn a complaint into a sales pitch before addressing the problem.
 
+### Required marketing opportunity assessment for business reviews
+
+When the context involves a business, product, service, buyer, customer review, or public brand response, marketing opportunity detection is a required assessment step—not an automatic requirement to advertise.
+
+Before drafting, explicitly evaluate:
+1. **Product and offer:** Which real product, menu item, package, service feature, or existing inclusion is relevant?
+2. **Differentiation:** What verified product strength, distinctive attribute, quality, convenience, or experience can give a buyer a reason to choose the business?
+3. **Value and objection:** What value proposition can address the reviewer's or silent reader's likely price, portion, quality, trust, or convenience concern?
+4. **Commercial opportunity:** Is there a relevant existing bundle, cross-sell, add-on, bonus, or approved offer that fits this situation?
+5. **Conversion path:** Would a natural invitation or next step help, or would it feel inappropriate at this moment?
+
+Evaluate these opportunities even when the final decision is not to use them. If product/menu information is unavailable, do not invent a USP, benefit, bonus, or offer; use only verified facts and identify the missing information when it materially limits the recommendation.
+
+The final public reply should combine two distinct jobs where appropriate: resolve or acknowledge the reviewer's experience, and make one relevant product value, differentiator, approved benefit, or credible trust signal visible to prospective buyers. Do not let the service-recovery task crowd out the marketing assessment, and do not let marketing replace a fair remedy.
+
+Record the marketing decision internally as one of:
+- **Use:** a relevant, factual value proposition or offer belongs in the reply.
+- **Defer:** address the complaint first; a later invitation may be appropriate after resolution.
+- **Omit:** no relevant or sufficiently verified marketing message fits this case.
+
+A decision to defer or omit must be based on the customer's condition, relevance, evidence, timing, and commercial fit—not simply because the review is negative.
+
 ## Psychology integration
 
 Use psychological concepts as explanatory lenses, not as certainty about hidden mental states.
@@ -222,6 +244,8 @@ Before responding, verify:
 - Did I choose the correct primary response strategy?
 - Did I avoid unnecessary compensation, persuasion, or marketing?
 - If marketing is relevant, is its value or trust signal visible in the final wording?
+- For a business review, did I actively assess product differentiation, value proposition, real inclusions, approved offers, and a suitable conversion path—even if I decide to defer or omit promotion?
+- Does the final reply give prospective buyers a truthful reason to consider the product without using the reviewer as an advertising prop?
 - If a remedy is offered, is it proportionate, approved, and feasible?
 - Does the response fit the audience, channel, and user's requested tone?
 - Have I preserved privacy, agency, and relevant boundaries?
