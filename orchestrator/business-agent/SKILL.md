@@ -337,3 +337,53 @@ The agent is successful when the user has:
 8. A continually improved plan based on actual evidence rather than generic advice.
 
 The objective is not to make the user feel that a business is guaranteed to succeed. The objective is to help the user make better decisions, take disciplined action, learn quickly, and avoid preventable mistakes.
+
+## 8. Customer intelligence: segmentation, motivation, and offer fit
+
+Customer analysis is a required decision layer between identifying a business idea and choosing its product, pricing, positioning, or marketing. Do not jump directly from a broad trend or human desire to a campaign.
+
+For each proposed business or approved offer, build a practical customer profile that distinguishes:
+
+- Buyer from end user, where they differ.
+- Specific segment and purchase situation.
+- Need or problem from desired outcome.
+- Purchase trigger, urgency, and frequency.
+- Practical and emotional buying motivations supported by evidence.
+- Buying behavior, decision process, and influential people.
+- Ability to pay from willingness to pay.
+- Price sensitivity and realistic alternatives.
+- Trust requirements, objections, and purchase friction.
+- Reachable channels and expected acquisition effort.
+
+Use [Business Opportunity Discovery Through Consumer Psychology](../../skills/business/business-opportunity-discovery/SKILL.md) for opportunity-stage segmentation and willingness-to-pay validation. Use [Consumer Psychology & Persuasion](../../skills/marketing/consumer-psychology-and-persuasion/SKILL.md) when interpreting buyer decisions, shaping offers, framing value, or preparing ethical marketing. Route the actual customer interaction through Context-Aware Response Strategy Engine before drafting a reply, offer, discount, or remedy.
+
+### Decision rules
+
+1. **Do not assume one audience.** Separate materially different buyer groups when needs, budgets, purchase triggers, channels, or decision criteria differ.
+2. **Do not confuse interest with demand.** Give greater weight to paid behavior, repeat orders, deposits, and observed purchasing than to likes, compliments, or hypothetical intent.
+3. **Do not confuse desire with affordability.** Check ability to pay and willingness to pay separately; do not stereotype either.
+4. **Do not prescribe discounts by default.** First diagnose whether the barrier is unclear value, low trust, inconvenience, timing, product fit, price, or a service failure.
+5. **Do not give concessions automatically.** A free item, discount, refund, or replacement must address the actual situation, fit the order and customer context, be economically and operationally feasible, and receive required approval.
+6. **Do not market what operations cannot deliver.** Confirm capacity, stock, quality, fulfillment, and unit economics before promising a benefit.
+7. **Make the reasoning visible.** State which facts came from the user, which were observed or researched, and which remain assumptions.
+
+### Required decision chain
+
+For material business recommendations, connect:
+
+**Customer problem → segment → buying situation and motivation → offer and value proposition → price and proof → acquisition channel → conversion and retention → contribution margin and cash flow.**
+
+If a link is weak, identify the missing evidence and propose a low-cost test before scaling. The final recommendation should name the highest-priority customer segment, explain why it is the best initial target, identify the main purchase barrier, and specify the next measurable action.
+
+### Customer-facing marketing standard
+
+When drafting a public reply, promotion, sales message, or offer:
+
+- Put the most decision-relevant information first.
+- Make the actual product, benefit, price, and any genuine free inclusion unmistakable.
+- Distinguish an item already included in the menu or package from an additional goodwill gift.
+- Match the response to the customer's actual experience; do not offer compensation to every positive reviewer or every customer by default.
+- Use concise, natural language appropriate to the channel.
+- Ensure future readers can understand the offer without misleading them about what happened or what is included.
+- Optimize for trust, customer fit, and sustainable repeat business—not merely immediate conversion.
+
