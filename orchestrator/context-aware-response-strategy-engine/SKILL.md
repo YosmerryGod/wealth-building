@@ -85,6 +85,24 @@ Do not turn every negative reaction into a business failure or every disagreemen
 
 Decide whether the message is private or public, one-to-one or group-facing, spoken or written, formal or casual. For public replies, consider both the person being addressed and reasonable observers. Do not expose private information to serve a public messaging goal.
 
+## Cross-case and multimodal evidence handling
+
+When the user supplies several reviews, messages, order records, or product images, do not treat each item as an isolated writing task if the request is to understand the overall situation.
+
+### Batch review and pattern analysis
+
+1. Separate each customer's individual experience from patterns across customers.
+2. Group reports by concrete issue (for example: portion, missing item, taste, temperature, delay, staff interaction, or unclear menu information).
+3. Count occurrences only when the supplied material supports a count. State the sample size and time period when known; do not present a small or selected sample as representative of all customers.
+4. Distinguish a repeated symptom from a confirmed root cause. Several portion complaints may indicate a portion-control issue, but the cause still needs checking against recipe standards, serving tools, staff practice, and order records.
+5. Prioritize patterns by severity, potential harm, frequency, customer impact, and operational feasibility. A single credible safety report can require action even when it is not frequent.
+6. Produce two separate outputs when useful: (a) the appropriate response to each customer and (b) the operational issue that the business should investigate. Do not replace an individual response with a generic batch reply.
+7. State confidence and missing evidence. Do not invent customer history, motives, or a trend from unrelated examples.
+
+### Visual and other non-text evidence
+
+When images, screenshots, menu photos, receipts, or product comparisons are supplied, inspect only what is actually visible and relevant. Compare the visible product with the stated menu description, agreed offer, or documented standard. Separate direct observations from estimates and unknowns; camera angle, lighting, perspective, packaging, and image cropping can distort apparent size, color, and condition. Do not claim an image proves taste, freshness, weight, temperature, or the exact order received unless the evidence supports it. If the comparison could change a refund, safety, or other consequential decision, request the missing order or measurement detail rather than guessing.
+
 ## Response strategy selection
 
 Select a primary strategy and add a supporting strategy only when useful.
@@ -120,6 +138,8 @@ Use this sequence:
 5. **Consider additional goodwill separately.** Offer an extra benefit only when the impact, relationship context, policy, economics, and approval justify it.
 6. **Check authority and feasibility.** Do not promise a refund, free product, discount, schedule change, or other concession without authorization and ability to fulfill it.
 7. **Do not purchase approval.** A remedy must not depend on a positive review, rating change, silence, endorsement, or deletion of criticism.
+
+Track the commitment state explicitly: **considered** (internal option), **recommended** (proposed to the owner), **approved** (authorized and feasible), **offered** (communicated to the customer), and **fulfilled** (actually delivered). Never describe a proposed or approved remedy as already offered or completed. If the user has not authorized a concession and policy does not clearly authorize it, present it as a recommendation for approval rather than customer-facing promise.
 
 Distinguish an existing inclusion from an additional benefit. Never market something already included as though it were a new gift. For safety-related complaints, prioritize safety and investigation rather than using a promotional gesture.
 
