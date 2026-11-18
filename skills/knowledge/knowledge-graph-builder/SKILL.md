@@ -1,7 +1,13 @@
 ---
 name: Knowledge Graph Builder
-description: Read and connect the repository's complete skill library as an AI-maintained knowledge graph, identifying concepts, relationships, overlaps, gaps, and source evidence.
 category: Knowledge Engineering
+description: "Use when a request needs map evidence-backed relationships and gaps across skills."
+triggers:
+  - "peta skill"
+  - "hubungan antar skill"
+  - "audit celah"
+out_of_scope: "Becoming a mandatory step for every request or replacing the governance registry"
+escalation: "Hand off work involving Becoming a mandatory step for every request or replacing the governance registry to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Knowledge Graph Builder
