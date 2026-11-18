@@ -5,6 +5,15 @@ category: business
 source_type: user-provided-video-and-operational-framework
 source: User-provided video about starting and scaling an oyster mushroom cultivation business; video figures are treated as illustrative claims, not audited results
 language: Indonesian
+description: "Use when a request needs process, capacity, quality, staffing, inventory, scaling."
+triggers:
+  - "operasional"
+  - "produksi"
+  - "stok"
+  - "karyawan"
+  - "scale up"
+out_of_scope: "Market demand proof or investment portfolio advice"
+escalation: "Hand off work involving Market demand proof or investment portfolio advice to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Business Operations & Scaling

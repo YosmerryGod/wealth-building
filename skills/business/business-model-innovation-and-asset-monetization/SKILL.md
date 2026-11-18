@@ -6,6 +6,14 @@ subcategory: business-models-and-revenue-strategy
 source_type: user-provided-video-and-operational-framework
 source: User-provided video 67299.mp4 (animated umbrella-rental scenario; creator/title not confirmed)
 language: Indonesian
+description: "Use when a request needs compare sale, rental, subscription, pay-per-use models for reusable assets."
+triggers:
+  - "sewa"
+  - "rental"
+  - "langganan"
+  - "monetisasi aset"
+out_of_scope: "General opportunity discovery or final financial audit"
+escalation: "Hand off work involving General opportunity discovery or final financial audit to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Business Model Innovation & Asset Monetization

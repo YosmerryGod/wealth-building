@@ -6,6 +6,15 @@ subcategory: business-models-and-financial-literacy
 source_type: user-provided-video-and-operational-framework
 source: User-provided video 67278.mp4 (TikTok; creator/title not confirmed)
 language: Indonesian
+description: "Use when a request needs ownership, equity, shares, governance concepts."
+triggers:
+  - "saham"
+  - "bagi hasil"
+  - "kepemilikan"
+  - "equity"
+  - "partner usaha"
+out_of_scope: "Legal opinions or valuation without evidence"
+escalation: "Hand off work involving Legal opinions or valuation without evidence to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Business Ownership & Equity Basics

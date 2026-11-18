@@ -5,6 +5,15 @@ category: business-building
 source_type: video_and_framework
 source: User-provided TikTok video (account: @detektifmodal, title shown: "Cepat Kaya")
 language: Indonesian
+description: "Use when a request needs find customer problems, demand, offer fit, low-cost validation."
+triggers:
+  - "peluang usaha"
+  - "validasi"
+  - "cari ide"
+  - "pasar"
+  - "opportunity"
+out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
+escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Business Opportunity Discovery Through Consumer Psychology
