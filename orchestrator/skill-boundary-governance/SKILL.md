@@ -200,7 +200,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Digital Brand Awareness & Channel Strategy | Digital presence, platform roles, and digital content/channel execution | Overall acquisition channel experimentation |
 | Experiential & Event-Based Marketing | Design and delivery of brand/customer experiences and events | Viral-content system or event revenue model integration |
 | Influencer, Opinion Leader & Endorsement Strategy | Creator/endorser selection, collaboration, disclosure, and measurement | General partnership strategy or organic advocacy |
-| Service Recovery Marketing & Trust Building | Complaint triage, proportionate remedy, public reply, and operational recovery | Automatic compensation or general PR for non-service issues |
+| Service Recovery Marketing & Trust Building | Complaint triage, proportionate remedy, public reply that satisfies its Output contract (specific recognition, entitlement restoration, one visible marketing element, prevention signal, claim route), and operational recovery | Automatic compensation or general PR for non-service issues |
 | Viral Content Engineering & Attention Psychology | Hooks, attention, content shareability, and content iteration | Event operations or full event monetization |
 | Viral Event Marketing & Content Monetization | Integrated event-to-content-to-revenue plan | Replacing specialist event, content, finance, and growth methods |
 | Word of Mouth & Brand Advocacy | Organic recommendations, referral advocacy, and customer-led reputation | Paid influencer campaigns or remedy authority |
@@ -307,7 +307,7 @@ Before responding, the lead skill checks:
 - Are facts, assumptions, and unknowns separated?
 - Are financial, operational, safety, consent, and approval constraints respected?
 - Is the user-facing output proportionate to the request?
-- For customer reviews, was marketing opportunity detection completed and was the use/defer/omit decision grounded in relevance, evidence, customer condition, and business feasibility?
+- For customer reviews, was marketing opportunity detection completed, was the use/defer/omit decision grounded in relevance, evidence, customer condition, and business feasibility, and does the visible reply actually contain the chosen element — an apology-only reply fails?
 - Are unresolved conflicts or limitations stated honestly?
 
 ## Maintenance and audit policy
