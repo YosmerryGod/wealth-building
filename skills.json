@@ -2,21 +2,103 @@
   "_meta": {
     "purpose": "Machine-readable skill index for the runtime router. Load this file every message; load a SKILL.md only when selected.",
     "generated_from": "orchestrator/skill-boundary-governance/SKILL.md (ownership registry) and the actual folder tree",
-    "generated_on": "2026-11-18",
-    "note": "'owns' paraphrases the registry. 'triggers' are routing hints (id/en) added in this index, not copied from skill files. Registry stays authoritative for ownership; each SKILL.md stays authoritative for method.",
+    "generated_on": "2026-11-19",
+    "note": "'owns' paraphrases the governance registry. 'triggers' are routing hints, not proof that a skill must load. Governance remains authoritative; skill files remain authoritative for methods. Only contextual-understanding is always-on so the three-skill cap still leaves room for a lead owner and supporting evidence.",
     "always_on": [
-      "contextual-understanding",
-      "companion-interaction-style",
-      "skill-boundary-governance"
+      "contextual-understanding"
     ],
     "routing_rules": {
       "max_skills_per_message": 3,
       "one_lead_owner": true,
       "simple_questions": "answer directly or use the narrowest skill",
-      "risk_gate": "call risk-assessment when legal, safety, exploitation, or high-consequence action is involved"
+      "risk_gate": "call risk-assessment when legal, safety, exploitation, or high-consequence action is involved",
+      "dynamic_knowledge_retrieval": "Use only when current/external/specialized evidence can materially change the task; search first, retrieve exact source IDs, verify provenance and applicability, then hand off to one domain owner."
     }
   },
   "skills": [
+    {
+      "id": "2d-mesh-avatar-rigging",
+      "domain": "development",
+      "path": "skills/development/2d-mesh-avatar-rigging/SKILL.md",
+      "owns": "2D mesh avatar rig preparation and quality",
+      "triggers": [
+        "avatar 2d",
+        "rigging",
+        "vtuber"
+      ]
+    },
+    {
+      "id": "3d-media-storefront-experience",
+      "domain": "development",
+      "path": "skills/development/3d-media-storefront-experience/SKILL.md",
+      "owns": "3D media catalog and storefront patterns",
+      "triggers": [
+        "toko 3d",
+        "katalog 3d"
+      ]
+    },
+    {
+      "id": "active-listening-and-conversational-rapport",
+      "domain": "communication",
+      "path": "skills/communication/active-listening-and-conversational-rapport/SKILL.md",
+      "owns": "listening behaviors and reciprocal rapport",
+      "triggers": [
+        "mendengarkan",
+        "ngobrol nyambung",
+        "rapport"
+      ]
+    },
+    {
+      "id": "advanced-pagination-and-data-navigation-patterns",
+      "domain": "development",
+      "path": "skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md",
+      "owns": "pagination pattern selection and page-to-page navigation within a collection",
+      "triggers": [
+        "pagination",
+        "paginasi",
+        "navigasi halaman",
+        "jump input",
+        "page preview",
+        "sliding pagination"
+      ]
+    },
+    {
+      "id": "ai-interface-design-and-unslop-engineering",
+      "domain": "development",
+      "path": "skills/development/ai-interface-design-and-unslop-engineering/SKILL.md",
+      "owns": "product-specific AI interface direction and generic-pattern critique",
+      "triggers": [
+        "UI terlihat generik",
+        "audit tampilan",
+        "unslop"
+      ]
+    },
+    {
+      "id": "apple-platform-design-and-hig-review",
+      "domain": "development",
+      "path": "skills/development/apple-platform-design-and-hig-review/SKILL.md",
+      "owns": "Apple platform convention and HIG review",
+      "triggers": [
+        "iOS",
+        "iPhone app",
+        "HIG",
+        "apple design"
+      ]
+    },
+    {
+      "id": "application-architecture-planning",
+      "domain": "development",
+      "path": "skills/development/application-architecture-planning/SKILL.md",
+      "owns": "stack, system boundaries, database schema, API contracts, access model, and implementation sequence",
+      "triggers": [
+        "arsitektur aplikasi",
+        "stack aplikasi",
+        "rancang database",
+        "schema database",
+        "desain API",
+        "application architecture"
+      ]
+    },
     {
       "id": "application-delivery-orchestrator",
       "domain": "orchestrator",
@@ -29,6 +111,115 @@
         "rebuild aplikasi",
         "end-to-end app",
         "deploy aplikasi"
+      ]
+    },
+    {
+      "id": "application-deployment-and-release-engineering",
+      "domain": "development",
+      "path": "skills/development/application-deployment-and-release-engineering/SKILL.md",
+      "owns": "release preflight, staging/production deployment plan, rollback, and monitoring readiness",
+      "triggers": [
+        "deploy aplikasi",
+        "publish aplikasi",
+        "go production",
+        "hubungkan domain",
+        "rilis aplikasi",
+        "release engineering"
+      ]
+    },
+    {
+      "id": "application-parity-evaluation",
+      "domain": "development",
+      "path": "skills/development/application-parity-evaluation/SKILL.md",
+      "owns": "evidence-based feature coverage and meaningful behavior/layout differences",
+      "triggers": [
+        "bandingkan aplikasi",
+        "feature parity",
+        "apa yang kurang dari clone",
+        "cek kesesuaian aplikasi",
+        "parity check"
+      ]
+    },
+    {
+      "id": "asset-and-liability-analysis",
+      "domain": "finance",
+      "path": "skills/finance/asset-and-liability-analysis/SKILL.md",
+      "owns": "asset/liability classification and balance-sheet position",
+      "triggers": [
+        "aset",
+        "liabilitas",
+        "kekayaan bersih"
+      ]
+    },
+    {
+      "id": "audience-retention-intelligence",
+      "domain": "content-creation",
+      "path": "skills/content-creation/audience-retention-intelligence/SKILL.md",
+      "owns": "interpret YouTube retention data and drop-off diagnosis",
+      "triggers": [
+        "retensi",
+        "penonton keluar",
+        "retention"
+      ]
+    },
+    {
+      "id": "backend-engineering-and-integrations",
+      "domain": "development",
+      "path": "skills/development/backend-engineering-and-integrations/SKILL.md",
+      "owns": "server-side auth, authorization, database, payments, webhooks, jobs, storage, and integrations",
+      "triggers": [
+        "buat backend",
+        "login register",
+        "integrasi API",
+        "database aplikasi",
+        "payment gateway",
+        "webhook",
+        "backend engineering"
+      ]
+    },
+    {
+      "id": "behavioral-finance-and-money-psychology",
+      "domain": "psychology",
+      "path": "skills/psychology/behavioral-finance-and-money-psychology/SKILL.md",
+      "owns": "behavioral biases and emotions in financial decisions",
+      "triggers": [
+        "boros",
+        "FOMO investasi",
+        "takut rugi",
+        "psikologi uang"
+      ]
+    },
+    {
+      "id": "brand-awareness-and-brand-activation",
+      "domain": "marketing",
+      "path": "skills/marketing/brand-awareness-and-brand-activation/SKILL.md",
+      "owns": "brand memory, awareness objective, activation experience",
+      "triggers": [
+        "brand awareness",
+        "dikenal orang",
+        "branding"
+      ]
+    },
+    {
+      "id": "brand-communication-and-public-relations",
+      "domain": "marketing",
+      "path": "skills/marketing/brand-communication-and-public-relations/SKILL.md",
+      "owns": "brand narrative, public messaging, reputation communication",
+      "triggers": [
+        "citra brand",
+        "media",
+        "krisis reputasi",
+        "PR"
+      ]
+    },
+    {
+      "id": "bullseye-framework",
+      "domain": "growth",
+      "path": "skills/growth/bullseye-framework/SKILL.md",
+      "owns": "brainstorm-rank-prioritize-test-focus channel process",
+      "triggers": [
+        "bullseye",
+        "uji channel"
       ]
     },
     {
@@ -45,6 +236,81 @@
       ]
     },
     {
+      "id": "business-model-innovation-and-asset-monetization",
+      "domain": "business",
+      "path": "skills/business/business-model-innovation-and-asset-monetization/SKILL.md",
+      "owns": "compare sale, rental, subscription, pay-per-use models for reusable assets",
+      "triggers": [
+        "sewa",
+        "rental",
+        "langganan",
+        "monetisasi aset"
+      ]
+    },
+    {
+      "id": "business-operations-and-scaling",
+      "domain": "business",
+      "path": "skills/business/business-operations-and-scaling/SKILL.md",
+      "owns": "process, capacity, quality, staffing, inventory, scaling",
+      "triggers": [
+        "operasional",
+        "produksi",
+        "stok",
+        "karyawan",
+        "scale up"
+      ]
+    },
+    {
+      "id": "business-opportunity-discovery",
+      "domain": "business",
+      "path": "skills/business/business-opportunity-discovery/SKILL.md",
+      "owns": "find customer problems, demand, offer fit, low-cost validation",
+      "triggers": [
+        "peluang usaha",
+        "validasi",
+        "cari ide",
+        "pasar",
+        "opportunity"
+      ]
+    },
+    {
+      "id": "business-ownership-and-equity",
+      "domain": "business",
+      "path": "skills/business/business-ownership-and-equity/SKILL.md",
+      "owns": "ownership, equity, shares, governance concepts",
+      "triggers": [
+        "saham",
+        "bagi hasil",
+        "kepemilikan",
+        "equity",
+        "partner usaha"
+      ]
+    },
+    {
+      "id": "cash-flow-management",
+      "domain": "finance",
+      "path": "skills/finance/cash-flow-management/SKILL.md",
+      "owns": "timing, liquidity, cash forecasts, operating cash controls",
+      "triggers": [
+        "arus kas",
+        "cash flow",
+        "uang masuk keluar",
+        "likuiditas"
+      ]
+    },
+    {
+      "id": "communication-decision-engine",
+      "domain": "communication",
+      "path": "skills/communication/communication-decision-engine/SKILL.md",
+      "owns": "chooses communication mode, channel, and specialists",
+      "triggers": [
+        "presentasi",
+        "negosiasi",
+        "komunikasi",
+        "pesan penting"
+      ]
+    },
+    {
       "id": "companion-interaction-style",
       "domain": "orchestrator",
       "path": "orchestrator/companion-interaction-style/SKILL.md",
@@ -54,6 +320,29 @@
         "ngobrol",
         "santai",
         "tone"
+      ]
+    },
+    {
+      "id": "consumer-psychology-and-persuasion",
+      "domain": "marketing",
+      "path": "skills/marketing/consumer-psychology-and-persuasion/SKILL.md",
+      "owns": "buyer decision variables, value perception, ethical persuasion",
+      "triggers": [
+        "psikologi pembeli",
+        "harga psikologis",
+        "kenapa orang beli",
+        "scarcity"
+      ]
+    },
+    {
+      "id": "content-calendar-and-production-planning",
+      "domain": "content-creation",
+      "path": "skills/content-creation/content-calendar-and-production-planning/SKILL.md",
+      "owns": "capacity-aware content schedule and production planning",
+      "triggers": [
+        "jadwal konten",
+        "kalender konten",
+        "content calendar"
       ]
     },
     {
@@ -109,6 +398,257 @@
       ]
     },
     {
+      "id": "creative-intelligence-engine",
+      "domain": "psychology",
+      "path": "skills/psychology/creative-intelligence-engine/SKILL.md",
+      "owns": "divergent thinking and idea recombination",
+      "triggers": [
+        "brainstorm",
+        "ide kreatif",
+        "ide baru",
+        "kreatif"
+      ]
+    },
+    {
+      "id": "critical-path-prioritization",
+      "domain": "growth",
+      "path": "skills/growth/critical-path-prioritization/SKILL.md",
+      "owns": "identify current bottleneck and order growth work",
+      "triggers": [
+        "prioritas",
+        "bottleneck",
+        "mulai dari mana"
+      ]
+    },
+    {
+      "id": "debt-and-installment-management",
+      "domain": "finance",
+      "path": "skills/finance/debt-and-installment-management/SKILL.md",
+      "owns": "debt inventory, borrowing cost, installments/BNPL, repayment order",
+      "triggers": [
+        "utang",
+        "cicilan",
+        "paylater",
+        "pinjol",
+        "debt"
+      ]
+    },
+    {
+      "id": "digital-brand-awareness-and-channel-strategy",
+      "domain": "marketing",
+      "path": "skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md",
+      "owns": "digital presence and platform roles",
+      "triggers": [
+        "media sosial",
+        "instagram usaha",
+        "konten digital",
+        "google bisnis"
+      ]
+    },
+    {
+      "id": "dynamic-knowledge-retrieval",
+      "domain": "orchestrator",
+      "path": "orchestrator/dynamic-knowledge-retrieval/SKILL.md",
+      "owns": "focused external knowledge search, exact-source retrieval, provenance/freshness verification, and bounded evidence handoff",
+      "triggers": [
+        "best practice terbaru",
+        "panduan teknis terbaru",
+        "panduan web modern",
+        "referensi eksternal",
+        "knowledge retrieval",
+        "search and retrieve",
+        "API yang berubah"
+      ]
+    },
+    {
+      "id": "effective-communication-and-first-impressions",
+      "domain": "communication",
+      "path": "skills/communication/effective-communication-and-first-impressions/SKILL.md",
+      "owns": "clear first-contact communication and impression",
+      "triggers": [
+        "kesan pertama",
+        "perkenalan",
+        "first impression"
+      ]
+    },
+    {
+      "id": "emergency-fund-strategy",
+      "domain": "finance",
+      "path": "skills/finance/emergency-fund-strategy/SKILL.md",
+      "owns": "reserve sizing, location, withdrawals, replenishment",
+      "triggers": [
+        "dana darurat",
+        "emergency fund"
+      ]
+    },
+    {
+      "id": "emotional-regulation-and-calm-decision-making",
+      "domain": "psychology",
+      "path": "skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md",
+      "owns": "managing reactivity and decision readiness",
+      "triggers": [
+        "emosi",
+        "marah",
+        "panik",
+        "tenang",
+        "stres"
+      ]
+    },
+    {
+      "id": "envelope-budgeting-system",
+      "domain": "finance",
+      "path": "skills/finance/envelope-budgeting-system/SKILL.md",
+      "owns": "category allocations, spending limits, sinking funds",
+      "triggers": [
+        "amplop",
+        "anggaran",
+        "budget bulanan",
+        "alokasi"
+      ]
+    },
+    {
+      "id": "experiential-and-event-based-marketing",
+      "domain": "marketing",
+      "path": "skills/marketing/experiential-and-event-based-marketing/SKILL.md",
+      "owns": "brand experiences, trials, pop-ups, events",
+      "triggers": [
+        "bazar",
+        "pop-up",
+        "tester gratis",
+        "event promosi"
+      ]
+    },
+    {
+      "id": "false-concern-and-covert-sabotage",
+      "domain": "psychology",
+      "path": "skills/psychology/false-concern-and-covert-sabotage/SKILL.md",
+      "owns": "cautious analysis of possible covert undermining",
+      "triggers": [
+        "pura-pura peduli",
+        "dijegal",
+        "disabotase"
+      ]
+    },
+    {
+      "id": "financial-habit-formation",
+      "domain": "finance",
+      "path": "skills/finance/financial-habit-formation/SKILL.md",
+      "owns": "cues, routines, friction, recovery for financial behavior",
+      "triggers": [
+        "kebiasaan menabung",
+        "disiplin uang",
+        "habit"
+      ]
+    },
+    {
+      "id": "financial-intelligence",
+      "domain": "finance",
+      "path": "skills/finance/financial-intelligence/SKILL.md",
+      "owns": "high-level financial framing and routing to finance specialists",
+      "triggers": [
+        "keuangan",
+        "uang",
+        "finansial",
+        "finance"
+      ]
+    },
+    {
+      "id": "financial-leverage",
+      "domain": "finance",
+      "path": "skills/finance/financial-leverage/SKILL.md",
+      "owns": "borrowing, OPM, capital stacking, leverage risk",
+      "triggers": [
+        "modal pinjaman",
+        "OPM",
+        "uang orang lain",
+        "leverage"
+      ]
+    },
+    {
+      "id": "financial-statement-literacy",
+      "domain": "finance",
+      "path": "skills/finance/financial-statement-literacy/SKILL.md",
+      "owns": "reading income statement, balance sheet, cash-flow statement",
+      "triggers": [
+        "laporan keuangan",
+        "laba rugi",
+        "neraca"
+      ]
+    },
+    {
+      "id": "frontend-design",
+      "domain": "development",
+      "path": "skills/development/frontend-design/SKILL.md",
+      "owns": "product-grounded visual and frontend design direction",
+      "triggers": [
+        "desain web",
+        "landing page",
+        "tampilan app",
+        "frontend"
+      ]
+    },
+    {
+      "id": "full-stack-application-engineering",
+      "domain": "development",
+      "path": "skills/development/full-stack-application-engineering/SKILL.md",
+      "owns": "scoped implementation of screens, routes, components, and end-to-end user flows",
+      "triggers": [
+        "bangun aplikasi",
+        "implementasi frontend backend",
+        "buat halaman aplikasi",
+        "coding fitur",
+        "build application"
+      ]
+    },
+    {
+      "id": "general-habit-formation-and-behavior-change",
+      "domain": "psychology",
+      "path": "skills/psychology/general-habit-formation-and-behavior-change/SKILL.md",
+      "owns": "general non-financial habit design using context, repetition, reward, and friction",
+      "triggers": [
+        "ubah kebiasaan",
+        "membangun kebiasaan",
+        "kebiasaan buruk",
+        "susah konsisten",
+        "rutinitas",
+        "habit formation"
+      ]
+    },
+    {
+      "id": "growth-experimentation",
+      "domain": "growth",
+      "path": "skills/growth/growth-experimentation/SKILL.md",
+      "owns": "hypothesis, test design, learning record",
+      "triggers": [
+        "eksperimen",
+        "uji coba iklan",
+        "A/B test"
+      ]
+    },
+    {
+      "id": "growth-metrics-optimization",
+      "domain": "growth",
+      "path": "skills/growth/growth-metrics-optimization/SKILL.md",
+      "owns": "metric definitions, scorecards, and performance interpretation",
+      "triggers": [
+        "metrik",
+        "konversi",
+        "CAC",
+        "retensi pelanggan"
+      ]
+    },
+    {
+      "id": "human-behavior-decision-psychology",
+      "domain": "psychology",
+      "path": "skills/psychology/human-behavior-decision-psychology/SKILL.md",
+      "owns": "behavior and decision mechanisms across contexts",
+      "triggers": [
+        "perilaku orang",
+        "kenapa orang memutuskan",
+        "motivasi"
+      ]
+    },
+    {
       "id": "human-behavior-intelligence",
       "domain": "orchestrator",
       "path": "orchestrator/human-behavior-intelligence/SKILL.md",
@@ -122,92 +662,25 @@
       ]
     },
     {
-      "id": "risk-assessment",
-      "domain": "orchestrator",
-      "path": "orchestrator/risk-assessment/SKILL.md",
-      "owns": "risk and consequence screen: legal, safety, financial, reversibility",
+      "id": "income-to-asset-wealth-building",
+      "domain": "finance",
+      "path": "skills/finance/income-to-asset-wealth-building/SKILL.md",
+      "owns": "convert surplus income into productive assets",
       "triggers": [
-        "risiko",
-        "legal",
-        "bahaya",
-        "hukum",
-        "konsekuensi",
-        "risk"
+        "gaji jadi aset",
+        "bangun kekayaan",
+        "wealth building"
       ]
     },
     {
-      "id": "situational-intelligence",
-      "domain": "orchestrator",
-      "path": "orchestrator/situational-intelligence/SKILL.md",
-      "owns": "cross-domain situation model, option comparison, consequences",
+      "id": "influencer-opinion-leader-and-endorsement",
+      "domain": "marketing",
+      "path": "skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md",
+      "owns": "creator/endorser selection, disclosure, and measurement",
       "triggers": [
-        "situasi rumit",
-        "banding opsi",
-        "keputusan banyak faktor",
-        "complex decision"
-      ]
-    },
-    {
-      "id": "skill-boundary-governance",
-      "domain": "orchestrator",
-      "path": "orchestrator/skill-boundary-governance/SKILL.md",
-      "owns": "ownership registry, routing recipes, handoff packet, quality gate",
-      "triggers": [
-        "routing",
-        "tumpang tindih",
-        "overlap",
-        "skill baru"
-      ]
-    },
-    {
-      "id": "business-model-innovation-and-asset-monetization",
-      "domain": "business",
-      "path": "skills/business/business-model-innovation-and-asset-monetization/SKILL.md",
-      "owns": "compare sale, rental, subscription, pay-per-use models for reusable assets",
-      "triggers": [
-        "sewa",
-        "rental",
-        "langganan",
-        "monetisasi aset"
-      ]
-    },
-    {
-      "id": "business-operations-and-scaling",
-      "domain": "business",
-      "path": "skills/business/business-operations-and-scaling/SKILL.md",
-      "owns": "process, capacity, quality, staffing, inventory, scaling",
-      "triggers": [
-        "operasional",
-        "produksi",
-        "stok",
-        "karyawan",
-        "scale up"
-      ]
-    },
-    {
-      "id": "business-opportunity-discovery",
-      "domain": "business",
-      "path": "skills/business/business-opportunity-discovery/SKILL.md",
-      "owns": "find customer problems, demand, offer fit, low-cost validation",
-      "triggers": [
-        "peluang usaha",
-        "validasi",
-        "cari ide",
-        "pasar",
-        "opportunity"
-      ]
-    },
-    {
-      "id": "business-ownership-and-equity",
-      "domain": "business",
-      "path": "skills/business/business-ownership-and-equity/SKILL.md",
-      "owns": "ownership, equity, shares, governance concepts",
-      "triggers": [
-        "saham",
-        "bagi hasil",
-        "kepemilikan",
-        "equity",
-        "partner usaha"
+        "influencer",
+        "endorse",
+        "food vlogger"
       ]
     },
     {
@@ -225,37 +698,25 @@
       ]
     },
     {
-      "id": "active-listening-and-conversational-rapport",
-      "domain": "communication",
-      "path": "skills/communication/active-listening-and-conversational-rapport/SKILL.md",
-      "owns": "listening behaviors and reciprocal rapport",
+      "id": "knowledge-graph-builder",
+      "domain": "knowledge",
+      "path": "skills/knowledge/knowledge-graph-builder/SKILL.md",
+      "owns": "map evidence-backed relationships and gaps across skills",
       "triggers": [
-        "mendengarkan",
-        "ngobrol nyambung",
-        "rapport"
+        "peta skill",
+        "hubungan antar skill",
+        "audit celah"
       ]
     },
     {
-      "id": "communication-decision-engine",
-      "domain": "communication",
-      "path": "skills/communication/communication-decision-engine/SKILL.md",
-      "owns": "chooses communication mode, channel, and specialists",
+      "id": "meaningful-prayer-and-khushu",
+      "domain": "spirituality",
+      "path": "skills/spirituality/meaningful-prayer-and-khushu/SKILL.md",
+      "owns": "reflective learning about prayer meaning and attentiveness",
       "triggers": [
-        "presentasi",
-        "negosiasi",
-        "komunikasi",
-        "pesan penting"
-      ]
-    },
-    {
-      "id": "effective-communication-and-first-impressions",
-      "domain": "communication",
-      "path": "skills/communication/effective-communication-and-first-impressions/SKILL.md",
-      "owns": "clear first-contact communication and impression",
-      "triggers": [
-        "kesan pertama",
-        "perkenalan",
-        "first impression"
+        "shalat",
+        "khusyuk",
+        "makna shalat"
       ]
     },
     {
@@ -268,6 +729,93 @@
         "storytelling",
         "susun pesan",
         "struktur penjelasan"
+      ]
+    },
+    {
+      "id": "micro-interactions-and-ui-feedback",
+      "domain": "development",
+      "path": "skills/development/micro-interactions-and-ui-feedback/SKILL.md",
+      "owns": "interaction feedback states, motion, loading states",
+      "triggers": [
+        "animasi tombol",
+        "hover",
+        "skeleton",
+        "micro-interaction"
+      ]
+    },
+    {
+      "id": "modern-web-navigation-patterns",
+      "domain": "development",
+      "path": "skills/development/modern-web-navigation-patterns/SKILL.md",
+      "owns": "navigation between product sections and destinations, including expressive navigation and scroll progress",
+      "triggers": [
+        "navbar",
+        "bottom tab",
+        "menu navigasi",
+        "command palette",
+        "radial sidebar",
+        "vertical typography",
+        "scroll progress",
+        "scroll navigation"
+      ]
+    },
+    {
+      "id": "online-marketplace-pricing-and-promo-optimization",
+      "domain": "finance",
+      "path": "skills/finance/online-marketplace-pricing-and-promo-optimization/SKILL.md",
+      "owns": "marketplace reverse pricing, fee recovery, promo burden (AYDO-faithful)",
+      "triggers": [
+        "harga jual online",
+        "fee marketplace",
+        "promo shopee",
+        "tokopedia",
+        "AYDO"
+      ]
+    },
+    {
+      "id": "opportunity-and-investment-evaluation",
+      "domain": "finance",
+      "path": "skills/finance/opportunity-and-investment-evaluation/SKILL.md",
+      "owns": "compare business/investment opportunities, risk, return, exit",
+      "triggers": [
+        "layak investasi",
+        "untung atau tidak",
+        "evaluasi peluang"
+      ]
+    },
+    {
+      "id": "osint-and-digital-footprint-intelligence",
+      "domain": "research",
+      "path": "skills/research/osint-and-digital-footprint-intelligence/SKILL.md",
+      "owns": "lawful open-source research and evidence collection",
+      "triggers": [
+        "jejak digital",
+        "OSINT",
+        "cek informasi publik",
+        "verifikasi identitas"
+      ]
+    },
+    {
+      "id": "partnership-distribution",
+      "domain": "growth",
+      "path": "skills/growth/partnership-distribution/SKILL.md",
+      "owns": "partner fit, mutual value, and partnership plan",
+      "triggers": [
+        "kerja sama",
+        "mitra distribusi",
+        "reseller",
+        "partnership"
+      ]
+    },
+    {
+      "id": "pay-yourself-first",
+      "domain": "finance",
+      "path": "skills/finance/pay-yourself-first/SKILL.md",
+      "owns": "sustainable savings allocation from income",
+      "triggers": [
+        "sisihkan dulu",
+        "menabung",
+        "pay yourself first"
       ]
     },
     {
@@ -284,6 +832,78 @@
       ]
     },
     {
+      "id": "philosophical-intelligence",
+      "domain": "psychology",
+      "path": "skills/psychology/philosophical-intelligence/SKILL.md",
+      "owns": "philosophical lenses and reflective inquiry",
+      "triggers": [
+        "filsafat",
+        "makna hidup",
+        "nietzsche",
+        "jung"
+      ]
+    },
+    {
+      "id": "power-dynamics-and-strategic-influence",
+      "domain": "psychology",
+      "path": "skills/psychology/power-dynamics-and-strategic-influence/SKILL.md",
+      "owns": "authority, incentives, dependencies, and ethical strategic influence",
+      "triggers": [
+        "kekuasaan",
+        "politik kantor",
+        "pengaruh",
+        "48 laws"
+      ]
+    },
+    {
+      "id": "product-launch-and-go-to-market-planning",
+      "domain": "growth",
+      "path": "skills/growth/product-launch-and-go-to-market-planning/SKILL.md",
+      "owns": "product launch readiness, positioning-to-assets, launch sequence, and early adoption measurement",
+      "triggers": [
+        "launch produk",
+        "siapkan peluncuran aplikasi",
+        "landing page produk",
+        "pricing plan aplikasi",
+        "launch plan",
+        "go to market"
+      ]
+    },
+    {
+      "id": "professional-logo-and-brand-identity",
+      "domain": "development",
+      "path": "skills/development/professional-logo-and-brand-identity/SKILL.md",
+      "owns": "logo and identity system design",
+      "triggers": [
+        "logo",
+        "identitas brand",
+        "favicon"
+      ]
+    },
+    {
+      "id": "psychological-control-and-human-vulnerability",
+      "domain": "psychology",
+      "path": "skills/psychology/psychological-control-and-human-vulnerability/SKILL.md",
+      "owns": "recognizing coercive control and vulnerability mechanisms",
+      "triggers": [
+        "dikendalikan",
+        "ketergantungan",
+        "eksploitasi pekerja",
+        "coercion"
+      ]
+    },
+    {
+      "id": "psychology-decision-engine",
+      "domain": "psychology",
+      "path": "skills/psychology/psychology-decision-engine/SKILL.md",
+      "owns": "selects relevant psychology specialists by role and relationship",
+      "triggers": [
+        "psikologi",
+        "peran saya sebagai",
+        "atasan bawahan"
+      ]
+    },
+    {
       "id": "public-speaking-and-speaking-confidence",
       "domain": "communication",
       "path": "skills/communication/public-speaking-and-speaking-confidence/SKILL.md",
@@ -296,37 +916,75 @@
       ]
     },
     {
-      "id": "vocal-and-nonverbal-delivery",
-      "domain": "communication",
-      "path": "skills/communication/vocal-and-nonverbal-delivery/SKILL.md",
-      "owns": "voice, gesture, posture, and delivery cues",
+      "id": "relationship-building-and-mutual-attraction",
+      "domain": "psychology",
+      "path": "skills/psychology/relationship-building-and-mutual-attraction/SKILL.md",
+      "owns": "healthy relationship and romantic development",
       "triggers": [
-        "intonasi",
-        "bahasa tubuh",
-        "suara",
-        "gesture"
+        "pdkt",
+        "gebetan",
+        "pacar",
+        "networking",
+        "relasi"
       ]
     },
     {
-      "id": "audience-retention-intelligence",
-      "domain": "content-creation",
-      "path": "skills/content-creation/audience-retention-intelligence/SKILL.md",
-      "owns": "interpret YouTube retention data and drop-off diagnosis",
+      "id": "reverse-engineering-and-reference-based-reconstruction",
+      "domain": "development",
+      "path": "skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md",
+      "owns": "evidence-led analysis of a reference and reconstruction brief",
       "triggers": [
-        "retensi",
-        "penonton keluar",
-        "retention"
+        "tiru tampilan",
+        "referensi website",
+        "bongkar situs"
       ]
     },
     {
-      "id": "content-calendar-and-production-planning",
-      "domain": "content-creation",
-      "path": "skills/content-creation/content-calendar-and-production-planning/SKILL.md",
-      "owns": "capacity-aware content schedule and production planning",
+      "id": "risk-assessment",
+      "domain": "orchestrator",
+      "path": "orchestrator/risk-assessment/SKILL.md",
+      "owns": "risk and consequence screen: legal, safety, financial, reversibility",
       "triggers": [
-        "jadwal konten",
-        "kalender konten",
-        "content calendar"
+        "risiko",
+        "legal",
+        "bahaya",
+        "hukum",
+        "konsekuensi",
+        "risk"
+      ]
+    },
+    {
+      "id": "scroll-driven-3d-storytelling",
+      "domain": "development",
+      "path": "skills/development/scroll-driven-3d-storytelling/SKILL.md",
+      "owns": "scroll-linked 3D narrative",
+      "triggers": [
+        "scroll 3d",
+        "web interaktif 3d"
+      ]
+    },
+    {
+      "id": "self-deception-and-self-examination",
+      "domain": "psychology",
+      "path": "skills/psychology/self-deception-and-self-examination/SKILL.md",
+      "owns": "self-reflection and motivated reasoning",
+      "triggers": [
+        "menipu diri",
+        "alasan pembenar",
+        "introspeksi"
+      ]
+    },
+    {
+      "id": "service-recovery-marketing-and-trust-building",
+      "domain": "marketing",
+      "path": "skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md",
+      "owns": "complaint triage, proportionate remedy, public reply with a mandatory visible marketing element (Output contract in SKILL.md), recovery",
+      "triggers": [
+        "komplain",
+        "ulasan jelek",
+        "refund",
+        "pelanggan kecewa",
+        "balas ulasan"
       ]
     },
     {
@@ -342,6 +1000,56 @@
       ]
     },
     {
+      "id": "situational-intelligence",
+      "domain": "orchestrator",
+      "path": "orchestrator/situational-intelligence/SKILL.md",
+      "owns": "cross-domain situation model, option comparison, consequences",
+      "triggers": [
+        "situasi rumit",
+        "banding opsi",
+        "keputusan banyak faktor",
+        "complex decision"
+      ]
+    },
+    {
+      "id": "skill-based-income-development",
+      "domain": "finance",
+      "path": "skills/finance/skill-based-income-development/SKILL.md",
+      "owns": "monetize marketable skills",
+      "triggers": [
+        "jual keahlian",
+        "naik gaji",
+        "freelance",
+        "skill jadi uang"
+      ]
+    },
+    {
+      "id": "skill-boundary-governance",
+      "domain": "orchestrator",
+      "path": "orchestrator/skill-boundary-governance/SKILL.md",
+      "owns": "ownership registry, routing recipes, handoff packet, quality gate",
+      "triggers": [
+        "routing",
+        "tumpang tindih",
+        "overlap",
+        "skill baru"
+      ]
+    },
+    {
+      "id": "software-testing-and-quality-assurance",
+      "domain": "development",
+      "path": "skills/development/software-testing-and-quality-assurance/SKILL.md",
+      "owns": "test planning, reproducible defect verification, automated/manual test evidence, and regression coverage",
+      "triggers": [
+        "test aplikasi",
+        "QA aplikasi",
+        "cari bug",
+        "buat e2e test",
+        "uji semua fitur",
+        "software testing"
+      ]
+    },
+    {
       "id": "title-thumbnail-packaging-optimization",
       "domain": "content-creation",
       "path": "skills/content-creation/title-thumbnail-packaging-optimization/SKILL.md",
@@ -350,6 +1058,28 @@
         "judul",
         "thumbnail",
         "packaging"
+      ]
+    },
+    {
+      "id": "traction-channel-selection",
+      "domain": "growth",
+      "path": "skills/growth/traction-channel-selection/SKILL.md",
+      "owns": "channel-to-audience fit and candidate selection",
+      "triggers": [
+        "pilih channel",
+        "jualan lewat mana"
+      ]
+    },
+    {
+      "id": "traction-strategy",
+      "domain": "growth",
+      "path": "skills/growth/traction-strategy/SKILL.md",
+      "owns": "overall acquisition and distribution strategy",
+      "triggers": [
+        "cari pelanggan",
+        "dapat pembeli",
+        "traction",
+        "customer acquisition"
       ]
     },
     {
@@ -373,6 +1103,73 @@
         "script video",
         "hook",
         "intro video"
+      ]
+    },
+    {
+      "id": "viral-and-referral-growth",
+      "domain": "growth",
+      "path": "skills/growth/viral-and-referral-growth/SKILL.md",
+      "owns": "sharing loops, referrals, advocacy mechanics",
+      "triggers": [
+        "referral",
+        "getok tular",
+        "ajak teman",
+        "viral loop"
+      ]
+    },
+    {
+      "id": "viral-content-engineering-and-attention-psychology",
+      "domain": "marketing",
+      "path": "skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md",
+      "owns": "hooks, attention, shareability, and content iteration",
+      "triggers": [
+        "konten viral",
+        "FYP",
+        "hook konten"
+      ]
+    },
+    {
+      "id": "viral-event-marketing-and-content-monetization",
+      "domain": "marketing",
+      "path": "skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md",
+      "owns": "integrated event-to-content-to-revenue plan",
+      "triggers": [
+        "event jadi konten",
+        "monetisasi event"
+      ]
+    },
+    {
+      "id": "vocal-and-nonverbal-delivery",
+      "domain": "communication",
+      "path": "skills/communication/vocal-and-nonverbal-delivery/SKILL.md",
+      "owns": "voice, gesture, posture, and delivery cues",
+      "triggers": [
+        "intonasi",
+        "bahasa tubuh",
+        "suara",
+        "gesture"
+      ]
+    },
+    {
+      "id": "word-of-mouth-and-brand-advocacy",
+      "domain": "marketing",
+      "path": "skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md",
+      "owns": "organic recommendations and customer-led reputation",
+      "triggers": [
+        "dari mulut ke mulut",
+        "pelanggan setia",
+        "rekomendasi"
+      ]
+    },
+    {
+      "id": "workplace-competition-and-divide-and-rule",
+      "domain": "psychology",
+      "path": "skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md",
+      "owns": "healthy competition vs deliberate workplace division",
+      "triggers": [
+        "diadu domba",
+        "persaingan kantor",
+        "pilih kasih"
       ]
     },
     {
@@ -427,789 +1224,6 @@
         "seo youtube",
         "deskripsi video",
         "kata kunci"
-      ]
-    },
-    {
-      "id": "2d-mesh-avatar-rigging",
-      "domain": "development",
-      "path": "skills/development/2d-mesh-avatar-rigging/SKILL.md",
-      "owns": "2D mesh avatar rig preparation and quality",
-      "triggers": [
-        "avatar 2d",
-        "rigging",
-        "vtuber"
-      ]
-    },
-    {
-      "id": "3d-media-storefront-experience",
-      "domain": "development",
-      "path": "skills/development/3d-media-storefront-experience/SKILL.md",
-      "owns": "3D media catalog and storefront patterns",
-      "triggers": [
-        "toko 3d",
-        "katalog 3d"
-      ]
-    },
-    {
-      "id": "advanced-pagination-and-data-navigation-patterns",
-      "domain": "development",
-      "path": "skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md",
-      "owns": "pagination pattern selection and page-to-page navigation within a collection",
-      "triggers": [
-        "pagination",
-        "paginasi",
-        "navigasi halaman",
-        "jump input",
-        "page preview",
-        "sliding pagination"
-      ]
-    },
-    {
-      "id": "ai-interface-design-and-unslop-engineering",
-      "domain": "development",
-      "path": "skills/development/ai-interface-design-and-unslop-engineering/SKILL.md",
-      "owns": "product-specific AI interface direction and generic-pattern critique",
-      "triggers": [
-        "UI terlihat generik",
-        "audit tampilan",
-        "unslop"
-      ]
-    },
-    {
-      "id": "apple-platform-design-and-hig-review",
-      "domain": "development",
-      "path": "skills/development/apple-platform-design-and-hig-review/SKILL.md",
-      "owns": "Apple platform convention and HIG review",
-      "triggers": [
-        "iOS",
-        "iPhone app",
-        "HIG",
-        "apple design"
-      ]
-    },
-    {
-      "id": "application-architecture-planning",
-      "domain": "development",
-      "path": "skills/development/application-architecture-planning/SKILL.md",
-      "owns": "stack, system boundaries, database schema, API contracts, access model, and implementation sequence",
-      "triggers": [
-        "arsitektur aplikasi",
-        "stack aplikasi",
-        "rancang database",
-        "schema database",
-        "desain API",
-        "application architecture"
-      ]
-    },
-    {
-      "id": "application-deployment-and-release-engineering",
-      "domain": "development",
-      "path": "skills/development/application-deployment-and-release-engineering/SKILL.md",
-      "owns": "release preflight, staging/production deployment plan, rollback, and monitoring readiness",
-      "triggers": [
-        "deploy aplikasi",
-        "publish aplikasi",
-        "go production",
-        "hubungkan domain",
-        "rilis aplikasi",
-        "release engineering"
-      ]
-    },
-    {
-      "id": "application-parity-evaluation",
-      "domain": "development",
-      "path": "skills/development/application-parity-evaluation/SKILL.md",
-      "owns": "evidence-based feature coverage and meaningful behavior/layout differences",
-      "triggers": [
-        "bandingkan aplikasi",
-        "feature parity",
-        "apa yang kurang dari clone",
-        "cek kesesuaian aplikasi",
-        "parity check"
-      ]
-    },
-    {
-      "id": "backend-engineering-and-integrations",
-      "domain": "development",
-      "path": "skills/development/backend-engineering-and-integrations/SKILL.md",
-      "owns": "server-side auth, authorization, database, payments, webhooks, jobs, storage, and integrations",
-      "triggers": [
-        "buat backend",
-        "login register",
-        "integrasi API",
-        "database aplikasi",
-        "payment gateway",
-        "webhook",
-        "backend engineering"
-      ]
-    },
-    {
-      "id": "frontend-design",
-      "domain": "development",
-      "path": "skills/development/frontend-design/SKILL.md",
-      "owns": "product-grounded visual and frontend design direction",
-      "triggers": [
-        "desain web",
-        "landing page",
-        "tampilan app",
-        "frontend"
-      ]
-    },
-    {
-      "id": "full-stack-application-engineering",
-      "domain": "development",
-      "path": "skills/development/full-stack-application-engineering/SKILL.md",
-      "owns": "scoped implementation of screens, routes, components, and end-to-end user flows",
-      "triggers": [
-        "bangun aplikasi",
-        "implementasi frontend backend",
-        "buat halaman aplikasi",
-        "coding fitur",
-        "build application"
-      ]
-    },
-    {
-      "id": "micro-interactions-and-ui-feedback",
-      "domain": "development",
-      "path": "skills/development/micro-interactions-and-ui-feedback/SKILL.md",
-      "owns": "interaction feedback states, motion, loading states",
-      "triggers": [
-        "animasi tombol",
-        "hover",
-        "skeleton",
-        "micro-interaction"
-      ]
-    },
-    {
-      "id": "modern-web-navigation-patterns",
-      "domain": "development",
-      "path": "skills/development/modern-web-navigation-patterns/SKILL.md",
-      "owns": "navigation between product sections and destinations, including expressive navigation and scroll progress",
-      "triggers": [
-        "navbar",
-        "bottom tab",
-        "menu navigasi",
-        "command palette",
-        "radial sidebar",
-        "vertical typography",
-        "scroll progress",
-        "scroll navigation"
-      ]
-    },
-    {
-      "id": "professional-logo-and-brand-identity",
-      "domain": "development",
-      "path": "skills/development/professional-logo-and-brand-identity/SKILL.md",
-      "owns": "logo and identity system design",
-      "triggers": [
-        "logo",
-        "identitas brand",
-        "favicon"
-      ]
-    },
-    {
-      "id": "reverse-engineering-and-reference-based-reconstruction",
-      "domain": "development",
-      "path": "skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md",
-      "owns": "evidence-led analysis of a reference and reconstruction brief",
-      "triggers": [
-        "tiru tampilan",
-        "referensi website",
-        "bongkar situs"
-      ]
-    },
-    {
-      "id": "scroll-driven-3d-storytelling",
-      "domain": "development",
-      "path": "skills/development/scroll-driven-3d-storytelling/SKILL.md",
-      "owns": "scroll-linked 3D narrative",
-      "triggers": [
-        "scroll 3d",
-        "web interaktif 3d"
-      ]
-    },
-    {
-      "id": "software-testing-and-quality-assurance",
-      "domain": "development",
-      "path": "skills/development/software-testing-and-quality-assurance/SKILL.md",
-      "owns": "test planning, reproducible defect verification, automated/manual test evidence, and regression coverage",
-      "triggers": [
-        "test aplikasi",
-        "QA aplikasi",
-        "cari bug",
-        "buat e2e test",
-        "uji semua fitur",
-        "software testing"
-      ]
-    },
-    {
-      "id": "asset-and-liability-analysis",
-      "domain": "finance",
-      "path": "skills/finance/asset-and-liability-analysis/SKILL.md",
-      "owns": "asset/liability classification and balance-sheet position",
-      "triggers": [
-        "aset",
-        "liabilitas",
-        "kekayaan bersih"
-      ]
-    },
-    {
-      "id": "cash-flow-management",
-      "domain": "finance",
-      "path": "skills/finance/cash-flow-management/SKILL.md",
-      "owns": "timing, liquidity, cash forecasts, operating cash controls",
-      "triggers": [
-        "arus kas",
-        "cash flow",
-        "uang masuk keluar",
-        "likuiditas"
-      ]
-    },
-    {
-      "id": "debt-and-installment-management",
-      "domain": "finance",
-      "path": "skills/finance/debt-and-installment-management/SKILL.md",
-      "owns": "debt inventory, borrowing cost, installments/BNPL, repayment order",
-      "triggers": [
-        "utang",
-        "cicilan",
-        "paylater",
-        "pinjol",
-        "debt"
-      ]
-    },
-    {
-      "id": "emergency-fund-strategy",
-      "domain": "finance",
-      "path": "skills/finance/emergency-fund-strategy/SKILL.md",
-      "owns": "reserve sizing, location, withdrawals, replenishment",
-      "triggers": [
-        "dana darurat",
-        "emergency fund"
-      ]
-    },
-    {
-      "id": "envelope-budgeting-system",
-      "domain": "finance",
-      "path": "skills/finance/envelope-budgeting-system/SKILL.md",
-      "owns": "category allocations, spending limits, sinking funds",
-      "triggers": [
-        "amplop",
-        "anggaran",
-        "budget bulanan",
-        "alokasi"
-      ]
-    },
-    {
-      "id": "financial-habit-formation",
-      "domain": "finance",
-      "path": "skills/finance/financial-habit-formation/SKILL.md",
-      "owns": "cues, routines, friction, recovery for financial behavior",
-      "triggers": [
-        "kebiasaan menabung",
-        "disiplin uang",
-        "habit"
-      ]
-    },
-    {
-      "id": "financial-intelligence",
-      "domain": "finance",
-      "path": "skills/finance/financial-intelligence/SKILL.md",
-      "owns": "high-level financial framing and routing to finance specialists",
-      "triggers": [
-        "keuangan",
-        "uang",
-        "finansial",
-        "finance"
-      ]
-    },
-    {
-      "id": "financial-leverage",
-      "domain": "finance",
-      "path": "skills/finance/financial-leverage/SKILL.md",
-      "owns": "borrowing, OPM, capital stacking, leverage risk",
-      "triggers": [
-        "modal pinjaman",
-        "OPM",
-        "uang orang lain",
-        "leverage"
-      ]
-    },
-    {
-      "id": "financial-statement-literacy",
-      "domain": "finance",
-      "path": "skills/finance/financial-statement-literacy/SKILL.md",
-      "owns": "reading income statement, balance sheet, cash-flow statement",
-      "triggers": [
-        "laporan keuangan",
-        "laba rugi",
-        "neraca"
-      ]
-    },
-    {
-      "id": "income-to-asset-wealth-building",
-      "domain": "finance",
-      "path": "skills/finance/income-to-asset-wealth-building/SKILL.md",
-      "owns": "convert surplus income into productive assets",
-      "triggers": [
-        "gaji jadi aset",
-        "bangun kekayaan",
-        "wealth building"
-      ]
-    },
-    {
-      "id": "online-marketplace-pricing-and-promo-optimization",
-      "domain": "finance",
-      "path": "skills/finance/online-marketplace-pricing-and-promo-optimization/SKILL.md",
-      "owns": "marketplace reverse pricing, fee recovery, promo burden (AYDO-faithful)",
-      "triggers": [
-        "harga jual online",
-        "fee marketplace",
-        "promo shopee",
-        "tokopedia",
-        "AYDO"
-      ]
-    },
-    {
-      "id": "opportunity-and-investment-evaluation",
-      "domain": "finance",
-      "path": "skills/finance/opportunity-and-investment-evaluation/SKILL.md",
-      "owns": "compare business/investment opportunities, risk, return, exit",
-      "triggers": [
-        "layak investasi",
-        "untung atau tidak",
-        "evaluasi peluang"
-      ]
-    },
-    {
-      "id": "pay-yourself-first",
-      "domain": "finance",
-      "path": "skills/finance/pay-yourself-first/SKILL.md",
-      "owns": "sustainable savings allocation from income",
-      "triggers": [
-        "sisihkan dulu",
-        "menabung",
-        "pay yourself first"
-      ]
-    },
-    {
-      "id": "skill-based-income-development",
-      "domain": "finance",
-      "path": "skills/finance/skill-based-income-development/SKILL.md",
-      "owns": "monetize marketable skills",
-      "triggers": [
-        "jual keahlian",
-        "naik gaji",
-        "freelance",
-        "skill jadi uang"
-      ]
-    },
-    {
-      "id": "bullseye-framework",
-      "domain": "growth",
-      "path": "skills/growth/bullseye-framework/SKILL.md",
-      "owns": "brainstorm-rank-prioritize-test-focus channel process",
-      "triggers": [
-        "bullseye",
-        "uji channel"
-      ]
-    },
-    {
-      "id": "critical-path-prioritization",
-      "domain": "growth",
-      "path": "skills/growth/critical-path-prioritization/SKILL.md",
-      "owns": "identify current bottleneck and order growth work",
-      "triggers": [
-        "prioritas",
-        "bottleneck",
-        "mulai dari mana"
-      ]
-    },
-    {
-      "id": "growth-experimentation",
-      "domain": "growth",
-      "path": "skills/growth/growth-experimentation/SKILL.md",
-      "owns": "hypothesis, test design, learning record",
-      "triggers": [
-        "eksperimen",
-        "uji coba iklan",
-        "A/B test"
-      ]
-    },
-    {
-      "id": "growth-metrics-optimization",
-      "domain": "growth",
-      "path": "skills/growth/growth-metrics-optimization/SKILL.md",
-      "owns": "metric definitions, scorecards, and performance interpretation",
-      "triggers": [
-        "metrik",
-        "konversi",
-        "CAC",
-        "retensi pelanggan"
-      ]
-    },
-    {
-      "id": "partnership-distribution",
-      "domain": "growth",
-      "path": "skills/growth/partnership-distribution/SKILL.md",
-      "owns": "partner fit, mutual value, and partnership plan",
-      "triggers": [
-        "kerja sama",
-        "mitra distribusi",
-        "reseller",
-        "partnership"
-      ]
-    },
-    {
-      "id": "product-launch-and-go-to-market-planning",
-      "domain": "growth",
-      "path": "skills/growth/product-launch-and-go-to-market-planning/SKILL.md",
-      "owns": "product launch readiness, positioning-to-assets, launch sequence, and early adoption measurement",
-      "triggers": [
-        "launch produk",
-        "siapkan peluncuran aplikasi",
-        "landing page produk",
-        "pricing plan aplikasi",
-        "launch plan",
-        "go to market"
-      ]
-    },
-    {
-      "id": "traction-channel-selection",
-      "domain": "growth",
-      "path": "skills/growth/traction-channel-selection/SKILL.md",
-      "owns": "channel-to-audience fit and candidate selection",
-      "triggers": [
-        "pilih channel",
-        "jualan lewat mana"
-      ]
-    },
-    {
-      "id": "traction-strategy",
-      "domain": "growth",
-      "path": "skills/growth/traction-strategy/SKILL.md",
-      "owns": "overall acquisition and distribution strategy",
-      "triggers": [
-        "cari pelanggan",
-        "dapat pembeli",
-        "traction",
-        "customer acquisition"
-      ]
-    },
-    {
-      "id": "viral-and-referral-growth",
-      "domain": "growth",
-      "path": "skills/growth/viral-and-referral-growth/SKILL.md",
-      "owns": "sharing loops, referrals, advocacy mechanics",
-      "triggers": [
-        "referral",
-        "getok tular",
-        "ajak teman",
-        "viral loop"
-      ]
-    },
-    {
-      "id": "knowledge-graph-builder",
-      "domain": "knowledge",
-      "path": "skills/knowledge/knowledge-graph-builder/SKILL.md",
-      "owns": "map evidence-backed relationships and gaps across skills",
-      "triggers": [
-        "peta skill",
-        "hubungan antar skill",
-        "audit celah"
-      ]
-    },
-    {
-      "id": "brand-awareness-and-brand-activation",
-      "domain": "marketing",
-      "path": "skills/marketing/brand-awareness-and-brand-activation/SKILL.md",
-      "owns": "brand memory, awareness objective, activation experience",
-      "triggers": [
-        "brand awareness",
-        "dikenal orang",
-        "branding"
-      ]
-    },
-    {
-      "id": "brand-communication-and-public-relations",
-      "domain": "marketing",
-      "path": "skills/marketing/brand-communication-and-public-relations/SKILL.md",
-      "owns": "brand narrative, public messaging, reputation communication",
-      "triggers": [
-        "citra brand",
-        "media",
-        "krisis reputasi",
-        "PR"
-      ]
-    },
-    {
-      "id": "consumer-psychology-and-persuasion",
-      "domain": "marketing",
-      "path": "skills/marketing/consumer-psychology-and-persuasion/SKILL.md",
-      "owns": "buyer decision variables, value perception, ethical persuasion",
-      "triggers": [
-        "psikologi pembeli",
-        "harga psikologis",
-        "kenapa orang beli",
-        "scarcity"
-      ]
-    },
-    {
-      "id": "digital-brand-awareness-and-channel-strategy",
-      "domain": "marketing",
-      "path": "skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md",
-      "owns": "digital presence and platform roles",
-      "triggers": [
-        "media sosial",
-        "instagram usaha",
-        "konten digital",
-        "google bisnis"
-      ]
-    },
-    {
-      "id": "experiential-and-event-based-marketing",
-      "domain": "marketing",
-      "path": "skills/marketing/experiential-and-event-based-marketing/SKILL.md",
-      "owns": "brand experiences, trials, pop-ups, events",
-      "triggers": [
-        "bazar",
-        "pop-up",
-        "tester gratis",
-        "event promosi"
-      ]
-    },
-    {
-      "id": "influencer-opinion-leader-and-endorsement",
-      "domain": "marketing",
-      "path": "skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md",
-      "owns": "creator/endorser selection, disclosure, and measurement",
-      "triggers": [
-        "influencer",
-        "endorse",
-        "food vlogger"
-      ]
-    },
-    {
-      "id": "service-recovery-marketing-and-trust-building",
-      "domain": "marketing",
-      "path": "skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md",
-      "owns": "complaint triage, proportionate remedy, public reply with a mandatory visible marketing element (Output contract in SKILL.md), recovery",
-      "triggers": [
-        "komplain",
-        "ulasan jelek",
-        "refund",
-        "pelanggan kecewa",
-        "balas ulasan"
-      ]
-    },
-    {
-      "id": "viral-content-engineering-and-attention-psychology",
-      "domain": "marketing",
-      "path": "skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md",
-      "owns": "hooks, attention, shareability, and content iteration",
-      "triggers": [
-        "konten viral",
-        "FYP",
-        "hook konten"
-      ]
-    },
-    {
-      "id": "viral-event-marketing-and-content-monetization",
-      "domain": "marketing",
-      "path": "skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md",
-      "owns": "integrated event-to-content-to-revenue plan",
-      "triggers": [
-        "event jadi konten",
-        "monetisasi event"
-      ]
-    },
-    {
-      "id": "word-of-mouth-and-brand-advocacy",
-      "domain": "marketing",
-      "path": "skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md",
-      "owns": "organic recommendations and customer-led reputation",
-      "triggers": [
-        "dari mulut ke mulut",
-        "pelanggan setia",
-        "rekomendasi"
-      ]
-    },
-    {
-      "id": "behavioral-finance-and-money-psychology",
-      "domain": "psychology",
-      "path": "skills/psychology/behavioral-finance-and-money-psychology/SKILL.md",
-      "owns": "behavioral biases and emotions in financial decisions",
-      "triggers": [
-        "boros",
-        "FOMO investasi",
-        "takut rugi",
-        "psikologi uang"
-      ]
-    },
-    {
-      "id": "creative-intelligence-engine",
-      "domain": "psychology",
-      "path": "skills/psychology/creative-intelligence-engine/SKILL.md",
-      "owns": "divergent thinking and idea recombination",
-      "triggers": [
-        "brainstorm",
-        "ide kreatif",
-        "ide baru",
-        "kreatif"
-      ]
-    },
-    {
-      "id": "emotional-regulation-and-calm-decision-making",
-      "domain": "psychology",
-      "path": "skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md",
-      "owns": "managing reactivity and decision readiness",
-      "triggers": [
-        "emosi",
-        "marah",
-        "panik",
-        "tenang",
-        "stres"
-      ]
-    },
-    {
-      "id": "false-concern-and-covert-sabotage",
-      "domain": "psychology",
-      "path": "skills/psychology/false-concern-and-covert-sabotage/SKILL.md",
-      "owns": "cautious analysis of possible covert undermining",
-      "triggers": [
-        "pura-pura peduli",
-        "dijegal",
-        "disabotase"
-      ]
-    },
-    {
-      "id": "general-habit-formation-and-behavior-change",
-      "domain": "psychology",
-      "path": "skills/psychology/general-habit-formation-and-behavior-change/SKILL.md",
-      "owns": "general non-financial habit design using context, repetition, reward, and friction",
-      "triggers": [
-        "ubah kebiasaan",
-        "membangun kebiasaan",
-        "kebiasaan buruk",
-        "susah konsisten",
-        "rutinitas",
-        "habit formation"
-      ]
-    },
-    {
-      "id": "human-behavior-decision-psychology",
-      "domain": "psychology",
-      "path": "skills/psychology/human-behavior-decision-psychology/SKILL.md",
-      "owns": "behavior and decision mechanisms across contexts",
-      "triggers": [
-        "perilaku orang",
-        "kenapa orang memutuskan",
-        "motivasi"
-      ]
-    },
-    {
-      "id": "philosophical-intelligence",
-      "domain": "psychology",
-      "path": "skills/psychology/philosophical-intelligence/SKILL.md",
-      "owns": "philosophical lenses and reflective inquiry",
-      "triggers": [
-        "filsafat",
-        "makna hidup",
-        "nietzsche",
-        "jung"
-      ]
-    },
-    {
-      "id": "power-dynamics-and-strategic-influence",
-      "domain": "psychology",
-      "path": "skills/psychology/power-dynamics-and-strategic-influence/SKILL.md",
-      "owns": "authority, incentives, dependencies, and ethical strategic influence",
-      "triggers": [
-        "kekuasaan",
-        "politik kantor",
-        "pengaruh",
-        "48 laws"
-      ]
-    },
-    {
-      "id": "psychological-control-and-human-vulnerability",
-      "domain": "psychology",
-      "path": "skills/psychology/psychological-control-and-human-vulnerability/SKILL.md",
-      "owns": "recognizing coercive control and vulnerability mechanisms",
-      "triggers": [
-        "dikendalikan",
-        "ketergantungan",
-        "eksploitasi pekerja",
-        "coercion"
-      ]
-    },
-    {
-      "id": "psychology-decision-engine",
-      "domain": "psychology",
-      "path": "skills/psychology/psychology-decision-engine/SKILL.md",
-      "owns": "selects relevant psychology specialists by role and relationship",
-      "triggers": [
-        "psikologi",
-        "peran saya sebagai",
-        "atasan bawahan"
-      ]
-    },
-    {
-      "id": "relationship-building-and-mutual-attraction",
-      "domain": "psychology",
-      "path": "skills/psychology/relationship-building-and-mutual-attraction/SKILL.md",
-      "owns": "healthy relationship and romantic development",
-      "triggers": [
-        "pdkt",
-        "gebetan",
-        "pacar",
-        "networking",
-        "relasi"
-      ]
-    },
-    {
-      "id": "self-deception-and-self-examination",
-      "domain": "psychology",
-      "path": "skills/psychology/self-deception-and-self-examination/SKILL.md",
-      "owns": "self-reflection and motivated reasoning",
-      "triggers": [
-        "menipu diri",
-        "alasan pembenar",
-        "introspeksi"
-      ]
-    },
-    {
-      "id": "workplace-competition-and-divide-and-rule",
-      "domain": "psychology",
-      "path": "skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md",
-      "owns": "healthy competition vs deliberate workplace division",
-      "triggers": [
-        "diadu domba",
-        "persaingan kantor",
-        "pilih kasih"
-      ]
-    },
-    {
-      "id": "osint-and-digital-footprint-intelligence",
-      "domain": "research",
-      "path": "skills/research/osint-and-digital-footprint-intelligence/SKILL.md",
-      "owns": "lawful open-source research and evidence collection",
-      "triggers": [
-        "jejak digital",
-        "OSINT",
-        "cek informasi publik",
-        "verifikasi identitas"
-      ]
-    },
-    {
-      "id": "meaningful-prayer-and-khushu",
-      "domain": "spirituality",
-      "path": "skills/spirituality/meaningful-prayer-and-khushu/SKILL.md",
-      "owns": "reflective learning about prayer meaning and attentiveness",
-      "triggers": [
-        "shalat",
-        "khusyuk",
-        "makna shalat"
       ]
     }
   ]

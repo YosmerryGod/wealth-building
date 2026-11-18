@@ -13,6 +13,10 @@ For every new video, article, book, or other source:
 - Avoid copying large portions of copyrighted material; summarize in original wording.
 - Do not turn an allegory, anecdote, or short video into a scientific conclusion without supporting evidence.
 
+### Source audit: dynamic knowledge retrieval
+
+- **GoogleChrome, Modern Web Guidance** ([published skill](https://github.com/GoogleChrome/modern-web-guidance), [source repository](https://github.com/GoogleChrome/modern-web-guidance-src), reviewed 2026-11-19). The upstream skill documents focused catalog search, exact guide-ID retrieval, progressive disclosure, implementation checks, and browser-support fallbacks. Paul Irish's [technical deep dive](https://developer.chrome.com/blog/mwg-technical-deep-dive) describes the local search approach and its motivation. Wealth Building adopts the retrieval workflow and creates an original cross-domain evidence/ownership adapter; it does not copy or bundle the upstream guide corpus or CLI. The upstream CLI is not installed by this repository and requires a compatible runtime, network access, and permission.
+
 ### Source audit: habit formation and competitive advantage
 
 - **Wendy Wood, *Good Habits, Bad Habits: The Science of Making Positive Changes That Stick* (2019).** Publisher overview and publicly available excerpt reviewed. Source-supported themes used: habit formation is not reducible to willpower; context, repetition, and reward matter; environmental friction and cues influence repeated behavior. The new skill is an original coaching synthesis, not a full-text extraction or clinical protocol. [Publisher overview](https://us.macmillan.com/books/9781250159083/goodhabitsbadhabits/).

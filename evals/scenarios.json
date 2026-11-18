@@ -415,6 +415,15 @@
         "dua akar masalah operasional dipisahkan (proses pemanggangan vs checklist kelengkapan packing)"
       ],
       "catatan": "Analisis batch mengikuti Step 2B. Balasan berisi hanya maaf dan perbaikan operasional dianggap gagal sesuai Output contract, meskipun sopan."
+    },
+    {
+      "pesan": "Buat modal konfirmasi yang bisa ditutup dengan Escape dan klik di luar, lalu pastikan aksesibilitasnya.",
+      "skill_utama": "frontend-design",
+      "skill_pendukung_maks_2": [
+        "dynamic-knowledge-retrieval"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Untuk implementasi UI/browser, cari panduan Modern Web Guidance yang relevan sebelum coding, ambil ID hasil search secara tepat, periksa dukungan browser dan fallback, lalu verifikasi hasil. Jangan memanggilnya untuk backend atau tooling."
     }
   ]
 }

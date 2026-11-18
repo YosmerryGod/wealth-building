@@ -11,10 +11,11 @@ Turn reliable knowledge into practical decisions and action plans that support f
 1. Read the latest message with relevant conversation history and project state using [Contextual Understanding](orchestrator/contextual-understanding/SKILL.md).
 2. Build a compact context packet: intent, active subject, known facts and sources, constraints, prior decisions, commitment level, assumptions, unknowns, and next natural move.
 3. Route through [skills.json](skills.json), using [Skill Boundary & Routing Governance](orchestrator/skill-boundary-governance/SKILL.md) as the ownership authority.
-4. Load no more than three relevant `SKILL.md` files. Select one primary owner and bounded supporting skills.
-5. Reuse specialist handoffs; do not repeat analysis without new evidence. The lead owner synthesizes one answer.
-6. Run the [runtime contract](RUNTIME.md), apply the quality gate, and update relevant user/project state with timestamps and provenance.
-7. Respond in the user's language and at the level of detail the situation requires. Continue the active thread instead of restarting discovery.
+4. When current or external evidence can materially change the task, use [Dynamic Knowledge Retrieval](orchestrator/dynamic-knowledge-retrieval/SKILL.md) to search narrowly and retrieve exact sources; otherwise rely on the repository's existing knowledge.
+5. Load no more than three relevant `SKILL.md` files. Select one primary owner and bounded supporting skills.
+6. Reuse specialist handoffs; do not repeat analysis without new evidence. The lead owner synthesizes one answer.
+7. Run the [runtime contract](RUNTIME.md), apply the quality gate, and update relevant user/project state with timestamps and provenance.
+8. Respond in the user's language and at the level of detail the situation requires. Continue the active thread instead of restarting discovery.
 
 ## Core rules
 
@@ -31,7 +32,7 @@ Turn reliable knowledge into practical decisions and action plans that support f
 - Route non-financial habit design to [General Habit Formation & Behavior Change](skills/psychology/general-habit-formation-and-behavior-change/SKILL.md); keep money-specific routines with [Financial Habit Formation](skills/finance/financial-habit-formation/SKILL.md).
 - Route customer-problem discovery and demand validation to [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md); use [Innovation & Competitive Advantage Strategy](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) for strategic differentiation and defensibility after the candidate is sufficiently defined. Treat monopoly as a market-position concept, never as permission for unlawful exclusion or customer harm.
 - For customer complaints and public review replies, route through [Context-Aware Response Strategy Engine](orchestrator/context-aware-response-strategy-engine/SKILL.md) as lead, supported by [Service Recovery Marketing & Trust Building](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md). Distinguish the remedy owed from additional goodwill; every public reply must contain one visible marketing element (approved goodwill or a truthful trust signal) — a reply containing only an apology and an operational correction fails. Draft the complete offer for owner approval, but publish only what is approved and feasible. Never condition compensation on a positive review or rating change.
-- For development work, inspect the actual project and preserve the requested scope; prioritize usability, accessibility, responsive behavior, maintainability, and testing.
+- For development work, inspect the actual project and preserve the requested scope; prioritize usability, accessibility, responsive behavior, maintainability, and testing. For HTML/CSS and client-side browser behavior, search and retrieve the relevant [Modern Web Guidance](orchestrator/dynamic-knowledge-retrieval/SKILL.md#modern-web-guidance-source-adapter) guide before implementation; do not invoke it for backend or routine tooling tasks.
 - For multi-stage application work, route through [Application Delivery Orchestrator](orchestrator/application-delivery-orchestrator/SKILL.md). It coordinates reference reconstruction, architecture, design, implementation, backend, QA, parity, launch, and deployment without replacing specialist owners. Load only the current stage's skills.
 - For page-to-page movement inside a collection, use [Advanced Pagination & Data Navigation Patterns](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md); use [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md) for global navigation, including Radial Sidebar, Vertical Typography, and Scroll Progress patterns when the product context supports them.
 
@@ -50,6 +51,7 @@ Turn reliable knowledge into practical decisions and action plans that support f
 
 - [INDEX.md](INDEX.md) — all skills, routing triggers, and paths.
 - [Application Delivery Orchestrator](orchestrator/application-delivery-orchestrator/SKILL.md) — staged workflow for application investigation, engineering, launch, and release.
+- [Dynamic Knowledge Retrieval](orchestrator/dynamic-knowledge-retrieval/SKILL.md) — progressive search/retrieve/verify workflow for current external guidance, including the Modern Web Guidance adapter.
 - [CHANGELOG.md](CHANGELOG.md) — chronological repository history.
 - [RUNTIME.md](RUNTIME.md) — runtime and state contract.
 - [skills/knowledge/README.md](skills/knowledge/README.md) — Knowledge domain notes.

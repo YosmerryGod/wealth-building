@@ -2,13 +2,14 @@
 
 Generated from `skills.json` and checked against the repository tree. The governance registry is authoritative for ownership boundaries.
 
-**Totals:** 100 skills across 12 domains.
+**Totals:** 101 skills across 12 domains.
 
 ## Orchestrator
 
 | Skill | Owns | Triggers | Path |
 |---|---|---|---|
 | Contextual Understanding | relevant history, intent, continuity, constraints, uncertainty; returns a compact context packet | lanjut, boleh, yang tadi, coba, oke, continue, that one | [SKILL.md](orchestrator/contextual-understanding/SKILL.md) |
+| Dynamic Knowledge Retrieval | focused external search, exact-source retrieval, provenance/freshness verification, evidence handoff | best practice terbaru, panduan teknis terbaru, panduan web modern, referensi eksternal | [SKILL.md](orchestrator/dynamic-knowledge-retrieval/SKILL.md) |
 | Companion Interaction Style | user-facing tone, proportionality, natural concise replies | gaya jawab, ngobrol, santai, tone | [SKILL.md](orchestrator/companion-interaction-style/SKILL.md) |
 | Skill Boundary Governance | ownership registry, routing recipes, handoff packet, quality gate | routing, tumpang tindih, overlap, skill baru | [SKILL.md](orchestrator/skill-boundary-governance/SKILL.md) |
 | Situational Intelligence | cross-domain situation model, option comparison, consequences | situasi rumit, banding opsi, keputusan banyak faktor, complex decision | [SKILL.md](orchestrator/situational-intelligence/SKILL.md) |
