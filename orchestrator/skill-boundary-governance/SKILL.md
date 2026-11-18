@@ -81,7 +81,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Skill | Owns | Does not own |
 |---|---|---|
 | Business Agent Orchestrator | End-to-end business project lifecycle, project lock, milestones, and user approvals | Replacing finance, marketing, operations, or customer-service specialist methods |
-| Content Intelligence Orchestrator | Routes YouTube/content-production requests to the smallest sufficient content specialists and synthesizes one result | General business acquisition strategy, specialist content methods, or publishing without approval |\n| Content Intelligence Orchestrator | Routes YouTube/content-production requests to the smallest sufficient content specialists and synthesizes one result | General business acquisition strategy, specialist content methods, or publishing without approval |
+| Content Intelligence Orchestrator | Routes YouTube/content-production requests to the smallest sufficient content specialists and synthesizes one result | General business acquisition strategy, specialist content methods, or publishing without approval |
 | Companion Interaction Style | User-facing tone, proportionality, and conversational experience | Domain decisions or specialist analysis |
 | Context-Aware Response Strategy Engine | Selects the appropriate response mode for a concrete situation | Full context retrieval, deep specialist psychology, or final copy craft |
 | Contextual Understanding & Intent Inference | Retrieves and structures relevant history, intent, continuity, and uncertainty | Motive attribution or tactic selection |

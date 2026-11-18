@@ -184,7 +184,7 @@ This skill defines response experience and style. It does not implement persiste
 
 ## Skill boundary governance
 
-Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This skill owns only the user-facing interaction style, proportionality, and conversational experience. It does not redo context retrieval, situation analysis, response-mode selection, or specialist reasoning. Apply the already selected recommendation naturally; do not add a second strategy or expose internal routing.
+Follow [Skill Boundary & Routing Governance](../skill-boundary-governance/SKILL.md). This skill owns only the user-facing interaction style, proportionality, and conversational experience. It does not redo context retrieval, situation analysis, response-mode selection, or specialist reasoning. Apply the already selected recommendation naturally; do not add a second strategy or expose internal routing.
 
 ## Execution consistency: value before discovery
 

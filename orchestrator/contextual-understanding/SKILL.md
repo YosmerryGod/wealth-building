@@ -180,7 +180,7 @@ A SKILL.md file supplies reasoning instructions only. Persistent memory, cross-s
 
 ## Skill boundary governance
 
-Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This skill owns context retrieval, continuity, intent inference, and uncertainty labels. Return a compact context packet; do not interpret private motives, compare domain options, select tactics, or write the final response. Receiving skills must reuse the packet and may request a targeted refresh only when information is stale, contradictory, or decision-critical.
+Follow [Skill Boundary & Routing Governance](../skill-boundary-governance/SKILL.md). This skill owns context retrieval, continuity, intent inference, and uncertainty labels. Return a compact context packet; do not interpret private motives, compare domain options, select tactics, or write the final response. Receiving skills must reuse the packet and may request a targeted refresh only when information is stale, contradictory, or decision-critical.
 
 ## Conversational state and exploration control
 
