@@ -109,7 +109,7 @@ Separate organic recommendations from incentivized referrals. Do not count a soc
 
 ## Service recovery integration
 
-Use [Service Recovery Marketing & Trust Building](service-recovery-marketing-and-trust-building/SKILL.md) when a customer complaint or service failure needs an actual remedy and operational correction. A credible recovery may influence word of mouth, but compensation must never be conditional on a positive review, changed rating, or removal of criticism.
+Use [Service Recovery Marketing & Trust Building](../service-recovery-marketing-and-trust-building/SKILL.md) when a customer complaint or service failure needs an actual remedy and operational correction. A credible recovery may influence word of mouth, but compensation must never be conditional on a positive review, changed rating, or removal of criticism.
 
 ## Relationship to other skills
 

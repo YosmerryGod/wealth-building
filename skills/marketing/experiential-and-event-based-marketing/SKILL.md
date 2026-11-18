@@ -123,4 +123,4 @@ The book *150 Brand Awareness Ideas* by Akmal Musyadat Cholil is identified in a
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns the audience experience and event design/delivery. Viral Event integrates the event with content and monetization; Viral Content Engineering owns hooks, attention, and content iteration; Growth owns distribution tests and metrics. Hand off event format, audience journey, operational requirements, risks, and measurable outcomes. Do not build a separate content monetization or channel-testing strategy here.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns the audience experience and event design/delivery. Viral Event integrates the event with content and monetization; Viral Content Engineering owns hooks, attention, and content iteration; Growth owns distribution tests and metrics. Hand off event format, audience journey, operational requirements, risks, and measurable outcomes. Do not build a separate content monetization or channel-testing strategy here.

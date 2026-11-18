@@ -34,7 +34,7 @@ for markdown in ROOT.glob("**/*.md"):
     if any(part in {".git", ".venv", "node_modules"} for part in markdown.parts):
         continue
     content = markdown.read_text(encoding="utf-8")
-    for target in re.findall(r"!?[[^]]*](([^)]+))", content):
+    for target in re.findall(r"!?\[[^\]]*\]\(([^)]+)\)", content):
         target = target.strip().split()[0].strip("<>")
         if not target or target.startswith(("http://", "https://", "mailto:", "#")):
             continue
