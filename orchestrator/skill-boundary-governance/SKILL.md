@@ -130,7 +130,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Apple Platform Design & HIG Review | Apple-platform convention and HIG-focused review | Universal visual design or implementation ownership |
 | Frontend Design | Product-grounded visual/interface design and frontend design direction | Platform-specific compliance or reference reverse engineering |
 | Micro-Interactions & UI Feedback Design | Interaction feedback states, motion, and feedback implementation guidance | Navigation architecture or overall visual identity |
-| Modern Web Navigation & Interaction Patterns | Navigation patterns and information movement between product sections and destinations | Full visual design, pagination within a collection, or detailed feedback animation |
+| Modern Web Navigation & Interaction Patterns | Navigation between product sections and destinations, including conventional and expressive patterns such as Radial Sidebar, Vertical Typography, and Scroll Progress | Full visual design, pagination within a collection, or detailed feedback animation |
 | Advanced Pagination & Data Navigation Patterns | Pagination pattern selection and page-to-page navigation within a collection | Global navigation architecture, overall visual design, or backend query architecture |
 | Professional Logo & Brand Identity | Logo and identity system design | Product UI or trademark/legal clearance |
 | Reverse Engineering & Reference-Based Reconstruction | Evidence-led analysis of a reference and reconstruction brief | Claims about hidden internals not observed or final product ownership |
@@ -287,7 +287,7 @@ Reverse Engineering owns evidence about a supplied reference → Frontend Design
 
 ### Pagination and collection navigation
 
-Frontend Design owns the overall product interface → Modern Web Navigation owns movement between product sections and destinations → Advanced Pagination & Data Navigation Patterns owns movement between pages inside one collection → Micro-Interactions owns detailed feedback and motion where needed → frontend engineering implements and tests the existing data/routing contract. Do not use advanced pagination patterns when simple numbered or previous/next controls are clearer; do not invent page counts for cursor-based APIs.
+Frontend Design owns the overall product interface → Modern Web Navigation owns movement between product sections and destinations, choosing conventional or expressive patterns such as Radial Sidebar, Vertical Typography, and Scroll Progress only when context supports them → Advanced Pagination & Data Navigation Patterns owns movement between pages inside one collection → Micro-Interactions owns detailed feedback and motion where needed → frontend engineering implements and tests the existing data/routing contract. Do not use advanced pagination patterns when simple numbered or previous/next controls are clearer; do not invent page counts for cursor-based APIs.
 
 ### YouTube and creator content
 

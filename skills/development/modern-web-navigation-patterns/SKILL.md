@@ -3,7 +3,7 @@ name: modern-web-navigation-patterns
 title: Modern Web Navigation & Interaction Patterns
 category: development
 source_type: user-provided-video-and-operational-framework
-source: User-provided TikTok video shared in conversation; video demonstrates Floating Pill Navigation, Bottom Tab Bar, and Command Palette (Ctrl+K)
+source: User-provided videos 67567.mp4 and 67562.mp4 shared in conversation; demonstrate Floating Pill Navigation, Bottom Tab Bar, Command Palette (Ctrl+K), Radial Sidebar, Vertical Typography, and Scroll Progress
 language: Indonesian
 description: "Use when a request needs navigation patterns and information movement."
 triggers:
@@ -11,6 +11,10 @@ triggers:
   - "bottom tab"
   - "menu navigasi"
   - "command palette"
+  - "radial sidebar"
+  - "vertical typography"
+  - "scroll progress"
+  - "scroll navigation"
 out_of_scope: "Full visual design or detailed feedback animation"
 escalation: "Hand off work involving Full visual design or detailed feedback animation to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
@@ -93,6 +97,68 @@ A keyboard-first search and command interface, commonly opened with Ctrl+K (and 
 - Essential functionality is available only through the keyboard shortcut.
 - Search results are ambiguous or destructive actions lack confirmation.
 
+### 4. Radial Sidebar
+
+A navigation menu arranged around a central item or focal point, with secondary destinations distributed along a circular or radial path. The second user-provided video (67562.mp4) shows a central "Industries" item surrounded by icon-based destinations.
+
+**Good fit**
+- Creative portfolios, experimental landing pages, and immersive brand experiences where exploration is part of the presentation.
+- A small set of related destinations that can be represented clearly around one focal point.
+
+**Design guidance**
+- Keep the number of destinations small and make each destination's meaning understandable.
+- Provide visible labels or an accessible text equivalent; do not rely on ambiguous icons alone.
+- Ensure the center item and surrounding destinations have a clear hierarchy and predictable focus order.
+- Provide a conventional list/menu fallback for narrow screens, keyboard users, and assistive technologies when the radial layout becomes difficult to operate.
+- Keep hit areas large enough and avoid overlapping targets.
+
+**Avoid when**
+- The product is a data-heavy dashboard, admin tool, or content site where users need fast, predictable scanning.
+- The radial layout makes labels, focus order, or touch targets difficult to understand.
+- Users must learn an unfamiliar spatial interaction to reach essential destinations.
+
+### 5. Vertical Typography Navigation
+
+A navigation composition where section names or menu labels are displayed vertically, often as tall typographic columns or panels. The second video shows a portfolio/editorial-style layout with vertically arranged labels such as Home, Work, About, and Contact.
+
+**Good fit**
+- Editorial websites, portfolios, creative studios, and art-directed landing pages where typography is a central part of the visual identity.
+- A small number of high-level sections with short, recognizable labels.
+
+**Design guidance**
+- Keep labels readable and make their link behavior obvious.
+- Preserve a logical reading and keyboard order even when the visual arrangement is vertical.
+- Provide horizontal or conventional navigation at small breakpoints if vertical labels become cramped.
+- Use appropriate writing-mode and layout behavior for the language; do not rotate text arbitrarily when it harms readability.
+- Give active, hover, and focus-visible states that remain distinguishable.
+
+**Avoid when**
+- The audience needs conventional, instantly scannable navigation.
+- Labels are long, localization is extensive, or the layout becomes difficult on mobile.
+- Vertical styling competes with the content or reduces text legibility.
+
+### 6. Scroll Progress Navigation
+
+A persistent progress indicator that represents the user's position through a long page or a sequence of sections. The second video shows a vertical track with section markers: scrolling moves the active marker, and selecting a marker jumps to its corresponding section.
+
+**Good fit**
+- Long-form storytelling, product narratives, case studies, editorial pages, and landing pages with clearly separated sections.
+- Experiences where users benefit from knowing their position and jumping directly between sections.
+
+**Design guidance**
+- Tie each marker to a real, named section and show the active section clearly.
+- Keep the indicator compact and avoid covering content or primary controls.
+- Support both scroll-based active-state updates and direct selection of a marker.
+- Use semantic links for stable section anchors where appropriate; ensure browser history and deep links behave predictably.
+- Account for sticky headers when calculating anchor positions.
+- On mobile, consider a compact or alternate presentation rather than shrinking the desktop rail.
+- Avoid excessive scroll listeners; use efficient observation and update strategies.
+
+**Avoid when**
+- The page is short or has no meaningful section structure.
+- The indicator adds visual noise or obscures content.
+- The active marker jumps unpredictably because section boundaries or dynamic content are not handled well.
+
 ## Choosing the right pattern
 
 Before implementation, evaluate:
@@ -114,6 +180,8 @@ Before implementation, evaluate:
 | Mobile application | Bottom Tab Bar | Limit tabs to primary sections and respect safe areas |
 | Complex dashboard or admin tool | Command Palette plus visible navigation | Keep navigation discoverable; palette is a shortcut, not the only route |
 | Content-heavy website | Information-architecture-led header/sidebar navigation | Organize categories and hierarchy before choosing visual treatment |
+| Creative portfolio or experimental landing page | Radial Sidebar or Vertical Typography | Keep destinations few, labeled, and easy to operate |
+| Long-form story or multi-section landing page | Scroll Progress Navigation | Use only when section structure and position awareness help the task |
 
 These are starting points, not rigid rules. A product may combine patterns when each serves a distinct purpose—for example, a visible sidebar plus a command palette for fast access.
 
@@ -126,7 +194,7 @@ These are starting points, not rigid rules. A product may combine patterns when 
 5. **Define interaction states.** Include default, active, hover, focus, disabled, open, closed, loading, and empty states where relevant.
 6. **Implement accessibly.** Use semantic navigation landmarks, real links for destinations, buttons for actions, keyboard support, visible focus, and appropriate accessible names.
 7. **Preserve project conventions.** Reuse existing components, tokens, routing, and styling patterns. Do not introduce a new library without a clear need.
-8. **Test behavior.** Verify route changes, browser back/forward, refresh on nested routes, keyboard interaction, touch targets, safe areas, and responsive layouts.
+8. **Test behavior.** Verify route changes, browser back/forward, refresh on nested routes, keyboard interaction, touch targets, safe areas, responsive layouts, and scroll-to-section accuracy where relevant.
 9. **Review usability.** Confirm that users can discover destinations and complete common tasks without relying on hidden gestures or undocumented shortcuts.
 
 ## Quality checklist
@@ -140,6 +208,8 @@ These are starting points, not rigid rules. A product may combine patterns when 
 - [ ] Layout does not overlap content, dialogs, or device system areas.
 - [ ] Responsive behavior is intentional rather than accidental.
 - [ ] Browser navigation and direct route loading work.
+- [ ] Radial and vertical navigation have clear labels, logical focus order, and usable mobile fallbacks.
+- [ ] Scroll progress reflects the actual active section and marker clicks reach the correct anchor.
 - [ ] The navigation pattern does not add complexity without a user benefit.
 
 ## AI implementation rules
@@ -149,6 +219,8 @@ These are starting points, not rigid rules. A product may combine patterns when 
 - Do not assume that a visually modern pattern is automatically more usable.
 - Do not use a command palette as a replacement for discoverable navigation.
 - Do not use icons without accessible names.
+- Use Radial Sidebar and Vertical Typography only when the product benefits from an expressive, exploratory presentation; preserve a conventional fallback when needed.
+- Use Scroll Progress only for meaningful long-page section navigation, not as decoration or a replacement for page structure.
 - Do not hide essential actions behind hover-only interactions.
 - Explain meaningful trade-offs when more than one pattern is suitable.
 - If requirements are unclear, ask one focused question before implementation.
@@ -169,12 +241,12 @@ This skill focuses on navigation between product sections and destinations. For 
 
 ## Source limitations
 
-The supplied video demonstrates three visual/navigation patterns: Floating Pill Navigation, Bottom Tab Bar, and Command Palette (Ctrl+K). It does not provide usability research, performance measurements, implementation code, or evidence that one pattern is universally superior. The selection criteria, implementation workflow, accessibility guidance, and quality checklist in this document are added operational guidance and should not be attributed to the video.
+Video 67567.mp4 demonstrates Floating Pill Navigation, Bottom Tab Bar, and Command Palette (Ctrl+K). Video 67562.mp4 demonstrates Radial Sidebar, Vertical Typography Navigation, and Scroll Progress Navigation; it identifies Radial Sidebar as a fit for creative portfolios and experimental landing pages, and shows scroll position tracking plus clickable section markers. Neither video provides usability research, performance measurements, implementation code, or evidence that any pattern is universally superior. The selection criteria, implementation workflow, accessibility guidance, responsive fallbacks, and quality checklist in this document are added operational guidance and should not be attributed to the videos.
 
 ## Classification
 
 - Primary skill: Modern Web Navigation & Interaction Patterns
 - Domain: Frontend Development / UI/UX
-- Source-derived patterns: Floating Pill Navigation, Bottom Tab Bar, Command Palette (Ctrl+K)
+- Source-derived patterns: Floating Pill Navigation, Bottom Tab Bar, Command Palette (Ctrl+K), Radial Sidebar, Vertical Typography Navigation, Scroll Progress Navigation
 - Primary use cases: Website navigation, mobile application navigation, dashboards, admin panels, and productivity tools
-- Source status: Three patterns summarized from a user-provided video; practical selection, implementation, accessibility, and testing guidance added as operational framework
+- Source status: Six patterns summarized from user-provided videos 67567.mp4 and 67562.mp4; practical selection, implementation, accessibility, responsive, and testing guidance added as operational framework

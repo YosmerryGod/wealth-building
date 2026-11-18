@@ -24,6 +24,10 @@ The sources were not treated as proof that any habit method works for every pers
 
 - **User-provided video 67567.mp4** (creator watermark visible as @kodebin; no public source URL supplied). Direct frame review identified three demonstrated patterns: Jump Input, Page Preview, and Sliding Pagination. The video recommends considering advanced pagination for very large page counts or visual content that benefits from a preview, while retaining simple pagination when page counts are small and function is the priority. The skill's accessibility, backend, performance, edge-case, and testing guidance is additional operational synthesis; the video does not supply implementation code or usability measurements.
 
+### Source audit: expressive navigation patterns
+
+- **User-provided video 67562.mp4** (creator watermark visible as @kodebin; no public source URL supplied). Direct frame review identified Radial Sidebar, Vertical Typography Navigation, and Scroll Progress Navigation. The video explicitly presents Radial Sidebar as suitable for creative portfolios and experimental landing pages; it shows vertical typographic section labels and a scroll-progress rail whose active marker follows scrolling and can be clicked to jump to a section. The video does not provide usability research, implementation code, or measured outcomes. Responsive, accessibility, selection, and implementation guidance in the expanded skill is operational synthesis.
+
 ## Repository update protocol
 
 **Every time a skill is added, changed, moved, or removed, update this README in the same work session.** The README is the orientation document for people and AI assistants opening the repository in a new conversation.

@@ -312,6 +312,16 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Nilai apakah pengguna perlu lompat ke nomor tertentu (Jump Input), mengenali konten secara visual (Page Preview), atau berpindah di rentang halaman panjang (Sliding Pagination); jangan menganggap pola paling dekoratif paling baik."
+    },
+    {
+      "pesan": "Saya ingin memakai sidebar radial, teks menu vertikal, dan scroll progress seperti referensi video. Mana yang cocok untuk website saya?",
+      "skill_utama": "modern-web-navigation-patterns",
+      "skill_pendukung_maks_2": [
+        "frontend-design",
+        "micro-interactions-and-ui-feedback"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Pahami tipe produk dan tugas pengguna. Radial lebih sesuai untuk portfolio kreatif/landing page eksperimental; vertical typography untuk editorial/portfolio yang memang art-directed; scroll progress untuk halaman panjang dengan section jelas. Jangan memilih semua pola sekaligus tanpa alasan."
     }
   ]
 }
