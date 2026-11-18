@@ -403,15 +403,15 @@ For every business review or customer complaint, explicitly run the integrated s
 
 ## Relationship to other skills
 
-- **[Context-Aware Response Strategy Engine](../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** selects the response strategy from the full situation before this specialist skill determines service-recovery actions. Use it to avoid automatic compensation and to keep marketing visible only when relevant.
-- **[Brand Communication & Public Relations](brand-communication-and-public-relations/SKILL.md):** public statements, stakeholder communication, and reputation response.
-- **[Word of Mouth & Brand Advocacy](word-of-mouth-and-brand-advocacy/SKILL.md):** customer recommendations, eWOM, and voluntary advocacy.
-- **[Consumer Psychology & Persuasion](consumer-psychology-and-persuasion/SKILL.md):** customer expectations, fairness perceptions, trust, and decision behavior.
-- **[Active Listening & Conversational Rapport](../communication/active-listening-and-conversational-rapport/SKILL.md):** listening to complaints and understanding the customer's account.
-- **[Effective Communication & First Impressions](../communication/effective-communication-and-first-impressions/SKILL.md):** clear, respectful responses.
-- **[Business Operations & Scaling](../business/business-operations-and-scaling/SKILL.md):** process quality, staff responsibilities, and prevention of recurring failures.
-- **[Growth Metrics & Optimization](../growth/growth-metrics-and-optimization/SKILL.md):** measurement of retention and operational improvement.
-- **[Risk Assessment & Consequence Intelligence](../../orchestrator/risk-assessment/SKILL.md):** material safety, legal, financial, and reputational consequences.
+- **[Context-Aware Response Strategy Engine](../../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** selects the response strategy from the full situation before this specialist skill determines service-recovery actions. Use it to avoid automatic compensation and to keep marketing visible only when relevant.
+- **[Brand Communication & Public Relations](../brand-communication-and-public-relations/SKILL.md):** public statements, stakeholder communication, and reputation response.
+- **[Word of Mouth & Brand Advocacy](../word-of-mouth-and-brand-advocacy/SKILL.md):** customer recommendations, eWOM, and voluntary advocacy.
+- **[Consumer Psychology & Persuasion](../consumer-psychology-and-persuasion/SKILL.md):** customer expectations, fairness perceptions, trust, and decision behavior.
+- **[Active Listening & Conversational Rapport](../../communication/active-listening-and-conversational-rapport/SKILL.md):** listening to complaints and understanding the customer's account.
+- **[Effective Communication & First Impressions](../../communication/effective-communication-and-first-impressions/SKILL.md):** clear, respectful responses.
+- **[Business Operations & Scaling](../../business/business-operations-and-scaling/SKILL.md):** process quality, staff responsibilities, and prevention of recurring failures.
+- **[Growth Metrics & Optimization](../../growth/growth-metrics-optimization/SKILL.md):** measurement of retention and operational improvement.
+- **[Risk Assessment & Consequence Intelligence](../../../orchestrator/risk-assessment/SKILL.md):** material safety, legal, financial, and reputational consequences.
 
 ## Evidence and limitations
 
@@ -423,11 +423,11 @@ The skill succeeds when the customer receives a fair and completed resolution, t
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
 ## Psychology-led opening and acknowledgment
 
 The first sentence sets the customer's interpretation of whether the business has listened. Choose it based on the reviewer's situation rather than applying one fixed apology template.
