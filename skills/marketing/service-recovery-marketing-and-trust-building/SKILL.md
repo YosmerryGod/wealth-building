@@ -5,7 +5,7 @@ category: marketing
 subcategory: customer-experience-and-reputation
 source_type: original-ai-operational-framework
 language: English
-description: "Use when a request needs complaint triage, proportionate remedy, public reply, recovery."
+description: "Use when a request needs complaint triage, proportionate remedy, public reply, recovery. Every public review reply must satisfy the Output contract below — a reply containing only an apology and an operational correction fails, even when polite."
 triggers:
   - "komplain"
   - "ulasan jelek"
@@ -22,6 +22,18 @@ escalation: "Hand off work involving Automatic compensation or general PR for no
 Help businesses respond to product, service, delivery, and customer-experience failures in ways that resolve the customer's problem, restore confidence where possible, protect long-term relationships, and demonstrate accountability to future customers who may observe the response.
 
 Service recovery is not a trick for turning every complaint into positive publicity. The primary objective is to make the affected customer whole as reasonably as possible and fix the cause. Public trust is a possible consequence of credible action, not a guaranteed outcome.
+
+## Output contract — read before drafting anything
+
+Every public review reply produced by this skill MUST contain all five components below. A reply that contains only an apology plus an operational correction FAILS this contract, even when it is polite, empathetic, and accurate.
+
+1. **Specific recognition:** name the actual praise, missing item, or quality issue. Never use wording that could fit any review.
+2. **Entitlement restoration:** restore what the customer already paid for first (deliver the missing or wrong item, or refund its value). Goodwill never replaces this obligation.
+3. **One visible marketing element:** either approved goodwill stated exactly (item, quantity, timing, claim route) or — when goodwill is not warranted — one truthful trust signal or product-value point. This component is mandatory; choose "none" only with an explicit case reason (for example, an unverified safety claim).
+4. **One concrete prevention or follow-up action:** the check or process change that protects the next customer.
+5. **One clear claim route:** a single official channel. Never invent contact details.
+
+**Drafting vs publishing:** always draft the COMPLETE reply, including the recommended goodwill labeled with its concession state (for example, "[recommended — awaiting owner approval]"). The approval rule in Step 4 forbids PUBLISHING an unapproved offer; it never forbids writing one into a draft. Removing goodwill from a draft to stay safe produces exactly the apology-only reply this contract forbids.
 
 ## Core concepts
 
@@ -222,16 +234,16 @@ When several reviews or customer reports are supplied together:
 
 ### Step 3: choose a proportionate response
 
-| Complaint condition | First response | Remedy to consider |
-|---|---|---|
-| Minor preference or subjective feedback; order delivered as described and safe | Thank the customer, acknowledge preference, record feedback | Usually no compensation; improve product only if feedback shows a pattern |
-| Minor packaging inconvenience without meaningful product loss | Apologize and identify packaging improvement | Usually apology and process correction; consider a small remedy only if impact warrants it |
-| Product spilled, damaged, or partly unusable | Apologize and verify the affected portion | Replace or refund the affected part; consider full-order remedy only if most of the order was lost |
-| Missing or wrong item caused by the business | Acknowledge the fulfilment error and verify the order | Restore the missing/correct item or refund its value first; separately assess additional goodwill when the omission materially disrupted the customer's experience |
-| Portion or quantity materially below the stated offer | Check menu promise, portion standard, and actual fulfilment | Correct the shortfall or refund the affected value; update portion controls |
-| Suspected spoiled, contaminated, or otherwise unsafe food/product | Treat as a safety issue; stop serving/selling the suspect batch where appropriate and investigate | Refund or replace only with a verified safe product; provide additional remedy when impact and policy justify it |
-| Repeated defect or multiple affected customers | Escalate beyond a routine reply; investigate supplier, batch, storage, and process | Resolve affected orders and correct the systemic cause; compensation is assessed per affected customer |
-| Service delay or poor interaction without product/financial loss | Apologize and explain corrective action | Usually no automatic free item; consider a gesture if the delay or treatment caused substantial inconvenience |
+| Complaint condition | First response | Remedy to consider | Visible marketing element |
+|---|---|---|---|
+| Minor preference or subjective feedback; order delivered as described and safe | Thank the customer, acknowledge preference, record feedback | Usually no compensation; improve product only if feedback shows a pattern | One genuine product-strength point, only if it fits naturally |
+| Minor packaging inconvenience without meaningful product loss | Apologize and identify packaging improvement | Usually apology and process correction; consider a small remedy only if impact warrants it | Packaging-improvement signal |
+| Product spilled, damaged, or partly unusable | Apologize and verify the affected portion | Replace or refund the affected part; consider full-order remedy only if most of the order was lost | Replacement path + packaging-fix signal |
+| Missing or wrong item caused by the business | Acknowledge the fulfilment error and verify the order | Restore the missing/correct item or refund its value first; separately assess additional goodwill when the omission materially disrupted the customer's experience | Restored entitlement + separately assessed goodwill (approval-labeled) + prevention-check signal |
+| Portion or quantity materially below the stated offer | Check menu promise, portion standard, and actual fulfilment | Correct the shortfall or refund the affected value; update portion controls | The real, verifiable portion standard stated publicly |
+| Suspected spoiled, contaminated, or otherwise unsafe food/product | Treat as a safety issue; stop serving/selling the suspect batch where appropriate and investigate | Refund or replace only with a verified safe product; provide additional remedy when impact and policy justify it | No product offer — the visible element is the safety investigation itself |
+| Repeated defect or multiple affected customers | Escalate beyond a routine reply; investigate supplier, batch, storage, and process | Resolve affected orders and correct the systemic cause; compensation is assessed per affected customer | Corrective-action signal visible to future readers |
+| Service delay or poor interaction without product/financial loss | Apologize and explain corrective action | Usually no automatic free item; consider a gesture if the delay or treatment caused substantial inconvenience | Corrective-action signal |
 
 This table is a decision aid, not an inflexible policy. Apply local law, platform rules, safety procedures, business policy, and the customer's actual circumstances.
 
@@ -247,6 +259,8 @@ Before offering a free item, consider its cost, the customer's actual loss, repe
 Never promise a free item, refund, or delivery before confirming that the business has authorized it and can fulfill it. Do not use freebies to distract from safety failures or recurring operational problems.
 
 Track each concession through distinct states: **considered** (internal possibility), **recommended** (proposed to the owner), **approved** (authorized and feasible), **offered** (communicated to the customer), and **fulfilled** (actually delivered). Do not write customer-facing copy that presents a recommendation as an approved offer, or an offer as a completed resolution.
+
+**Drafting rule:** the public-reply draft always includes the recommended goodwill with its state label (for example, "[recommended — awaiting owner approval]"). Never strip goodwill out of a draft to stay safe; the prohibition above applies to publishing unapproved offers, not to drafting them.
 
 ### Step 4A: seller-fault compensation assessment
 
@@ -275,6 +289,8 @@ Keep the reply scannable. Put the most useful information early. If an approved 
 
 ### Response patterns by case
 
+Each pattern below must still satisfy the Output contract: specific recognition, entitlement restoration, one visible marketing element, one prevention signal, and a claim route.
+
 - **Positive review:** thank the customer; briefly highlight an existing included benefit (for example, a free soup that is genuinely part of the current menu offer). Do not invent an extra gift.
 - **Neutral feedback:** thank them, acknowledge the specific suggestion, and state the improvement being checked. No automatic compensation.
 - **Minor negative feedback:** apologize, state the relevant correction, and invite contact only if details are needed. No automatic free item.
@@ -286,27 +302,27 @@ Keep the reply scannable. Put the most useful information early. If an approved 
 
 **Example A — soup leaked but meal remained usable**
 
-"Mohon maaf ya, Kak, kuahnya tumpah saat pengiriman. Kami akan evaluasi segel kemasan agar lebih aman. Terima kasih sudah mengingatkan kami."
+"Mohon maaf ya, Kak, kuahnya tumpah saat pengiriman 🙏 Mulai hari ini segel kemasan kami gandakan supaya pesanan sampai utuh — ayam panggang kami memang paling pas dinikmati lengkap dengan kuahnya."
 
-No free chicken is automatically needed. If a meaningful portion of the meal was lost, assess a partial replacement or refund.
+No free item is automatically needed. The visible marketing element here is the prevention signal plus one truthful product-value point. If a meaningful portion of the meal was lost, assess a partial replacement or refund.
 
 **Example B — portion was materially below the menu description**
 
-"Maaf ya, Kak, porsi yang diterima tidak sesuai harapan. Kami akan cek standar porsi dan menindaklanjuti pesanan Kakak melalui WhatsApp resmi kami."
+"Maaf ya, Kak, porsi yang Kakak terima tidak sesuai harapan 🙏 Kekurangannya kami penuhi — silakan hubungi WhatsApp resmi kami. Standar porsi kami [jumlah/gram terverifikasi] per porsi, dan itu yang seharusnya Kakak terima ✅"
 
-Verify the promised portion first. Correct or refund the shortfall if the business failed to meet its stated offer.
+Verify the promised portion first. Correct or refund the shortfall if the business failed to meet its stated offer. The visible marketing element is the transparent, verifiable portion standard.
 
 **Example C — chicken was missing from the order**
 
-"Mohon maaf ya, Kak, ayamnya tidak ikut terkirim. Silakan hubungi WhatsApp resmi kami agar kami bisa mengirim kekurangannya atau mengembalikan nilainya."
+"Terima kasih sudah memberi tahu kami, Kak 🙏 Mohon maaf, ayam pesanan Kakak tidak ikut terkirim — itu kesalahan kami. Kekurangannya kami kirim atau kami kembalikan nilainya tanpa syarat, dan untuk pesanan berikutnya kami siapkan gratis 1 porsi ayam panggang [recommended — awaiting owner approval] 🍗 Sekarang setiap pesanan kami cek kelengkapannya satu per satu sebelum disegel."
 
-The primary remedy is the missing chicken or its value, not an unrelated free item.
+The primary remedy is the missing chicken or its value — never replaced by an unrelated freebie. The goodwill is additional, approval-labeled, and tied to the customer's actual order; the prevention signal closes the reply.
 
 **Example D — suspected spoiled ingredient**
 
 "Mohon maaf ya, Kak. Keluhan ini kami tangani dengan serius. Kami akan memeriksa bahan dan proses penyimpanan, serta menindaklanjuti pesanan Kakak melalui WhatsApp resmi kami untuk penyelesaian yang sesuai."
 
-Stop and investigate the suspect product or batch. Do not offer another serving of the same unverified product.
+Stop and investigate the suspect product or batch. Do not offer another serving of the same unverified product. In safety cases the visible trust element is the investigation and remediation itself — never a product offer for an unverified batch.
 
 ## Public complaint response as trust-building
 
@@ -394,12 +410,14 @@ For every business review or customer complaint, explicitly run the integrated s
 2. Acknowledge the specific issue and apologize appropriately.
 3. Assess severity, safety, impact, and facts.
 4. Select a fair, feasible remedy.
-5. Give a clear public response when appropriate and move private details to an official channel.
-6. Complete the promised remedy.
-7. Investigate and correct the root cause.
-8. Record the outcome and monitor recurrence.
-9. Review patterns to improve product, service, and operating procedures.
-10. Invite honest feedback only where appropriate and without conditioning compensation on a review.
+5. Integrate one visible marketing element into the reply (approved or approval-labeled goodwill, or a truthful trust signal) — skipping this step fails the Output contract.
+6. Verify the draft against the Output contract before presenting it.
+7. Give a clear public response when appropriate and move private details to an official channel.
+8. Complete the promised remedy.
+9. Investigate and correct the root cause.
+10. Record the outcome and monitor recurrence.
+11. Review patterns to improve product, service, and operating procedures.
+12. Invite honest feedback only where appropriate and without conditioning compensation on a review.
 
 ## Relationship to other skills
 
@@ -420,10 +438,6 @@ This is an original AI operational framework synthesizing service recovery, cust
 ## Success criteria
 
 The skill succeeds when the customer receives a fair and completed resolution, the business identifies and addresses the cause, public communication is accurate and respectful, and future recurrence is reduced. A positive review or repeat purchase is welcome but is not a condition of successful recovery.
-
-## Ownership and routing boundary
-
-Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns complaint classification, proportionate remedy guidance, public service-recovery replies, and operational correction. Context-Aware Response Strategy selects the response mode; Situational Intelligence supplies the verified order/offer/economics model; Communication shapes wording. Brand Communication handles broader reputation/PR, Word of Mouth handles advocacy, and Consumer Psychology contributes buyer insight only when it changes the remedy or wording. Do not transfer remedy authority to marketing, and never default to a free item, refund, or discount.
 
 ## Ownership and routing boundary
 
