@@ -12,8 +12,8 @@ triggers:
   - "cari ide"
   - "pasar"
   - "opportunity"
-out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
-escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+out_of_scope: "Full ongoing operations or financial statement analysis"
+escalation: "Hand off work involving Full ongoing operations or financial statement analysis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Business Opportunity Discovery Through Consumer Psychology

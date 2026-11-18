@@ -12,8 +12,8 @@ triggers:
   - "naik gaji"
   - "freelance"
   - "skill jadi uang"
-out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
-escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+out_of_scope: undefined
+escalation: "Hand off work involving undefined to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Skill-Based Income Development
