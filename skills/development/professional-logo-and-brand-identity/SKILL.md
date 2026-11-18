@@ -1,6 +1,12 @@
 ---
 name: professional-logo-and-brand-identity
-description: Develop, critique, and deliver professional logo systems through discovery, research, concept exploration, vector construction, testing, and brand asset production.
+description: "Use when a request needs logo and identity system design."
+triggers:
+  - "logo"
+  - "identitas brand"
+  - "favicon"
+out_of_scope: "Product UI or trademark/legal clearance"
+escalation: "Hand off work involving Product UI or trademark/legal clearance to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Professional Logo & Brand Identity

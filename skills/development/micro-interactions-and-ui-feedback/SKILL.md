@@ -5,6 +5,14 @@ category: development
 source_type: user-provided-video-and-operational-framework
 source: User-provided video 67332.mp4; demonstrates button animation, card hover, skeleton loading, and glow effects
 language: English
+description: "Use when a request needs interaction feedback states, motion, loading states."
+triggers:
+  - "animasi tombol"
+  - "hover"
+  - "skeleton"
+  - "micro-interaction"
+out_of_scope: "Navigation architecture or overall visual identity"
+escalation: "Hand off work involving Navigation architecture or overall visual identity to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Micro-Interactions & UI Feedback Design

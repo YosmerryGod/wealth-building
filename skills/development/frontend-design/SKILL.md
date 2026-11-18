@@ -1,6 +1,13 @@
 ---
 name: frontend-design
-description: Plan, build, and critique distinctive, product-specific frontend interfaces with deliberate visual direction, typography, layout, content, responsive behavior, and accessibility.
+description: "Use when a request needs product-grounded visual and frontend design direction."
+triggers:
+  - "desain web"
+  - "landing page"
+  - "tampilan app"
+  - "frontend"
+out_of_scope: "Platform-specific compliance or reference reverse engineering"
+escalation: "Hand off work involving Platform-specific compliance or reference reverse engineering to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Frontend Design

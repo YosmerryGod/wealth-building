@@ -1,6 +1,12 @@
 ---
 name: 2d-mesh-avatar-rigging
-description: Turn a single character illustration into an editable animated 2D mesh avatar with layered artwork, rigging, expressions, lip sync, and motion review.
+description: "Use when a request needs 2D mesh avatar rig preparation and quality."
+triggers:
+  - "avatar 2d"
+  - "rigging"
+  - "vtuber"
+out_of_scope: "General brand illustration or frontend architecture"
+escalation: "Hand off work involving General brand illustration or frontend architecture to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # 2D Mesh Avatar Rigging

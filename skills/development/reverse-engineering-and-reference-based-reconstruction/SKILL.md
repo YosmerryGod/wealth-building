@@ -1,6 +1,12 @@
 ---
 name: reverse-engineering-and-reference-based-reconstruction
-description: Investigate existing websites, applications, products, and software behavior as references; extract evidence-backed structure, user journeys, interaction patterns, and reusable principles; then adapt them into an original solution for a different product or business.
+description: "Use when a request needs evidence-led analysis of a reference and reconstruction brief."
+triggers:
+  - "tiru tampilan"
+  - "referensi website"
+  - "bongkar situs"
+out_of_scope: "Claims about hidden internals not observed or final product ownership"
+escalation: "Hand off work involving Claims about hidden internals not observed or final product ownership to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Reverse Engineering & Reference-Based Reconstruction

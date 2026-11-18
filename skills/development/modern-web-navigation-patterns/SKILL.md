@@ -5,6 +5,14 @@ category: development
 source_type: user-provided-video-and-operational-framework
 source: User-provided TikTok video shared in conversation; video demonstrates Floating Pill Navigation, Bottom Tab Bar, and Command Palette (Ctrl+K)
 language: Indonesian
+description: "Use when a request needs navigation patterns and information movement."
+triggers:
+  - "navbar"
+  - "bottom tab"
+  - "menu navigasi"
+  - "command palette"
+out_of_scope: "Full visual design or detailed feedback animation"
+escalation: "Hand off work involving Full visual design or detailed feedback animation to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Modern Web Navigation & Interaction Patterns

@@ -5,6 +5,13 @@ category: development
 source_type: adapted-open-source-skill-and-operational-framework
 source: Adapted from Unslop by Damir Sokolovsky (https://github.com/heydamir/unslop), licensed CC BY 4.0; additional framework and integration written for Wealth Building
 language: English
+description: "Use when a request needs product-specific AI interface direction and generic-pattern critique."
+triggers:
+  - "UI terlihat generik"
+  - "audit tampilan"
+  - "unslop"
+out_of_scope: "Platform-specific compliance or specialist interaction implementation"
+escalation: "Hand off work involving Platform-specific compliance or specialist interaction implementation to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # AI Interface Design & Unslop Engineering

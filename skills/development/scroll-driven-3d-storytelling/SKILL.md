@@ -1,6 +1,11 @@
 ---
 name: scroll-driven-3d-storytelling
-description: Plan and build immersive scroll-driven 3D landing pages with continuous camera movement, scene storytelling, pre-rendered video chains, scroll scrubbing, and visual quality assurance.
+description: "Use when a request needs scroll-linked 3D narrative."
+triggers:
+  - "scroll 3d"
+  - "web interaktif 3d"
+out_of_scope: "General motion design or marketing strategy"
+escalation: "Hand off work involving General motion design or marketing strategy to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Scroll-Driven 3D Storytelling

@@ -1,6 +1,11 @@
 ---
 name: 3d-media-storefront-experience
-description: Design browser-based 3D storefronts and walkable catalog experiences for media libraries, games, and other browsable digital collections.
+description: "Use when a request needs 3D media catalog and storefront patterns."
+triggers:
+  - "toko 3d"
+  - "katalog 3d"
+out_of_scope: "General frontend design or media rights clearance"
+escalation: "Hand off work involving General frontend design or media rights clearance to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # 3D Media Storefront Experience

@@ -8,6 +8,14 @@ sources:
   - Apple Human Interface Guidelines: https://developer.apple.com/design/human-interface-guidelines/
   - Apple Design Skill reference: https://github.com/dickwu/apple-design-skill
 language: English
+description: "Use when a request needs Apple platform convention and HIG review."
+triggers:
+  - "iOS"
+  - "iPhone app"
+  - "HIG"
+  - "apple design"
+out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
+escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Apple Platform Design & Human Interface Guidelines Review
