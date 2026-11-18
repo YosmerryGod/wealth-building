@@ -5,6 +5,14 @@ category: communication
 subcategory: orchestration
 source_type: AI-operational-orchestration-framework
 language: English
+description: "Use when a request needs chooses communication mode, channel, and specialists."
+triggers:
+  - "presentasi"
+  - "negosiasi"
+  - "komunikasi"
+  - "pesan penting"
+out_of_scope: "Psychology ownership or domain response-mode selection"
+escalation: "Hand off work involving Psychology ownership or domain response-mode selection to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Communication Decision Engine

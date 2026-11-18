@@ -6,6 +6,14 @@ subcategory: voice-and-body-language
 source_type: book-inspired-framework-and-operational-synthesis
 source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); vocal delivery and nonverbal communication themes
 language: English
+description: "Use when a request needs voice, gesture, posture, delivery cues."
+triggers:
+  - "intonasi"
+  - "bahasa tubuh"
+  - "suara"
+  - "gesture"
+out_of_scope: "Inferring hidden thoughts or designing message content"
+escalation: "Hand off work involving Inferring hidden thoughts or designing message content to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Vocal & Nonverbal Delivery

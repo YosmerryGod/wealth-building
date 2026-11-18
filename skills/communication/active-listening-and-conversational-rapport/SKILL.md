@@ -6,6 +6,13 @@ subcategory: listening-and-dialogue
 source_type: book-inspired-framework-and-operational-synthesis
 source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); listening and conversational interaction themes
 language: English
+description: "Use when a request needs listening behaviors and reciprocal rapport."
+triggers:
+  - "mendengarkan"
+  - "ngobrol nyambung"
+  - "rapport"
+out_of_scope: "Persuasion strategy or hidden-motive diagnosis"
+escalation: "Hand off work involving Persuasion strategy or hidden-motive diagnosis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Active Listening & Conversational Rapport

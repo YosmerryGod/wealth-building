@@ -6,6 +6,15 @@ subcategory: persuasion-and-negotiation
 source_type: book-inspired-framework-and-operational-synthesis
 source: *Bicara Itu Ada Seninya* by Oh Su Hyang; persuasion and negotiation themes
 language: English
+description: "Use when a request needs ethical persuasion, objection handling, bargaining."
+triggers:
+  - "nego"
+  - "tawar"
+  - "yakinkan"
+  - "keberatan"
+  - "negotiate"
+out_of_scope: "Manipulation, coercion, or general audience content engineering"
+escalation: "Hand off work involving Manipulation, coercion, or general audience content engineering to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Persuasive Communication & Negotiation
