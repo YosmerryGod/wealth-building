@@ -112,6 +112,12 @@
         "situational-intelligence"
       ],
       "harus_ditanyakan": "ya",
+      "output_wajib_memuat": [
+        "pengakuan spesifik keluhan kematangan",
+        "jalur verifikasi pesanan resmi",
+        "tindakan pemeriksaan produk dan proses",
+        "satu elemen trust terlihat untuk pembaca lain"
+      ],
       "catatan": "Perlu fakta pesanan, kondisi produk, dan permintaan pelanggan."
     },
     {
@@ -122,6 +128,12 @@
         "communication-decision-engine"
       ],
       "harus_ditanyakan": "tidak",
+      "output_wajib_memuat": [
+        "apresiasi spesifik atas pujian pelanggan",
+        "penguatan kekuatan produk yang dipuji",
+        "ajakan ringan tanpa tekanan",
+        "tanpa kompensasi atau hadiah yang tidak perlu"
+      ],
       "catatan": "Apresiatif dan spesifik; tidak perlu kompensasi."
     },
     {
@@ -132,6 +144,14 @@
         "communication-decision-engine"
       ],
       "harus_ditanyakan": "tidak",
+      "output_wajib_memuat": [
+        "pengakuan kesalahan spesifik",
+        "pemulihan hak pelanggan tanpa syarat",
+        "goodwill tambahan berlabel status persetujuan, terpisah dari kewajiban",
+        "satu sinyal pencegahan konkret",
+        "jalur klaim resmi",
+        "tanpa syarat mengubah ulasan"
+      ],
       "catatan": "Akui tanggung jawab dan sebut pemulihan yang disetujui."
     },
     {
@@ -378,6 +398,23 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Gunakan klaim dan bukti yang benar; delegasikan hitung harga ke Finance dan eksperimen channel ke Growth."
+    },
+    {
+      "pesan": "Tiga ulasan marketplace minggu ini: (1) 3★ dari pelanggan setia, katanya enak tapi hari ini banyak yang gosong; (2) 5★ tanpa teks; (3) 1★ nasi tidak ikut terkirim disertai foto. Buatkan balasan untuk masing-masing ulasan.",
+      "skill_utama": "context-aware-response-strategy-engine",
+      "skill_pendukung_maks_2": [
+        "service-recovery-marketing-and-trust-building",
+        "situational-intelligence"
+      ],
+      "harus_ditanyakan": "tidak",
+      "output_wajib_memuat": [
+        "balasan berbeda per kasus, bukan template seragam",
+        "ulasan campuran: pujian dan kritik diakui terpisah; tanpa dalih atau menyalahkan staf",
+        "item hilang: pemulihan hak lebih dulu, goodwill tambahan berlabel persetujuan dan bukan pengganti kewajiban",
+        "satu elemen marketing/trust terlihat di setiap balasan",
+        "dua akar masalah operasional dipisahkan (proses pemanggangan vs checklist kelengkapan packing)"
+      ],
+      "catatan": "Analisis batch mengikuti Step 2B. Balasan berisi hanya maaf dan perbaikan operasional dianggap gagal sesuai Output contract, meskipun sopan."
     }
   ]
 }

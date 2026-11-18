@@ -79,3 +79,5 @@ Risk Assessment evaluates the requested action, not the topic label. Educational
 ## 6. Final quality gate
 
 Verify that the context packet is current; selected skills own their work; exactly one primary owner exists; no more than three skills were loaded; facts and assumptions are distinguished; Risk Assessment was invoked when required; unavailable memory is not claimed; the answer addresses the latest conversational move; and external or irreversible actions have explicit user approval.
+
+In addition, when a loaded skill declares an output contract or execution standard, verify every mandatory component is present in the visible answer before responding. A procedurally correct but content-incomplete reply fails the gate. For public customer-review replies this means the owning skill's mandatory components — specific recognition, entitlement restoration, one visible marketing element (approved goodwill or a truthful trust signal), a prevention action, and a claim route — must all appear in the final copy; apology-only replies fail.
