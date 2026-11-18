@@ -147,4 +147,4 @@ This router coordinates knowledge selection and synthesis. It does not itself pr
 
 ## Skill boundary governance
 
-Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This is the front-door router for everyday interpersonal advice and wording. It should choose either Communication Decision Engine, Psychology Decision Engine, or both when their contributions are distinct. It must not duplicate their detailed workflows or route simple factual wording through every human-analysis layer. Hand off the goal, audience, context, and one precise question.
+Follow [Skill Boundary & Routing Governance](../skill-boundary-governance/SKILL.md). This is the front-door router for everyday interpersonal advice and wording. It should choose either Communication Decision Engine, Psychology Decision Engine, or both when their contributions are distinct. It must not duplicate their detailed workflows or route simple factual wording through every human-analysis layer. Hand off the goal, audience, context, and one precise question.

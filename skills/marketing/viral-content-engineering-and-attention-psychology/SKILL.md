@@ -99,4 +99,4 @@ When useful, score each dimension from 1 to 5: audience relevance, hook clarity,
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns attention hooks, content structure, shareability, and iteration of individual content assets. Experiential Marketing owns the live/offline experience; Viral Event integrates event, content, and revenue; Growth owns channel selection and acquisition experiments. Return content hypotheses and creative variants with their evidence and risks; do not claim guaranteed virality.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns attention hooks, content structure, shareability, and iteration of individual content assets. Experiential Marketing owns the live/offline experience; Viral Event integrates event, content, and revenue; Growth owns channel selection and acquisition experiments. Return content hypotheses and creative variants with their evidence and risks; do not claim guaranteed virality.

@@ -174,7 +174,7 @@ Display a limited window of page numbers that shifts as the current page changes
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). Advanced Pagination & Data Navigation Patterns owns pagination pattern selection and page-to-page navigation behavior within a collection. It does not own global navigation, overall visual design, backend query architecture, or general frontend engineering. Use the smallest relevant combination of specialists and return one coherent recommendation.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). Advanced Pagination & Data Navigation Patterns owns pagination pattern selection and page-to-page navigation behavior within a collection. It does not own global navigation, overall visual design, backend query architecture, or general frontend engineering. Use the smallest relevant combination of specialists and return one coherent recommendation.
 
 ## Classification
 
