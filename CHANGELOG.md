@@ -2,6 +2,8 @@
 
 Reverse chronological repository history (newest first).
 
+- **2026-11-19** — Fixed the Workplace Competition & Divide-and-Rule Psychology skill path in `skills.json` and `INDEX.md` to match the existing directory and skill slug. No skill content or validation rules changed.
+
 - **2026-11-18** — Integrated the 11-stage Replica Skill application workflow as original, clean-room adaptations. Added Application Delivery Orchestrator; Application Architecture Planning; Full-Stack Application Engineering; Backend Engineering & Integrations; Software Testing & Quality Assurance; Application Parity Evaluation; Application Deployment & Release Engineering; and Product Launch & Go-to-Market Planning. Strengthened existing Reverse Engineering, Frontend Design, Professional Logo & Brand Identity, and Business Opportunity Discovery owners. Added stage routing, approval/security/IP boundaries, source audit, registry/index updates, and Indonesian regression scenarios.
 
 - **2026-11-18** — Expanded Modern Web Navigation & Interaction Patterns using user-provided video 67562.mp4. Added Radial Sidebar, Vertical Typography Navigation, and Scroll Progress Navigation, with context-based selection, responsive fallbacks, accessibility, and interaction guidance. Preserved one navigation owner instead of creating a duplicate skill; updated governance, skills.json, INDEX, README, maintenance source audit, and routing regression scenarios.

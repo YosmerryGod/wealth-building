@@ -150,7 +150,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Psychology Decision Engine | selects relevant psychology specialists by role and relationship | psikologi, peran saya sebagai, atasan bawahan | [SKILL.md](skills/psychology/psychology-decision-engine/SKILL.md) |
 | Relationship Building And Mutual Attraction | healthy relationship and romantic development | pdkt, gebetan, pacar, networking, relasi | [SKILL.md](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) |
 | Self Deception And Self Examination | self-reflection and motivated reasoning | menipu diri, alasan pembenar, introspeksi | [SKILL.md](skills/psychology/self-deception-and-self-examination/SKILL.md) |
-| Workplace Competition And Divide And Rule | healthy competition vs deliberate workplace division | diadu domba, persaingan kantor, pilih kasih | [SKILL.md](skills/psychology/workplace-competition-and-divide-and-rule-psychology/SKILL.md) |
+| Workplace Competition And Divide And Rule | healthy competition vs deliberate workplace division | diadu domba, persaingan kantor, pilih kasih | [SKILL.md](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) |
 
 ## Research
 
