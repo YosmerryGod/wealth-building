@@ -1,3 +1,15 @@
+---
+name: viral-event-marketing-and-content-monetization
+title: Viral Event Marketing And Content Monetization
+category: marketing
+description: "Use when a request needs integrated event-to-content-to-revenue plan."
+triggers:
+  - "event jadi konten"
+  - "monetisasi event"
+out_of_scope: "Replacing specialist event, content, finance, and growth methods"
+escalation: "Hand off work involving Replacing specialist event, content, finance, and growth methods to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+---
+
 # Viral Event Marketing & Content Monetization
 
 ## Purpose

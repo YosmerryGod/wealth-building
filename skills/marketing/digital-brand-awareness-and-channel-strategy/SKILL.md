@@ -5,6 +5,14 @@ category: marketing
 source_type: book-inspired-operational-synthesis
 source: "150 Brand Awareness Ideas" by Akmal Musyadat Cholil; developed from available bibliographic descriptions and partial topic information, not a full-text review
 language: Indonesian
+description: "Use when a request needs digital presence and platform roles."
+triggers:
+  - "media sosial"
+  - "instagram usaha"
+  - "konten digital"
+  - "google bisnis"
+out_of_scope: "Overall acquisition channel experimentation"
+escalation: "Hand off work involving Overall acquisition channel experimentation to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Digital Brand Awareness & Channel Strategy

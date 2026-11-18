@@ -1,3 +1,16 @@
+---
+name: viral-content-engineering-and-attention-psychology
+title: Viral Content Engineering And Attention Psychology
+category: marketing
+description: "Use when a request needs hooks, attention, shareability, content iteration."
+triggers:
+  - "konten viral"
+  - "FYP"
+  - "hook konten"
+out_of_scope: "Event operations or full event monetization"
+escalation: "Hand off work involving Event operations or full event monetization to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+---
+
 # Viral Content Engineering & Attention Psychology
 
 ## Purpose

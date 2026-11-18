@@ -5,6 +5,14 @@ category: marketing
 source_type: book-inspired-operational-synthesis
 source: "150 Brand Awareness Ideas" by Akmal Musyadat Cholil; developed from available bibliographic descriptions and partial topic information, not a full-text review
 language: Indonesian
+description: "Use when a request needs brand experiences, trials, pop-ups, events."
+triggers:
+  - "bazar"
+  - "pop-up"
+  - "tester gratis"
+  - "event promosi"
+out_of_scope: "Viral-content system or event revenue model integration"
+escalation: "Hand off work involving Viral-content system or event revenue model integration to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Experiential & Event-Based Marketing

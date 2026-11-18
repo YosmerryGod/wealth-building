@@ -5,6 +5,13 @@ category: marketing
 source_type: book-inspired-operational-synthesis
 source: "150 Brand Awareness Ideas" by Akmal Musyadat Cholil; developed from available bibliographic descriptions and partial topic information, not a full-text review
 language: Indonesian
+description: "Use when a request needs creator/endorser selection, disclosure, measurement."
+triggers:
+  - "influencer"
+  - "endorse"
+  - "food vlogger"
+out_of_scope: "General partnership strategy or organic advocacy"
+escalation: "Hand off work involving General partnership strategy or organic advocacy to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Influencer, Opinion Leader & Endorsement Strategy

@@ -5,6 +5,13 @@ category: marketing
 source_type: book-inspired-operational-synthesis
 source: "150 Brand Awareness Ideas" by Akmal Musyadat Cholil; developed from available bibliographic descriptions and partial topic information, not a full-text review
 language: Indonesian
+description: "Use when a request needs organic recommendations and customer-led reputation."
+triggers:
+  - "dari mulut ke mulut"
+  - "pelanggan setia"
+  - "rekomendasi"
+out_of_scope: "Paid influencer campaigns or remedy authority"
+escalation: "Hand off work involving Paid influencer campaigns or remedy authority to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Word of Mouth & Brand Advocacy

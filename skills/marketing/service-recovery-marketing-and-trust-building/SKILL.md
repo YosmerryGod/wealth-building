@@ -5,6 +5,14 @@ category: marketing
 subcategory: customer-experience-and-reputation
 source_type: original-ai-operational-framework
 language: English
+description: "Use when a request needs complaint triage, proportionate remedy, public reply, recovery."
+triggers:
+  - "komplain"
+  - "ulasan jelek"
+  - "refund"
+  - "pelanggan kecewa"
+out_of_scope: "Automatic compensation or general PR for non-service issues"
+escalation: "Hand off work involving Automatic compensation or general PR for non-service issues to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Service Recovery Marketing & Trust Building

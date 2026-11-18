@@ -5,6 +5,13 @@ category: marketing
 source_type: book-inspired-operational-synthesis
 source: "150 Brand Awareness Ideas" by Akmal Musyadat Cholil; developed from available bibliographic descriptions and partial topic information, not a full-text review
 language: Indonesian
+description: "Use when a request needs brand memory, awareness objective, activation experience."
+triggers:
+  - "brand awareness"
+  - "dikenal orang"
+  - "branding"
+out_of_scope: "Digital channel execution or acquisition optimization"
+escalation: "Hand off work involving Digital channel execution or acquisition optimization to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Brand Awareness & Brand Activation

@@ -5,6 +5,14 @@ category: marketing
 source_type: book-inspired-operational-synthesis
 source: "150 Brand Awareness Ideas" by Akmal Musyadat Cholil; developed from available bibliographic descriptions and partial topic information, not a full-text review
 language: Indonesian
+description: "Use when a request needs brand narrative, public messaging, reputation communication."
+triggers:
+  - "citra brand"
+  - "media"
+  - "krisis reputasi"
+  - "PR"
+out_of_scope: "Actual service remedy or paid channel selection"
+escalation: "Hand off work involving Actual service remedy or paid channel selection to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Brand Communication & Public Relations

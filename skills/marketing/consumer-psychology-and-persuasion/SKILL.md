@@ -5,6 +5,14 @@ category: marketing
 source_type: user-provided-video-and-operational-framework
 source: User-provided videos 67295.mp4 and 67340.mp4; animated restaurant/queue scenario and pricing-copy explanation
 language: Indonesian
+description: "Use when a request needs buyer decision variables, value perception, ethical persuasion."
+triggers:
+  - "psikologi pembeli"
+  - "harga psikologis"
+  - "kenapa orang beli"
+  - "scarcity"
+out_of_scope: "General interpersonal diagnosis or customer-service remedy selection"
+escalation: "Hand off work involving General interpersonal diagnosis or customer-service remedy selection to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Consumer Psychology & Persuasion
