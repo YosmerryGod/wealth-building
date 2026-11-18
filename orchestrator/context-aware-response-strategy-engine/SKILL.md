@@ -306,7 +306,7 @@ The engine succeeds when the chosen response fits the real situation, addresses 
 
 ## Skill boundary governance
 
-Follow [Skill Boundary & Routing Governance](skill-boundary-governance/SKILL.md). This engine owns the response-mode decision only. Accept the context packet and situation model from their respective owners; do not rebuild them unless new evidence exposes a material gap. Select acknowledge, clarify, inform, apologize, remedy, negotiate, persuade, set a boundary, decline, or no further action based on the case. Hand the selected mode and rationale to Communication for wording. Marketing and compensation are optional outcomes, never defaults.
+Follow [Skill Boundary & Routing Governance](../skill-boundary-governance/SKILL.md). This engine owns the response-mode decision only. Accept the context packet and situation model from their respective owners; do not rebuild them unless new evidence exposes a material gap. Select acknowledge, clarify, inform, apologize, remedy, negotiate, persuade, set a boundary, decline, or no further action based on the case. Hand the selected mode and rationale to Communication for wording. Marketing and compensation are optional outcomes, never defaults.
 ## Customer-review psychology: state before wording
 
 For every customer-facing review reply, distinguish the customer's observable situation from the psychological need that may follow from it. Do not infer a precise emotion as fact from a star rating alone. Use the review text, stated impact, order facts, and conversation history.
