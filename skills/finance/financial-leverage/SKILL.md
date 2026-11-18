@@ -190,12 +190,12 @@ For loans, distinguish the principal received from interest and fees. For equity
 
 ## Relationship to other skills
 
-- [Cash Flow Management](cash-flow-management/SKILL.md) — cash timing, liquidity, reserves, and payment schedules.
-- [Financial Intelligence](financial-intelligence/SKILL.md) — interpreting financial position and comparing trade-offs.
-- [Opportunity & Investment Evaluation](opportunity-and-investment-evaluation/SKILL.md) — validating demand, modeling scenarios, and evaluating downside.
+- [Cash Flow Management](../cash-flow-management/SKILL.md) — cash timing, liquidity, reserves, and payment schedules.
+- [Financial Intelligence](../financial-intelligence/SKILL.md) — interpreting financial position and comparing trade-offs.
+- [Opportunity & Investment Evaluation](../opportunity-and-investment-evaluation/SKILL.md) — validating demand, modeling scenarios, and evaluating downside.
 - [Business Model Innovation & Asset Monetization](../../business/business-model-innovation-and-asset-monetization/SKILL.md) — comparing sale, rental, lease, subscription, and pay-per-use models.
 - [Business Operations & Scaling](../../business/business-operations-and-scaling/SKILL.md) — testing capacity, operations, quality, staffing, and staged expansion.
-- [Income-to-Asset Wealth Building](income-to-asset-wealth-building/SKILL.md) — turning sustainable income into productive assets.
+- [Income-to-Asset Wealth Building](../income-to-asset-wealth-building/SKILL.md) — turning sustainable income into productive assets.
 
 ## Practical lesson
 

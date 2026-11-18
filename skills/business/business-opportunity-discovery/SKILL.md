@@ -294,7 +294,7 @@ A response fails if it jumps from interest to commitment, invents customer deman
 
 Business Opportunity Discovery remains the owner of the early-stage chain: customer problem → reachable segment → buying motivation → offer hypothesis → demand evidence → low-cost validation. Its differentiation check asks why a customer might choose the offer, but it does not claim that a differentiator is defensible or durable.
 
-After a candidate has a sufficiently clear customer, offer, and initial demand evidence—or when the user explicitly asks for strategic positioning—hand off to [Innovation & Competitive Advantage Strategy](innovation-and-competitive-advantage-strategy/SKILL.md). That skill evaluates meaningful differentiation, proprietary capability, network effects, scale economics, brand, focused initial markets, and durability. It must reuse this skill's customer and validation evidence rather than restarting discovery.
+After a candidate has a sufficiently clear customer, offer, and initial demand evidence—or when the user explicitly asks for strategic positioning—hand off to [Innovation & Competitive Advantage Strategy](../innovation-and-competitive-advantage-strategy/SKILL.md). That skill evaluates meaningful differentiation, proprietary capability, network effects, scale economics, brand, focused initial markets, and durability. It must reuse this skill's customer and validation evidence rather than restarting discovery.
 
 Do not require a Zero to One-style moat for every small business. A local business can be viable through a well-served niche, reliable execution, fair pricing, convenience, or customer trust without venture-scale technology or market dominance.
 

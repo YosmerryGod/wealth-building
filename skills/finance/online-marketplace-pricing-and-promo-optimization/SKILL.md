@@ -31,7 +31,7 @@ The original source implementation is available at:
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md).
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md).
 
 This skill owns reverse pricing for marketplace merchant net targets, marketplace fee recovery, promotion-burden calculations, promotion sequencing, and transparent price breakdowns based on the AYDO source algorithm.
 
@@ -314,7 +314,7 @@ Do not claim that the result guarantees profitability. A correct reverse price o
 
 ## Related skills
 
-- [Financial Intelligence](financial-intelligence/SKILL.md) — financial framing and specialist routing.
-- [Cash Flow Management](cash-flow-management/SKILL.md) — liquidity, timing, and operating cash.
-- [Financial Statement Literacy](financial-statement-literacy/SKILL.md) — formal accounting interpretation.
-- [Business Operations & Scaling](../business/business-operations-and-scaling/SKILL.md) — operational costs and capacity.
+- [Financial Intelligence](../financial-intelligence/SKILL.md) — financial framing and specialist routing.
+- [Cash Flow Management](../cash-flow-management/SKILL.md) — liquidity, timing, and operating cash.
+- [Financial Statement Literacy](../financial-statement-literacy/SKILL.md) — formal accounting interpretation.
+- [Business Operations & Scaling](../../business/business-operations-and-scaling/SKILL.md) — operational costs and capacity.
