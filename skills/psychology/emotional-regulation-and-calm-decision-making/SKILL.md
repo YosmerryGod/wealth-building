@@ -1,3 +1,18 @@
+---
+name: emotional-regulation-and-calm-decision-making
+title: Emotional Regulation And Calm Decision Making
+category: psychology
+description: "Use when a request needs managing reactivity and decision readiness."
+triggers:
+  - "emosi"
+  - "marah"
+  - "panik"
+  - "tenang"
+  - "stres"
+out_of_scope: "Diagnosing disorders or deciding the external facts"
+escalation: "Hand off work involving Diagnosing disorders or deciding the external facts to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+---
+
 # Emotional Regulation & Calm Decision-Making
 
 ## Purpose

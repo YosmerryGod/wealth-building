@@ -1,7 +1,13 @@
 ---
 name: Self-Deception & Self-Examination
-description: Analyze self-deception, rationalization, hidden motives, ressentiment, conformity, and reflective self-examination through a critical philosophical and psychological lens.
 category: Psychology
+description: "Use when a request needs self-reflection and motivated reasoning."
+triggers:
+  - "menipu diri"
+  - "alasan pembenar"
+  - "introspeksi"
+out_of_scope: "Diagnosing unconscious motives as fact"
+escalation: "Hand off work involving Diagnosing unconscious motives as fact to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Self-Deception & Self-Examination

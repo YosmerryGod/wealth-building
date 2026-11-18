@@ -4,6 +4,14 @@ title: Creative Intelligence Engine
 category: psychology-and-creativity
 source_type: original_ai_framework
 source: Original operational synthesis of established creativity and problem-solving concepts; informed by the broad creativity themes associated with Yoris Sebastian's *Oh My Goodness: Buku Pintar Seorang Creative Junkies*. The complete book text was not inspected.
+description: "Use when a request needs divergent thinking and idea recombination."
+triggers:
+  - "brainstorm"
+  - "ide kreatif"
+  - "ide baru"
+  - "kreatif"
+out_of_scope: "Demand validation or final business viability"
+escalation: "Hand off work involving Demand validation or final business viability to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Creative Intelligence Engine

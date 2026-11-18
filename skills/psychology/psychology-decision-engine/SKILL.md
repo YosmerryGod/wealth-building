@@ -1,3 +1,16 @@
+---
+name: psychology-decision-engine
+title: Psychology Decision Engine
+category: psychology
+description: "Use when a request needs selects relevant psychology specialists by role and relationship."
+triggers:
+  - "psikologi"
+  - "peran saya sebagai"
+  - "atasan bawahan"
+out_of_scope: "Owning all specialist psychology content"
+escalation: "Hand off work involving Owning all specialist psychology content to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+---
+
 # Psychology Decision Engine
 
 ## Purpose

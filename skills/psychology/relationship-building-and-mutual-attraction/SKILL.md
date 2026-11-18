@@ -5,6 +5,15 @@ category: interpersonal-psychology
 source_type: AI-operational-framework-with-book-inspired-integration-and-user-video-analysis
 source: *Seni Membangun Relasi* by Devi Ardiyanti (Checklist, ISBN 978-623-7661-77-1); public catalogue descriptions only, complete text not inspected; supplementary user-provided video 67443.mp4 (TikTok account watermark: priaunggul99)
 language: Indonesian
+description: "Use when a request needs healthy relationship and romantic development."
+triggers:
+  - "pdkt"
+  - "gebetan"
+  - "pacar"
+  - "networking"
+  - "relasi"
+out_of_scope: "Overriding consent, boundaries, or Communication ownership"
+escalation: "Hand off work involving Overriding consent, boundaries, or Communication ownership to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Relationship Building & Mutual Attraction

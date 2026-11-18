@@ -6,6 +6,13 @@ subcategory: organizational-psychology
 source_type: user-provided-video-and-operational-framework
 source: User-provided video 67280.mp4 (TikTok; creator/title not confirmed)
 language: Indonesian
+description: "Use when a request needs healthy competition vs deliberate workplace division."
+triggers:
+  - "diadu domba"
+  - "persaingan kantor"
+  - "pilih kasih"
+out_of_scope: "Treating ordinary disagreement as proof of sabotage"
+escalation: "Hand off work involving Treating ordinary disagreement as proof of sabotage to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Workplace Competition & Divide-and-Rule Psychology

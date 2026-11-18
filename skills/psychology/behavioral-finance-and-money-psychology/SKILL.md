@@ -6,6 +6,14 @@ subcategory: financial-behavior-and-decision-making
 source_type: book-inspired-framework-and-operational-synthesis
 source: *The Psychology of Money* by Morgan Housel; chapter-structure review and AI-oriented synthesis
 language: English
+description: "Use when a request needs behavioral biases and emotions in financial decisions."
+triggers:
+  - "boros"
+  - "FOMO investasi"
+  - "takut rugi"
+  - "psikologi uang"
+out_of_scope: "Financial calculations or portfolio selection"
+escalation: "Hand off work involving Financial calculations or portfolio selection to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Behavioral Finance & Money Psychology

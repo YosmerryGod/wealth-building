@@ -1,7 +1,14 @@
 ---
 name: Philosophical Intelligence
-description: Use philosophical traditions and thinkers as structured lenses for examining assumptions, values, motives, identity, desire, and decisions, while distinguishing philosophical arguments from empirical psychology.
 category: Psychology
+description: "Use when a request needs philosophical lenses and reflective inquiry."
+triggers:
+  - "filsafat"
+  - "makna hidup"
+  - "nietzsche"
+  - "jung"
+out_of_scope: "Treating philosophical interpretations as empirical facts"
+escalation: "Hand off work involving Treating philosophical interpretations as empirical facts to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Philosophical Intelligence

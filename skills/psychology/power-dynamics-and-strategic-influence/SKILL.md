@@ -1,3 +1,17 @@
+---
+name: power-dynamics-and-strategic-influence
+title: Power Dynamics And Strategic Influence
+category: psychology
+description: "Use when a request needs authority, incentives, dependencies, ethical strategic influence."
+triggers:
+  - "kekuasaan"
+  - "politik kantor"
+  - "pengaruh"
+  - "48 laws"
+out_of_scope: "Covert manipulation or workplace sabotage"
+escalation: "Hand off work involving Covert manipulation or workplace sabotage to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+---
+
 # Power Dynamics & Strategic Influence
 
 ## Purpose

@@ -5,6 +5,13 @@ category: human-behavior
 source_type: user-provided-video-and-operational-framework
 source: User-provided TikTok video (shared in conversation; short link: https://vt.tiktok.com/ZSpg7CK9P/)
 language: Indonesian
+description: "Use when a request needs behavior and decision mechanisms across contexts."
+triggers:
+  - "perilaku orang"
+  - "kenapa orang memutuskan"
+  - "motivasi"
+out_of_scope: "Customer marketing ownership or relationship-stage advice"
+escalation: "Hand off work involving Customer marketing ownership or relationship-stage advice to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Human Behavior & Decision Psychology

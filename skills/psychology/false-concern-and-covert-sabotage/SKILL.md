@@ -6,6 +6,13 @@ subcategory: interpersonal-and-organizational-psychology
 source_type: user-provided-video-and-operational-framework
 source: User-provided video 67279.mp4 (TikTok; creator/title not confirmed)
 language: Indonesian
+description: "Use when a request needs cautious analysis of possible covert undermining."
+triggers:
+  - "pura-pura peduli"
+  - "dijegal"
+  - "disabotase"
+out_of_scope: "Assuming malicious intent from ambiguity"
+escalation: "Hand off work involving Assuming malicious intent from ambiguity to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # False Concern & Covert Sabotage
