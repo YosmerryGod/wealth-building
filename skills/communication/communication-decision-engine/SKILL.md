@@ -129,13 +129,13 @@ Use this routing map as a starting point, not as rigid keyword matching.
 
 ### Specialist skill references
 
-- [Effective Communication & First Impressions](effective-communication-and-first-impressions/SKILL.md)
-- [Active Listening & Conversational Rapport](active-listening-and-conversational-rapport/SKILL.md)
-- [Persuasive Communication & Negotiation](persuasive-communication-and-negotiation/SKILL.md)
-- [Message Design & Storytelling](message-design-and-storytelling/SKILL.md)
-- [Vocal & Nonverbal Delivery](vocal-and-nonverbal-delivery/SKILL.md)
-- [Public Speaking & Speaking Confidence](public-speaking-and-speaking-confidence/SKILL.md)
-- Related Psychology skill: [Relationship Building & Mutual Attraction](../psychology/relationship-building-and-mutual-attraction/SKILL.md)
+- [Effective Communication & First Impressions](../effective-communication-and-first-impressions/SKILL.md)
+- [Active Listening & Conversational Rapport](../active-listening-and-conversational-rapport/SKILL.md)
+- [Persuasive Communication & Negotiation](../persuasive-communication-and-negotiation/SKILL.md)
+- [Message Design & Storytelling](../message-design-and-storytelling/SKILL.md)
+- [Vocal & Nonverbal Delivery](../vocal-and-nonverbal-delivery/SKILL.md)
+- [Public Speaking & Speaking Confidence](../public-speaking-and-speaking-confidence/SKILL.md)
+- Related Psychology skill: [Relationship Building & Mutual Attraction](../../psychology/relationship-building-and-mutual-attraction/SKILL.md)
 - For workplace power, coercion, or manipulation analysis, consult the relevant Psychology skills and the repository's Risk Assessment & Consequence Intelligence layer where the requested action has material consequences.
 
 ## Decision workflow
