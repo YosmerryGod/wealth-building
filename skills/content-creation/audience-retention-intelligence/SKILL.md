@@ -4,6 +4,13 @@ title: Audience Retention Intelligence
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs interpret YouTube retention data and drop-off diagnosis."
+triggers:
+  - "retensi"
+  - "penonton keluar"
+  - "retention"
+out_of_scope: "Prospective scriptwriting or direct editing"
+escalation: "Hand off work involving Prospective scriptwriting or direct editing to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Audience Retention Intelligence

@@ -4,6 +4,13 @@ title: YouTube SEO & Search Intent
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs search intent and description/metadata alignment."
+triggers:
+  - "seo youtube"
+  - "deskripsi video"
+  - "kata kunci"
+out_of_scope: "Title-thumbnail packaging or cross-platform channel strategy"
+escalation: "Hand off work involving Title-thumbnail packaging or cross-platform channel strategy to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # YouTube SEO & Search Intent

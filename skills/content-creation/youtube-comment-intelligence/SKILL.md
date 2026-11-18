@@ -4,6 +4,13 @@ title: YouTube Comment Intelligence
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs comment triage and creator-voice replies."
+triggers:
+  - "komentar"
+  - "balas komen"
+  - "comments"
+out_of_scope: "Broader PR ownership or unapproved moderation actions"
+escalation: "Hand off work involving Broader PR ownership or unapproved moderation actions to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # YouTube Comment Intelligence

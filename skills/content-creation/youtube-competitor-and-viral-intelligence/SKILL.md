@@ -4,6 +4,13 @@ title: YouTube Competitor & Viral Intelligence
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs public niche and competitor performance research."
+triggers:
+  - "kompetitor youtube"
+  - "video viral"
+  - "riset niche"
+out_of_scope: "User's own channel audit or claims of causal virality"
+escalation: "Hand off work involving User's own channel audit or claims of causal virality to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # YouTube Competitor & Viral Intelligence

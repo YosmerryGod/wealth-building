@@ -4,6 +4,13 @@ title: Transcript-Based Video Editing
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs timecoded transcript-derived cut recommendations."
+triggers:
+  - "transkrip"
+  - "potong bagian"
+  - "edit video"
+out_of_scope: "Direct media editing, retention analytics, or clip selection"
+escalation: "Hand off work involving Direct media editing, retention analytics, or clip selection to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Transcript-Based Video Editing

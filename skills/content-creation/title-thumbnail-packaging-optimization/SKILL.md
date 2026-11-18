@@ -4,6 +4,13 @@ title: Title & Thumbnail Packaging Optimization
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs coordinated title-thumbnail promise."
+triggers:
+  - "judul"
+  - "thumbnail"
+  - "packaging"
+out_of_scope: "Scriptwriting, search metadata, or CTR causal attribution"
+escalation: "Hand off work involving Scriptwriting, search metadata, or CTR causal attribution to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Title & Thumbnail Packaging Optimization

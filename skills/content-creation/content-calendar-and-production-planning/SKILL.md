@@ -4,6 +4,13 @@ title: Content Calendar & Production Planning
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs capacity-aware content schedule and production planning."
+triggers:
+  - "jadwal konten"
+  - "kalender konten"
+  - "content calendar"
+out_of_scope: "Acquisition channel strategy or competitor research"
+escalation: "Hand off work involving Acquisition channel strategy or competitor research to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Content Calendar & Production Planning

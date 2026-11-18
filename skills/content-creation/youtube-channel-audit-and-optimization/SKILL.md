@@ -4,6 +4,13 @@ title: YouTube Channel Audit & Optimization
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs integrated channel audit and top-priority improvement."
+triggers:
+  - "audit channel"
+  - "channel stagnan"
+  - "channel audit"
+out_of_scope: "Repeating full specialist workflows or claiming access to private analytics"
+escalation: "Hand off work involving Repeating full specialist workflows or claiming access to private analytics to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # YouTube Channel Audit & Optimization

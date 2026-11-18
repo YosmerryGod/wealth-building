@@ -4,6 +4,14 @@ title: Short-Form Video Repurposing
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs select and adapt moments from long video into shorts."
+triggers:
+  - "shorts"
+  - "reels"
+  - "potong video"
+  - "repurpose"
+out_of_scope: "Detailed transcript edit lists or general content strategy"
+escalation: "Hand off work involving Detailed transcript edit lists or general content strategy to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Short-Form Video Repurposing

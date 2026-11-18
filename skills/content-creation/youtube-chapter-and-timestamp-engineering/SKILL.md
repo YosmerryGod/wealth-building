@@ -4,6 +4,12 @@ title: YouTube Chapter & Timestamp Engineering
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs chapter boundaries and timestamp labels."
+triggers:
+  - "chapter"
+  - "timestamp"
+out_of_scope: "Retention analytics or general SEO strategy"
+escalation: "Hand off work involving Retention analytics or general SEO strategy to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # YouTube Chapter & Timestamp Engineering

@@ -4,6 +4,14 @@ title: Video Scriptwriting & Hook Engineering
 category: content-creation
 source_type: original_operational_framework
 language: Indonesian
+description: "Use when a request needs premise-to-script workflow and hook evaluation."
+triggers:
+  - "naskah"
+  - "script video"
+  - "hook"
+  - "intro video"
+out_of_scope: "Title-thumbnail pairing or measured retention diagnosis"
+escalation: "Hand off work involving Title-thumbnail pairing or measured retention diagnosis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Video Scriptwriting & Hook Engineering
