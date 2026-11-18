@@ -182,7 +182,7 @@ Check:
 
 ## Relationship to the repository
 
-- [Conversational Intelligence & Psychology Router](conversational-intelligence-and-psychology-router/SKILL.md) applies relevant Communication and Psychology knowledge to interpersonal requests.
+- [Conversational Intelligence & Psychology Router](../conversational-intelligence-and-psychology-router/SKILL.md) applies relevant Communication and Psychology knowledge to interpersonal requests.
 - [Contextual Understanding & Intent Inference](../contextual-understanding/SKILL.md) maintains relevant context and intent.
 - [Human Behavior Intelligence Layer](../human-behavior-intelligence/SKILL.md) coordinates complex human situations.
 - [Communication Decision Engine](../../skills/communication/communication-decision-engine/SKILL.md) selects specialist communication methods.
