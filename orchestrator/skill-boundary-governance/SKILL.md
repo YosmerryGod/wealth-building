@@ -3,6 +3,14 @@ name: skill-boundary-routing-governance
 title: Skill Boundary & Routing Governance
 category: orchestration-and-knowledge-governance
 source_type: original_repository_architecture
+description: "Use when a request needs ownership registry, routing recipes, handoff packet, quality gate."
+triggers:
+  - "routing"
+  - "tumpang tindih"
+  - "overlap"
+  - "skill baru"
+out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
+escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Skill Boundary & Routing Governance

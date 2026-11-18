@@ -5,6 +5,15 @@ category: orchestration
 subcategory: adaptive-psychology-communication-and-marketing
 source_type: original-ai-operational-framework
 language: English
+description: "Use when a request needs response mode for a concrete situation (acknowledge, remedy, negotiate, boundary, decline)."
+triggers:
+  - "balas"
+  - "komplain"
+  - "ulasan"
+  - "review pelanggan"
+  - "bagaimana merespons"
+out_of_scope: "Full context retrieval, deep specialist psychology, or final copy craft"
+escalation: "Hand off work involving Full context retrieval, deep specialist psychology, or final copy craft to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Context-Aware Response Strategy Engine

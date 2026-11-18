@@ -4,6 +4,14 @@ title: Content Intelligence Orchestrator
 category: orchestration
 source_type: original_repository_architecture
 language: Indonesian
+description: "Use when a request needs routing of YouTube/content-production requests."
+triggers:
+  - "youtube"
+  - "konten"
+  - "channel"
+  - "video"
+out_of_scope: "General business acquisition strategy, specialist content methods, or publishing without approval"
+escalation: "Hand off work involving General business acquisition strategy, specialist content methods, or publishing without approval to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Content Intelligence Orchestrator

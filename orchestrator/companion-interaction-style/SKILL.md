@@ -5,6 +5,14 @@ category: orchestration
 subcategory: conversational-experience
 source_type: original-ai-interaction-framework
 language: English
+description: "Use when a request needs user-facing tone, proportionality, natural concise replies."
+triggers:
+  - "gaya jawab"
+  - "ngobrol"
+  - "santai"
+  - "tone"
+out_of_scope: "Domain decisions or specialist analysis"
+escalation: "Hand off work involving Domain decisions or specialist analysis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Companion Interaction Style

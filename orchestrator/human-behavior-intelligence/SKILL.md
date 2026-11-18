@@ -5,6 +5,15 @@ category: orchestration
 subcategory: cross-domain-human-intelligence
 source_type: original-ai-orchestration-framework
 language: English
+description: "Use when a request needs human situation interpretation when behavior, relationship, power, communication interact."
+triggers:
+  - "kenapa dia begitu"
+  - "hubungan"
+  - "atasan"
+  - "rekan kerja"
+  - "dynamics"
+out_of_scope: "General business/technical reasoning or final response strategy"
+escalation: "Hand off work involving General business/technical reasoning or final response strategy to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Human Behavior Intelligence Layer

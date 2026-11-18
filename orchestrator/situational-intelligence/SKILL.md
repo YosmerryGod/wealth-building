@@ -5,6 +5,14 @@ category: orchestration
 subcategory: cross-domain-cognitive-reasoning
 source_type: original-ai-reasoning-framework
 language: English
+description: "Use when a request needs cross-domain situation model, option comparison, consequences."
+triggers:
+  - "situasi rumit"
+  - "banding opsi"
+  - "keputusan banyak faktor"
+  - "complex decision"
+out_of_scope: "Specialist methods or final response wording"
+escalation: "Hand off work involving Specialist methods or final response wording to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Situational Intelligence & Contextual Reasoning

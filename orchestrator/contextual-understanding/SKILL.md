@@ -5,6 +5,17 @@ category: orchestration
 subcategory: conversation-intelligence
 source_type: original-ai-reasoning-framework
 language: English
+description: "Use when a request needs relevant history, intent, continuity, constraints, uncertainty; returns a compact context packet."
+triggers:
+  - "lanjut"
+  - "boleh"
+  - "yang tadi"
+  - "coba"
+  - "oke"
+  - "continue"
+  - "that one"
+out_of_scope: "Motive attribution or tactic selection"
+escalation: "Hand off work involving Motive attribution or tactic selection to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Contextual Understanding & Intent Inference

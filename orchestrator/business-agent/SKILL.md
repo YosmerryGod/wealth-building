@@ -1,6 +1,14 @@
 ---
 name: Business Agent Orchestrator
-description: Orchestrates an end-to-end, user-approved business-building project from personal discovery and opportunity selection through research, financial planning, branding, marketing preparation, weekly execution, and performance improvement.
+description: "Use when a request needs end-to-end approved business project lifecycle and user approvals."
+triggers:
+  - "mau usaha"
+  - "bangun bisnis"
+  - "ide bisnis"
+  - "rencana usaha"
+  - "start a business"
+out_of_scope: "Replacing finance, marketing, operations, or customer-service specialist methods"
+escalation: "Hand off work involving Replacing finance, marketing, operations, or customer-service specialist methods to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Business Agent Orchestrator

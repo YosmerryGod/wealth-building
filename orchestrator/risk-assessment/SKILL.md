@@ -1,3 +1,19 @@
+---
+name: risk-assessment
+title: Risk Assessment
+category: orchestrator
+description: "Use when a request needs risk and consequence screen: legal, safety, financial, reversibility."
+triggers:
+  - "risiko"
+  - "legal"
+  - "bahaya"
+  - "hukum"
+  - "konsekuensi"
+  - "risk"
+out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
+escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+---
+
 # Risk Assessment & Consequence Intelligence
 
 ## Purpose

@@ -5,6 +5,14 @@ category: orchestration
 subcategory: communication-and-human-behavior
 source_type: original-ai-orchestration-framework
 language: English
+description: "Use when a request needs front door for everyday interpersonal advice and wording."
+triggers:
+  - "tolong buatkan pesan"
+  - "chat ke"
+  - "cara bilang"
+  - "draft message"
+out_of_scope: "Repeating the full Communication or Psychology engine workflow"
+escalation: "Hand off work involving Repeating the full Communication or Psychology engine workflow to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Conversational Intelligence & Psychology Router
