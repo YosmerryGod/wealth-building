@@ -129,7 +129,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Digital Brand Awareness And Channel Strategy | digital presence and platform roles | media sosial, instagram usaha, konten digital, google bisnis | [SKILL.md](skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) |
 | Experiential And Event Based Marketing | brand experiences, trials, pop-ups, events | bazar, pop-up, tester gratis, event promosi | [SKILL.md](skills/marketing/experiential-and-event-based-marketing/SKILL.md) |
 | Influencer Opinion Leader And Endorsement | creator/endorser selection, disclosure, measurement | influencer, endorse, food vlogger | [SKILL.md](skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md) |
-| Service Recovery Marketing And Trust Building | complaint triage, proportionate remedy, public reply, recovery | komplain, ulasan jelek, refund, pelanggan kecewa | [SKILL.md](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) |
+| Service Recovery Marketing And Trust Building | complaint triage, proportionate remedy, public reply with mandatory visible marketing element, recovery | komplain, ulasan jelek, refund, pelanggan kecewa, balas ulasan | [SKILL.md](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) |
 | Viral Content Engineering And Attention Psychology | hooks, attention, shareability, content iteration | konten viral, FYP, hook konten | [SKILL.md](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) |
 | Viral Event Marketing And Content Monetization | integrated event-to-content-to-revenue plan | event jadi konten, monetisasi event | [SKILL.md](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) |
 | Word Of Mouth And Brand Advocacy | organic recommendations and customer-led reputation | dari mulut ke mulut, pelanggan setia, rekomendasi | [SKILL.md](skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md) |
@@ -150,7 +150,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Psychology Decision Engine | selects relevant psychology specialists by role and relationship | psikologi, peran saya sebagai, atasan bawahan | [SKILL.md](skills/psychology/psychology-decision-engine/SKILL.md) |
 | Relationship Building And Mutual Attraction | healthy relationship and romantic development | pdkt, gebetan, pacar, networking, relasi | [SKILL.md](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) |
 | Self Deception And Self Examination | self-reflection and motivated reasoning | menipu diri, alasan pembenar, introspeksi | [SKILL.md](skills/psychology/self-deception-and-self-examination/SKILL.md) |
-| Workplace Competition And Divide And Rule | healthy competition vs deliberate workplace division | diadu domba, persaingan kantor, pilih kasih | [SKILL.md](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) |
+| Workplace Competition And Divide And Rule | healthy competition vs deliberate workplace division | diadu domba, persaingan kantor, pilih kasih | [SKILL.md](skills/psychology/workplace-competition-and-divide-and-rule-psychology/SKILL.md) |
 
 ## Research
 
