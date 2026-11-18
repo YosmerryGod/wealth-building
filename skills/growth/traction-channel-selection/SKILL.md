@@ -5,6 +5,12 @@ category: growth
 source_type: book-derived-and-operational-framework
 source: "Traction: How Any Startup Can Achieve Explosive Customer Growth" by Gabriel Weinberg and Justin Mares
 language: Indonesian
+description: "Use when a request needs channel-to-audience fit and candidate selection."
+triggers:
+  - "pilih channel"
+  - "jualan lewat mana"
+out_of_scope: "Running the full Bullseye test cycle"
+escalation: "Hand off work involving Running the full Bullseye test cycle to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Traction Channel Selection

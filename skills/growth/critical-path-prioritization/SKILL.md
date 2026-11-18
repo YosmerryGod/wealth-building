@@ -5,6 +5,13 @@ category: growth
 source_type: operational-synthesis
 source: "Operational synthesis supporting the Bullseye and channel-testing approach in Traction"
 language: Indonesian
+description: "Use when a request needs identify current bottleneck and order growth work."
+triggers:
+  - "prioritas"
+  - "bottleneck"
+  - "mulai dari mana"
+out_of_scope: "Selecting every acquisition channel or designing tests"
+escalation: "Hand off work involving Selecting every acquisition channel or designing tests to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Critical Path & Growth Prioritization

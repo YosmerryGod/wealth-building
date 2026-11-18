@@ -5,6 +5,14 @@ category: growth
 source_type: operational-synthesis
 source: "Measurement framework supporting the channel evaluation and testing approach in Traction"
 language: Indonesian
+description: "Use when a request needs metric definitions, scorecards, performance interpretation."
+triggers:
+  - "metrik"
+  - "konversi"
+  - "CAC"
+  - "retensi pelanggan"
+out_of_scope: "Choosing the business model or running experiments"
+escalation: "Hand off work involving Choosing the business model or running experiments to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Growth Metrics & Optimization

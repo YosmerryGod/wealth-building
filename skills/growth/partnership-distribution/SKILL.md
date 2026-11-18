@@ -5,6 +5,14 @@ category: growth
 source_type: book-derived-and-operational-framework
 source: "Traction: How Any Startup Can Achieve Explosive Customer Growth" by Gabriel Weinberg and Justin Mares
 language: Indonesian
+description: "Use when a request needs partner fit, mutual value, partnership plan."
+triggers:
+  - "kerja sama"
+  - "mitra distribusi"
+  - "reseller"
+  - "partnership"
+out_of_scope: "Influencer endorsement or broad channel scoring"
+escalation: "Hand off work involving Influencer endorsement or broad channel scoring to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Partnership & Distribution Strategy

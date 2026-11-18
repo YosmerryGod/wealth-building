@@ -5,6 +5,13 @@ category: growth
 source_type: book-derived-and-operational-framework
 source: "Traction: How Any Startup Can Achieve Explosive Customer Growth" by Gabriel Weinberg and Justin Mares
 language: Indonesian
+description: "Use when a request needs hypothesis, test design, learning record."
+triggers:
+  - "eksperimen"
+  - "uji coba iklan"
+  - "A/B test"
+out_of_scope: "Channel strategy ownership or metric governance"
+escalation: "Hand off work involving Channel strategy ownership or metric governance to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Growth Experimentation

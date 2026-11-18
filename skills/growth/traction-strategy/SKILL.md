@@ -5,6 +5,14 @@ category: growth
 source_type: book-derived-framework
 source: "Traction: How Any Startup Can Achieve Explosive Customer Growth" by Gabriel Weinberg and Justin Mares
 language: Indonesian
+description: "Use when a request needs overall acquisition and distribution strategy."
+triggers:
+  - "cari pelanggan"
+  - "dapat pembeli"
+  - "traction"
+  - "customer acquisition"
+out_of_scope: "Detailed experiment design or metric ownership"
+escalation: "Hand off work involving Detailed experiment design or metric ownership to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Traction Strategy

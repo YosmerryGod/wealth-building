@@ -5,6 +5,14 @@ category: growth
 source_type: book-derived-and-operational-framework
 source: "Traction: How Any Startup Can Achieve Explosive Customer Growth" by Gabriel Weinberg and Justin Mares
 language: Indonesian
+description: "Use when a request needs sharing loops, referrals, advocacy mechanics."
+triggers:
+  - "referral"
+  - "getok tular"
+  - "ajak teman"
+  - "viral loop"
+out_of_scope: "General content hooks or event production"
+escalation: "Hand off work involving General content hooks or event production to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Viral & Referral Growth

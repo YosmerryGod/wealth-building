@@ -5,6 +5,12 @@ category: growth
 source_type: book-derived-framework
 source: "Traction: How Any Startup Can Achieve Explosive Customer Growth" by Gabriel Weinberg and Justin Mares
 language: Indonesian
+description: "Use when a request needs brainstorm-rank-prioritize-test-focus channel process."
+triggers:
+  - "bullseye"
+  - "uji channel"
+out_of_scope: "Overall business strategy or metric definitions"
+escalation: "Hand off work involving Overall business strategy or metric definitions to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Bullseye Framework
