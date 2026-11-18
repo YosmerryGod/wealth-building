@@ -6,6 +6,12 @@ subcategory: reserves-and-financial-resilience
 source_type: operational-finance-framework
 source: Original practical synthesis of liquidity planning and household/business resilience
 language: English
+description: "Use when a request needs reserve sizing, location, withdrawals, replenishment."
+triggers:
+  - "dana darurat"
+  - "emergency fund"
+out_of_scope: "Routine budget categories, debt repayment strategy, or productive investment selection"
+escalation: "Hand off work involving Routine budget categories, debt repayment strategy, or productive investment selection to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Emergency Fund Strategy

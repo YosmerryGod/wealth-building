@@ -6,6 +6,13 @@ subcategory: financial-behavior-and-routines
 source_type: behavioral-finance-operational-framework
 source: Original practical synthesis informed by habit formation and behavioral finance concepts
 language: English
+description: "Use when a request needs cues, routines, friction, recovery for financial behavior."
+triggers:
+  - "kebiasaan menabung"
+  - "disiplin uang"
+  - "habit"
+out_of_scope: "Financial calculations, reserve targets, or psychological diagnosis"
+escalation: "Hand off work involving Financial calculations, reserve targets, or psychological diagnosis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Financial Habit Formation

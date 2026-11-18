@@ -6,6 +6,15 @@ subcategory: pricing-strategy
 source_type: source-code-derived-method-and-generalized-operational-synthesis
 source: AYDO – Kalkulator Merchant, YosmerryGod/Xkalkultor, src/utils/calculatePrice.js; src/utils/calculatePrice.test.js; src/utils/homeContent.test.js; src/constants/defaults.js
 language: English
+description: "Use when a request needs marketplace reverse pricing, fee recovery, promo burden (AYDO-faithful)."
+triggers:
+  - "harga jual online"
+  - "fee marketplace"
+  - "promo shopee"
+  - "tokopedia"
+  - "AYDO"
+out_of_scope: "HPP costing, cash-flow forecasting, platform policy verification, or inventing rules for fee structures not represented by AYDO"
+escalation: "Hand off work involving HPP costing, cash-flow forecasting, platform policy verification, or inventing rules for fee structures not represented by AYDO to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Online Marketplace Pricing & Promo Optimization

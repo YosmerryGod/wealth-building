@@ -6,6 +6,13 @@ subcategory: capital-allocation-and-investment-analysis
 source_type: book-inspired-framework-and-operational-synthesis
 source: *Rich Dad Poor Dad* by Robert T. Kiyosaki; independent evaluation and risk framework added
 language: English
+description: "Use when a request needs compare business/investment opportunities, risk, return, exit."
+triggers:
+  - "layak investasi"
+  - "untung atau tidak"
+  - "evaluasi peluang"
+out_of_scope: "Personal budget mechanics or asset classification"
+escalation: "Hand off work involving Personal budget mechanics or asset classification to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Opportunity & Investment Evaluation

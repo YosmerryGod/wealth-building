@@ -6,6 +6,14 @@ subcategory: earning-capacity-and-income-growth
 source_type: operational-synthesis
 source: AI-oriented framework inspired by the financial education and entrepreneurship themes in *Rich Dad Poor Dad*; not a direct named framework from the book
 language: English
+description: "Use when a request needs monetize marketable skills."
+triggers:
+  - "jual keahlian"
+  - "naik gaji"
+  - "freelance"
+  - "skill jadi uang"
+out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
+escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Skill-Based Income Development

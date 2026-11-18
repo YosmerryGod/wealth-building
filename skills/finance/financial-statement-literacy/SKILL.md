@@ -6,6 +6,13 @@ subcategory: accounting-and-financial-analysis
 source_type: operational-finance-framework
 source: Accounting fundamentals and AI-oriented educational synthesis; not attributed as a formal accounting method from *Rich Dad Poor Dad*
 language: English
+description: "Use when a request needs reading income statement, balance sheet, cash-flow statement."
+triggers:
+  - "laporan keuangan"
+  - "laba rugi"
+  - "neraca"
+out_of_scope: "Full bookkeeping, audit, tax, or investment advice"
+escalation: "Hand off work involving Full bookkeeping, audit, tax, or investment advice to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Financial Statement Literacy

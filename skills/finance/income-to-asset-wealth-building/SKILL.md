@@ -6,6 +6,13 @@ subcategory: income-management-and-productive-assets
 source_type: user-provided-video-and-operational-framework
 source: User-provided video 67313.mp4 (TikTok account shown as @capvues; creator identity and claims not independently verified)
 language: Indonesian
+description: "Use when a request needs convert surplus income into productive assets."
+triggers:
+  - "gaji jadi aset"
+  - "bangun kekayaan"
+  - "wealth building"
+out_of_scope: "Guaranteeing returns or selecting a specific investment"
+escalation: "Hand off work involving Guaranteeing returns or selecting a specific investment to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Income-to-Asset Wealth Building

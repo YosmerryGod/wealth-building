@@ -6,6 +6,15 @@ subcategory: debt-and-obligation-management
 source_type: operational-finance-framework
 source: Original practical synthesis of consumer debt, installment, and repayment planning
 language: English
+description: "Use when a request needs debt inventory, borrowing cost, installments/BNPL, repayment order."
+triggers:
+  - "utang"
+  - "cicilan"
+  - "paylater"
+  - "pinjol"
+  - "debt"
+out_of_scope: "General capital-structure strategy or cash-flow forecasting ownership"
+escalation: "Hand off work involving General capital-structure strategy or cash-flow forecasting ownership to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Debt & Installment Management

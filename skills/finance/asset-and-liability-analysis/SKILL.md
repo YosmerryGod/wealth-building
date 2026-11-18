@@ -6,6 +6,13 @@ subcategory: personal-and-business-balance-sheet
 source_type: book-inspired-framework-and-operational-synthesis
 source: *Rich Dad Poor Dad* by Robert T. Kiyosaki; formal accounting distinctions added
 language: English
+description: "Use when a request needs asset/liability classification and balance-sheet position."
+triggers:
+  - "aset"
+  - "liabilitas"
+  - "kekayaan bersih"
+out_of_scope: "Investment selection or cash-flow forecasting"
+escalation: "Hand off work involving Investment selection or cash-flow forecasting to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Asset & Liability Analysis

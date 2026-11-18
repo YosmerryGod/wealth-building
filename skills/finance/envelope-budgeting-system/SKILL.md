@@ -6,6 +6,14 @@ subcategory: budgeting-and-spending-controls
 source_type: operational-finance-framework
 source: Original practical synthesis of envelope, zero-based, and category-based budgeting methods
 language: English
+description: "Use when a request needs category allocations, spending limits, sinking funds."
+triggers:
+  - "amplop"
+  - "anggaran"
+  - "budget bulanan"
+  - "alokasi"
+out_of_scope: "Cash timing forecasts, reserve sizing, or debt contract analysis"
+escalation: "Hand off work involving Cash timing forecasts, reserve sizing, or debt contract analysis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Envelope Budgeting System

@@ -6,6 +6,14 @@ subcategory: financial-decision-making
 source_type: book-inspired-framework-and-operational-synthesis
 source: *Rich Dad Poor Dad* by Robert T. Kiyosaki; additional AI-oriented financial reasoning framework
 language: English
+description: "Use when a request needs high-level financial framing and routing to finance specialists."
+triggers:
+  - "keuangan"
+  - "uang"
+  - "finansial"
+  - "finance"
+out_of_scope: "Repeating specialist calculations or regulated advice"
+escalation: "Hand off work involving Repeating specialist calculations or regulated advice to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Financial Intelligence

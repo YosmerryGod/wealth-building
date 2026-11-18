@@ -6,6 +6,14 @@ subcategory: budgeting-and-liquidity
 source_type: book-inspired-framework-and-operational-synthesis
 source: *Rich Dad Poor Dad* by Robert T. Kiyosaki; practical cash-flow planning framework added
 language: English
+description: "Use when a request needs timing, liquidity, cash forecasts, operating cash controls."
+triggers:
+  - "arus kas"
+  - "cash flow"
+  - "uang masuk keluar"
+  - "likuiditas"
+out_of_scope: "Accounting profit interpretation or investment suitability"
+escalation: "Hand off work involving Accounting profit interpretation or investment suitability to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Cash Flow Management

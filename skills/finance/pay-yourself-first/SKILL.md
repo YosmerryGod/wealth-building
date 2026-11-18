@@ -6,6 +6,13 @@ subcategory: saving-and-capital-allocation
 source_type: book-inspired-principle-and-operational-synthesis
 source: *Rich Dad Poor Dad* by Robert T. Kiyosaki; flexible allocation and safety rules added
 language: English
+description: "Use when a request needs sustainable savings allocation from income."
+triggers:
+  - "sisihkan dulu"
+  - "menabung"
+  - "pay yourself first"
+out_of_scope: "Ignoring essential obligations or choosing investments"
+escalation: "Hand off work involving Ignoring essential obligations or choosing investments to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Pay Yourself First

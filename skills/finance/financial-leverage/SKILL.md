@@ -8,6 +8,14 @@ source:
   - Earlier user-provided productive-asset and poultry example
   - User-provided video 67439.mp4 (visible watermark: Kita Ulik Dunia)
 language: Indonesian
+description: "Use when a request needs borrowing, OPM, capital stacking, leverage risk."
+triggers:
+  - "modal pinjaman"
+  - "OPM"
+  - "uang orang lain"
+  - "leverage"
+out_of_scope: "General cash management or equity legal structuring"
+escalation: "Hand off work involving General cash management or equity legal structuring to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Financial Leverage & Other People's Money (OPM)
