@@ -1,6 +1,13 @@
 ---
 name: osint-and-digital-footprint-intelligence
-description: Conduct structured open-source intelligence research on domains, IP addresses, email addresses, organizations, and public digital footprints using source-aware collection and correlation.
+description: "Use when a request needs lawful open-source research and evidence collection."
+triggers:
+  - "jejak digital"
+  - "OSINT"
+  - "cek informasi publik"
+  - "verifikasi identitas"
+out_of_scope: "Unauthorized access, stalking, or unverified identity claims"
+escalation: "Hand off work involving Unauthorized access, stalking, or unverified identity claims to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # OSINT & Digital Footprint Intelligence
