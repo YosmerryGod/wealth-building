@@ -290,4 +290,4 @@ The upstream SKILL.md references separate files such as signs, tokens, visuals, 
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns product-specific AI-interface critique and removal of generic, interchangeable design patterns. Frontend Design owns the overall visual design direction; Apple HIG Review owns Apple-specific platform compliance review; Navigation and Micro-Interactions own their respective interaction domains. Return focused audit findings and design constraints rather than a second full visual specification.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns product-specific AI-interface critique and removal of generic, interchangeable design patterns. Frontend Design owns the overall visual design direction; Apple HIG Review owns Apple-specific platform compliance review; Navigation and Micro-Interactions own their respective interaction domains. Return focused audit findings and design constraints rather than a second full visual specification.
