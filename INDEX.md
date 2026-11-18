@@ -2,7 +2,7 @@
 
 Generated from `skills.json` and checked against the repository tree. The governance registry is authoritative for ownership boundaries.
 
-**Totals:** 91 skills across 12 domains.
+**Totals:** 92 skills across 12 domains.
 
 ## Orchestrator
 
@@ -67,7 +67,8 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Apple Platform Design And Hig Review | Apple platform convention and HIG review | iOS, iPhone app, HIG, apple design | [SKILL.md](skills/development/apple-platform-design-and-hig-review/SKILL.md) |
 | Frontend Design | product-grounded visual and frontend design direction | desain web, landing page, tampilan app, frontend | [SKILL.md](skills/development/frontend-design/SKILL.md) |
 | Micro Interactions And Ui Feedback | interaction feedback states, motion, loading states | animasi tombol, hover, skeleton, micro-interaction | [SKILL.md](skills/development/micro-interactions-and-ui-feedback/SKILL.md) |
-| Modern Web Navigation Patterns | navigation patterns and information movement | navbar, bottom tab, menu navigasi, command palette | [SKILL.md](skills/development/modern-web-navigation-patterns/SKILL.md) |
+| Modern Web Navigation Patterns | navigation patterns and information movement between product sections | navbar, bottom tab, menu navigasi, command palette | [SKILL.md](skills/development/modern-web-navigation-patterns/SKILL.md) |
+| Advanced Pagination And Data Navigation Patterns | pagination pattern selection and page-to-page navigation within a collection | pagination, paginasi, jump input, page preview, sliding pagination | [SKILL.md](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md) |
 | Professional Logo And Brand Identity | logo and identity system design | logo, identitas brand, favicon | [SKILL.md](skills/development/professional-logo-and-brand-identity/SKILL.md) |
 | Reverse Engineering And Reference Based Reconstruction | evidence-led analysis of a reference and reconstruction brief | tiru tampilan, referensi website, bongkar situs | [SKILL.md](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) |
 | Scroll Driven 3D Storytelling | scroll-linked 3D narrative | scroll 3d, web interaktif 3d | [SKILL.md](skills/development/scroll-driven-3d-storytelling/SKILL.md) |

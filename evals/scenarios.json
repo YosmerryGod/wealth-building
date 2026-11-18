@@ -302,6 +302,16 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Uang tetap dimiliki Financial Habit Formation; general habit skill tidak mengambil alih rutinitas finansial."
+    },
+    {
+      "pesan": "Saya ingin mengganti pagination tabel pesanan 120 halaman dengan pola yang lebih modern. Apa yang cocok?",
+      "skill_utama": "advanced-pagination-and-data-navigation-patterns",
+      "skill_pendukung_maks_2": [
+        "frontend-design",
+        "modern-web-navigation-patterns"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Nilai apakah pengguna perlu lompat ke nomor tertentu (Jump Input), mengenali konten secara visual (Page Preview), atau berpindah di rentang halaman panjang (Sliding Pagination); jangan menganggap pola paling dekoratif paling baik."
     }
   ]
 }

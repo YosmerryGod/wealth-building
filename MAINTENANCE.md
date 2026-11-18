@@ -20,6 +20,10 @@ For every new video, article, book, or other source:
 
 The sources were not treated as proof that any habit method works for every person or that any business can or should achieve monopoly. No long copyrighted passages were copied.
 
+### Source audit: pagination patterns
+
+- **User-provided video 67567.mp4** (creator watermark visible as @kodebin; no public source URL supplied). Direct frame review identified three demonstrated patterns: Jump Input, Page Preview, and Sliding Pagination. The video recommends considering advanced pagination for very large page counts or visual content that benefits from a preview, while retaining simple pagination when page counts are small and function is the priority. The skill's accessibility, backend, performance, edge-case, and testing guidance is additional operational synthesis; the video does not supply implementation code or usability measurements.
+
 ## Repository update protocol
 
 **Every time a skill is added, changed, moved, or removed, update this README in the same work session.** The README is the orientation document for people and AI assistants opening the repository in a new conversation.

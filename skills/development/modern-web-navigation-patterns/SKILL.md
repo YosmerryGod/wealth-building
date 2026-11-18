@@ -158,13 +158,14 @@ These are starting points, not rigid rules. A product may combine patterns when 
 
 - **AI Interface Design & Unslop Engineering:** provides the broader product-specific visual direction, interface audit, composition, and visual QA process that complements this skill's focused subject.
 
+- **[Advanced Pagination & Data Navigation Patterns](../advanced-pagination-and-data-navigation-patterns/SKILL.md):** owns Jump Input, Page Preview, Sliding Pagination, and page movement within one collection; this skill owns global section navigation.
 - **Frontend Development:** Implements components, responsive layouts, routing, and interaction states.
 - **Visual Design & Design Systems:** Defines visual hierarchy, spacing, typography, color, and reusable tokens.
 - **Accessibility:** Provides deeper guidance for inclusive interaction and assistive technologies.
 - **Product & UX Design:** Helps map user journeys, information architecture, and task priorities.
 - **Web Architecture:** Defines routing, layouts, and application-level structure.
 
-This skill focuses specifically on navigation patterns and their selection. It does not replace full frontend engineering, accessibility review, or product UX research.
+This skill focuses on navigation between product sections and destinations. For page-to-page movement inside one collection, hand off to [Advanced Pagination & Data Navigation Patterns](../advanced-pagination-and-data-navigation-patterns/SKILL.md). It does not replace full frontend engineering, accessibility review, or product UX research.
 
 ## Source limitations
 

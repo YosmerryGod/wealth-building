@@ -32,6 +32,7 @@ Turn reliable knowledge into practical decisions and action plans that support f
 - Route customer-problem discovery and demand validation to [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md); use [Innovation & Competitive Advantage Strategy](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) for strategic differentiation and defensibility after the candidate is sufficiently defined. Treat monopoly as a market-position concept, never as permission for unlawful exclusion or customer harm.
 - For customer complaints, distinguish the remedy owed from additional goodwill; verify feasibility and approval. Never condition compensation on a positive review or rating change.
 - For development work, inspect the actual project and preserve the requested scope; prioritize usability, accessibility, responsive behavior, maintainability, and testing.
+- For page-to-page movement inside a collection, use [Advanced Pagination & Data Navigation Patterns](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md); keep global section navigation with [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md).
 
 ## Core workflow
 
