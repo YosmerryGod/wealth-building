@@ -32,6 +32,7 @@ Turn reliable knowledge into practical decisions and action plans that support f
 - Route customer-problem discovery and demand validation to [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md); use [Innovation & Competitive Advantage Strategy](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) for strategic differentiation and defensibility after the candidate is sufficiently defined. Treat monopoly as a market-position concept, never as permission for unlawful exclusion or customer harm.
 - For customer complaints, distinguish the remedy owed from additional goodwill; verify feasibility and approval. Never condition compensation on a positive review or rating change.
 - For development work, inspect the actual project and preserve the requested scope; prioritize usability, accessibility, responsive behavior, maintainability, and testing.
+- For multi-stage application work, route through [Application Delivery Orchestrator](orchestrator/application-delivery-orchestrator/SKILL.md). It coordinates reference reconstruction, architecture, design, implementation, backend, QA, parity, launch, and deployment without replacing specialist owners. Load only the current stage's skills.
 - For page-to-page movement inside a collection, use [Advanced Pagination & Data Navigation Patterns](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md); use [Modern Web Navigation & Interaction Patterns](skills/development/modern-web-navigation-patterns/SKILL.md) for global navigation, including Radial Sidebar, Vertical Typography, and Scroll Progress patterns when the product context supports them.
 
 ## Core workflow
@@ -41,13 +42,14 @@ Turn reliable knowledge into practical decisions and action plans that support f
 3. Evaluate demand, offer fit, meaningful differentiation, competitive durability, unit economics, operations, and consequences.
 4. Validate uncertain assumptions with small, measurable tests before scaling.
 5. Plan cash flow, working capital, reserves, obligations, and sustainable economics.
-6. Build and test products or services around real user needs.
+6. Build and test products or services around real user needs. For software products, use the Application Delivery lifecycle and its evidence, architecture, implementation, QA, and release gates.
 7. Execute approved actions, measure outcomes, and adapt based on evidence.
 8. Reinvest and protect wealth through productive assets, liquidity, diversification, and risk management.
 
 ## Repository map
 
 - [INDEX.md](INDEX.md) — all skills, routing triggers, and paths.
+- [Application Delivery Orchestrator](orchestrator/application-delivery-orchestrator/SKILL.md) — staged workflow for application investigation, engineering, launch, and release.
 - [CHANGELOG.md](CHANGELOG.md) — chronological repository history.
 - [RUNTIME.md](RUNTIME.md) — runtime and state contract.
 - [skills/knowledge/README.md](skills/knowledge/README.md) — Knowledge domain notes.

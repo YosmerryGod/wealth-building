@@ -300,6 +300,18 @@ Distinguish reusable functional ideas from protected expression, including disti
 - **[Contextual Understanding & Intent Inference](../../../orchestrator/contextual-understanding/SKILL.md):** interprets what the user means by "like this", preserves prior constraints, and avoids asking for information already known.
 - **REA (Reverse Engineer Anything):** a separate external toolchain for supported native, managed, packaged, browser, and runtime investigations. Use only when its MCP/CLI and required engines are actually available. This skill remains useful without REA for ordinary browser, screenshot, recording, and source-based analysis.
 
+## Application reconstruction handoff
+
+For a multi-screen product, provide stable screen IDs, route/entry paths, core flows and edge cases, reusable component inventory, evidence-backed data entities with confidence labels, feature priorities/exclusions, source register, inspection coverage, and unresolved risks. Keep reference captures separate from production assets. Never label inferred fields or untested states as observed.
+
 ## Scope and capability boundary
 
 This file defines an AI reasoning and investigation workflow. It does not itself browse websites, operate a browser, capture network traffic, decompile binaries, run applications, install REA, or provide persistent evidence storage. Those capabilities depend on tools and access available in the execution environment.
+
+
+## Application lifecycle handoffs
+
+- **Application Architecture Planning** converts the evidence-backed recon package into stack, schema, API, access model, and build sequence.
+- **Frontend Design** creates the new product's visual system and component specifications from adapted principles.
+- **Application Delivery Orchestrator** maintains lifecycle stage, decisions, and the smallest next handoff.
+- **Application Parity Evaluation** later checks requirement coverage and meaningful differences; it does not replace evidence gathering.

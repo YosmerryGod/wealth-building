@@ -56,3 +56,10 @@ Guide an AI design agent through a complete identity-design process, from unders
 ## Source and attribution
 
 Original knowledge synthesis based on the workflow in [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill), licensed MIT. The upstream repository includes scripts and a reference-logo collection; this skill does not copy those assets. The upstream project notes that its trademark reference materials have separate terms, so do not assume every referenced logo is reusable.
+
+
+## Brand handoff for reconstructed products
+
+When a product is informed by a competitor or reference, create an independently recognizable identity. Screen name candidates for confusing similarity, document screening sources and dates, and label unperformed trademark/domain/store/handle checks as pending. These are preliminary screens, not legal clearance.
+
+Define palette roles, contrast requirements, logo use at small and large sizes, voice principles, and replacement guidance for placeholder strings. Coordinate with Product Launch & Go-to-Market Planning so launch copy uses the new identity. Do not reuse the reference's logo, distinctive mark, copy, proprietary assets, or confusingly similar name.

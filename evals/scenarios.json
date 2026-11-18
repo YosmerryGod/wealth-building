@@ -322,6 +322,62 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Pahami tipe produk dan tugas pengguna. Radial lebih sesuai untuk portfolio kreatif/landing page eksperimental; vertical typography untuk editorial/portfolio yang memang art-directed; scroll progress untuk halaman panjang dengan section jelas. Jangan memilih semua pola sekaligus tanpa alasan."
+    },
+    {
+      "pesan": "Saya ingin membangun aplikasi seperti referensi ini dari awal.",
+      "skill_utama": "application-delivery-orchestrator",
+      "skill_pendukung_maks_2": [
+        "reverse-engineering-and-reference-based-reconstruction"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Mulai dengan scope dan bukti yang tersedia; jangan langsung membangun semua fase."
+    },
+    {
+      "pesan": "Rancang arsitektur aplikasi booking dengan database dan API.",
+      "skill_utama": "application-architecture-planning",
+      "skill_pendukung_maks_2": [
+        "reverse-engineering-and-reference-based-reconstruction"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Gunakan requirements yang tersedia, tandai asumsi, dan jangan mengganti stack proyek yang sudah berjalan tanpa alasan."
+    },
+    {
+      "pesan": "Tolong uji semua alur aplikasi dan laporkan bug yang benar-benar ditemukan.",
+      "skill_utama": "software-testing-and-quality-assurance",
+      "skill_pendukung_maks_2": [
+        "application-delivery-orchestrator"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Uji hanya lingkungan yang diizinkan; bedakan bug terulang dari hal yang belum diuji."
+    },
+    {
+      "pesan": "Bandingkan fitur aplikasi saya dengan aplikasi referensi dan tunjukkan kekurangannya.",
+      "skill_utama": "application-parity-evaluation",
+      "skill_pendukung_maks_2": [
+        "reverse-engineering-and-reference-based-reconstruction"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Samakan cakupan dan kondisi perbandingan; jangan mengejar penyalinan identitas visual."
+    },
+    {
+      "pesan": "Siapkan aplikasi ke production dan hubungkan domain.",
+      "skill_utama": "application-deployment-and-release-engineering",
+      "skill_pendukung_maks_2": [
+        "software-testing-and-quality-assurance",
+        "risk-assessment"
+      ],
+      "harus_ditanyakan": "ya",
+      "catatan": "Audit preflight dan rollback; minta persetujuan eksplisit sebelum mengubah DNS atau merilis."
+    },
+    {
+      "pesan": "Buat rencana launch aplikasi dengan landing page, harga, dan channel pemasaran.",
+      "skill_utama": "product-launch-and-go-to-market-planning",
+      "skill_pendukung_maks_2": [
+        "traction-strategy",
+        "professional-logo-and-brand-identity"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Gunakan klaim dan bukti yang benar; delegasikan hitung harga ke Finance dan eksperimen channel ke Growth."
     }
   ]
 }

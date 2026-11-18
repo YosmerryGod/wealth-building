@@ -315,3 +315,23 @@ Before responding, the lead skill checks:
 Run a boundary audit whenever a skill is added, renamed, moved, or materially expanded. Compare its primary responsibility, inputs, outputs, exclusions, and routing against this registry. Update the README index and links in the same change set. Do not create a duplicate skill to solve a routing problem.
 
 The registry is authoritative for ownership. Individual skill files remain authoritative for their specialist methods. If a local skill file appears to claim another skill's ownership, follow this registry and update the local file in the next maintenance pass.
+
+
+## Application delivery routing
+
+For a multi-stage application project, Application Delivery Orchestrator is the lead continuity owner. It selects only the current stage and passes a compact project packet to one specialist owner. Do not load the full lifecycle at once.
+
+Canonical sequence when each stage is actually needed:
+
+1. Reverse Engineering & Reference-Based Reconstruction — inspect permitted evidence and create a screen/flow/feature map.
+2. Application Architecture Planning — define stack, data model, API contracts, access rules, and milestones.
+3. Frontend Design + Professional Logo & Brand Identity — establish the new product's design system and distinct identity; load only the part needed now.
+4. Full-Stack Application Engineering — implement the approved vertical slice and subsequent screens.
+5. Backend Engineering & Integrations — implement server-side services and integrations using official APIs.
+6. Software Testing & Quality Assurance — test acceptance criteria, edge cases, accessibility, and regressions.
+7. Application Parity Evaluation — report feature coverage and deliberate differences without pixel-copy goals.
+8. Business Opportunity Discovery — analyze public user feedback and validate unmet needs; use Innovation & Competitive Advantage Strategy for defensibility when appropriate.
+9. Product Launch & Go-to-Market Planning — prepare positioning, launch assets, channel sequence, and metrics; delegate pricing calculations to Finance and channel experiments to Growth.
+10. Application Deployment & Release Engineering — preflight, staging, rollback, and production readiness; explicit user approval remains mandatory.
+
+Existing projects may enter at a later stage. A one-screen request must not trigger the full sequence. Keep the global maximum of three loaded skills per message, one primary owner, and bounded supporting contributions.

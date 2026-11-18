@@ -28,6 +28,12 @@ The sources were not treated as proof that any habit method works for every pers
 
 - **User-provided video 67562.mp4** (creator watermark visible as @kodebin; no public source URL supplied). Direct frame review identified Radial Sidebar, Vertical Typography Navigation, and Scroll Progress Navigation. The video explicitly presents Radial Sidebar as suitable for creative portfolios and experimental landing pages; it shows vertical typographic section labels and a scroll-progress rail whose active marker follows scrolling and can be clicked to jump to a section. The video does not provide usability research, implementation code, or measured outcomes. Responsive, accessibility, selection, and implementation guidance in the expanded skill is operational synthesis.
 
+### Source audit: Replica Skill application lifecycle
+
+- **Jakeschincariol/replica-skill** (MIT-licensed repository; README and all eleven `replica-*/SKILL.md` files reviewed on 2026-11-18): source workflows cover reference reconnaissance, architecture planning, design-system reconstruction, screen-by-screen implementation, backend integrations, QA, feature/layout comparison, public user-review analysis, rebranding, launch preparation, and deployment.
+- Wealth Building additions are original adaptations of workflow concepts and boundaries, not copied skill text, scripts, templates, or proprietary implementation. Existing owners were reused for recon/design/brand/customer discovery; new skills were added only for distinct architecture, implementation, backend, QA, parity, release, orchestration, and launch-planning responsibilities.
+- Clean-room, privacy, authorized-access, no-fabrication, user-approval, and legal-review boundaries were retained and aligned with Wealth Building governance and Risk Assessment. Source repository tools are not installed or implied to be available here.
+
 ## Repository update protocol
 
 **Every time a skill is added, changed, moved, or removed, update this README in the same work session.** The README is the orientation document for people and AI assistants opening the repository in a new conversation.
@@ -47,7 +53,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 
 1. **Customer Research & Demand Validation** — customer interviews, willingness to pay, market sizing, competitor research, and evidence of demand.
 2. **Business Models & Unit Economics** — pricing, contribution margin, break-even analysis, customer acquisition cost, lifetime value, and cash conversion. Strategic differentiation and defensibility are now covered by Innovation & Competitive Advantage Strategy.
-3. **Marketing, Sales & Distribution** — foundational coverage now includes Traction Strategy, the Bullseye Framework, channel selection, growth experiments, referral growth, partnerships, and growth metrics. Further work can deepen positioning, offer design, sales processes, lifecycle marketing, and retention.
+3. **Marketing, Sales & Distribution** — foundational coverage now includes Product Launch & Go-to-Market Planning alongside Traction Strategy, the Bullseye Framework, channel selection, growth experiments, referral growth, partnerships, and growth metrics. Further work can deepen positioning, offer design, sales processes, lifecycle marketing, and retention.
 4. **Product & Offer Development** — product-market fit, differentiation, quality, packaging, and customer experience.
 5. **Business Operations & Systems** — standard operating procedures, staffing, inventory, quality control, capacity, and process improvement. Core coverage added through Business Operations & Scaling.
 6. **Financial Management** — foundational coverage now includes Financial Intelligence, Asset & Liability Analysis, Cash Flow Management, Pay Yourself First, and Financial Statement Literacy. Further work can deepen tax planning, debt management, and financial controls.
@@ -56,7 +62,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 9. **Personal Finance & Wealth Preservation** — foundational coverage now includes income-to-asset planning, savings allocation, asset/liability analysis, and investment evaluation. Further work can deepen emergency-fund design, diversification, retirement planning, and wealth preservation.
 10. **Communication & Interpersonal Effectiveness** — foundational coverage added through six Communication skills based on *Bicara Itu Ada Seninya*: effective communication, active listening, persuasion and negotiation, message design, vocal delivery, and public speaking.
 11. **Execution & Progress Coaching** — goal setting, prioritization, accountability, progress reviews, and adapting plans to results. General non-financial habit design is now covered by General Habit Formation & Behavior Change; financial routines remain covered by Financial Habit Formation.
-12. **Digital Product Design & Development** — frontend and backend foundations, UI/UX, accessibility, responsive design, application architecture, and testing.
+12. **Digital Product Design & Development** — expanded through Application Delivery Orchestrator, Application Architecture Planning, Full-Stack Application Engineering, Backend Engineering & Integrations, Software Testing & QA, Application Parity Evaluation, and Application Deployment & Release Engineering.
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 
 ## Repository approach

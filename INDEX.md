@@ -2,7 +2,7 @@
 
 Generated from `skills.json` and checked against the repository tree. The governance registry is authoritative for ownership boundaries.
 
-**Totals:** 92 skills across 12 domains.
+**Totals:** 100 skills across 12 domains.
 
 ## Orchestrator
 
@@ -17,6 +17,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Conversational Intelligence And Psychology Router | front door for everyday interpersonal advice and wording | tolong buatkan pesan, chat ke, cara bilang, draft message | [SKILL.md](orchestrator/conversational-intelligence-and-psychology-router/SKILL.md) |
 | Business Agent | end-to-end approved business project lifecycle and user approvals | mau usaha, bangun bisnis, ide bisnis, rencana usaha, start a business | [SKILL.md](orchestrator/business-agent/SKILL.md) |
 | Content Intelligence Orchestrator | routing of YouTube/content-production requests | youtube, konten, channel, video | [SKILL.md](orchestrator/content-intelligence-orchestrator/SKILL.md) |
+| Application Delivery Orchestrator | staged application lifecycle, continuity, specialist routing, and delivery gates | buat aplikasi seperti, clone aplikasi, rebuild aplikasi, deploy aplikasi | [SKILL.md](orchestrator/application-delivery-orchestrator/SKILL.md) |
 | Risk Assessment | risk and consequence screen: legal, safety, financial, reversibility | risiko, legal, bahaya, hukum, konsekuensi, risk | [SKILL.md](orchestrator/risk-assessment/SKILL.md) |
 
 ## Business
@@ -71,6 +72,12 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Advanced Pagination And Data Navigation Patterns | pagination pattern selection and page-to-page navigation within a collection | pagination, paginasi, jump input, page preview, sliding pagination | [SKILL.md](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md) |
 | Professional Logo And Brand Identity | logo and identity system design | logo, identitas brand, favicon | [SKILL.md](skills/development/professional-logo-and-brand-identity/SKILL.md) |
 | Reverse Engineering And Reference Based Reconstruction | evidence-led analysis of a reference and reconstruction brief | tiru tampilan, referensi website, bongkar situs | [SKILL.md](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) |
+| Application Architecture Planning | stack, schema, API contracts, access model, implementation sequence | arsitektur aplikasi, stack aplikasi, rancang database | [SKILL.md](skills/development/application-architecture-planning/SKILL.md) |
+| Full Stack Application Engineering | scoped implementation of screens, routes, components, end-to-end flows | bangun aplikasi, coding fitur, build application | [SKILL.md](skills/development/full-stack-application-engineering/SKILL.md) |
+| Backend Engineering And Integrations | auth, data, payments, webhooks, jobs, integrations | buat backend, login register, integrasi API, webhook | [SKILL.md](skills/development/backend-engineering-and-integrations/SKILL.md) |
+| Software Testing And Quality Assurance | test plans, reproducible defects, automation, regression evidence | test aplikasi, QA aplikasi, cari bug, e2e test | [SKILL.md](skills/development/software-testing-and-quality-assurance/SKILL.md) |
+| Application Parity Evaluation | feature coverage and meaningful behavior/layout differences | feature parity, bandingkan aplikasi, parity check | [SKILL.md](skills/development/application-parity-evaluation/SKILL.md) |
+| Application Deployment And Release Engineering | release preflight, rollback, production readiness, monitoring | deploy aplikasi, publish aplikasi, hubungkan domain | [SKILL.md](skills/development/application-deployment-and-release-engineering/SKILL.md) |
 | Scroll Driven 3D Storytelling | scroll-linked 3D narrative | scroll 3d, web interaktif 3d | [SKILL.md](skills/development/scroll-driven-3d-storytelling/SKILL.md) |
 
 ## Finance
@@ -103,6 +110,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Partnership Distribution | partner fit, mutual value, partnership plan | kerja sama, mitra distribusi, reseller, partnership | [SKILL.md](skills/growth/partnership-distribution/SKILL.md) |
 | Traction Channel Selection | channel-to-audience fit and candidate selection | pilih channel, jualan lewat mana | [SKILL.md](skills/growth/traction-channel-selection/SKILL.md) |
 | Traction Strategy | overall acquisition and distribution strategy | cari pelanggan, dapat pembeli, traction, customer acquisition | [SKILL.md](skills/growth/traction-strategy/SKILL.md) |
+| Product Launch And Go-to-Market Planning | launch readiness, positioning, launch assets, distribution sequence, early metrics | launch produk, peluncuran aplikasi, landing page produk, go to market | [SKILL.md](skills/growth/product-launch-and-go-to-market-planning/SKILL.md) |
 | Viral And Referral Growth | sharing loops, referrals, advocacy mechanics | referral, getok tular, ajak teman, viral loop | [SKILL.md](skills/growth/viral-and-referral-growth/SKILL.md) |
 
 ## Knowledge

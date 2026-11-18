@@ -297,3 +297,12 @@ Business Opportunity Discovery remains the owner of the early-stage chain: custo
 After a candidate has a sufficiently clear customer, offer, and initial demand evidence—or when the user explicitly asks for strategic positioning—hand off to [Innovation & Competitive Advantage Strategy](innovation-and-competitive-advantage-strategy/SKILL.md). That skill evaluates meaningful differentiation, proprietary capability, network effects, scale economics, brand, focused initial markets, and durability. It must reuse this skill's customer and validation evidence rather than restarting discovery.
 
 Do not require a Zero to One-style moat for every small business. A local business can be viable through a well-served niche, reliable execution, fair pricing, convenience, or customer trust without venture-scale technology or market dominance.
+
+
+## Public user-feedback and competitor-gap evidence
+
+When an idea is inspired by an existing application, public reviews and feature-request discussions can reveal unmet jobs and friction. Treat them as qualitative evidence, not a representative survey by default.
+
+For each item retain public URL, platform/source, date, visible rating, and a faithful summary. Do not fabricate reviews, counts, reviewer identities, or consensus. Record sample size, source diversity, recency, selection bias, and themes too thin to support broad claims.
+
+Separate repeated complaints, explicit feature requests, underserved jobs/groups, and one-off opinions. Prioritize by evidence strength, customer impact, reachable audience, willingness-to-pay evidence, feasibility, and differentiation. Route defensibility to Innovation & Competitive Advantage Strategy and launch messaging to Product Launch & Go-to-Market Planning. Never use competitor reviews as testimonials for the user's product.
