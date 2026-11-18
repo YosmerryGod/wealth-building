@@ -232,8 +232,8 @@ Separate descriptive analysis of a tactic from a recommendation to deploy it. Re
 
 ## Relationship to other skills
 
-- **[Context-Aware Response Strategy Engine](../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** determines the response strategy and requires Psychology-to-Marketing integration when a business/customer purchase context makes it relevant; routes here for buyer diagnosis, value perception, offer matching, and ethical persuasion.
-- **[Service Recovery Marketing & Trust Building](service-recovery-marketing-and-trust-building/SKILL.md):** applies this buyer psychology to public reviews, proportionate remedies, approved goodwill offers, and visible recovery copy.
+- **[Context-Aware Response Strategy Engine](../../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** determines the response strategy and requires Psychology-to-Marketing integration when a business/customer purchase context makes it relevant; routes here for buyer diagnosis, value perception, offer matching, and ethical persuasion.
+- **[Service Recovery Marketing & Trust Building](../service-recovery-marketing-and-trust-building/SKILL.md):** applies this buyer psychology to public reviews, proportionate remedies, approved goodwill offers, and visible recovery copy.
 - **Human Behavior & Decision Psychology:** Explains broader behavior, trust, framing, and decision mechanisms.
 - **Business Opportunity Discovery:** Helps identify customer problems and validate whether a real market exists.
 - **Psychological Control & Human Vulnerability:** Helps recognize coercion and manipulation; this marketing skill applies autonomy-preserving safeguards to customer persuasion.
@@ -316,11 +316,11 @@ Before presenting a marketing message, verify:
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns buyer decision psychology and ethical persuasion in commercial contexts. It does not diagnose a customer's private motives, choose a complaint remedy, or own general interpersonal persuasion. Use Human Behavior & Decision Psychology for general behavioral mechanisms; use Service Recovery for complaint triage/remedy; use Persuasive Communication for interpersonal negotiation; use this skill only when buyer value perception, purchase barriers, or ethical offer framing materially affect the decision.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns buyer decision psychology and ethical persuasion in commercial contexts. It does not diagnose a customer's private motives, choose a complaint remedy, or own general interpersonal persuasion. Use Human Behavior & Decision Psychology for general behavioral mechanisms; use Service Recovery for complaint triage/remedy; use Persuasive Communication for interpersonal negotiation; use this skill only when buyer value perception, purchase barriers, or ethical offer framing materially affect the decision.
 
 ## Ownership and routing boundary
 
-Follow [Skill Boundary & Routing Governance](../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns buyer decision psychology and ethical persuasion in commercial contexts. It does not diagnose a customer's private motives, choose a complaint remedy, or own general interpersonal persuasion. Use Human Behavior & Decision Psychology for general behavioral mechanisms; Service Recovery for complaint triage/remedy; Persuasive Communication for interpersonal negotiation; use this skill only when buyer value perception, purchase barriers, or ethical offer framing materially affect the decision.
+Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns buyer decision psychology and ethical persuasion in commercial contexts. It does not diagnose a customer's private motives, choose a complaint remedy, or own general interpersonal persuasion. Use Human Behavior & Decision Psychology for general behavioral mechanisms; Service Recovery for complaint triage/remedy; Persuasive Communication for interpersonal negotiation; use this skill only when buyer value perception, purchase barriers, or ethical offer framing materially affect the decision.
 ## Customer feedback psychology: recognition, validation, fairness, and reciprocity
 
 Consumer psychology also applies after a purchase, when customers evaluate whether the business heard them and treated them fairly. In public reviews, the customer is communicating both an experience and a judgment about the relationship with the business.
