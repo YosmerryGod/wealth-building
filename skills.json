@@ -262,7 +262,7 @@
       "id": "message-design-and-storytelling",
       "domain": "communication",
       "path": "skills/communication/message-design-and-storytelling/SKILL.md",
-      "owns": "message structure, narrative, audience comprehension",
+      "owns": "message structure, narrative, and audience comprehension",
       "triggers": [
         "cerita",
         "storytelling",
@@ -287,7 +287,7 @@
       "id": "public-speaking-and-speaking-confidence",
       "domain": "communication",
       "path": "skills/communication/public-speaking-and-speaking-confidence/SKILL.md",
-      "owns": "preparation, rehearsal, live speaking",
+      "owns": "preparation, rehearsal, and live speaking",
       "triggers": [
         "pidato",
         "bicara di depan",
@@ -299,7 +299,7 @@
       "id": "vocal-and-nonverbal-delivery",
       "domain": "communication",
       "path": "skills/communication/vocal-and-nonverbal-delivery/SKILL.md",
-      "owns": "voice, gesture, posture, delivery cues",
+      "owns": "voice, gesture, posture, and delivery cues",
       "triggers": [
         "intonasi",
         "bahasa tubuh",
@@ -840,7 +840,7 @@
       "id": "growth-metrics-optimization",
       "domain": "growth",
       "path": "skills/growth/growth-metrics-optimization/SKILL.md",
-      "owns": "metric definitions, scorecards, performance interpretation",
+      "owns": "metric definitions, scorecards, and performance interpretation",
       "triggers": [
         "metrik",
         "konversi",
@@ -852,7 +852,7 @@
       "id": "partnership-distribution",
       "domain": "growth",
       "path": "skills/growth/partnership-distribution/SKILL.md",
-      "owns": "partner fit, mutual value, partnership plan",
+      "owns": "partner fit, mutual value, and partnership plan",
       "triggers": [
         "kerja sama",
         "mitra distribusi",
@@ -982,7 +982,7 @@
       "id": "influencer-opinion-leader-and-endorsement",
       "domain": "marketing",
       "path": "skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md",
-      "owns": "creator/endorser selection, disclosure, measurement",
+      "owns": "creator/endorser selection, disclosure, and measurement",
       "triggers": [
         "influencer",
         "endorse",
@@ -993,19 +993,20 @@
       "id": "service-recovery-marketing-and-trust-building",
       "domain": "marketing",
       "path": "skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md",
-      "owns": "complaint triage, proportionate remedy, public reply, recovery",
+      "owns": "complaint triage, proportionate remedy, public reply with a mandatory visible marketing element (Output contract in SKILL.md), recovery",
       "triggers": [
         "komplain",
         "ulasan jelek",
         "refund",
-        "pelanggan kecewa"
+        "pelanggan kecewa",
+        "balas ulasan"
       ]
     },
     {
       "id": "viral-content-engineering-and-attention-psychology",
       "domain": "marketing",
       "path": "skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md",
-      "owns": "hooks, attention, shareability, content iteration",
+      "owns": "hooks, attention, shareability, and content iteration",
       "triggers": [
         "konten viral",
         "FYP",
@@ -1122,7 +1123,7 @@
       "id": "power-dynamics-and-strategic-influence",
       "domain": "psychology",
       "path": "skills/psychology/power-dynamics-and-strategic-influence/SKILL.md",
-      "owns": "authority, incentives, dependencies, ethical strategic influence",
+      "owns": "authority, incentives, dependencies, and ethical strategic influence",
       "triggers": [
         "kekuasaan",
         "politik kantor",
@@ -1178,9 +1179,9 @@
       ]
     },
     {
-      "id": "workplace-competition-and-divide-and-rule",
+      "id": "workplace-competition-and-divide-and-rule-psychology",
       "domain": "psychology",
-      "path": "skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md",
+      "path": "skills/psychology/workplace-competition-and-divide-and-rule-psychology/SKILL.md",
       "owns": "healthy competition vs deliberate workplace division",
       "triggers": [
         "diadu domba",
