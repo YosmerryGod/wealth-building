@@ -2,7 +2,7 @@
 
 Generated from `skills.json` and checked against the repository tree. The governance registry is authoritative for ownership boundaries.
 
-**Totals:** 89 skills across 12 domains.
+**Totals:** 91 skills across 12 domains.
 
 ## Orchestrator
 
@@ -26,6 +26,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Business Model Innovation And Asset Monetization | compare sale, rental, subscription, pay-per-use models for reusable assets | sewa, rental, langganan, monetisasi aset | [SKILL.md](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) |
 | Business Operations And Scaling | process, capacity, quality, staffing, inventory, scaling | operasional, produksi, stok, karyawan, scale up | [SKILL.md](skills/business/business-operations-and-scaling/SKILL.md) |
 | Business Opportunity Discovery | find customer problems, demand, offer fit, low-cost validation | peluang usaha, validasi, cari ide, pasar, opportunity | [SKILL.md](skills/business/business-opportunity-discovery/SKILL.md) |
+| Innovation And Competitive Advantage Strategy | strategic differentiation, market positioning, and durable competitive advantage | keunggulan kompetitif, diferensiasi bisnis, sulit ditiru, zero to one, moat bisnis | [SKILL.md](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) |
 | Business Ownership And Equity | ownership, equity, shares, governance concepts | saham, bagi hasil, kepemilikan, equity, partner usaha | [SKILL.md](skills/business/business-ownership-and-equity/SKILL.md) |
 
 ## Communication
@@ -129,6 +130,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Skill | Owns | Triggers | Path |
 |---|---|---|---|
 | Behavioral Finance And Money Psychology | behavioral biases and emotions in financial decisions | boros, FOMO investasi, takut rugi, psikologi uang | [SKILL.md](skills/psychology/behavioral-finance-and-money-psychology/SKILL.md) |
+| General Habit Formation And Behavior Change | general non-financial habit design using context, repetition, reward, and friction | ubah kebiasaan, membangun kebiasaan, kebiasaan buruk, susah konsisten, rutinitas | [SKILL.md](skills/psychology/general-habit-formation-and-behavior-change/SKILL.md) |
 | Creative Intelligence Engine | divergent thinking and idea recombination | brainstorm, ide kreatif, ide baru, kreatif | [SKILL.md](skills/psychology/creative-intelligence-engine/SKILL.md) |
 | Emotional Regulation And Calm Decision Making | managing reactivity and decision readiness | emosi, marah, panik, tenang, stres | [SKILL.md](skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md) |
 | False Concern And Covert Sabotage | cautious analysis of possible covert undermining | pura-pura peduli, dijegal, disabotase | [SKILL.md](skills/psychology/false-concern-and-covert-sabotage/SKILL.md) |

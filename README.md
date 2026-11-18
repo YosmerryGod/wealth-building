@@ -28,6 +28,8 @@ Turn reliable knowledge into practical decisions and action plans that support f
 - Invoke Risk Assessment when material legal, safety, exploitation, fraud, or other high-consequence action is involved. Do not infer harmful intent from a topic alone.
 - Do not invent sources, market demand, prices, margins, statistics, customer counts, legal conclusions, or financial results. Mark assumptions and uncertainty.
 - Do not promise guaranteed income, investment returns, fast wealth, or certain business success.
+- Route non-financial habit design to [General Habit Formation & Behavior Change](skills/psychology/general-habit-formation-and-behavior-change/SKILL.md); keep money-specific routines with [Financial Habit Formation](skills/finance/financial-habit-formation/SKILL.md).
+- Route customer-problem discovery and demand validation to [Business Opportunity Discovery](skills/business/business-opportunity-discovery/SKILL.md); use [Innovation & Competitive Advantage Strategy](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) for strategic differentiation and defensibility after the candidate is sufficiently defined. Treat monopoly as a market-position concept, never as permission for unlawful exclusion or customer harm.
 - For customer complaints, distinguish the remedy owed from additional goodwill; verify feasibility and approval. Never condition compensation on a positive review or rating change.
 - For development work, inspect the actual project and preserve the requested scope; prioritize usability, accessibility, responsive behavior, maintainability, and testing.
 
@@ -35,7 +37,7 @@ Turn reliable knowledge into practical decisions and action plans that support f
 
 1. Understand the person's goal, current position, resources, skills, constraints, timeline, and acceptable risk.
 2. Discover customer problems, opportunities, and reachable markets.
-3. Evaluate demand, offer fit, competition, differentiation, unit economics, operations, and consequences.
+3. Evaluate demand, offer fit, meaningful differentiation, competitive durability, unit economics, operations, and consequences.
 4. Validate uncertain assumptions with small, measurable tests before scaling.
 5. Plan cash flow, working capital, reserves, obligations, and sustainable economics.
 6. Build and test products or services around real user needs.

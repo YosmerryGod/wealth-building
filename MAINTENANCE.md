@@ -13,6 +13,13 @@ For every new video, article, book, or other source:
 - Avoid copying large portions of copyrighted material; summarize in original wording.
 - Do not turn an allegory, anecdote, or short video into a scientific conclusion without supporting evidence.
 
+### Source audit: habit formation and competitive advantage
+
+- **Wendy Wood, *Good Habits, Bad Habits: The Science of Making Positive Changes That Stick* (2019).** Publisher overview and publicly available excerpt reviewed. Source-supported themes used: habit formation is not reducible to willpower; context, repetition, and reward matter; environmental friction and cues influence repeated behavior. The new skill is an original coaching synthesis, not a full-text extraction or clinical protocol. [Publisher overview](https://us.macmillan.com/books/9781250159083/goodhabitsbadhabits/).
+- **Peter Thiel with Blake Masters, *Zero to One: Notes on Startups, or How to Build the Future* (2014).** Publisher description and source text reviewed. Source-supported themes used: creating something meaningfully new, focused initial markets, distinctive market positions, and proprietary technology, network effects, economies of scale, and brand as potential sources of durability. The new skill is an original strategy synthesis; the 10x statement is treated as a heuristic, and monopoly language is bounded by lawful, customer-beneficial competition. [Publisher page](https://www.penguinrandomhouse.com/books/234730/zero-to-one-by-peter-thiel-with-blake-masters/).
+
+The sources were not treated as proof that any habit method works for every person or that any business can or should achieve monopoly. No long copyrighted passages were copied.
+
 ## Repository update protocol
 
 **Every time a skill is added, changed, moved, or removed, update this README in the same work session.** The README is the orientation document for people and AI assistants opening the repository in a new conversation.
@@ -31,7 +38,7 @@ For each skill update:
 These are planned knowledge areas, not claims that complete skills already exist for them. Add them incrementally when useful sources and practical examples are reviewed.
 
 1. **Customer Research & Demand Validation** — customer interviews, willingness to pay, market sizing, competitor research, and evidence of demand.
-2. **Business Models & Unit Economics** — pricing, contribution margin, break-even analysis, customer acquisition cost, lifetime value, and cash conversion.
+2. **Business Models & Unit Economics** — pricing, contribution margin, break-even analysis, customer acquisition cost, lifetime value, and cash conversion. Strategic differentiation and defensibility are now covered by Innovation & Competitive Advantage Strategy.
 3. **Marketing, Sales & Distribution** — foundational coverage now includes Traction Strategy, the Bullseye Framework, channel selection, growth experiments, referral growth, partnerships, and growth metrics. Further work can deepen positioning, offer design, sales processes, lifecycle marketing, and retention.
 4. **Product & Offer Development** — product-market fit, differentiation, quality, packaging, and customer experience.
 5. **Business Operations & Systems** — standard operating procedures, staffing, inventory, quality control, capacity, and process improvement. Core coverage added through Business Operations & Scaling.
@@ -40,7 +47,7 @@ These are planned knowledge areas, not claims that complete skills already exist
 8. **Risk, Resilience & Compliance** — downside planning, insurance, fraud prevention, legal requirements, taxes, and business continuity.
 9. **Personal Finance & Wealth Preservation** — foundational coverage now includes income-to-asset planning, savings allocation, asset/liability analysis, and investment evaluation. Further work can deepen emergency-fund design, diversification, retirement planning, and wealth preservation.
 10. **Communication & Interpersonal Effectiveness** — foundational coverage added through six Communication skills based on *Bicara Itu Ada Seninya*: effective communication, active listening, persuasion and negotiation, message design, vocal delivery, and public speaking.
-11. **Execution & Progress Coaching** — goal setting, prioritization, habits, accountability, progress reviews, and adapting plans to results.
+11. **Execution & Progress Coaching** — goal setting, prioritization, accountability, progress reviews, and adapting plans to results. General non-financial habit design is now covered by General Habit Formation & Behavior Change; financial routines remain covered by Financial Habit Formation.
 12. **Digital Product Design & Development** — frontend and backend foundations, UI/UX, accessibility, responsive design, application architecture, and testing.
 13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
 

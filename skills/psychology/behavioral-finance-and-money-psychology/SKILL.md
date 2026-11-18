@@ -306,3 +306,8 @@ When a user refers to a peer, influencer, relative, public figure, or online suc
 - Distinguish a motivational example from evidence that the same outcome is likely or repeatable.
 
 Use this section with **Do not copy another person's financial game**, **Distinguish visible status from actual wealth**, and **Challenge persuasive financial narratives**. It adds an explicit response process for social-comparison pressure without creating a duplicate standalone skill.
+
+
+## Boundary with general habit design
+
+This skill explains biases, emotional influences, social comparison, risk perception, and decision patterns specific to money. It does not own the general design of everyday routines. When a user wants to establish or interrupt a repeatable non-financial behavior, route the practical context, repetition, reward, and friction workflow to [General Habit Formation & Behavior Change](../general-habit-formation-and-behavior-change/SKILL.md). For money routines, [Financial Habit Formation](../../finance/financial-habit-formation/SKILL.md) remains the owner. Use this skill as a supporting input only when a financial bias or emotional force materially affects the behavior.

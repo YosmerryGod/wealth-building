@@ -276,6 +276,32 @@
       "skill_pendukung_maks_2": [],
       "harus_ditanyakan": "tidak",
       "catatan": "Pisahkan dalil, tafsir ulama, refleksi, dan sintesis."
+    },
+    {
+      "pesan": "Saya ingin membangun kebiasaan membaca setiap malam, tetapi sering lupa dan terdistraksi.",
+      "skill_utama": "general-habit-formation-and-behavior-change",
+      "skill_pendukung_maks_2": [],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Gunakan konteks pemicu, pengurangan friction, tindakan kecil, pengulangan, dan recovery; jangan menyalahkan willpower."
+    },
+    {
+      "pesan": "Bagaimana membuat bisnis saya punya keunggulan yang sulit ditiru kompetitor?",
+      "skill_utama": "innovation-and-competitive-advantage-strategy",
+      "skill_pendukung_maks_2": [
+        "business-opportunity-discovery",
+        "growth-experimentation"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Periksa segmen, alternatif, manfaat yang dirasakan, bukti diferensiasi, dan mekanisme defensibility; jangan menyamakan moat dengan slogan atau praktik antipersaingan."
+    },
+    {
+      "pesan": "Saya ingin disiplin menabung, tetapi selalu gagal setelah beberapa hari.",
+      "skill_utama": "financial-habit-formation",
+      "skill_pendukung_maks_2": [
+        "behavioral-finance-and-money-psychology"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Uang tetap dimiliki Financial Habit Formation; general habit skill tidak mengambil alih rutinitas finansial."
     }
   ]
 }

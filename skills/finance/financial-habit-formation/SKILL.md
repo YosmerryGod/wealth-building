@@ -6,12 +6,13 @@ subcategory: financial-behavior-and-routines
 source_type: behavioral-finance-operational-framework
 source: Original practical synthesis informed by habit formation and behavioral finance concepts
 language: English
-description: "Use when a request needs cues, routines, friction, recovery for financial behavior."
+description: "Use when a request needs repeatable routines for money management and financial follow-through."
 triggers:
   - "kebiasaan menabung"
   - "disiplin uang"
-  - "habit"
-out_of_scope: "Financial calculations, reserve targets, or psychological diagnosis"
+  - "rutinitas keuangan"
+  - "konsisten menabung"
+out_of_scope: "General non-financial habit design, financial calculations, reserve targets, or psychological diagnosis"
 escalation: "Hand off work involving Financial calculations, reserve targets, or psychological diagnosis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
@@ -120,6 +121,7 @@ Do not use a streak as the only measure of success. A routine that protects cash
 - **Cash Flow Management** owns cash timing and affordability.
 - **Debt & Installment Management** owns repayment behavior and installment exposure.
 - **Emergency Fund Strategy** owns reserve targets and withdrawal/replenishment rules.
+- **General Habit Formation & Behavior Change** owns non-financial everyday habit design; this skill retains financial routines and financial feasibility checks.
 
 
 ## Lifestyle inflation control
@@ -158,3 +160,10 @@ When income rises:
 - Do not assume every visible purchase is status consumption.
 - Recommend allocations only after checking actual cash flow and essential needs.
 - Route savings allocation to Pay Yourself First, category limits to Envelope Budgeting System, and liquidity checks to Cash Flow Management.
+
+
+## Boundary with general habit coaching
+
+Use this skill when the target behavior directly concerns money: saving, spending, budgeting, bill payment, debt repayment, reserve maintenance, or financial review. Keep the financial feasibility check central; do not prescribe a savings habit that causes missed essentials or overdrafts.
+
+For non-financial routines such as studying, exercise, reading, work preparation, or reducing everyday distraction, route the habit-design method to [General Habit Formation & Behavior Change](../../psychology/general-habit-formation-and-behavior-change/SKILL.md). That skill may contribute context, repetition, reward, and friction principles, but it does not own financial allocations or debt decisions.

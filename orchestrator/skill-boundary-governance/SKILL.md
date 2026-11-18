@@ -104,7 +104,8 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 |---|---|---|
 | Business Model Innovation & Asset Monetization | Compare sale, rental, access, and asset-use revenue models | General opportunity discovery or final financial audit |
 | Business Operations & Scaling | Process, capacity, quality, people, inventory, and operational scaling | Market demand proof or investment portfolio advice |
-| Business Opportunity Discovery | Discover customer problems, demand, offer fit, and low-cost validation | Full ongoing operations or financial statement analysis |
+| Business Opportunity Discovery | Discover customer problems, demand, offer fit, and low-cost validation | Durable competitive-advantage design after candidate discovery, full ongoing operations, or financial statement analysis |
+| Innovation & Competitive Advantage Strategy | Strategic differentiation, focused market positioning, and evidence-based durability of competitive advantage | Initial customer-problem discovery, detailed channel experiments, financial valuation, operational scaling, or legal competition advice |
 | Business Ownership & Equity Basics | Ownership structures, equity, shares, and governance concepts | Legal opinions or valuation without evidence |
 
 ### Communication
@@ -208,6 +209,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Skill | Owns | Does not own |
 |---|---|---|
 | Behavioral Finance & Money Psychology | Behavioral biases and emotional patterns in financial decisions | Financial calculations or portfolio selection |
+| General Habit Formation & Behavior Change | General non-financial habit design using context, repetition, reward, and friction | Financial routines, clinical treatment, addiction treatment, or psychological diagnosis |
 | Creative Intelligence Engine | Divergent/lateral thinking, idea recombination, and creative option generation | Demand validation or final business viability |
 | Emotional Regulation & Calm Decision-Making | Managing emotional reactivity and decision readiness | Diagnosing disorders or deciding the external facts |
 | False Concern & Covert Sabotage | Cautious analysis of possible covert undermining patterns | Assuming malicious intent from ambiguity |
@@ -270,7 +272,9 @@ For every business review, marketing opportunity detection must be evaluated; it
 
 ### Business creation and growth
 
-Business Agent owns the project → Contextual Understanding supplies project state → Creative Intelligence/Knowledge Graph only for genuine idea-generation or cross-domain discovery → Business Opportunity Discovery validates demand → Operations and Finance specialists assess feasibility → Traction Strategy owns acquisition strategy → Channel Selection/Bullseye choose and test channels → Growth Experimentation owns test design → Growth Metrics owns measurement → Business Agent synthesizes and asks approval before commitments.
+Business Agent owns the project → Contextual Understanding supplies project state → Creative Intelligence/Knowledge Graph only for genuine idea-generation or cross-domain discovery → Business Opportunity Discovery identifies the customer problem and validates demand → Innovation & Competitive Advantage Strategy evaluates strategic differentiation and defensibility when a candidate has enough evidence or the user explicitly asks for positioning → Operations and Finance specialists assess feasibility → Traction Strategy owns acquisition strategy → Channel Selection/Bullseye choose and test channels → Growth Experimentation owns test design → Growth Metrics owns measurement → Business Agent synthesizes and asks approval before commitments.
+
+For general non-financial behavior change, General Habit Formation & Behavior Change owns the habit design. For money-specific routines, Financial Habit Formation remains the owner; Behavioral Finance contributes only when money-related biases or emotions materially affect the decision.
 
 ### Financial decision
 
