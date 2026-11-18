@@ -6,6 +6,13 @@ subcategory: Islamic-worship-and-reflection
 source_type: book-inspired-theme-mapping-and-original-operational-synthesis
 source: *Makna Shalat: Agar Hati Mengerti Mengapa Ia Berdiri, Rukuk, dan Bersujud*; cover and publicly available product description only; complete book text not inspected
 language: English
+description: "Use when a request needs reflective learning about prayer meaning and attentiveness."
+triggers:
+  - "shalat"
+  - "khusyuk"
+  - "makna shalat"
+out_of_scope: "Issuing unsupported religious rulings or inventing religious sources"
+escalation: "Hand off work involving Issuing unsupported religious rulings or inventing religious sources to an appropriately qualified religious source; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
 ---
 
 # Meaningful Prayer & Khushu
