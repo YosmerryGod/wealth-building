@@ -537,3 +537,32 @@ Before returning the draft, silently check:
 - Is there no pressure to change or remove the review?
 
 If any essential fact or approval is missing, do not turn an assumption into a public promise. Present the draft as a proposal for approval or use a neutral invitation to contact the official channel so the case can be verified.
+
+## Voice of Customer: feedback beyond complaints
+
+Customer feedback is a source of evidence about the gap between what customers expected, what they experienced, and what the business delivered. It includes public reviews, private messages, support conversations, returns, repeat-purchase patterns, survey responses, and observed customer behavior.
+
+### Classify feedback before acting
+- **Praise:** identifies a product or service attribute worth preserving and communicating truthfully.
+- **Constructive criticism:** identifies a perceived weakness or unmet expectation; verify whether it is isolated or recurring.
+- **Service failure:** indicates a specific failure against the agreed order, policy, or reasonable service standard; assess entitlement restoration and remedy.
+- **Preference mismatch:** reflects a taste, style, or expectation difference without necessarily proving a business error.
+- **Safety or serious quality signal:** requires immediate risk-aware triage and investigation before promotional or retention activity.
+
+### Feedback analysis workflow
+1. Capture the customer's actual words and context without rewriting the complaint into a stronger claim.
+2. Identify the affected product, order, stage, expectation, and impact.
+3. Separate verified facts, customer perception, and unresolved questions.
+4. Group repeated themes by product, process, channel, and customer segment.
+5. Prioritize by severity, frequency, customer impact, evidence quality, and business controllability.
+6. Assign a corrective owner and a realistic follow-up.
+7. Communicate what can be verified; do not promise a fix before it is approved and feasible.
+8. Check whether the change reduced recurrence and improved customer outcomes.
+
+### Response and ownership boundary
+This skill owns complaint triage, proportionate remedies, and recovery communication. General feedback analysis and product/brand learning should be shared with Business Operations & Scaling, Brand Awareness & Brand Activation, and Business Opportunity Discovery as relevant. Do not treat every criticism as a complaint requiring compensation, and do not turn feedback into a sales pitch.
+
+### Evidence and metrics
+Track feedback volume with its denominator where possible, recurring themes, severity, resolution time, repeat incidents, refunds/replacements, customer satisfaction, repeat purchase, and retention. Public review counts and online comments may be biased toward unusually positive or negative experiences; do not claim they represent all customers without a defensible sampling method.
+
+Feedback should lead to a documented decision: retain, investigate, correct, clarify expectations, test a product change, or take no action when the evidence does not justify one. Preserve privacy and obtain permission before using identifiable customer stories or testimonials.
