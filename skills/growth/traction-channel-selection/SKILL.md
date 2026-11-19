@@ -92,3 +92,18 @@ The channel inventory is based on *Traction*. The channel-family groupings, asse
 ## Ownership and routing boundary
 
 Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). This skill owns channel fit assessment and a shortlist grounded in audience behavior, offer, resources, and market. It does not own the overall acquisition strategy (Traction Strategy), Bullseye's full testing sequence, experiment design (Growth Experimentation), or measurement definitions (Growth Metrics). Return channel candidates with fit rationale, assumptions, constraints, and what evidence would validate them.
+
+## Advertising and direct outreach as acquisition-channel candidates
+
+Treat advertising and direct marketing as channel options, not automatic recommendations.
+
+### Paid advertising
+Assess search ads, social/display ads, offline advertising, and sponsored placements against audience intent, reach quality, creative fit, budget, conversion path, attribution, and contribution margin. Require a small capped experiment before scaling. A high number of impressions or clicks is not evidence of profitable acquisition.
+
+### Direct marketing and outbound sales
+Assess targeted sales, permission-based email or messaging, calls, and relevant in-person outreach against audience accessibility, relationship context, contact legitimacy, personalization effort, response capacity, and customer lifetime value. Reject spam, purchased or improperly obtained contact lists, deceptive identity, and persistent contact after refusal.
+
+### Selection rule
+Choose direct marketing when a defined segment can be reached appropriately and a relevant personalized offer or conversation is useful. Choose advertising when paid reach is needed to expose a substantiated offer to a broader or intent-defined audience. A combined approach may be tested when the customer journey supports it, but attribution and costs must be kept distinct.
+
+Return the channel hypothesis, target segment, message/offer, capped test, conversion event, cost assumptions, operational dependencies, and stop/scale criteria. Delegate creative execution to the channel/content owner and experiment design to Growth Experimentation.
