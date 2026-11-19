@@ -27,7 +27,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 |---|---|---|---|
 | Business Model Innovation And Asset Monetization | compare sale, rental, subscription, pay-per-use models for reusable assets | sewa, rental, langganan, monetisasi aset | [SKILL.md](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) |
 | Business Operations And Scaling | process, capacity, quality, staffing, inventory, scaling | operasional, produksi, stok, karyawan, scale up | [SKILL.md](skills/business/business-operations-and-scaling/SKILL.md) |
-| Business Opportunity Discovery | find customer problems, demand, offer fit, low-cost validation | peluang usaha, validasi, cari ide, pasar, opportunity | [SKILL.md](skills/business/business-opportunity-discovery/SKILL.md) |
+| Business Opportunity Discovery | customer problems, supply-demand diagnosis, demand evidence, offer fit, low-cost validation | peluang usaha, supply demand, permintaan pasar, validasi, cari ide, pasar, opportunity | [SKILL.md](skills/business/business-opportunity-discovery/SKILL.md) |
 | Innovation And Competitive Advantage Strategy | strategic differentiation, market positioning, and durable competitive advantage | keunggulan kompetitif, diferensiasi bisnis, sulit ditiru, zero to one, moat bisnis | [SKILL.md](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) |
 | Business Ownership And Equity | ownership, equity, shares, governance concepts | saham, bagi hasil, kepemilikan, equity, partner usaha | [SKILL.md](skills/business/business-ownership-and-equity/SKILL.md) |
 
@@ -109,7 +109,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Growth Experimentation | hypothesis, test design, learning record | eksperimen, uji coba iklan, A/B test | [SKILL.md](skills/growth/growth-experimentation/SKILL.md) |
 | Growth Metrics Optimization | metric definitions, scorecards, performance interpretation | metrik, konversi, CAC, retensi pelanggan | [SKILL.md](skills/growth/growth-metrics-optimization/SKILL.md) |
 | Partnership Distribution | partner fit, mutual value, partnership plan | kerja sama, mitra distribusi, reseller, partnership | [SKILL.md](skills/growth/partnership-distribution/SKILL.md) |
-| Traction Channel Selection | channel-to-audience fit and candidate selection | pilih channel, jualan lewat mana | [SKILL.md](skills/growth/traction-channel-selection/SKILL.md) |
+| Traction Channel Selection | channel-to-audience fit, advertising/direct-outreach assessment, candidate selection | pilih channel, jualan lewat mana, advertising, iklan berbayar, direct outreach | [SKILL.md](skills/growth/traction-channel-selection/SKILL.md) |
 | Traction Strategy | overall acquisition and distribution strategy | cari pelanggan, dapat pembeli, traction, customer acquisition | [SKILL.md](skills/growth/traction-strategy/SKILL.md) |
 | Product Launch And Go-to-Market Planning | launch readiness, positioning, launch assets, distribution sequence, early metrics | launch produk, peluncuran aplikasi, landing page produk, go to market | [SKILL.md](skills/growth/product-launch-and-go-to-market-planning/SKILL.md) |
 | Viral And Referral Growth | sharing loops, referrals, advocacy mechanics | referral, getok tular, ajak teman, viral loop | [SKILL.md](skills/growth/viral-and-referral-growth/SKILL.md) |
@@ -124,13 +124,13 @@ Generated from `skills.json` and checked against the repository tree. The govern
 
 | Skill | Owns | Triggers | Path |
 |---|---|---|---|
-| Brand Awareness And Brand Activation | brand memory, awareness objective, activation experience | brand awareness, dikenal orang, branding | [SKILL.md](skills/marketing/brand-awareness-and-brand-activation/SKILL.md) |
+| Brand Awareness And Brand Activation | brand memory, positioning, customer-perception consistency, awareness objective, activation experience | brand awareness, dikenal orang, branding, citra merek, persepsi merek | [SKILL.md](skills/marketing/brand-awareness-and-brand-activation/SKILL.md) |
 | Brand Communication And Public Relations | brand narrative, public messaging, reputation communication | citra brand, media, krisis reputasi, PR | [SKILL.md](skills/marketing/brand-communication-and-public-relations/SKILL.md) |
 | Consumer Psychology And Persuasion | buyer decision variables, value perception, ethical persuasion | psikologi pembeli, harga psikologis, kenapa orang beli, scarcity | [SKILL.md](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) |
-| Digital Brand Awareness And Channel Strategy | digital presence and platform roles | media sosial, instagram usaha, konten digital, google bisnis | [SKILL.md](skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) |
+| Digital Brand Awareness And Channel Strategy | digital presence, direct marketing, permission-based messaging, and platform roles | media sosial, instagram usaha, konten digital, google bisnis, direct marketing, pemasaran langsung | [SKILL.md](skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) |
 | Experiential And Event Based Marketing | brand experiences, trials, pop-ups, events | bazar, pop-up, tester gratis, event promosi | [SKILL.md](skills/marketing/experiential-and-event-based-marketing/SKILL.md) |
 | Influencer Opinion Leader And Endorsement | creator/endorser selection, disclosure, measurement | influencer, endorse, food vlogger | [SKILL.md](skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md) |
-| Service Recovery Marketing And Trust Building | complaint triage, proportionate remedy, public reply with mandatory visible marketing element, recovery | komplain, ulasan jelek, refund, pelanggan kecewa, balas ulasan | [SKILL.md](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) |
+| Service Recovery Marketing And Trust Building | customer-feedback triage, complaint remedy, public reply, voice-of-customer learning, recovery | komplain, ulasan jelek, refund, pelanggan kecewa, balas ulasan, customer feedback, feedback pelanggan, voice of customer | [SKILL.md](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) |
 | Viral Content Engineering And Attention Psychology | hooks, attention, shareability, content iteration | konten viral, FYP, hook konten | [SKILL.md](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) |
 | Viral Event Marketing And Content Monetization | integrated event-to-content-to-revenue plan | event jadi konten, monetisasi event | [SKILL.md](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) |
 | Word Of Mouth And Brand Advocacy | organic recommendations and customer-led reputation | dari mulut ke mulut, pelanggan setia, rekomendasi | [SKILL.md](skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md) |
