@@ -424,6 +424,56 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Untuk implementasi UI/browser, cari panduan Modern Web Guidance yang relevan sebelum coding, ambil ID hasil search secara tepat, periksa dukungan browser dan fallback, lalu verifikasi hasil. Jangan memanggilnya untuk backend atau tooling."
+    },
+    {
+      "pesan": "Apa bedanya supply dan demand, dan bagaimana menguji apakah pasar ayam panggang di daerah saya benar-benar membutuhkan produk ini?",
+      "skill_utama": "business-opportunity-discovery",
+      "skill_pendukung_maks_2": [
+        "consumer-psychology-and-persuasion",
+        "business-operations-and-scaling"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Pisahkan demand berbayar dari minat; cek segmen, alternatif, harga, kapasitas, dan validasi kecil."
+    },
+    {
+      "pesan": "Buat pendekatan WhatsApp langsung untuk menawarkan produk kepada calon pelanggan.",
+      "skill_utama": "digital-brand-awareness-and-channel-strategy",
+      "skill_pendukung_maks_2": [
+        "consumer-psychology-and-persuasion",
+        "communication-decision-engine"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Pesan relevan, tidak spam, hormati izin dan penolakan, serta beri langkah respons yang jelas."
+    },
+    {
+      "pesan": "Apakah saya sebaiknya memasang iklan Instagram untuk usaha makanan saya?",
+      "skill_utama": "traction-channel-selection",
+      "skill_pendukung_maks_2": [
+        "digital-brand-awareness-and-channel-strategy",
+        "growth-experimentation"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Nilai audience fit, offer, tujuan, anggaran uji terbatas, konversi, margin, dan kapasitas."
+    },
+    {
+      "pesan": "Banyak pelanggan mengeluh ayam terlalu kering. Bagaimana mengolah feedback ini?",
+      "skill_utama": "service-recovery-marketing-and-trust-building",
+      "skill_pendukung_maks_2": [
+        "business-operations-and-scaling",
+        "brand-awareness-and-brand-activation"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Klasifikasikan feedback, verifikasi pola, tentukan akar masalah, tindakan korektif dan metrik; jangan otomatis memberi kompensasi."
+    },
+    {
+      "pesan": "Bagaimana membangun branding usaha agar pelanggan mengingat ayam panggang saya?",
+      "skill_utama": "brand-awareness-and-brand-activation",
+      "skill_pendukung_maks_2": [
+        "consumer-psychology-and-persuasion",
+        "digital-brand-awareness-and-channel-strategy"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Tentukan positioning, janji, bukti, identitas, dan konsistensi pengalaman; jangan samakan branding dengan iklan atau tampilan mewah."
     }
   ]
 }
