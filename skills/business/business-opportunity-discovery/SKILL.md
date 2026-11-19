@@ -306,3 +306,38 @@ When an idea is inspired by an existing application, public reviews and feature-
 For each item retain public URL, platform/source, date, visible rating, and a faithful summary. Do not fabricate reviews, counts, reviewer identities, or consensus. Record sample size, source diversity, recency, selection bias, and themes too thin to support broad claims.
 
 Separate repeated complaints, explicit feature requests, underserved jobs/groups, and one-off opinions. Prioritize by evidence strength, customer impact, reachable audience, willingness-to-pay evidence, feasibility, and differentiation. Route defensibility to Innovation & Competitive Advantage Strategy and launch messaging to Product Launch & Go-to-Market Planning. Never use competitor reviews as testimonials for the user's product.
+
+## Supply, demand, and market balance
+
+Use supply and demand as a market-diagnosis lens, not as a shortcut for claiming that a business opportunity exists.
+
+- **Demand** is the quantity customers are willing and able to buy at a given price and under stated conditions during a defined period. Interest, need, views, and compliments alone do not establish paid demand.
+- **Supply** is the quantity of a product or service that sellers can and are willing to provide at a given price and during a defined period. Include production, labor, stock, location, delivery, quality, and fulfilment constraints.
+- **Market gap** is a hypothesis that existing supply does not adequately serve a customer segment, occasion, quality expectation, price point, or access need. It must be tested against alternatives and customer behavior.
+
+### Supply-and-demand diagnosis
+1. Define the product category, geographic/service area, time period, and buying occasion.
+2. Identify customer segments and the job, need, or desire they are trying to satisfy.
+3. Observe current alternatives, prices, availability, wait times, quality, and access barriers.
+4. Look for demand evidence: paid orders, repeat purchase, pre-orders, credible transaction data, and observed switching—not only stated interest.
+5. Estimate available supply and competitors' capacity without assuming that visible scarcity means a profitable opportunity.
+6. Check whether the user's own resources can fulfil the proposed offer reliably.
+7. Test the offer and price with a small, bounded paid experiment where appropriate.
+8. Reassess after observing actual conversion, contribution margin, repeat behavior, and operational performance.
+
+### Interpret common market situations carefully
+- **Demand appears greater than supply:** may create an opportunity, but first verify that demand is real, durable, reachable, and economically serviceable. Investigate why supply is constrained.
+- **Supply appears greater than demand:** may indicate intense competition, excess capacity, weak differentiation, poor access, or a temporary mismatch. Do not assume that lowering price is the only response.
+- **Both appear low:** the market may be small, seasonal, poorly understood, or not worth entering; validate before investing.
+- **Demand and supply vary by segment or time:** identify the specific occasion, location, price, and service level rather than making a broad market claim.
+
+Do not infer demand from a crowd, queue, social-media trend, or competitor's advertising alone. Verify whether observed activity represents real customers and genuine transactions. Never manufacture queues, scarcity, reviews, or popularity to create a false demand signal.
+
+### Example: grilled-chicken business
+A claim such as "many people want grilled chicken but there are few sellers" is only a starting hypothesis. Check local buying occasions, competitor menus and prices, actual order volume, service coverage, customer dissatisfaction, and production capacity. Then test a small offer at a stated price. Do not scale production until paid demand, contribution margin, and fulfilment reliability support it.
+
+### Relationship to adjacent skills
+- **Business Operations & Scaling:** verifies production and fulfilment capacity; does not establish market demand.
+- **Consumer Psychology & Persuasion:** explains buying motivation and perceived value; does not prove willingness to pay.
+- **Traction Channel Selection:** chooses where to reach a validated or testable segment.
+- **Business Models & Unit Economics:** tests whether sales can create sustainable contribution and cash flow.
