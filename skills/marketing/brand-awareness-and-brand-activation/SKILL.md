@@ -113,3 +113,37 @@ A local food business may want nearby residents to remember its name when decidi
 ## Source basis and limitations
 
 The title and author are identified as *150 Brand Awareness Ideas* by Akmal Musyadat Cholil. This skill is an original operational synthesis informed by the book's available bibliographic descriptions and partial topic information, including online and offline brand-awareness tactics. The full text and all 150 ideas have not been inspected. The frameworks, definitions, examples, and workflows here are AI synthesis, not a chapter-by-chapter summary or a claim that the book uses these exact headings.
+
+## Brand positioning and customer-perception system
+
+Branding is the deliberate shaping and consistent delivery of the meaning people associate with a business. It is not simply looking wealthy, appearing premium, having an attractive logo, or running advertisements.
+
+Build the brand from:
+- **Positioning:** the category, audience, situation, and meaningful reason to choose the business.
+- **Promise:** the benefit or experience the business commits to delivering.
+- **Proof:** product quality, process, service behavior, transparent policies, and verifiable customer evidence that support the promise.
+- **Identity cues:** name, logo, colors, packaging, language, and recognizable visual or verbal patterns.
+- **Experience:** what customers actually encounter before, during, and after purchase.
+- **Memory associations:** what customers should reliably remember when a relevant need arises.
+
+A strong brand promise must match operational reality. If experience repeatedly contradicts the message, advertising may increase exposure to the mismatch rather than repair it.
+
+### Brand decision workflow
+1. Identify the target audience and buying occasion.
+2. Map existing customer associations and competing alternatives.
+3. Define one clear position and customer-relevant promise.
+4. Select distinctive identity cues that are recognizable and practical to apply.
+5. Identify proof that can substantiate the promise.
+6. Align product, service, packaging, communication, and follow-up with the position.
+7. Measure recognition, recall, trust signals, consideration, repeat behavior, and referrals separately.
+8. Correct inconsistencies between the promised and delivered experience.
+
+### Example: local food brand
+A grilled-chicken business should not claim to be the best merely because its packaging looks premium. It can build a credible association around a specific, demonstrable experience—such as a recognizable seasoning profile, consistent doneness, clear ordering, and dependable pickup. The customer experience must repeatedly support that association.
+
+## Relationship to supply, demand, advertising, and direct marketing
+
+- **Supply and demand:** Business Opportunity Discovery owns market need, demand evidence, reachable segments, and willingness to pay; Business Operations & Scaling owns production and fulfilment capacity. Brand Awareness does not infer demand from awareness or popularity.
+- **Direct marketing:** Digital Brand Awareness & Channel Strategy owns permission-based direct communication and channel execution; Traction Channel Selection owns whether direct outreach is a suitable acquisition channel.
+- **Advertising:** Traction Channel Selection compares paid advertising with other acquisition channels; Digital Brand Awareness plans digital execution; Growth Experimentation tests campaign hypotheses.
+- **Customer feedback:** Service Recovery owns complaint remedies and recovery; Brand Awareness uses aggregated, credible customer insight to check whether the delivered experience supports intended brand associations.
