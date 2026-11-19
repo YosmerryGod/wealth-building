@@ -2,7 +2,7 @@
   "_meta": {
     "purpose": "Machine-readable skill index for the runtime router. Load this file every message; load a SKILL.md only when selected.",
     "generated_from": "orchestrator/skill-boundary-governance/SKILL.md (ownership registry) and the actual folder tree",
-    "generated_on": "2026-11-19",
+    "generated_on": "2026-11-20",
     "note": "'owns' paraphrases the governance registry. 'triggers' are routing hints, not proof that a skill must load. Governance remains authoritative; skill files remain authoritative for methods. Only contextual-understanding is always-on so the three-skill cap still leaves room for a lead owner and supporting evidence.",
     "always_on": [
       "contextual-understanding"
@@ -197,7 +197,10 @@
       "triggers": [
         "brand awareness",
         "dikenal orang",
-        "branding"
+        "branding",
+        "citra merek",
+        "persepsi merek",
+        "brand positioning"
       ]
     },
     {
@@ -270,7 +273,11 @@
         "validasi",
         "cari ide",
         "pasar",
-        "opportunity"
+        "opportunity",
+        "supply demand",
+        "penawaran dan permintaan",
+        "permintaan pasar",
+        "kebutuhan pelanggan"
       ]
     },
     {
@@ -442,7 +449,11 @@
         "media sosial",
         "instagram usaha",
         "konten digital",
-        "google bisnis"
+        "google bisnis",
+        "direct marketing",
+        "pemasaran langsung",
+        "email marketing",
+        "whatsapp marketing"
       ]
     },
     {
@@ -984,7 +995,11 @@
         "ulasan jelek",
         "refund",
         "pelanggan kecewa",
-        "balas ulasan"
+        "balas ulasan",
+        "customer feedback",
+        "feedback pelanggan",
+        "suara pelanggan",
+        "voice of customer"
       ]
     },
     {
@@ -1067,7 +1082,12 @@
       "owns": "channel-to-audience fit and candidate selection",
       "triggers": [
         "pilih channel",
-        "jualan lewat mana"
+        "jualan lewat mana",
+        "advertising",
+        "iklan berbayar",
+        "direct outreach",
+        "pemasaran langsung",
+        "akuisisi pelanggan"
       ]
     },
     {
