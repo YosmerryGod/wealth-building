@@ -104,7 +104,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 |---|---|---|
 | Business Model Innovation & Asset Monetization | Compare sale, rental, access, and asset-use revenue models | General opportunity discovery or final financial audit |
 | Business Operations & Scaling | Process, capacity, quality, people, inventory, and operational scaling | Market demand proof or investment portfolio advice |
-| Business Opportunity Discovery | Discover customer problems, demand, offer fit, and low-cost validation | Durable competitive-advantage design after candidate discovery, full ongoing operations, or financial statement analysis |
+| Business Opportunity Discovery | Discover customer problems, diagnose supply and demand, assess demand evidence, offer fit, and low-cost validation | Durable competitive-advantage design after candidate discovery, full ongoing operations, or financial statement analysis |
 | Innovation & Competitive Advantage Strategy | Strategic differentiation, focused market positioning, and evidence-based durability of competitive advantage | Initial customer-problem discovery, detailed channel experiments, financial valuation, operational scaling, or legal competition advice |
 | Business Ownership & Equity Basics | Ownership structures, equity, shares, and governance concepts | Legal opinions or valuation without evidence |
 
@@ -164,7 +164,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Growth Experimentation | Hypothesis, test design, sample/uncertainty, and learning record | Channel strategy ownership or metric governance |
 | Growth Metrics & Optimization | Metric definitions, scorecards, and performance interpretation | Choosing the business model or running experiments |
 | Partnership & Distribution Strategy | Partner fit, mutual value, and partnership execution plan | Influencer endorsement or broad channel scoring |
-| Traction Channel Selection | Assess channel-to-audience fit and select candidate channels | Running the full Bullseye test cycle |
+| Traction Channel Selection | Assess channel-to-audience fit, including paid advertising and direct outreach as acquisition candidates, and select candidate channels | Running the full Bullseye test cycle |
 | Traction Strategy | Overall acquisition/distribution strategy | Detailed experiment design or metric ownership |
 | Viral & Referral Growth | Product sharing loops, referrals, and advocacy mechanics | General content hooks or event production |
 
@@ -194,13 +194,13 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 
 | Skill | Owns | Does not own |
 |---|---|---|
-| Brand Awareness & Brand Activation | Brand memory, awareness objective, and activation experience | Digital channel execution or acquisition optimization |
+| Brand Awareness & Brand Activation | Brand positioning, intended customer associations, brand memory, awareness objective, and activation experience | Digital channel execution or acquisition optimization |
 | Brand Communication & Public Relations | Brand narrative, public messaging, media relations, and reputation communication | Actual service remedy or paid channel selection |
 | Consumer Psychology & Persuasion | Buyer decision variables, value perception, and ethical persuasion in marketing | General interpersonal diagnosis or customer-service remedy selection |
-| Digital Brand Awareness & Channel Strategy | Digital presence, platform roles, and digital content/channel execution | Overall acquisition channel experimentation |
+| Digital Brand Awareness & Channel Strategy | Digital presence, platform roles, digital content/channel execution, and permission-based direct marketing | Overall acquisition channel experimentation |
 | Experiential & Event-Based Marketing | Design and delivery of brand/customer experiences and events | Viral-content system or event revenue model integration |
 | Influencer, Opinion Leader & Endorsement Strategy | Creator/endorser selection, collaboration, disclosure, and measurement | General partnership strategy or organic advocacy |
-| Service Recovery Marketing & Trust Building | Complaint triage, proportionate remedy, public reply that satisfies its Output contract (specific recognition, entitlement restoration, one visible marketing element, prevention signal, claim route), and operational recovery | Automatic compensation or general PR for non-service issues |
+| Service Recovery Marketing & Trust Building | Customer-feedback triage, voice-of-customer classification, complaint remedies, public reply that satisfies its Output contract, and operational recovery | Automatic compensation or general PR for non-service issues |
 | Viral Content Engineering & Attention Psychology | Hooks, attention, content shareability, and content iteration | Event operations or full event monetization |
 | Viral Event Marketing & Content Monetization | Integrated event-to-content-to-revenue plan | Replacing specialist event, content, finance, and growth methods |
 | Word of Mouth & Brand Advocacy | Organic recommendations, referral advocacy, and customer-led reputation | Paid influencer campaigns or remedy authority |
