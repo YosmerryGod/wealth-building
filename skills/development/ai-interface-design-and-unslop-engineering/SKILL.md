@@ -63,7 +63,7 @@ Ringkas arah visual, temuan, perubahan, fitur yang dipertahankan, pemeriksaan re
 
 ## Kerangka keputusan
 
-Apakah pilihan memperjelas tugas, memperkuat hierarki, sesuai audiens/merek, meningkatkan kegunaan/aksesibilitas, memberi informasi, konsisten dengan sistem, dan sepadan dengan biaya performa/pemeliharaan?
+Apakah pilihan memperjelas tugas dan hierarki, sesuai audiens/merek, meningkatkan kegunaan/aksesibilitas, memberi informasi, konsisten, serta sepadan dengan biaya?
 
 ## Hubungan dan batas
 
