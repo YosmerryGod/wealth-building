@@ -1,67 +1,67 @@
 ---
 name: application-delivery-orchestrator
-title: Application Delivery Orchestrator
+title: Orkestrator Pengembangan dan Pengiriman Aplikasi
 category: orchestration
 subcategory: product-engineering
 source_type: original-adaptation-from-replica-skill
-language: English
-description: "Use when a user wants to investigate, design, build, test, evaluate, launch, or deploy an application as a connected project; routes the smallest next stage and maintains project continuity."
-triggers: ["buat aplikasi seperti","bangun aplikasi dari referensi","clone aplikasi","rebuild aplikasi","end-to-end app","deploy aplikasi"]
-out_of_scope: "Owning specialist architecture, code implementation, security, legal clearance, pricing calculations, or production execution"
-escalation: "Delegate specialist methods to their owners; invoke Risk Assessment for material security, privacy, legal, financial, or production risk; obtain explicit approval before public release or live-system changes."
+language: Indonesian
+description: "Gunakan ketika pengguna ingin menyelidiki, merancang, membangun, menguji, mengevaluasi, meluncurkan, atau menerapkan aplikasi sebagai proyek terpadu; memilih tahap berikutnya yang paling kecil dan menjaga kesinambungan proyek."
+triggers: ["buat aplikasi seperti","bangun aplikasi dari referensi","clone aplikasi","rebuild aplikasi","pengembangan aplikasi menyeluruh","deploy aplikasi"]
+out_of_scope: "Mengambil alih metode spesialis arsitektur, implementasi kode, keamanan, kelayakan hukum, perhitungan harga, atau pelaksanaan produksi"
+escalation: "Serahkan metode spesialis kepada pemiliknya; gunakan Penilaian Risiko untuk risiko keamanan, privasi, hukum, keuangan, atau produksi yang material; dapatkan persetujuan eksplisit sebelum rilis publik atau perubahan sistem aktif."
 ---
 
-# Application Delivery Orchestrator
+# Orkestrator Pengembangan dan Pengiriman Aplikasi
 
-## Purpose
-Coordinate an application project from reference investigation through architecture, design, implementation, backend integration, testing, differentiation, launch, and deployment. Maintain one coherent project state and select only the next necessary specialist. This is a routing and continuity skill, not a substitute for engineering tools or specialist methods.
+## Tujuan
+Mengkoordinasikan proyek aplikasi mulai dari penyelidikan referensi hingga arsitektur, desain, implementasi, integrasi backend, pengujian, diferensiasi, peluncuran, dan deployment. Menjaga satu keadaan proyek yang konsisten dan memilih hanya spesialis berikutnya yang diperlukan. Ini adalah skill perutean dan kesinambungan, bukan pengganti perangkat rekayasa atau metode spesialis.
 
-## Non-negotiable rules
-1. Understand the user's goal, target users, platform, primary job, scope, project state, constraints, and commitment level before routing.
-2. Work one stage at a time. Do not run every phase automatically.
-3. Load no more than three skills per message: this orchestrator, one lead specialist, and at most one bounded supporting skill.
-4. Reuse project artifacts and decisions; do not ask the user to repeat available context.
-5. Separate observed facts, sourced claims, interpretations, hypotheses, and unknowns.
-6. Rebuild general functionality and UX patterns independently. Never copy proprietary code, private APIs, protected assets, distinctive brand expression, or original copy.
-7. Inspect the actual repository and preserve its stack and scope. Avoid unrelated refactors.
-8. A plan is not execution. Never claim code, tests, or deployment succeeded without tool evidence.
-9. Require explicit approval before public release, production changes, purchases, account creation, or irreversible actions.
+## Aturan yang tidak dapat ditawar
+1. Pahami tujuan pengguna, pengguna sasaran, platform, pekerjaan utama yang harus diselesaikan, cakupan, keadaan proyek, batasan, dan tingkat komitmen sebelum melakukan perutean.
+2. Kerjakan satu tahap dalam satu waktu. Jangan menjalankan semua fase secara otomatis.
+3. Muat maksimal tiga skill per pesan: orkestrator ini, satu spesialis utama, dan paling banyak satu skill pendukung dengan cakupan terbatas.
+4. Gunakan kembali artefak dan keputusan proyek; jangan meminta pengguna mengulang konteks yang sudah tersedia.
+5. Pisahkan fakta yang diamati, klaim bersumber, interpretasi, hipotesis, dan hal yang belum diketahui.
+6. Bangun ulang fungsi umum dan pola UX secara mandiri. Jangan menyalin kode proprietari, API privat, aset yang dilindungi, ekspresi merek yang khas, atau naskah asli.
+7. Periksa repositori yang sebenarnya dan pertahankan tumpukan teknologi serta cakupannya. Hindari refaktor yang tidak berkaitan.
+8. Rencana bukan pelaksanaan. Jangan mengklaim kode, pengujian, atau deployment berhasil tanpa bukti dari alat.
+9. Wajibkan persetujuan eksplisit sebelum rilis publik, perubahan produksi, pembelian, pembuatan akun, atau tindakan yang tidak dapat dibatalkan.
 
-## Project state packet
-Maintain, when project storage is available: product goal/audience/platform; scope and exclusions; reference/source inventory; screen/flow map and feature matrix; stack/schema/API/access model; design tokens/components/brand; build log; test plan and reproduced bugs; parity report; customer feedback and launch plan; deployment preflight/rollback/monitoring; decisions, risks, assumptions, provenance, and next action. Never store credentials, passwords, payment details, or private keys.
+## Paket keadaan proyek
+Jika penyimpanan proyek tersedia, pertahankan: tujuan produk/audiens/platform; cakupan dan pengecualian; inventaris referensi/sumber; peta layar/alur dan matriks fitur; tumpukan teknologi/skema/kontrak API/model akses; token desain/komponen/merek; catatan pembangunan; rencana pengujian dan bug yang berhasil direproduksi; laporan kesetaraan fitur; umpan balik pelanggan dan rencana peluncuran; pemeriksaan awal deployment/pemulihan/pemantauan; keputusan, risiko, asumsi, asal-usul informasi, dan tindakan berikutnya. Jangan pernah menyimpan kredensial, kata sandi, detail pembayaran, atau kunci privat.
 
-## Stage routing
-| Stage | Lead owner | Handoff |
+## Perutean tahap
+| Tahap | Pemilik utama | Hasil serah-terima |
 |---|---|---|
-| Reference investigation | Reverse Engineering & Reference-Based Reconstruction | evidence map, screens, flows, feature matrix |
-| Architecture | Application Architecture Planning | stack, schema, APIs, access model, milestones |
-| Visual system | Frontend Design | tokens, components, responsive and interaction specs |
-| Brand | Professional Logo & Brand Identity | distinct name/identity/voice brief |
-| Product implementation | Full-Stack Application Engineering | working vertical slice and build log |
-| Server capabilities | Backend Engineering & Integrations | secure data/auth/integration implementation |
-| QA | Software Testing & Quality Assurance | executed tests, defects, unresolved checks |
-| Comparison | Application Parity Evaluation | evidence-based coverage and differences |
-| User pain/differentiation | Business Opportunity Discovery | linked feedback themes and validated hypotheses |
-| Market entry | Product Launch & Go-to-Market Planning | positioning, launch assets, channels, metrics |
-| Release | Application Deployment & Release Engineering | preflight, rollback, monitoring, approval gate |
+| Penyelidikan referensi | Rekayasa Balik dan Rekonstruksi Berbasis Referensi | peta bukti, layar, alur, matriks fitur |
+| Arsitektur | Perencanaan Arsitektur Aplikasi | tumpukan teknologi, skema, API, model akses, tonggak |
+| Sistem visual | Desain Frontend | token, komponen, spesifikasi responsif dan interaksi |
+| Merek | Logo Profesional dan Identitas Merek | arahan nama/identitas/suara merek yang berbeda |
+| Implementasi produk | Rekayasa Aplikasi Full-Stack | bagian vertikal yang berfungsi dan catatan pembangunan |
+| Kapabilitas server | Rekayasa Backend dan Integrasi | implementasi data/autentikasi/integrasi yang aman |
+| QA | Pengujian Perangkat Lunak dan Jaminan Mutu | pengujian yang dijalankan, cacat, pemeriksaan belum selesai |
+| Perbandingan | Evaluasi Kesetaraan Aplikasi | cakupan dan perbedaan berbasis bukti |
+| Masalah pengguna/diferensiasi | Penemuan Peluang Bisnis | tema umpan balik terkait dan hipotesis tervalidasi |
+| Masuk pasar | Perencanaan Peluncuran Produk dan Strategi Masuk Pasar | posisi produk, materi peluncuran, kanal, metrik |
+| Rilis | Rekayasa Deployment dan Rilis Aplikasi | pemeriksaan awal, pemulihan, pemantauan, gerbang persetujuan |
 
-Pricing calculations remain with Finance. Channel experiments remain with Growth. Risk Assessment owns material risk screening.
+Perhitungan harga tetap menjadi tanggung jawab Keuangan. Eksperimen kanal tetap menjadi tanggung jawab Pertumbuhan. Penilaian Risiko memiliki wewenang untuk pemeriksaan risiko material.
 
-## Lifecycle gates
-- **Scope:** identify platform, audience, core user job, must-have scope, exclusions, and success criteria. Small feature requests do not require a full product lifecycle.
-- **Evidence:** record inspected sources, observed states, coverage, and unknowns. Do not treat unobserved internals as facts.
-- **Architecture/design:** define data, access, API, tokens, component states, responsive behavior, and acceptance criteria.
-- **Build:** prove the core journey with a thin vertical slice; expand by priority and update the feature matrix honestly.
-- **Quality:** test happy paths, negative paths, permissions, accessibility, responsive behavior, security, and recovery proportionately.
-- **Differentiation/launch:** use verified customer feedback; keep identity distinct and claims supportable.
-- **Release:** verify preflight, backup, rollback, and monitoring; obtain explicit approval before production action.
+## Gerbang siklus hidup
+- **Cakupan:** identifikasi platform, audiens, pekerjaan utama pengguna, cakupan wajib, pengecualian, dan kriteria keberhasilan. Permintaan fitur kecil tidak memerlukan seluruh siklus hidup produk.
+- **Bukti:** catat sumber yang diperiksa, keadaan yang diamati, cakupan, dan hal yang belum diketahui. Jangan memperlakukan bagian internal yang tidak diamati sebagai fakta.
+- **Arsitektur/desain:** tentukan data, akses, API, token, keadaan komponen, perilaku responsif, dan kriteria penerimaan.
+- **Pembangunan:** buktikan alur inti melalui bagian vertikal yang tipis; perluas berdasarkan prioritas dan perbarui matriks fitur secara jujur.
+- **Mutu:** uji alur normal, alur negatif, izin, aksesibilitas, perilaku responsif, keamanan, dan pemulihan secara proporsional.
+- **Diferensiasi/peluncuran:** gunakan umpan balik pelanggan yang terverifikasi; jaga identitas tetap berbeda dan klaim tetap dapat dibuktikan.
+- **Rilis:** verifikasi pemeriksaan awal, cadangan, pemulihan, dan pemantauan; dapatkan persetujuan eksplisit sebelum tindakan produksi.
 
-## Decision rules
-- If no reference exists and the user wants a new product, skip recon and start with scope/architecture.
-- If a project exists, inspect it before proposing a stack.
-- If the user is exploring, do not treat interest as build or launch approval.
-- If a credential, account, permission, dependency, or tool is missing, state the blocker and next user-controlled step.
-- A difference from the reference may be a deliberate improvement, not a defect.
+## Aturan keputusan
+- Jika tidak ada referensi dan pengguna ingin produk baru, lewati rekayasa balik dan mulai dari cakupan/arsitektur.
+- Jika proyek sudah ada, periksa proyek tersebut sebelum mengusulkan tumpukan teknologi.
+- Jika pengguna masih menjajaki ide, jangan anggap ketertarikan sebagai persetujuan membangun atau meluncurkan.
+- Jika kredensial, akun, izin, dependensi, atau alat belum tersedia, jelaskan penghambat dan langkah berikutnya yang tetap dikendalikan pengguna.
+- Perbedaan dari referensi dapat merupakan peningkatan yang disengaja, bukan cacat.
 
-## Final quality gate
-Confirm active stage, one lead owner, reuse of artifacts, evidence/assumption separation, scope/privacy/security/IP boundaries, concrete next action, and truthful reporting of tests and external actions.
+## Pemeriksaan mutu akhir
+Pastikan tahap aktif jelas, hanya ada satu pemilik utama, artefak digunakan kembali, bukti dipisahkan dari asumsi, batas cakupan/privasi/keamanan/kekayaan intelektual dipatuhi, tindakan berikutnya konkret, serta pelaporan pengujian dan tindakan eksternal akurat.
