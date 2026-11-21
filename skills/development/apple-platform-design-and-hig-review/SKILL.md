@@ -58,34 +58,7 @@ Prinsip ini kerangka review, bukan pengganti aturan komponen spesifik. Bila pand
 
 ## Format laporan
 
-- **Ringkasan:** penilaian singkat dan isu terpenting.
-- **Kritis:** hanya hambatan akses, keselamatan, atau tugas inti; nyatakan bila tidak ditemukan.
-- **Perbaikan:** apa yang diamati, dampaknya, tautan panduan/prinsip resmi, dan solusi konkret.
-- **Catatan craft:** hierarki, tipografi, spasi, motion, dan merek.
-- **Yang sudah baik:** keputusan yang patut dipertahankan.
-- **Verifikasi:** platform, viewport, appearance, state, alat, dan hal yang belum diperiksa.
-
-## Penerjemahan konsep lintas platform
-
-| Konsep Apple | Flutter | React Native | Web/Tauri/Electron |
-|---|---|---|---|
-| Dynamic Type | Skala teks/MediaQuery | Font scaling/accessibility props | Browser zoom/typografi skalabel |
-| VoiceOver | Semantics | accessibilityLabel/Role | ARIA dan semantik screen reader |
-| Safe area | SafeArea/insets | Safe-area context | Insets/window chrome |
-| Size classes | LayoutBuilder | Dimensions/responsive layout | Media/container queries |
-| Tab bar | NavigationBar | Tab navigator | Navigasi sesuai platform |
-| Sheet/popover | Modal bottom sheet/dialog | Modal/popover | Dialog/popover/panel |
-| Semantic colors | ThemeData roles | Theme tokens | CSS custom properties |
-
-Tabel ini alat penerjemahan, bukan klaim perilaku framework identik. Periksa dokumentasi platform/framework aktual.
-
-## Topik khusus
-
-Ambil panduan resmi terkini untuk app icon, navigasi, toolbar, form, onboarding, izin/privasi, dark mode, material, notifikasi, widget, Live Activities, chart, Apple Pay, AI/ML, multi-display, dan perilaku sensitif App Store. Jangan mengarang syarat kebijakan atau hasil App Review; bedakan saran desain dari persyaratan formal.
-
-## Hubungan skill
-
-Desain Frontend memiliki arah visual umum; AI Interface Design mengaudit pola generik; Micro-Interactions memiliki feedback komponen; Pola Navigasi Web Modern memberi pola navigasi web; engineering mengimplementasikan perbaikan. Skill ini menilai kecocokan dengan platform Apple.
+Ringkasan; temuan kritis; perbaikan (bukti, dampak, panduan resmi, solusi); craft; keputusan yang perlu dipertahankan; verifikasi platform/viewport/state dan batas pemeriksaan.
 
 ## Sumber dan keterbatasan
 
