@@ -260,7 +260,7 @@
     },
     {
       "pesan": "Tolong buat logo untuk brand saya.",
-      "skill_utama": "professional-logo-and-brand-identity",
+      "skill_utama": "desain-logo-profesional-dan-identitas-merek",
       "skill_pendukung_maks_2": [],
       "harus_ditanyakan": "ya",
       "catatan": "Perlu nama brand dan konteks produk."
@@ -347,7 +347,7 @@
       "pesan": "Saya ingin membangun aplikasi seperti referensi ini dari awal.",
       "skill_utama": "application-delivery-orchestrator",
       "skill_pendukung_maks_2": [
-        "reverse-engineering-and-reference-based-reconstruction"
+        "rekayasa-balik-dan-rekonstruksi-berbasis-referensi"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Mulai dengan scope dan bukti yang tersedia; jangan langsung membangun semua fase."
@@ -356,7 +356,7 @@
       "pesan": "Rancang arsitektur aplikasi booking dengan database dan API.",
       "skill_utama": "application-architecture-planning",
       "skill_pendukung_maks_2": [
-        "reverse-engineering-and-reference-based-reconstruction"
+        "rekayasa-balik-dan-rekonstruksi-berbasis-referensi"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Gunakan requirements yang tersedia, tandai asumsi, dan jangan mengganti stack proyek yang sudah berjalan tanpa alasan."
@@ -374,14 +374,14 @@
       "pesan": "Bandingkan fitur aplikasi saya dengan aplikasi referensi dan tunjukkan kekurangannya.",
       "skill_utama": "application-parity-evaluation",
       "skill_pendukung_maks_2": [
-        "reverse-engineering-and-reference-based-reconstruction"
+        "rekayasa-balik-dan-rekonstruksi-berbasis-referensi"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Samakan cakupan dan kondisi perbandingan; jangan mengejar penyalinan identitas visual."
     },
     {
       "pesan": "Siapkan aplikasi ke production dan hubungkan domain.",
-      "skill_utama": "application-deployment-and-release-engineering",
+      "skill_utama": "rekayasa-deployment-dan-rilis-aplikasi",
       "skill_pendukung_maks_2": [
         "software-testing-and-quality-assurance",
         "risk-assessment"
@@ -394,7 +394,7 @@
       "skill_utama": "product-launch-and-go-to-market-planning",
       "skill_pendukung_maks_2": [
         "traction-strategy",
-        "professional-logo-and-brand-identity"
+        "desain-logo-profesional-dan-identitas-merek"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Gunakan klaim dan bukti yang benar; delegasikan hitung harga ke Finance dan eksperimen channel ke Growth."
@@ -585,7 +585,7 @@
     },
     {
       "pesan": "Siapkan aplikasi untuk rilis produksi dengan staging, pemeriksaan keamanan konfigurasi, rollback, dan pemantauan.",
-      "skill_utama": "application-deployment-and-release-engineering",
+      "skill_utama": "rekayasa-deployment-dan-rilis-aplikasi",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -594,7 +594,7 @@
     },
     {
       "pesan": "Ubah ilustrasi karakter menjadi avatar VTuber 2D yang bisa berkedip, menoleh, dan sinkronisasi mulut.",
-      "skill_utama": "2d-mesh-avatar-rigging",
+      "skill_utama": "rigging-avatar-mesh-2d",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -603,7 +603,7 @@
     },
     {
       "pesan": "Rancang katalog film seperti toko 3D dengan lorong, rak, dan detail item.",
-      "skill_utama": "3d-media-storefront-experience",
+      "skill_utama": "pengalaman-etalase-media-3d",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -612,7 +612,7 @@
     },
     {
       "pesan": "Buat identitas logo baru lengkap dengan versi favicon, monokrom, dan panduan warna.",
-      "skill_utama": "professional-logo-and-brand-identity",
+      "skill_utama": "desain-logo-profesional-dan-identitas-merek",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -621,7 +621,7 @@
     },
     {
       "pesan": "Analisis website referensi dari screenshot dan interaksinya lalu buat brief rekonstruksi untuk produk saya.",
-      "skill_utama": "reverse-engineering-and-reference-based-reconstruction",
+      "skill_utama": "rekayasa-balik-dan-rekonstruksi-berbasis-referensi",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
