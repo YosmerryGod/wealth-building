@@ -1,172 +1,172 @@
-# Skill Index
+# Indeks Skill
 
-Generated from `skills.json` and checked against the repository tree. The governance registry is authoritative for ownership boundaries.
+Dihasilkan dari `skills.json` dan diperiksa terhadap struktur berkas repositori. Registri tata kelola menjadi acuan utama untuk batas kepemilikan setiap skill.
 
-**Totals:** 103 skills across 12 domains.
+**Jumlah:** 103 skill dalam 12 domain.
 
-## Orchestrator
+## Orkestrator
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Contextual Understanding | relevant history, intent, continuity, constraints, uncertainty; returns a compact context packet | lanjut, boleh, yang tadi, coba, oke, continue, that one | [SKILL.md](orchestrator/contextual-understanding/SKILL.md) |
-| Dynamic Knowledge Retrieval | focused external search, exact-source retrieval, provenance/freshness verification, evidence handoff | best practice terbaru, panduan teknis terbaru, panduan web modern, referensi eksternal | [SKILL.md](orchestrator/dynamic-knowledge-retrieval/SKILL.md) |
-| Companion Interaction Style | user-facing tone, proportionality, natural concise replies | gaya jawab, ngobrol, santai, tone | [SKILL.md](orchestrator/companion-interaction-style/SKILL.md) |
-| Skill Boundary Governance | ownership registry, routing recipes, handoff packet, quality gate | routing, tumpang tindih, overlap, skill baru | [SKILL.md](orchestrator/skill-boundary-governance/SKILL.md) |
-| Situational Intelligence | cross-domain situation model, option comparison, consequences | situasi rumit, banding opsi, keputusan banyak faktor, complex decision | [SKILL.md](orchestrator/situational-intelligence/SKILL.md) |
-| Human Behavior Intelligence | human situation interpretation when behavior, relationship, power, communication interact | kenapa dia begitu, hubungan, atasan, rekan kerja, dynamics | [SKILL.md](orchestrator/human-behavior-intelligence/SKILL.md) |
-| Context Aware Response Strategy Engine | response mode for a concrete situation (acknowledge, remedy, negotiate, boundary, decline) | balas, komplain, ulasan, review pelanggan, bagaimana merespons | [SKILL.md](orchestrator/context-aware-response-strategy-engine/SKILL.md) |
-| Conversational Intelligence And Psychology Router | front door for everyday interpersonal advice and wording | tolong buatkan pesan, chat ke, cara bilang, draft message | [SKILL.md](orchestrator/conversational-intelligence-and-psychology-router/SKILL.md) |
-| Business Agent | end-to-end approved business project lifecycle and user approvals | mau usaha, bangun bisnis, ide bisnis, rencana usaha, start a business | [SKILL.md](orchestrator/business-agent/SKILL.md) |
-| Content Intelligence Orchestrator | routing of YouTube/content-production requests | youtube, konten, channel, video | [SKILL.md](orchestrator/content-intelligence-orchestrator/SKILL.md) |
-| Application Delivery Orchestrator | staged application lifecycle, continuity, specialist routing, and delivery gates | buat aplikasi seperti, clone aplikasi, rebuild aplikasi, deploy aplikasi | [SKILL.md](orchestrator/application-delivery-orchestrator/SKILL.md) |
-| Risk Assessment | risk and consequence screen: legal, safety, financial, reversibility | risiko, legal, bahaya, hukum, konsekuensi, risk | [SKILL.md](orchestrator/risk-assessment/SKILL.md) |
+| Pemahaman Konteks | riwayat relevan, maksud, kesinambungan, batasan, ketidakpastian; menghasilkan paket konteks ringkas | lanjut, boleh, yang tadi, coba, oke, teruskan, yang itu | [SKILL.md](orchestrator/contextual-understanding/SKILL.md) |
+| Pengambilan Pengetahuan Dinamis | pencarian eksternal terarah, pengambilan sumber tepat, verifikasi asal dan kebaruan, serah-terima bukti | praktik terbaik terbaru, panduan teknis terbaru, panduan web modern, referensi eksternal | [SKILL.md](orchestrator/dynamic-knowledge-retrieval/SKILL.md) |
+| Gaya Interaksi Pendamping | nada komunikasi kepada pengguna, proporsi jawaban, balasan ringkas yang alami | gaya jawab, ngobrol, santai, nada | [SKILL.md](orchestrator/companion-interaction-style/SKILL.md) |
+| Tata Kelola Batas Skill | registri kepemilikan, pola perutean, paket serah-terima, pemeriksaan mutu | perutean, tumpang tindih, konflik skill, skill baru | [SKILL.md](orchestrator/skill-boundary-governance/SKILL.md) |
+| Kecerdasan Situasional | pemodelan situasi lintas domain, perbandingan pilihan, konsekuensi | situasi rumit, bandingkan pilihan, keputusan banyak faktor | [SKILL.md](orchestrator/situational-intelligence/SKILL.md) |
+| Kecerdasan Perilaku Manusia | penafsiran situasi manusia ketika perilaku, hubungan, kekuasaan, dan komunikasi saling berinteraksi | kenapa dia begitu, hubungan, atasan, rekan kerja, dinamika | [SKILL.md](orchestrator/human-behavior-intelligence/SKILL.md) |
+| Mesin Strategi Respons Berbasis Konteks | pemilihan cara merespons situasi konkret: mengakui, memulihkan, bernegosiasi, menetapkan batas, atau menolak | balas, komplain, ulasan, ulasan pelanggan, cara merespons | [SKILL.md](orchestrator/context-aware-response-strategy-engine/SKILL.md) |
+| Pengarah Kecerdasan Percakapan dan Psikologi | pintu masuk untuk saran dan penyusunan kata dalam interaksi sehari-hari | buatkan pesan, chat ke, cara bilang, susun pesan | [SKILL.md](orchestrator/conversational-intelligence-and-psychology-router/SKILL.md) |
+| Agen Bisnis | siklus proyek bisnis dari awal hingga akhir yang telah disetujui, termasuk persetujuan pengguna | mau usaha, bangun bisnis, ide bisnis, rencana usaha | [SKILL.md](orchestrator/business-agent/SKILL.md) |
+| Orkestrator Kecerdasan Konten | perutean permintaan YouTube dan produksi konten | YouTube, konten, kanal, video | [SKILL.md](orchestrator/content-intelligence-orchestrator/SKILL.md) |
+| Orkestrator Pengembangan dan Pengiriman Aplikasi | siklus pengembangan aplikasi bertahap, kesinambungan, perutean spesialis, dan gerbang pengiriman | buat aplikasi, tiru aplikasi, bangun ulang aplikasi, deploy aplikasi | [SKILL.md](orchestrator/application-delivery-orchestrator/SKILL.md) |
+| Penilaian Risiko | pemeriksaan risiko dan konsekuensi: hukum, keselamatan, keuangan, dan kemungkinan pembatalan | risiko, legal, bahaya, hukum, konsekuensi | [SKILL.md](orchestrator/risk-assessment/SKILL.md) |
 
-## Business
+## Bisnis
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Business Model Innovation And Asset Monetization | compare sale, rental, subscription, pay-per-use models for reusable assets | sewa, rental, langganan, monetisasi aset | [SKILL.md](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) |
-| Business Operations And Scaling | process, capacity, quality, staffing, inventory, scaling | operasional, produksi, stok, karyawan, scale up | [SKILL.md](skills/business/business-operations-and-scaling/SKILL.md) |
-| Business Opportunity Discovery | customer problems, supply-demand diagnosis, demand evidence, offer fit, low-cost validation | peluang usaha, supply demand, permintaan pasar, validasi, cari ide, pasar, opportunity | [SKILL.md](skills/business/business-opportunity-discovery/SKILL.md) |
-| Innovation And Competitive Advantage Strategy | strategic differentiation, market positioning, and durable competitive advantage | keunggulan kompetitif, diferensiasi bisnis, sulit ditiru, zero to one, moat bisnis | [SKILL.md](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) |
-| Business Ownership And Equity | ownership, equity, shares, governance concepts | saham, bagi hasil, kepemilikan, equity, partner usaha | [SKILL.md](skills/business/business-ownership-and-equity/SKILL.md) |
+| Inovasi Model Bisnis dan Monetisasi Aset | membandingkan penjualan, penyewaan, langganan, dan pembayaran per penggunaan untuk aset yang dapat digunakan kembali | sewa, langganan, monetisasi aset, model bisnis | [SKILL.md](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) |
+| Operasional dan Pengembangan Skala Bisnis | proses, kapasitas, mutu, tenaga kerja, persediaan, dan peningkatan skala | operasional, produksi, stok, karyawan, perluas usaha | [SKILL.md](skills/business/business-operations-and-scaling/SKILL.md) |
+| Penemuan Peluang Bisnis | masalah pelanggan, diagnosis penawaran-permintaan, bukti permintaan, kesesuaian penawaran, validasi berbiaya rendah | peluang usaha, penawaran dan permintaan, permintaan pasar, validasi, cari ide, pasar | [SKILL.md](skills/business/business-opportunity-discovery/SKILL.md) |
+| Strategi Inovasi dan Keunggulan Bersaing | diferensiasi strategis, posisi pasar, dan keunggulan bersaing yang tahan lama | keunggulan kompetitif, diferensiasi bisnis, sulit ditiru, dari nol ke satu, keunggulan pasar | [SKILL.md](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) |
+| Kepemilikan Bisnis dan Ekuitas | konsep kepemilikan, ekuitas, saham, dan tata kelola | saham, bagi hasil, kepemilikan, ekuitas, mitra usaha | [SKILL.md](skills/business/business-ownership-and-equity/SKILL.md) |
 
-## Communication
+## Komunikasi
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Communication Decision Engine | chooses communication mode, channel, and specialists | presentasi, negosiasi, komunikasi, pesan penting | [SKILL.md](skills/communication/communication-decision-engine/SKILL.md) |
-| Active Listening And Conversational Rapport | listening behaviors and reciprocal rapport | mendengarkan, ngobrol nyambung, rapport | [SKILL.md](skills/communication/active-listening-and-conversational-rapport/SKILL.md) |
-| Effective Communication And First Impressions | clear first-contact communication and impression | kesan pertama, perkenalan, first impression | [SKILL.md](skills/communication/effective-communication-and-first-impressions/SKILL.md) |
-| Message Design And Storytelling | message structure, narrative, audience comprehension | cerita, storytelling, susun pesan, struktur penjelasan | [SKILL.md](skills/communication/message-design-and-storytelling/SKILL.md) |
-| Persuasive Communication And Negotiation | ethical persuasion, objection handling, bargaining | nego, tawar, yakinkan, keberatan, negotiate | [SKILL.md](skills/communication/persuasive-communication-and-negotiation/SKILL.md) |
-| Public Speaking And Speaking Confidence | preparation, rehearsal, live speaking | pidato, bicara di depan, grogi, public speaking | [SKILL.md](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) |
-| Vocal And Nonverbal Delivery | voice, gesture, posture, delivery cues | intonasi, bahasa tubuh, suara, gesture | [SKILL.md](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) |
+| Mesin Keputusan Komunikasi | memilih cara komunikasi, kanal, dan spesialis yang sesuai | presentasi, negosiasi, komunikasi, pesan penting | [SKILL.md](skills/communication/communication-decision-engine/SKILL.md) |
+| Mendengarkan Aktif dan Membangun Keakraban Percakapan | perilaku mendengarkan dan membangun hubungan timbal balik dalam percakapan | mendengarkan, ngobrol nyambung, membangun keakraban | [SKILL.md](skills/communication/active-listening-and-conversational-rapport/SKILL.md) |
+| Komunikasi Efektif dan Kesan Pertama | komunikasi awal yang jelas dan pembentukan kesan pertama | kesan pertama, perkenalan, komunikasi awal | [SKILL.md](skills/communication/effective-communication-and-first-impressions/SKILL.md) |
+| Perancangan Pesan dan Penceritaan | struktur pesan, narasi, dan pemahaman audiens | cerita, penceritaan, susun pesan, struktur penjelasan | [SKILL.md](skills/communication/message-design-and-storytelling/SKILL.md) |
+| Komunikasi Persuasif dan Negosiasi | persuasi etis, penanganan keberatan, dan tawar-menawar | negosiasi, tawar, yakinkan, keberatan | [SKILL.md](skills/communication/persuasive-communication-and-negotiation/SKILL.md) |
+| Berbicara di Depan Umum dan Kepercayaan Diri | persiapan, latihan, dan penyampaian saat berbicara langsung | pidato, bicara di depan, grogi, berbicara di depan umum | [SKILL.md](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) |
+| Penyampaian Vokal dan Nonverbal | suara, gestur, postur, dan isyarat penyampaian | intonasi, bahasa tubuh, suara, gestur | [SKILL.md](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) |
 
-## Content Creation
+## Pembuatan Konten
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Audience Retention Intelligence | interpret YouTube retention data and drop-off diagnosis | retensi, penonton keluar, retention | [SKILL.md](skills/content-creation/audience-retention-intelligence/SKILL.md) |
-| Content Calendar And Production Planning | capacity-aware content schedule and production planning | jadwal konten, kalender konten, content calendar | [SKILL.md](skills/content-creation/content-calendar-and-production-planning/SKILL.md) |
-| Short Form Video Repurposing | select and adapt moments from long video into shorts | shorts, reels, potong video, repurpose | [SKILL.md](skills/content-creation/short-form-video-repurposing/SKILL.md) |
-| Title Thumbnail Packaging Optimization | coordinated title-thumbnail promise | judul, thumbnail, packaging | [SKILL.md](skills/content-creation/title-thumbnail-packaging-optimization/SKILL.md) |
-| Transcript Based Video Editing | timecoded transcript-derived cut recommendations | transkrip, potong bagian, edit video | [SKILL.md](skills/content-creation/transcript-based-video-editing/SKILL.md) |
-| Video Scriptwriting And Hook Engineering | premise-to-script workflow and hook evaluation | naskah, script video, hook, intro video | [SKILL.md](skills/content-creation/video-scriptwriting-and-hook-engineering/SKILL.md) |
-| Youtube Channel Audit And Optimization | integrated channel audit and top-priority improvement | audit channel, channel stagnan, channel audit | [SKILL.md](skills/content-creation/youtube-channel-audit-and-optimization/SKILL.md) |
-| Youtube Chapter And Timestamp Engineering | chapter boundaries and timestamp labels | chapter, timestamp | [SKILL.md](skills/content-creation/youtube-chapter-and-timestamp-engineering/SKILL.md) |
-| Youtube Comment Intelligence | comment triage and creator-voice replies | komentar, balas komen, comments | [SKILL.md](skills/content-creation/youtube-comment-intelligence/SKILL.md) |
-| Youtube Competitor And Viral Intelligence | public niche and competitor performance research | kompetitor youtube, video viral, riset niche | [SKILL.md](skills/content-creation/youtube-competitor-and-viral-intelligence/SKILL.md) |
-| Youtube Seo And Search Intent | search intent and description/metadata alignment | seo youtube, deskripsi video, kata kunci | [SKILL.md](skills/content-creation/youtube-seo-and-search-intent/SKILL.md) |
+| Kecerdasan Retensi Audiens | menafsirkan data retensi YouTube dan mendiagnosis titik penonton meninggalkan video | retensi, penonton keluar, durasi tonton | [SKILL.md](skills/content-creation/audience-retention-intelligence/SKILL.md) |
+| Kalender Konten dan Perencanaan Produksi | jadwal konten dan perencanaan produksi berdasarkan kapasitas | jadwal konten, kalender konten, rencana produksi | [SKILL.md](skills/content-creation/content-calendar-and-production-planning/SKILL.md) |
+| Pengolahan Ulang Video Pendek | memilih dan menyesuaikan bagian video panjang menjadi video pendek | Shorts, Reels, potong video, olah ulang konten | [SKILL.md](skills/content-creation/short-form-video-repurposing/SKILL.md) |
+| Optimasi Kemasan Judul dan Gambar Mini | menyelaraskan janji yang disampaikan judul dan gambar mini | judul, gambar mini, kemasan konten | [SKILL.md](skills/content-creation/title-thumbnail-packaging-optimization/SKILL.md) |
+| Penyuntingan Video Berbasis Transkrip | rekomendasi pemotongan video berdasarkan transkrip dan penanda waktu | transkrip, potong bagian, edit video | [SKILL.md](skills/content-creation/transcript-based-video-editing/SKILL.md) |
+| Penulisan Naskah Video dan Perancangan Hook | alur dari gagasan menjadi naskah serta evaluasi pembuka yang menarik | naskah, skrip video, hook, pembuka video | [SKILL.md](skills/content-creation/video-scriptwriting-and-hook-engineering/SKILL.md) |
+| Audit dan Optimasi Kanal YouTube | audit kanal menyeluruh dan penentuan perbaikan berprioritas tertinggi | audit kanal, kanal stagnan, optimasi YouTube | [SKILL.md](skills/content-creation/youtube-channel-audit-and-optimization/SKILL.md) |
+| Perancangan Bab dan Penanda Waktu YouTube | batas bab dan label penanda waktu | bab video, penanda waktu, timestamp | [SKILL.md](skills/content-creation/youtube-chapter-and-timestamp-engineering/SKILL.md) |
+| Kecerdasan Komentar YouTube | pengelompokan komentar dan balasan dengan suara khas kreator | komentar, balas komentar, tanggapan penonton | [SKILL.md](skills/content-creation/youtube-comment-intelligence/SKILL.md) |
+| Kecerdasan Kompetitor dan Konten Viral YouTube | riset publik tentang ceruk dan kinerja kompetitor | kompetitor YouTube, video viral, riset ceruk | [SKILL.md](skills/content-creation/youtube-competitor-and-viral-intelligence/SKILL.md) |
+| SEO YouTube dan Maksud Pencarian | penyelarasan maksud pencarian dengan deskripsi dan metadata | SEO YouTube, deskripsi video, kata kunci | [SKILL.md](skills/content-creation/youtube-seo-and-search-intent/SKILL.md) |
 
-## Development
+## Pengembangan
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| 2D Mesh Avatar Rigging | 2D mesh avatar rig preparation and quality | avatar 2d, rigging, vtuber | [SKILL.md](skills/development/2d-mesh-avatar-rigging/SKILL.md) |
-| 3D Media Storefront Experience | 3D media catalog and storefront patterns | toko 3d, katalog 3d | [SKILL.md](skills/development/3d-media-storefront-experience/SKILL.md) |
-| AI Interface Design And Unslop Engineering | product-specific AI interface direction and generic-pattern critique | UI terlihat generik, audit tampilan, unslop | [SKILL.md](skills/development/ai-interface-design-and-unslop-engineering/SKILL.md) |
-| Apple Platform Design And Hig Review | Apple platform convention and HIG review | iOS, iPhone app, HIG, apple design | [SKILL.md](skills/development/apple-platform-design-and-hig-review/SKILL.md) |
-| Frontend Design | product-grounded visual and frontend design direction | desain web, landing page, tampilan app, frontend | [SKILL.md](skills/development/frontend-design/SKILL.md) |
-| Micro Interactions And Ui Feedback | interaction feedback states, motion, loading states | animasi tombol, hover, skeleton, micro-interaction | [SKILL.md](skills/development/micro-interactions-and-ui-feedback/SKILL.md) |
-| Modern Web Navigation Patterns | navigation between product sections, including expressive patterns and scroll progress | navbar, bottom tab, command palette, radial sidebar, vertical typography, scroll progress | [SKILL.md](skills/development/modern-web-navigation-patterns/SKILL.md) |
-| Advanced Pagination And Data Navigation Patterns | pagination pattern selection and page-to-page navigation within a collection | pagination, paginasi, jump input, page preview, sliding pagination | [SKILL.md](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md) |
-| Professional Logo And Brand Identity | logo and identity system design | logo, identitas brand, favicon | [SKILL.md](skills/development/professional-logo-and-brand-identity/SKILL.md) |
-| Reverse Engineering And Reference Based Reconstruction | evidence-led analysis of a reference and reconstruction brief | tiru tampilan, referensi website, bongkar situs | [SKILL.md](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) |
-| Application Architecture Planning | stack, schema, API contracts, access model, implementation sequence | arsitektur aplikasi, stack aplikasi, rancang database | [SKILL.md](skills/development/application-architecture-planning/SKILL.md) |
-| Full Stack Application Engineering | scoped implementation of screens, routes, components, end-to-end flows | bangun aplikasi, coding fitur, build application | [SKILL.md](skills/development/full-stack-application-engineering/SKILL.md) |
-| Backend Engineering And Integrations | auth, data, payments, webhooks, jobs, integrations | buat backend, login register, integrasi API, webhook | [SKILL.md](skills/development/backend-engineering-and-integrations/SKILL.md) |
-| Software Testing And Quality Assurance | test plans, reproducible defects, automation, regression evidence | test aplikasi, QA aplikasi, cari bug, e2e test | [SKILL.md](skills/development/software-testing-and-quality-assurance/SKILL.md) |
-| Application Parity Evaluation | feature coverage and meaningful behavior/layout differences | feature parity, bandingkan aplikasi, parity check | [SKILL.md](skills/development/application-parity-evaluation/SKILL.md) |
-| Application Deployment And Release Engineering | release preflight, rollback, production readiness, monitoring | deploy aplikasi, publish aplikasi, hubungkan domain | [SKILL.md](skills/development/application-deployment-and-release-engineering/SKILL.md) |
-| Scroll Driven 3D Storytelling | scroll-linked 3D narrative | scroll 3d, web interaktif 3d | [SKILL.md](skills/development/scroll-driven-3d-storytelling/SKILL.md) |
+| Penyiapan Rig Avatar Jaring 2D | persiapan dan pemeriksaan mutu rig jaring 2D untuk avatar | avatar 2D, rigging, VTuber | [SKILL.md](skills/development/2d-mesh-avatar-rigging/SKILL.md) |
+| Pengalaman Etalase Media 3D | pola katalog dan etalase media 3D | toko 3D, katalog 3D | [SKILL.md](skills/development/3d-media-storefront-experience/SKILL.md) |
+| Desain Antarmuka AI dan Rekayasa Anti-Generik | arah desain antarmuka AI yang sesuai produk dan kritik terhadap pola generik | UI terlihat generik, audit tampilan, desain anti-generik | [SKILL.md](skills/development/ai-interface-design-and-unslop-engineering/SKILL.md) |
+| Desain Platform Apple dan Tinjauan HIG | konvensi platform Apple dan tinjauan Human Interface Guidelines | iOS, aplikasi iPhone, HIG, desain Apple | [SKILL.md](skills/development/apple-platform-design-and-hig-review/SKILL.md) |
+| Perancangan Frontend | arah visual dan frontend berdasarkan kebutuhan produk | desain web, halaman utama, tampilan aplikasi, frontend | [SKILL.md](skills/development/frontend-design/SKILL.md) |
+| Interaksi Mikro dan Umpan Balik Antarmuka | status umpan balik interaksi, gerakan, dan status pemuatan | animasi tombol, hover, kerangka pemuatan, interaksi mikro | [SKILL.md](skills/development/micro-interactions-and-ui-feedback/SKILL.md) |
+| Pola Navigasi Web Modern | navigasi antarbagi­an produk, termasuk pola ekspresif dan indikator progres gulir | navbar, tab bawah, palet perintah, bilah samping radial, tipografi vertikal, progres gulir | [SKILL.md](skills/development/modern-web-navigation-patterns/SKILL.md) |
+| Pola Paginasi dan Navigasi Data Tingkat Lanjut | pemilihan pola paginasi dan perpindahan halaman dalam satu koleksi | paginasi, masukan lompat halaman, pratinjau halaman, paginasi geser | [SKILL.md](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md) |
+| Logo Profesional dan Identitas Merek | perancangan sistem logo dan identitas | logo, identitas merek, favicon | [SKILL.md](skills/development/professional-logo-and-brand-identity/SKILL.md) |
+| Rekayasa Balik dan Rekonstruksi Berbasis Referensi | analisis referensi berbasis bukti dan penyusunan arahan rekonstruksi | tiru tampilan, referensi situs web, analisis situs | [SKILL.md](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) |
+| Perencanaan Arsitektur Aplikasi | tumpukan teknologi, skema, kontrak API, model akses, urutan implementasi | arsitektur aplikasi, teknologi aplikasi, rancangan basis data | [SKILL.md](skills/development/application-architecture-planning/SKILL.md) |
+| Rekayasa Aplikasi Full-Stack | implementasi terukur untuk layar, rute, komponen, dan alur menyeluruh | bangun aplikasi, buat fitur, pengembangan aplikasi | [SKILL.md](skills/development/full-stack-application-engineering/SKILL.md) |
+| Rekayasa Backend dan Integrasi | autentikasi, data, pembayaran, webhook, pekerjaan terjadwal, dan integrasi | buat backend, login daftar, integrasi API, webhook | [SKILL.md](skills/development/backend-engineering-and-integrations/SKILL.md) |
+| Pengujian Perangkat Lunak dan Jaminan Mutu | rencana pengujian, cacat yang dapat direproduksi, otomatisasi, bukti regresi | uji aplikasi, QA aplikasi, cari bug, pengujian E2E | [SKILL.md](skills/development/software-testing-and-quality-assurance/SKILL.md) |
+| Evaluasi Kesesuaian Aplikasi | cakupan fitur dan perbedaan perilaku atau tata letak yang bermakna | kesesuaian fitur, bandingkan aplikasi, pemeriksaan kesesuaian | [SKILL.md](skills/development/application-parity-evaluation/SKILL.md) |
+| Rekayasa Deployment dan Rilis Aplikasi | pemeriksaan kesiapan rilis, pemulihan versi, kesiapan produksi, pemantauan | deploy aplikasi, terbitkan aplikasi, hubungkan domain | [SKILL.md](skills/development/application-deployment-and-release-engineering/SKILL.md) |
+| Penceritaan 3D Berbasis Gulir | narasi 3D yang terhubung dengan pergerakan gulir | gulir 3D, web interaktif 3D | [SKILL.md](skills/development/scroll-driven-3d-storytelling/SKILL.md) |
 
-## Finance
+## Keuangan
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Asset And Liability Analysis | asset/liability classification and balance-sheet position | aset, liabilitas, kekayaan bersih | [SKILL.md](skills/finance/asset-and-liability-analysis/SKILL.md) |
-| Cash Flow Management | timing, liquidity, cash forecasts, operating cash controls | arus kas, cash flow, uang masuk keluar, likuiditas | [SKILL.md](skills/finance/cash-flow-management/SKILL.md) |
-| Debt And Installment Management | debt inventory, borrowing cost, installments/BNPL, repayment order | utang, cicilan, paylater, pinjol, debt | [SKILL.md](skills/finance/debt-and-installment-management/SKILL.md) |
-| Emergency Fund Strategy | reserve sizing, location, withdrawals, replenishment | dana darurat, emergency fund | [SKILL.md](skills/finance/emergency-fund-strategy/SKILL.md) |
-| Envelope Budgeting System | category allocations, spending limits, sinking funds | amplop, anggaran, budget bulanan, alokasi | [SKILL.md](skills/finance/envelope-budgeting-system/SKILL.md) |
-| Financial Habit Formation | cues, routines, friction, recovery for financial behavior | kebiasaan menabung, disiplin uang, habit | [SKILL.md](skills/finance/financial-habit-formation/SKILL.md) |
-| Financial Intelligence | high-level financial framing and routing to finance specialists | keuangan, uang, finansial, finance | [SKILL.md](skills/finance/financial-intelligence/SKILL.md) |
-| Financial Leverage | borrowing, OPM, capital stacking, leverage risk | modal pinjaman, OPM, uang orang lain, leverage | [SKILL.md](skills/finance/financial-leverage/SKILL.md) |
-| Financial Statement Literacy | reading income statement, balance sheet, cash-flow statement | laporan keuangan, laba rugi, neraca | [SKILL.md](skills/finance/financial-statement-literacy/SKILL.md) |
-| Income To Asset Wealth Building | convert surplus income into productive assets | gaji jadi aset, bangun kekayaan, wealth building | [SKILL.md](skills/finance/income-to-asset-wealth-building/SKILL.md) |
-| Online Marketplace Pricing And Promo Optimization | marketplace reverse pricing, fee recovery, promo burden (AYDO-faithful) | harga jual online, fee marketplace, promo shopee, tokopedia, AYDO | [SKILL.md](skills/finance/online-marketplace-pricing-and-promo-optimization/SKILL.md) |
-| Opportunity And Investment Evaluation | compare business/investment opportunities, risk, return, exit | layak investasi, untung atau tidak, evaluasi peluang | [SKILL.md](skills/finance/opportunity-and-investment-evaluation/SKILL.md) |
-| Pay Yourself First | sustainable savings allocation from income | sisihkan dulu, menabung, pay yourself first | [SKILL.md](skills/finance/pay-yourself-first/SKILL.md) |
-| Skill Based Income Development | monetize marketable skills | jual keahlian, naik gaji, freelance, skill jadi uang | [SKILL.md](skills/finance/skill-based-income-development/SKILL.md) |
+| Analisis Aset dan Liabilitas | klasifikasi aset/liabilitas dan posisi neraca | aset, liabilitas, kekayaan bersih | [SKILL.md](skills/finance/asset-and-liability-analysis/SKILL.md) |
+| Pengelolaan Arus Kas | waktu arus kas, likuiditas, proyeksi kas, dan kendali kas operasional | arus kas, uang masuk keluar, likuiditas | [SKILL.md](skills/finance/cash-flow-management/SKILL.md) |
+| Pengelolaan Utang dan Cicilan | inventaris utang, biaya pinjaman, cicilan/BNPL, urutan pelunasan | utang, cicilan, paylater, pinjaman online | [SKILL.md](skills/finance/debt-and-installment-management/SKILL.md) |
+| Strategi Dana Darurat | penentuan jumlah cadangan, lokasi penyimpanan, penarikan, pengisian kembali | dana darurat, cadangan keuangan | [SKILL.md](skills/finance/emergency-fund-strategy/SKILL.md) |
+| Sistem Anggaran Amplop | alokasi kategori, batas belanja, dana untuk kebutuhan berkala | amplop, anggaran, anggaran bulanan, alokasi | [SKILL.md](skills/finance/envelope-budgeting-system/SKILL.md) |
+| Pembentukan Kebiasaan Finansial | pemicu, rutinitas, hambatan, dan pemulihan perilaku keuangan | kebiasaan menabung, disiplin uang, kebiasaan finansial | [SKILL.md](skills/finance/financial-habit-formation/SKILL.md) |
+| Kecerdasan Finansial | kerangka keuangan tingkat tinggi dan perutean ke spesialis keuangan | keuangan, uang, finansial | [SKILL.md](skills/finance/financial-intelligence/SKILL.md) |
+| Daya Ungkit Finansial | pinjaman, modal pihak lain, penggabungan sumber modal, dan risiko daya ungkit | modal pinjaman, modal pihak lain, daya ungkit | [SKILL.md](skills/finance/financial-leverage/SKILL.md) |
+| Literasi Laporan Keuangan | membaca laporan laba rugi, neraca, dan arus kas | laporan keuangan, laba rugi, neraca | [SKILL.md](skills/finance/financial-statement-literacy/SKILL.md) |
+| Membangun Kekayaan dari Pendapatan Menjadi Aset | mengubah kelebihan pendapatan menjadi aset produktif | gaji jadi aset, bangun kekayaan, investasi aset | [SKILL.md](skills/finance/income-to-asset-wealth-building/SKILL.md) |
+| Optimasi Harga dan Promosi Marketplace Online | penetapan harga balik marketplace, pemulihan biaya, beban promosi sesuai rumus AYDO | harga jual online, biaya marketplace, promosi Shopee, Tokopedia, AYDO | [SKILL.md](skills/finance/online-marketplace-pricing-and-promo-optimization/SKILL.md) |
+| Evaluasi Peluang dan Investasi | membandingkan peluang bisnis/investasi, risiko, imbal hasil, dan jalan keluar | layak investasi, untung atau tidak, evaluasi peluang | [SKILL.md](skills/finance/opportunity-and-investment-evaluation/SKILL.md) |
+| Dahulukan Membayar Diri Sendiri | alokasi tabungan berkelanjutan dari pendapatan | sisihkan dulu, menabung, alokasi tabungan | [SKILL.md](skills/finance/pay-yourself-first/SKILL.md) |
+| Pengembangan Pendapatan Berbasis Keahlian | menghasilkan uang dari keahlian yang memiliki nilai pasar | jual keahlian, naik gaji, pekerja lepas, keahlian jadi uang | [SKILL.md](skills/finance/skill-based-income-development/SKILL.md) |
 
-## Growth
+## Pertumbuhan
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Bullseye Framework | brainstorm-rank-prioritize-test-focus channel process | bullseye, uji channel | [SKILL.md](skills/growth/bullseye-framework/SKILL.md) |
-| Critical Path Prioritization | identify current bottleneck and order growth work | prioritas, bottleneck, mulai dari mana | [SKILL.md](skills/growth/critical-path-prioritization/SKILL.md) |
-| Growth Experimentation | hypothesis, test design, learning record | eksperimen, uji coba iklan, A/B test | [SKILL.md](skills/growth/growth-experimentation/SKILL.md) |
-| Growth Metrics Optimization | metric definitions, scorecards, performance interpretation | metrik, konversi, CAC, retensi pelanggan | [SKILL.md](skills/growth/growth-metrics-optimization/SKILL.md) |
-| Partnership Distribution | partner fit, mutual value, partnership plan | kerja sama, mitra distribusi, reseller, partnership | [SKILL.md](skills/growth/partnership-distribution/SKILL.md) |
-| Traction Channel Selection | channel-to-audience fit, advertising/direct-outreach assessment, candidate selection | pilih channel, jualan lewat mana, advertising, iklan berbayar, direct outreach | [SKILL.md](skills/growth/traction-channel-selection/SKILL.md) |
-| Traction Strategy | overall acquisition and distribution strategy | cari pelanggan, dapat pembeli, traction, customer acquisition | [SKILL.md](skills/growth/traction-strategy/SKILL.md) |
-| Product Launch And Go-to-Market Planning | launch readiness, positioning, launch assets, distribution sequence, early metrics | launch produk, peluncuran aplikasi, landing page produk, go to market | [SKILL.md](skills/growth/product-launch-and-go-to-market-planning/SKILL.md) |
-| Viral And Referral Growth | sharing loops, referrals, advocacy mechanics | referral, getok tular, ajak teman, viral loop | [SKILL.md](skills/growth/viral-and-referral-growth/SKILL.md) |
+| Kerangka Bullseye | proses curah gagasan, pemeringkatan, penentuan prioritas, pengujian, dan pemusatan kanal | kerangka bullseye, uji kanal | [SKILL.md](skills/growth/bullseye-framework/SKILL.md) |
+| Penentuan Prioritas Jalur Kritis | mengidentifikasi hambatan utama saat ini dan mengurutkan pekerjaan pertumbuhan | prioritas, hambatan utama, mulai dari mana | [SKILL.md](skills/growth/critical-path-prioritization/SKILL.md) |
+| Eksperimen Pertumbuhan | hipotesis, rancangan pengujian, dan catatan pembelajaran | eksperimen, uji coba iklan, pengujian A/B | [SKILL.md](skills/growth/growth-experimentation/SKILL.md) |
+| Optimasi Metrik Pertumbuhan | definisi metrik, kartu penilaian, dan penafsiran kinerja | metrik, konversi, biaya akuisisi pelanggan, retensi pelanggan | [SKILL.md](skills/growth/growth-metrics-optimization/SKILL.md) |
+| Distribusi Kemitraan | kecocokan mitra, nilai bersama, dan rencana kemitraan | kerja sama, mitra distribusi, reseller, kemitraan | [SKILL.md](skills/growth/partnership-distribution/SKILL.md) |
+| Pemilihan Kanal Akuisisi | kecocokan kanal dengan audiens, penilaian iklan/pendekatan langsung, pemilihan kandidat | pilih kanal, jualan lewat mana, iklan, pendekatan langsung | [SKILL.md](skills/growth/traction-channel-selection/SKILL.md) |
+| Strategi Mendapatkan Daya Tarik Pasar | strategi akuisisi dan distribusi secara menyeluruh | cari pelanggan, dapat pembeli, daya tarik pasar, akuisisi pelanggan | [SKILL.md](skills/growth/traction-strategy/SKILL.md) |
+| Perencanaan Peluncuran Produk dan Strategi Masuk Pasar | kesiapan peluncuran, posisi produk, materi peluncuran, urutan distribusi, metrik awal | luncurkan produk, peluncuran aplikasi, halaman produk, strategi masuk pasar | [SKILL.md](skills/growth/product-launch-and-go-to-market-planning/SKILL.md) |
+| Pertumbuhan Viral dan Rujukan | mekanisme berbagi, rujukan, dan advokasi | rujukan, getok tular, ajak teman, siklus viral | [SKILL.md](skills/growth/viral-and-referral-growth/SKILL.md) |
 
-## Knowledge
+## Pengetahuan
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Knowledge Graph Builder | map evidence-backed relationships and gaps across skills | peta skill, hubungan antar skill, audit celah | [SKILL.md](skills/knowledge/knowledge-graph-builder/SKILL.md) |
+| Pembangun Graf Pengetahuan | memetakan hubungan dan celah antar-skill berdasarkan bukti | peta skill, hubungan antar-skill, audit celah | [SKILL.md](skills/knowledge/knowledge-graph-builder/SKILL.md) |
 
-## Marketing
+## Pemasaran
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
 | Kecerdasan Suara Pelanggan Berbasis AI | analisis ulasan agregat, tren masalah berulang, penentuan prioritas, pengukuran perbaikan | analisis ulasan pelanggan, analisis banyak ulasan, suara pelanggan, pola keluhan | [SKILL.md](skills/marketing/kecerdasan-suara-pelanggan-berbasis-ai/SKILL.md) |
-| Brand Awareness And Brand Activation | brand memory, positioning, customer-perception consistency, awareness objective, activation experience | brand awareness, dikenal orang, branding, citra merek, persepsi merek | [SKILL.md](skills/marketing/brand-awareness-and-brand-activation/SKILL.md) |
-| Brand Communication And Public Relations | brand narrative, public messaging, reputation communication | citra brand, media, krisis reputasi, PR | [SKILL.md](skills/marketing/brand-communication-and-public-relations/SKILL.md) |
-| Consumer Psychology And Persuasion | buyer decision variables, value perception, ethical persuasion | psikologi pembeli, harga psikologis, kenapa orang beli, scarcity | [SKILL.md](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) |
-| Digital Brand Awareness And Channel Strategy | digital presence, direct marketing, permission-based messaging, and platform roles | media sosial, instagram usaha, konten digital, google bisnis, direct marketing, pemasaran langsung | [SKILL.md](skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) |
-| Experiential And Event Based Marketing | brand experiences, trials, pop-ups, events | bazar, pop-up, tester gratis, event promosi | [SKILL.md](skills/marketing/experiential-and-event-based-marketing/SKILL.md) |
-| Influencer Opinion Leader And Endorsement | creator/endorser selection, disclosure, measurement | influencer, endorse, food vlogger | [SKILL.md](skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md) |
-| Service Recovery Marketing And Trust Building | individual complaint triage, proportionate remedy, public reply, follow-up, recovery | komplain, ulasan jelek, refund, pelanggan kecewa, balas ulasan, keluhan satu pelanggan | [SKILL.md](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) |
-| Viral Content Engineering And Attention Psychology | hooks, attention, shareability, content iteration | konten viral, FYP, hook konten | [SKILL.md](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) |
-| Viral Event Marketing And Content Monetization | integrated event-to-content-to-revenue plan | event jadi konten, monetisasi event | [SKILL.md](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) |
-| Word Of Mouth And Brand Advocacy | organic recommendations and customer-led reputation | dari mulut ke mulut, pelanggan setia, rekomendasi | [SKILL.md](skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md) |
+| Kesadaran dan Aktivasi Merek | ingatan merek, posisi, konsistensi persepsi pelanggan, tujuan kesadaran, pengalaman aktivasi | kesadaran merek, dikenal orang, pencitraan merek, citra merek, persepsi merek | [SKILL.md](skills/marketing/brand-awareness-and-brand-activation/SKILL.md) |
+| Komunikasi Merek dan Hubungan Masyarakat | narasi merek, pesan publik, komunikasi reputasi | citra merek, media, krisis reputasi, hubungan masyarakat | [SKILL.md](skills/marketing/brand-communication-and-public-relations/SKILL.md) |
+| Psikologi Konsumen dan Persuasi | variabel keputusan pembeli, persepsi nilai, persuasi etis | psikologi pembeli, harga psikologis, alasan orang membeli, kelangkaan | [SKILL.md](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) |
+| Kesadaran Merek Digital dan Strategi Kanal | kehadiran digital, pemasaran langsung, pesan berbasis izin, peran platform | media sosial, Instagram usaha, konten digital, Google Bisnis, pemasaran langsung | [SKILL.md](skills/marketing/digital-brand-awareness-and-channel-strategy/SKILL.md) |
+| Pemasaran Berbasis Pengalaman dan Acara | pengalaman merek, uji coba, gerai sementara, acara | bazar, gerai sementara, tester gratis, acara promosi | [SKILL.md](skills/marketing/experiential-and-event-based-marketing/SKILL.md) |
+| Strategi Influencer, Pemimpin Opini, dan Endorsement | pemilihan kreator/pendukung, keterbukaan promosi, pengukuran | influencer, endorse, pengulas kuliner | [SKILL.md](skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md) |
+| Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan | penanganan keluhan individual, solusi yang proporsional, balasan publik, tindak lanjut, pemulihan | komplain, ulasan buruk, pengembalian dana, pelanggan kecewa, balas ulasan, keluhan individual | [SKILL.md](skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md) |
+| Rekayasa Konten Viral dan Psikologi Perhatian | pembuka, perhatian, kemudahan dibagikan, pengulangan konten | konten viral, FYP, pembuka konten | [SKILL.md](skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md) |
+| Pemasaran Acara Viral dan Monetisasi Konten | rencana terpadu dari acara menjadi konten lalu pendapatan | acara jadi konten, monetisasi acara | [SKILL.md](skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md) |
+| Getok Tular dan Advokasi Merek | rekomendasi organik dan reputasi yang dibangun pelanggan | dari mulut ke mulut, pelanggan setia, rekomendasi | [SKILL.md](skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md) |
 
-## Psychology
+## Psikologi
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Behavioral Finance And Money Psychology | behavioral biases and emotions in financial decisions | boros, FOMO investasi, takut rugi, psikologi uang | [SKILL.md](skills/psychology/behavioral-finance-and-money-psychology/SKILL.md) |
-| General Habit Formation And Behavior Change | general non-financial habit design using context, repetition, reward, and friction | ubah kebiasaan, membangun kebiasaan, kebiasaan buruk, susah konsisten, rutinitas | [SKILL.md](skills/psychology/general-habit-formation-and-behavior-change/SKILL.md) |
-| Creative Intelligence Engine | divergent thinking and idea recombination | brainstorm, ide kreatif, ide baru, kreatif | [SKILL.md](skills/psychology/creative-intelligence-engine/SKILL.md) |
-| Emotional Regulation And Calm Decision Making | managing reactivity and decision readiness | emosi, marah, panik, tenang, stres | [SKILL.md](skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md) |
-| False Concern And Covert Sabotage | cautious analysis of possible covert undermining | pura-pura peduli, dijegal, disabotase | [SKILL.md](skills/psychology/false-concern-and-covert-sabotage/SKILL.md) |
-| Human Behavior Decision Psychology | behavior and decision mechanisms across contexts | perilaku orang, kenapa orang memutuskan, motivasi | [SKILL.md](skills/psychology/human-behavior-decision-psychology/SKILL.md) |
-| Philosophical Intelligence | philosophical lenses and reflective inquiry | filsafat, makna hidup, nietzsche, jung | [SKILL.md](skills/psychology/philosophical-intelligence/SKILL.md) |
-| Power Dynamics And Strategic Influence | authority, incentives, dependencies, ethical strategic influence | kekuasaan, politik kantor, pengaruh, 48 laws | [SKILL.md](skills/psychology/power-dynamics-and-strategic-influence/SKILL.md) |
-| Psychological Control And Human Vulnerability | recognizing coercive control and vulnerability mechanisms | dikendalikan, ketergantungan, eksploitasi pekerja, coercion | [SKILL.md](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) |
-| Psychology Decision Engine | selects relevant psychology specialists by role and relationship | psikologi, peran saya sebagai, atasan bawahan | [SKILL.md](skills/psychology/psychology-decision-engine/SKILL.md) |
-| Relationship Building And Mutual Attraction | healthy relationship and romantic development | pdkt, gebetan, pacar, networking, relasi | [SKILL.md](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) |
-| Self Deception And Self Examination | self-reflection and motivated reasoning | menipu diri, alasan pembenar, introspeksi | [SKILL.md](skills/psychology/self-deception-and-self-examination/SKILL.md) |
-| Workplace Competition And Divide And Rule | healthy competition vs deliberate workplace division | diadu domba, persaingan kantor, pilih kasih | [SKILL.md](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) |
+| Keuangan Perilaku dan Psikologi Uang | bias perilaku dan emosi dalam keputusan keuangan | boros, FOMO investasi, takut rugi, psikologi uang | [SKILL.md](skills/psychology/behavioral-finance-and-money-psychology/SKILL.md) |
+| Pembentukan Kebiasaan Umum dan Perubahan Perilaku | perancangan kebiasaan nonfinansial dengan konteks, pengulangan, imbalan, dan hambatan | ubah kebiasaan, membangun kebiasaan, kebiasaan buruk, susah konsisten, rutinitas | [SKILL.md](skills/psychology/general-habit-formation-and-behavior-change/SKILL.md) |
+| Mesin Kecerdasan Kreatif | pemikiran divergen dan penggabungan ulang gagasan | curah gagasan, ide kreatif, ide baru, kreatif | [SKILL.md](skills/psychology/creative-intelligence-engine/SKILL.md) |
+| Regulasi Emosi dan Pengambilan Keputusan yang Tenang | mengelola reaktivitas dan kesiapan mengambil keputusan | emosi, marah, panik, tenang, stres | [SKILL.md](skills/psychology/emotional-regulation-and-calm-decision-making/SKILL.md) |
+| Kepedulian Palsu dan Sabotase Terselubung | analisis hati-hati terhadap kemungkinan tindakan menjatuhkan secara tersembunyi | pura-pura peduli, dijegal, disabotase | [SKILL.md](skills/psychology/false-concern-and-covert-sabotage/SKILL.md) |
+| Psikologi Perilaku dan Pengambilan Keputusan Manusia | mekanisme perilaku dan keputusan dalam berbagai konteks | perilaku orang, alasan orang memutuskan, motivasi | [SKILL.md](skills/psychology/human-behavior-decision-psychology/SKILL.md) |
+| Kecerdasan Filosofis | sudut pandang filsafat dan penyelidikan reflektif | filsafat, makna hidup, Nietzsche, Jung | [SKILL.md](skills/psychology/philosophical-intelligence/SKILL.md) |
+| Dinamika Kekuasaan dan Pengaruh Strategis | wewenang, insentif, ketergantungan, dan pengaruh strategis yang etis | kekuasaan, politik kantor, pengaruh, 48 Hukum Kekuasaan | [SKILL.md](skills/psychology/power-dynamics-and-strategic-influence/SKILL.md) |
+| Kendali Psikologis dan Kerentanan Manusia | mengenali kendali koersif dan mekanisme kerentanan | dikendalikan, ketergantungan, eksploitasi pekerja, pemaksaan | [SKILL.md](skills/psychology/psychological-control-and-human-vulnerability/SKILL.md) |
+| Mesin Keputusan Psikologi | memilih spesialis psikologi yang relevan berdasarkan peran dan hubungan | psikologi, peran saya sebagai, atasan bawahan | [SKILL.md](skills/psychology/psychology-decision-engine/SKILL.md) |
+| Membangun Hubungan dan Ketertarikan Timbal Balik | hubungan yang sehat dan perkembangan relasi romantis | pendekatan, gebetan, pacar, jejaring, relasi | [SKILL.md](skills/psychology/relationship-building-and-mutual-attraction/SKILL.md) |
+| Penipuan Diri dan Pemeriksaan Diri | refleksi diri dan penalaran yang dipengaruhi motivasi | menipu diri, alasan pembenar, introspeksi | [SKILL.md](skills/psychology/self-deception-and-self-examination/SKILL.md) |
+| Persaingan di Tempat Kerja dan Politik Adu Domba | membedakan persaingan sehat dari upaya memecah belah di tempat kerja | diadu domba, persaingan kantor, pilih kasih | [SKILL.md](skills/psychology/workplace-competition-and-divide-and-rule/SKILL.md) |
 
-## Research
+## Riset
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| OSINT And Digital Footprint Intelligence | lawful open-source research and evidence collection | jejak digital, OSINT, cek informasi publik, verifikasi identitas | [SKILL.md](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) |
-| AI Media Provenance & Watermark Analysis | image, video, and audio metadata, provenance records, visible/invisible watermark inspection, authorized cleanup | watermark AI, hapus metadata, EXIF, XMP, C2PA, SynthID | [SKILL.md](skills/research/ai-media-provenance-and-watermark-analysis/SKILL.md) |
+| Kecerdasan OSINT dan Jejak Digital | riset sumber terbuka yang sah dan pengumpulan bukti | jejak digital, OSINT, cek informasi publik, verifikasi identitas | [SKILL.md](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) |
+| Analisis Asal-Usul Media AI dan Tanda Air | metadata gambar, video, audio, catatan asal-usul, pemeriksaan tanda air terlihat/tak terlihat, pembersihan berizin | tanda air AI, hapus metadata, EXIF, XMP, C2PA, SynthID | [SKILL.md](skills/research/ai-media-provenance-and-watermark-analysis/SKILL.md) |
 
-## Spirituality
+## Spiritualitas
 
-| Skill | Owns | Triggers | Path |
+| Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Meaningful Prayer And Khushu | reflective learning about prayer meaning and attentiveness | shalat, khusyuk, makna shalat | [SKILL.md](skills/spirituality/meaningful-prayer-and-khushu/SKILL.md) |
+| Pemahaman Makna Salat dan Kekhusyukan | pembelajaran reflektif tentang makna salat dan perhatian dalam ibadah | salat, khusyuk, makna salat | [SKILL.md](skills/spirituality/meaningful-prayer-and-khushu/SKILL.md) |
 
-## Additional knowledge resource
+## Sumber Pengetahuan Tambahan
 
-- [Knowledge domain README](skills/knowledge/README.md)
+- [README Domain Pengetahuan](skills/knowledge/README.md)
