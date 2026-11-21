@@ -1,3 +1,5 @@
+- **2026-11-22** — Melokalkan seluruh 17 folder skill Development. Mengganti sembilan nama folder yang masih berbahasa Inggris/campuran, memperbarui jalur pada README, INDEX, skills.json, skenario evaluasi, orkestrator bisnis, serta tautan internal Desain Frontend. Memvalidasi bahwa seluruh 17 entri registri dan tautan indeks/README menunjuk ke berkas yang tersedia.
+
 - **2026-11-22** — Mengganti lima nama folder dan ID skill Development ke bahasa Indonesia: `paginasi-data-tingkat-lanjut`, `desain-antarmuka-ai-anti-generik`, `review-desain-platform-apple`, `perencanaan-arsitektur-aplikasi`, dan `evaluasi-kesesuaian-aplikasi`. Memperbarui README, INDEX, registri, evaluasi, serta referensi orkestrator.
 
 - **2026-11-22** — Lokalisasi lima skill Development ke Bahasa Indonesia: Rekayasa Deployment dan Rilis Aplikasi, Rigging Avatar Mesh 2D, Pengalaman Etalase Media 3D, Desain Logo Profesional dan Identitas Merek, serta Rekayasa Balik dan Rekonstruksi Berbasis Referensi. Perjelas alur kerja, batas kemampuan, hak aset, dan gerbang persetujuan; perbarui registri, indeks, tata kelola, skenario evaluasi, dan panduan routing.
