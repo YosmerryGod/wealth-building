@@ -67,20 +67,15 @@ Ikuti framework, komponen, dan arsitektur yang ada. Pisahkan token desain dari k
 
 ## 8. Kritik hasil
 
-Periksa hasil render atau screenshot aktual bila tersedia. Nilai kekhasan produk, hierarki, tipografi, spasi, kejelasan konten, fungsi, responsivitas mobile, fokus keyboard, kontras, reduced motion, serta state loading/kosong/error/sukses/disabled. Hapus elemen yang tidak membantu pemahaman, identitas, atau tugas. Catat hal yang belum diuji; jangan mengklaim review selesai tanpa bukti render.
+Periksa render/screenshot aktual bila tersedia. Nilai kekhasan produk, hierarki, tipografi, spasi, kejelasan konten, fungsi, responsivitas mobile, fokus keyboard, kontras, reduced motion, dan state loading/kosong/error/sukses/disabled. Hapus elemen tanpa fungsi; catat hal yang belum diuji dan jangan mengklaim review selesai tanpa bukti.
 
 ## Alur kerja
 
-1. Temukan konteks produk dan batasan.
-2. Rencanakan palet, tipografi, layout, dan ciri pembeda.
-3. Bandingkan alternatif bila arah belum jelas.
-4. Tantang pilihan generik dan revisi.
-5. Serahkan spesifikasi disetujui kepada engineering.
-6. Inspeksi hasil aktual dan perbaiki isu berdampak tinggi.
+Pahami produk dan batasan → rencanakan arah visual → bandingkan bila perlu → revisi pilihan generik → serahkan spesifikasi → inspeksi hasil dan perbaiki isu utama.
 
 ## Hubungan dan batas
 
-Rekayasa Balik mengumpulkan bukti referensi; AI Interface Design mengaudit pola generik; Apple HIG Review memeriksa konvensi Apple; Micro-Interactions menangani feedback; Modern Web Navigation menangani navigasi; Professional Logo menangani identitas merek; Full-Stack mengimplementasikan fitur; QA memverifikasi fungsi dan regresi. Desain Frontend memiliki arah visual dan spesifikasi antarmuka, bukan keputusan spesialis tersebut.
+Rekayasa Balik memiliki bukti referensi; AI Interface Design mengaudit pola generik; Apple HIG Review memeriksa konvensi Apple; Micro-Interactions memiliki feedback; Modern Web Navigation memiliki navigasi; Professional Logo memiliki identitas merek; Full-Stack mengimplementasikan fitur; QA memverifikasi fungsi/regresi. Desain Frontend memiliki arah visual dan spesifikasi antarmuka.
 
 ## Sumber
 
