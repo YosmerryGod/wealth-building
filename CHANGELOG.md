@@ -1,3 +1,5 @@
+- **2026-11-22** — Lokalisasi dan penegasan batas lima skill Development: Pola Navigasi dan Interaksi Web Modern, Pola Paginasi dan Navigasi Data Tingkat Lanjut, Interaksi Mikro dan Desain Umpan Balik UI, Desain Antarmuka AI dan Rekayasa Anti-Generik, serta Review Desain Platform Apple dan Human Interface Guidelines. Perbarui registri, indeks, tata kelola, skenario regresi, dan panduan routing.
+
 - **2026-11-22** — Lokalisasi dan penegasan batas tiga skill Development: Desain Frontend, Pengujian Perangkat Lunak dan Jaminan Mutu, serta Evaluasi Kesesuaian Aplikasi. Perjelas pemisahan arah visual, verifikasi kualitas terhadap kriteria penerimaan, dan penilaian cakupan fitur terhadap referensi. Perbarui registri, indeks, skenario regresi, dan batas kepemilikan.
 
 - **2026-11-22** — Lokalisasi dan penegasan batas tiga skill inti Development: Perencanaan Arsitektur Aplikasi, Rekayasa Aplikasi Full-Stack, serta Rekayasa Backend dan Integrasi. Perjelas pemisahan keputusan arsitektur, implementasi alur produk, dan kapabilitas server. Perbarui registri, indeks, serta skenario regresi.
