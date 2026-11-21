@@ -421,7 +421,7 @@ For every business review or customer complaint, explicitly run the integrated s
 
 ## Relationship to other skills
 
-- **AI-Powered Voice of Customer Intelligence:** use for recurring patterns across many reviews, channels, customers, or time periods; this skill retains ownership of individual complaint handling, remedies, follow-up, and public replies.
+- **Kecerdasan Suara Pelanggan Berbasis AI:** use for recurring patterns across many reviews, channels, customers, or time periods; this skill retains ownership of individual complaint handling, remedies, follow-up, and public replies.
 
 
 - **[Context-Aware Response Strategy Engine](../../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** selects the response strategy from the full situation before this specialist skill determines service-recovery actions. Use it to avoid automatic compensation and to keep marketing visible only when relevant.
