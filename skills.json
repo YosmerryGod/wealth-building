@@ -149,13 +149,14 @@
       "id": "application-parity-evaluation",
       "domain": "development",
       "path": "skills/development/application-parity-evaluation/SKILL.md",
-      "owns": "cakupan fitur berbasis bukti serta perbedaan perilaku dan tata letak yang bermakna",
+      "owns": "penilaian cakupan fitur dan perbedaan perilaku terhadap matriks kebutuhan/referensi",
       "triggers": [
         "bandingkan aplikasi",
-        "kesesuaian fitur",
+        "feature parity",
         "apa yang kurang dari clone",
         "cek kesesuaian aplikasi",
-        "pemeriksaan kesesuaian"
+        "pemeriksaan kesesuaian",
+        "bandingkan fitur"
       ]
     },
     {
@@ -608,12 +609,13 @@
       "id": "frontend-design",
       "domain": "development",
       "path": "skills/development/frontend-design/SKILL.md",
-      "owns": "arah desain visual dan frontend yang berlandaskan kebutuhan produk",
+      "owns": "arah visual, hierarki, tipografi, tata letak, dan spesifikasi antarmuka",
       "triggers": [
         "desain web",
         "landing page",
         "tampilan app",
-        "antarmuka depan"
+        "frontend",
+        "desain antarmuka"
       ]
     },
     {
@@ -1088,14 +1090,15 @@
       "id": "software-testing-and-quality-assurance",
       "domain": "development",
       "path": "skills/development/software-testing-and-quality-assurance/SKILL.md",
-      "owns": "perencanaan pengujian, verifikasi cacat yang dapat direproduksi, bukti pengujian otomatis/manual, dan cakupan regresi",
+      "owns": "perencanaan tes, reproduksi cacat, bukti pengujian manual/otomatis, dan regresi",
       "triggers": [
         "test aplikasi",
         "QA aplikasi",
         "cari bug",
-        "buat e2e test",
+        "buat E2E test",
         "uji semua fitur",
-        "software testing"
+        "software testing",
+        "pengujian regresi"
       ]
     },
     {
