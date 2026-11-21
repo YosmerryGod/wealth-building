@@ -39,24 +39,11 @@ Prinsip ini kerangka review, bukan pengganti aturan komponen spesifik. Bila pand
 
 ## Lensa review
 
-### 1. Aksesibilitas
-Periksa Dynamic Type/skala teks, kontras, makna yang tidak bergantung warna, VoiceOver/nama dan urutan baca, keyboard/fokus, target interaksi, Reduced Motion/transparansi, form, validasi, error, dan status. Jangan mengklaim rasio kontras atau kepatuhan tanpa pengujian.
-
-### 2. Konvensi platform
-**Mobile/tablet:** hierarki navigasi, tab bar, navigation bar, toolbar, sidebar, safe area, system bar, keyboard avoidance, orientasi, sheet, popover, alert, konfirmasi, aksi destruktif, gestur dan alternatifnya.
-
-**Desktop:** window resize/multiple windows, menu bar, toolbar, sidebar, context menu, shortcut, hover, fokus, drag-drop, dan lokasi pengaturan/perintah.
-
-Untuk produk lintas platform, putuskan dengan sengaja bagian yang native dan bagian yang konsisten. Satu layout bersama tidak selalu terbaik.
-
-### 3. Visual dan craft
-Tinjau peran warna, adaptasi appearance, tipografi dan skala, density, spasi, alignment, ikon, material/translucency, depth, motion, serta ekspresi merek. Jangan memakai efek native hanya karena tren; cek kesesuaian versi OS, lapisan konten, dan interaksi.
-
-### 4. Interaksi
-Periksa loading/progress/sukses/error/kosong/offline/parsial, feedback langsung, modalitas, interupsi, konfirmasi, cancel/undo, aksi destruktif, entry data, timing validasi, fokus, keyboard, dan konsistensi affordance.
-
-### 5. Konten
-Pastikan label sesuai aksi/tujuan, instruksi ringkas, empty state bermakna, error menjelaskan pemulihan, istilah dan kapitalisasi sesuai platform, prompt izin menjelaskan manfaat/waktu, serta tidak ada kata-kata yang menyesatkan seolah berasal dari sistem.
+1. **Aksesibilitas:** skala teks, kontras, VoiceOver, keyboard/fokus, target interaksi, reduced motion, form, validasi, dan status. Jangan mengklaim lulus tanpa tes.
+2. **Konvensi platform:** mobile/tablet mencakup hierarki navigasi, safe area, keyboard, sheet, alert, gestur, dan alternatif. Desktop mencakup window, menu, toolbar, sidebar, shortcut, hover, fokus, dan drag-drop. Tentukan dengan sengaja perilaku native vs konsisten pada lintas platform.
+3. **Visual/craft:** peran warna, tipografi, density, spasi, ikon, material, motion, dan merek. Pastikan efek sesuai versi OS dan konteks.
+4. **Interaksi:** loading, sukses/error/kosong/offline, feedback, modalitas, cancel/undo, aksi destruktif, input, validasi, dan fokus.
+5. **Konten:** label akurat, instruksi ringkas, empty/error state jelas, istilah platform tepat, prompt izin menjelaskan manfaat, dan tidak meniru pesan sistem.
 
 ## Alur review
 
@@ -94,7 +81,7 @@ Tabel ini alat penerjemahan, bukan klaim perilaku framework identik. Periksa dok
 
 ## Topik khusus
 
-Ambil panduan resmi terkini saat meninjau app icon, navigasi, toolbar, form, onboarding, izin/privasi, dark mode, material, notifikasi, widget, Live Activities, chart, Apple Pay, AI/ML, multi-display, atau perilaku yang sensitif App Store. Jangan mengarang syarat kebijakan atau hasil App Review. Bedakan saran desain dari persyaratan formal.
+Ambil panduan resmi terkini untuk app icon, navigasi, toolbar, form, onboarding, izin/privasi, dark mode, material, notifikasi, widget, Live Activities, chart, Apple Pay, AI/ML, multi-display, dan perilaku sensitif App Store. Jangan mengarang syarat kebijakan atau hasil App Review; bedakan saran desain dari persyaratan formal.
 
 ## Hubungan skill
 
