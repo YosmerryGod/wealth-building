@@ -33,9 +33,7 @@ Prinsip utama: hilangkan kebiasaan visual generik tanpa menghilangkan identitas,
 
 ## Sinyal pola generik
 
-Audit konteks aktual. Waspadai gradasi ungu-biru tanpa alasan, glow/neon/bayangan berwarna yang bersaing dengan konten, emoji sebagai ikon kontrol, badge generik tanpa fungsi, terlalu banyak uppercase dan bobot font, spasi/alignment acak, kartu seragam untuk konten berbeda, hero copy generik, metrik/testimoni palsu, animasi dekoratif berulang, serta layout dashboard/landing yang tidak sesuai konteks.
-
-Ini sinyal audit, bukan larangan universal. Gradien, glow, emoji, kartu, animasi, atau layout tertentu dapat tepat bila didukung merek, konten, aksesibilitas, atau fungsi.
+Audit konteks aktual. Waspadai gradasi tanpa alasan, glow/neon yang bersaing, emoji sebagai ikon kontrol, badge tanpa fungsi, uppercase/bobot font berlebihan, alignment acak, kartu seragam untuk konten berbeda, copy/metric/testimoni palsu, animasi dekoratif, dan layout yang tidak sesuai konteks. Ini sinyal, bukan larangan universal; nilai berdasarkan merek, konten, aksesibilitas, dan fungsi.
 
 ## Alur kerja
 
@@ -72,15 +70,16 @@ Pertahankan identitas merek yang sah. Rebranding adalah cakupan terpisah yang me
 
 ### Fase 5 — Perbaikan berurutan
 
-1. **Spasi dan alignment:** gunakan skala konsisten; grid 4px hanya titik awal. Periksa tabel padat, sidebar, navigasi ringkas, dan mobile.
-2. **Warna:** tetapkan peran background, surface, border, teks, aksen, dan status. Batasi aksen; periksa kontras semua tema/state. Warna grafik harus mewakili data.
-3. **Ikon:** gunakan keluarga konsisten. Ganti emoji kontrol generik bila ikon lebih jelas; pertahankan simbol yang memang bagian identitas/konten. Beri nama aksesibel pada kontrol ikon.
-4. **Copy:** buat judul spesifik; hapus klaim, jumlah pelanggan, testimoni, dan metrik yang tidak didukung. Tandai data contoh sebagai ilustrasi.
-5. **Tipografi:** tetapkan skala display, heading, body, label, metadata; cek line-height, wrapping, angka, dan bahasa. Gunakan angka tabular bila membantu.
-6. **Layout:** jaga arsitektur informasi kecuali diminta berubah. Pilih komposisi sesuai tugas; jangan memaksa dashboard padat menjadi kolom sempit atau semua konten menjadi kartu. Pastikan urutan mobile logis.
-7. **Komponen dan data:** konsistenkan radius, border, shadow, dan elevasi. Rancang state aktif, selected, disabled, loading, sukses, error, serta data kosong/usang. Pilih visualisasi yang menjawab kebutuhan.
-8. **Visual produk:** utamakan aset nyata, diagram, chart, objek render, atau ilustrasi yang menjelaskan produk. Jangan mengarang fitur atau bukti pelanggan. Gunakan gambar generatif hanya bila diminta atau ada kebutuhan visual jelas.
-9. **Gerak:** gunakan untuk sebab-akibat, state, hierarki, atau ruang. Hormati reduced motion; hindari loop, flashing, dan gerak yang menghambat.
+Perbaiki dalam pass yang konsisten:
+1. **Spasi/alignment:** gunakan skala yang konsisten; 4px hanya titik awal. Periksa tabel, sidebar, dan mobile.
+2. **Warna:** tetapkan peran background, surface, border, teks, aksen, dan status; cek kontras semua tema/state.
+3. **Ikon:** gunakan keluarga konsisten; kontrol ikon punya nama aksesibel. Emoji hanya dipertahankan bila bagian identitas/konten.
+4. **Copy:** judul spesifik; hapus klaim, metrik, dan testimoni tanpa bukti. Tandai data contoh.
+5. **Tipografi:** tetapkan skala; cek line-height, wrapping, angka, dan bahasa.
+6. **Layout:** jaga arsitektur informasi; pilih komposisi sesuai tugas dan urutan mobile logis.
+7. **Komponen/data:** konsistenkan detail; rancang state aktif, disabled, loading, sukses, error, kosong, dan usang.
+8. **Visual:** gunakan aset/diagram/chart yang menjelaskan produk; jangan mengarang kemampuan atau bukti. Gambar generatif hanya untuk kebutuhan yang jelas.
+9. **Gerak:** gunakan untuk state/relasi; hormati reduced motion dan hindari loop/flash yang menghambat.
 
 ### Fase 6 — QA visual dan fungsi
 
@@ -92,7 +91,7 @@ Ringkas arah visual, temuan, perubahan per fase, fitur yang dipertahankan, pemer
 
 ## Kerangka keputusan
 
-Tanyakan: apakah pilihan memperjelas produk/tugas, memperkuat hierarki, sesuai audiens/merek/konten, meningkatkan kegunaan dan aksesibilitas, memberi informasi bukan dekorasi, konsisten dengan sistem, serta sepadan dengan biaya implementasi/performa/pemeliharaan?
+Apakah pilihan memperjelas tugas, memperkuat hierarki, sesuai audiens/merek, meningkatkan kegunaan/aksesibilitas, memberi informasi, konsisten dengan sistem, dan sepadan dengan biaya performa/pemeliharaan?
 
 ## Hubungan dan batas
 
