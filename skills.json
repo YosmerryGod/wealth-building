@@ -20,7 +20,7 @@
       "id": "2d-mesh-avatar-rigging",
       "domain": "development",
       "path": "skills/development/2d-mesh-avatar-rigging/SKILL.md",
-      "owns": "persiapan dan pemeriksaan mutu rig jaring 2D untuk avatar",
+      "owns": "persiapan ilustrasi menjadi avatar mesh 2D, pemisahan layer, rigging, dan pemeriksaan mutu animasi",
       "triggers": [
         "avatar 2d",
         "rigging",
@@ -31,7 +31,7 @@
       "id": "3d-media-storefront-experience",
       "domain": "development",
       "path": "skills/development/3d-media-storefront-experience/SKILL.md",
-      "owns": "pola katalog media 3D dan pengalaman etalase",
+      "owns": "pola katalog media 3D, navigasi spasial, pemeriksaan item, dan integrasi tindakan melihat atau membeli",
       "triggers": [
         "toko 3d",
         "katalog 3d"
@@ -136,7 +136,7 @@
       "id": "application-deployment-and-release-engineering",
       "domain": "development",
       "path": "skills/development/application-deployment-and-release-engineering/SKILL.md",
-      "owns": "pemeriksaan kesiapan rilis, deployment staging/produksi, pemulihan versi, dan kesiapan pemantauan",
+      "owns": "pemeriksaan kesiapan rilis, deployment staging/produksi, pemulihan versi, dan pemantauan pascarilis",
       "triggers": [
         "deploy aplikasi",
         "terbitkan aplikasi",
@@ -922,7 +922,7 @@
       "id": "professional-logo-and-brand-identity",
       "domain": "development",
       "path": "skills/development/professional-logo-and-brand-identity/SKILL.md",
-      "owns": "perancangan sistem logo dan identitas merek",
+      "owns": "perancangan, evaluasi, dan produksi sistem logo serta identitas merek yang dapat digunakan",
       "triggers": [
         "logo",
         "identitas brand",
@@ -981,7 +981,7 @@
       "id": "reverse-engineering-and-reference-based-reconstruction",
       "domain": "development",
       "path": "skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md",
-      "owns": "analisis referensi berbasis bukti dan penyusunan arahan rekonstruksi",
+      "owns": "investigasi produk referensi berbasis bukti dan penerjemahan pola menjadi brief rekonstruksi orisinal",
       "triggers": [
         "tiru tampilan",
         "referensi website",
