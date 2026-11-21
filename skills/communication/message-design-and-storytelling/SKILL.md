@@ -1,125 +1,91 @@
 ---
 name: message-design-and-storytelling
-title: Message Design & Storytelling
+title: Perancangan Pesan dan Penceritaan
 category: communication
 subcategory: message-structure-and-storytelling
-source_type: book-inspired-framework-and-operational-synthesis
-source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); self-introduction, message depth, and speaking-content themes
-language: English
-description: "Use when a request needs message structure, narrative, audience comprehension."
+source_type: sintesis-praktis-berbasis-buku
+source: *Bicara Itu Ada Seninya* karya Oh Su Hyang; tema tambahan dari *Rahasia Lancar Berkomunikasi*, *Seni Membangun Relasi*, dan *Cara Mudah & Praktis Belajar Public Speaking* karya Mulasih Tary dan Devi Ardiyanti.
+language: Indonesian
+description: "Gunakan untuk menyusun pesan, penjelasan, cerita, presentasi, dan pengantar diri."
 triggers:
   - "cerita"
-  - "storytelling"
+  - "penceritaan"
   - "susun pesan"
   - "struktur penjelasan"
-out_of_scope: "Persuasion ethics/negotiation strategy or vocal delivery"
-escalation: "Hand off work involving Persuasion ethics/negotiation strategy or vocal delivery to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+out_of_scope: "Strategi persuasi, negosiasi, atau teknik vokal"
+escalation: "Serahkan persuasi dan negosiasi kepada skill pemiliknya, serta teknik penyampaian kepada skill vokal atau berbicara di depan umum. Gunakan Penilaian Risiko untuk tindakan berkonsekuensi besar."
 ---
 
-# Message Design & Storytelling
+# Perancangan Pesan dan Penceritaan
 
-## Purpose
+## Tujuan
+Menyusun gagasan menjadi pesan yang mudah dipahami, relevan, dan berkesan karena isinya kuat, bukan sekadar tampil menarik.
 
-Help users organize ideas into messages that are memorable, relevant, and supported by substance rather than empty performance.
+## Struktur pesan
+Penjelasan singkat:
+1. Inti pesan.
+2. Mengapa penting.
+3. Alasan, bukti, atau contoh.
+4. Dampak praktis atau langkah berikutnya.
 
-## Message structure
+Presentasi panjang:
+1. Audiens dan tujuan.
+2. Pembuka yang relevan.
+3. Pesan utama.
+4. Urutan poin pendukung.
+5. Bukti, contoh, atau cerita.
+6. Batasan dan sudut pandang lain jika penting.
+7. Kesimpulan dan tindakan yang diharapkan.
 
-For a short explanation:
-1. Main point.
-2. Why it matters.
-3. Supporting reason or example.
-4. Practical implication or next step.
+## Kerangka cerita
+Cerita yang berguna dapat memuat:
+- **Konteks:** kapan dan di mana situasi terjadi.
+- **Tantangan:** masalah atau ketegangan.
+- **Pilihan:** keputusan yang diambil.
+- **Akibat:** apa yang terjadi.
+- **Pelajaran:** hal yang wajar dipahami audiens.
 
-For a longer presentation:
-1. Audience and objective.
-2. Opening that establishes relevance.
-3. Central message.
-4. Logical sequence of supporting points.
-5. Evidence, examples, or story.
-6. Limitations and counterpoints where material.
-7. Clear conclusion and requested action.
+Cerita menjelaskan gagasan, bukan menggantikan bukti. Bedakan pengalaman pribadi, cerita ilustrasi, dan studi kasus terverifikasi.
 
-## Storytelling
+## Kedalaman dan kredibilitas
+- Pahami topik sebelum berusaha terdengar mengesankan.
+- Gunakan contoh konkret dan jelaskan hubungannya dengan pesan.
+- Terangkan istilah yang belum dikenal audiens.
+- Sertakan ketidakpastian dan contoh tandingan jika relevan.
+- Hindari jargon, klaim berlebihan, dan kalimat yang tidak diperlukan.
+- Gunakan frasa yang mudah diingat hanya jika memperjelas maksud.
 
-A useful story may include:
-- Context: where and when the situation occurs.
-- Challenge: the problem or tension.
-- Choice: what the person decided to do.
-- Consequence: what happened.
-- Lesson: what the audience can reasonably take from it.
+## Memperkenalkan diri
+Susun pengantar singkat berisi siapa diri kita dalam konteks relevan, apa yang sedang dikerjakan, pengalaman atau bukti yang benar-benar dimiliki, dan bentuk percakapan atau kolaborasi yang terbuka. Jangan mengarang pencapaian atau membesar-besarkan kemampuan.
 
-Stories should illuminate an idea, not replace evidence. Distinguish personal experience, illustrative fiction, and verified case studies.
+## Menyusun presentasi
+1. Tetapkan audiens, tujuan, dan satu pesan utama.
+2. Pilih poin pendukung yang membantu audiens memahami atau bertindak.
+3. Urutkan gagasan agar mudah diikuti.
+4. Gunakan contoh, bukti, atau cerita singkat untuk menjelaskan hal abstrak.
+5. Variasikan contoh dan penekanan tanpa hiasan yang mengalihkan perhatian.
+6. Gunakan transisi agar hubungan antarbagian jelas.
+7. Tutup dengan inti dan tindakan atau refleksi yang diharapkan.
 
-## Depth and credibility
+Presentasi menarik tidak harus teatrikal. Relevansi, kejelasan, bukti tepercaya, dan pemahaman audiens lebih penting daripada pertunjukan.
 
-- Understand the subject before trying to sound impressive.
-- Use concrete examples and explain why they support the point.
-- Define unfamiliar terms.
-- Include uncertainty and counterexamples when relevant.
-- Avoid jargon, exaggerated claims, and unnecessary length.
-- Use a memorable phrase only when it clarifies the message.
+## Balasan ulasan pelanggan
+Pilih fungsi yang memang dibutuhkan:
+1. **Pengakuan:** terima kasih atas ulasan atau laporan.
+2. **Penegasan:** sebutkan pujian, kekhawatiran, atau kegagalan spesifik.
+3. **Tanggung jawab:** minta maaf jika bisnis memang melakukan kesalahan.
+4. **Penyelesaian:** jelaskan solusi yang tersedia dan cara memperolehnya.
+5. **Sinyal kepercayaan:** sebutkan tindakan perbaikan konkret jika berguna.
 
-## Self-introduction
+Tidak semua balasan memerlukan kelima unsur. Ulasan positif biasanya cukup diakui dan diperkuat. Kegagalan bisnis perlu diakui dan ditangani. Jangan menghilangkan hak pelanggan demi membuat balasan lebih pendek.
 
-Build a concise introduction around:
-- Who you are in the context that matters.
-- What you do or are working toward.
-- Relevant experience or evidence.
-- What kind of conversation or collaboration you are open to.
+Gunakan bahasa sehari-hari, hindari jargon perusahaan, pengulangan permintaan maaf, dan ajakan berlebihan. Pisahkan perhatian tambahan dari solusi yang memang menjadi hak pelanggan. Hapus kalimat yang tidak membantu mengakui, memahami, bertanggung jawab, menyelesaikan, atau membangun kepercayaan.
 
-Do not invent achievements or inflate credentials.
+## Penerapan dan batasan
+Sesuaikan panjang, kosakata, contoh, dan susunan dengan audiens serta kanal. Pertahankan maksud dan gaya pengguna. Jangan mengarang kisah, testimoni, kredensial, atau hasil. Jangan memakai cerita emosional untuk menutupi fakta penting. Lindungi privasi orang dalam contoh nyata.
 
-## AI application
+## Hubungan dengan skill lain
+Gunakan Komunikasi Efektif untuk menyesuaikan pesan, Komunikasi Persuasif untuk ajakan atau negosiasi, dan Berbicara di Depan Umum untuk penyampaian langsung.
 
-When drafting a speech, explanation, pitch, or introduction, adapt length, vocabulary, examples, and structure to the audience and channel. Preserve the user's real meaning and voice.
-
-## Safeguards
-
-Do not fabricate anecdotes, testimonials, credentials, or outcomes. Do not use emotional stories to conceal material facts or manipulate an audience. Protect other people's privacy when using real examples.
-
-## Relationship to other skills
-
-Use Effective Communication & First Impressions for audience fit, Persuasive Communication & Negotiation for decision-oriented messages, and Public Speaking & Speaking Confidence for live delivery.
-
-## Source integration: public-speaking presentation content
-
-This skill is additionally informed by the publicly listed chapter outline of *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (Checklist, ISBN 978-623-7661-09-2). Its catalogued outline includes presentation content and making presentations engaging. The complete book text has not been inspected, so this section translates only those stated themes into an original practical workflow.
-
-### Presentation-content design
-
-1. State the audience, purpose, and one main takeaway.
-2. Select only supporting points that help the audience understand or act on that takeaway.
-3. Arrange points in a sequence the audience can follow; explain unfamiliar terms before relying on them.
-4. Use relevant examples, evidence, or short stories to make abstract ideas concrete.
-5. Vary examples and delivery emphasis to maintain attention without adding decoration that distracts from the message.
-6. Include transitions so listeners understand how one point connects to the next.
-7. Close by restating the main takeaway and the action, decision, or reflection expected from the audience.
-
-An engaging presentation is not necessarily theatrical. Relevance, clarity, credible support, and audience comprehension matter more than spectacle.
-## Concise customer-review reply design
-
-When writing public replies to reviews, preserve the psychological purpose while removing unnecessary words. A short reply should not become a generic reply.
-
-### Build by communicative function
-
-Choose only the functions the situation needs:
-1. **Recognition:** thank the customer for sharing, reviewing, or reporting the issue.
-2. **Acknowledgment:** name the specific praise, concern, or failure.
-3. **Accountability:** apologize when the business caused a failure.
-4. **Resolution:** state the actual remedy and one clear way to claim it.
-5. **Trust signal:** mention one concrete corrective action when useful.
-
-Not every reply needs all five. Positive reviews usually need recognition and reinforcement. A business-caused failure needs acknowledgment, accountability, and resolution. Do not omit a fair remedy merely to make the reply shorter.
-
-### Ordering and tone
-
-- A thank-you may lead when it sincerely recognizes the customer's effort.
-- If the business caused harm, follow appreciation immediately with specific accountability; do not let gratitude sound like deflection.
-- Use everyday customer language and a respectful form of address.
-- Prefer concrete wording over corporate phrases such as “ketidaknyamanan yang terjadi.”
-- Avoid repeating the same apology, multiple calls to action, long explanations, and marketing jargon.
-- Keep goodwill separate from the remedy owed.
-
-### Editing test
-
-After drafting, remove any sentence that does not do at least one of these jobs: recognize, validate, take responsibility, resolve, or build credible trust. Keep the final reply easy to scan and faithful to the actual offer.
+## Batas sumber
+Sebagian tema berasal dari daftar topik buku yang tersedia untuk umum, bukan pemeriksaan teks lengkap. Panduan ini adalah sintesis praktik, bukan salinan atau rangkuman seluruh isi buku.
