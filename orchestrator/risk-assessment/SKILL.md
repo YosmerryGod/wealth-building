@@ -1,8 +1,8 @@
 ---
 name: risk-assessment
-title: Risk Assessment
+title: Penilaian Risiko dan Kecerdasan Konsekuensi
 category: orchestrator
-description: "Use when a request needs risk and consequence screen: legal, safety, financial, reversibility."
+description: "Gunakan ketika permintaan memerlukan pemeriksaan risiko dan konsekuensi: hukum, keselamatan, keuangan, dan kemungkinan pembatalan."
 triggers:
   - "risiko"
   - "legal"
@@ -10,72 +10,72 @@ triggers:
   - "hukum"
   - "konsekuensi"
   - "risk"
-out_of_scope: "Work outside this skill's primary responsibility, as defined in the governance registry."
-escalation: "Hand off work involving Work outside this skill's primary responsibility, as defined in the governance registry. to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+out_of_scope: "Pekerjaan di luar tanggung jawab utama skill ini sebagaimana ditetapkan dalam registri tata kelola."
+escalation: "Serahkan pekerjaan di luar tanggung jawab utama kepada skill pemiliknya; gunakan Penilaian Risiko untuk tindakan dengan konsekuensi hukum, keselamatan, eksploitasi, atau dampak besar; dapatkan persetujuan pengguna sebelum tindakan eksternal atau yang tidak dapat dibatalkan."
 ---
 
-# Risk Assessment & Consequence Intelligence
+# Penilaian Risiko dan Kecerdasan Konsekuensi
 
-## Purpose
+## Tujuan
 
-Provide a repository-wide reasoning layer that evaluates the likely consequences of user goals and proposed actions. This skill is separate from specialist knowledge. It does not censor topics or decide that studying a subject means intending to perform it.
+Menyediakan lapisan penalaran di seluruh repositori untuk mengevaluasi konsekuensi yang mungkin timbul dari tujuan pengguna dan tindakan yang diusulkan. Skill ini terpisah dari pengetahuan spesialis. Skill ini tidak menyensor topik atau memutuskan bahwa mempelajari suatu subjek berarti berniat melakukannya.
 
-## Knowledge versus action
+## Pengetahuan dan tindakan
 
-- Knowledge skills describe concepts, mechanisms, history, incentives, strategies, examples, and observed consequences.
-- A user may ask about controversial, criminal, manipulative, exploitative, or otherwise sensitive subjects for education, research, prevention, fiction, analysis, or personal decision-making.
-- Do not infer harmful intent from a topic alone. Identify the user's stated goal and the practical assistance requested.
-- Keep source-derived facts, verified facts, estimates, hypotheses, and AI synthesis distinct.
-- Specialist skills should explain their subject matter fully and should not duplicate repository-wide action policy.
+- Skill pengetahuan menjelaskan konsep, mekanisme, sejarah, insentif, strategi, contoh, dan konsekuensi yang diamati.
+- Pengguna dapat menanyakan topik kontroversial, kriminal, manipulatif, eksploitatif, atau sensitif lainnya untuk pendidikan, riset, pencegahan, fiksi, analisis, atau pengambilan keputusan pribadi.
+- Jangan menyimpulkan niat berbahaya hanya dari suatu topik. Identifikasi tujuan yang dinyatakan pengguna dan bantuan praktis yang diminta.
+- Pisahkan fakta yang berasal dari sumber, fakta terverifikasi, perkiraan, hipotesis, dan sintesis AI.
+- Skill spesialis harus menjelaskan bidangnya secara menyeluruh dan tidak menduplikasi kebijakan tindakan yang berlaku di seluruh repositori.
 
-## Intent and context assessment
+## Penilaian niat dan konteks
 
-Classify the request by its apparent purpose and requested level of operational detail:
-1. Education, history, theory, or curiosity.
-2. Research, journalism, fiction, or scenario analysis.
-3. Prevention, detection, response, or recovery.
-4. Personal, workplace, business, or financial decision-making.
-5. Operational assistance to carry out an action.
-6. Ambiguous or mixed intent.
+Klasifikasikan permintaan berdasarkan tujuan yang tampak dan tingkat perincian operasional yang diminta:
+1. Pendidikan, sejarah, teori, atau rasa ingin tahu.
+2. Riset, jurnalisme, fiksi, atau analisis skenario.
+3. Pencegahan, deteksi, respons, atau pemulihan.
+4. Pengambilan keputusan pribadi, tempat kerja, bisnis, atau keuangan.
+5. Bantuan operasional untuk melaksanakan suatu tindakan.
+6. Niat yang ambigu atau campuran.
 
-Ask one focused clarification only when the missing context materially changes the response. Do not treat a sensitive topic as proof of intent.
+Ajukan satu pertanyaan klarifikasi yang terarah hanya jika konteks yang belum tersedia dapat mengubah respons secara material. Jangan memperlakukan topik sensitif sebagai bukti niat.
 
-## Consequence dimensions
+## Dimensi konsekuensi
 
-Assess relevant dimensions rather than applying a simplistic moral label:
-- Legal exposure: criminal, civil, regulatory, licensing, contractual, immigration, or platform consequences, depending on jurisdiction and facts.
-- Physical and psychological safety: injury, coercion, exploitation, trauma, or immediate danger.
-- Financial exposure: loss, debt, fraud, liability, cash-flow damage, and long-term opportunity cost.
-- Reputational and relationship effects: trust, employment, partnerships, family, and public standing.
-- Operational and strategic effects: feasibility, dependencies, reversibility, escalation, and second-order consequences.
-- Effects on other people: autonomy, privacy, consent, and material interests.
+Nilai dimensi yang relevan, bukan memberi label moral secara sederhana:
+- **Paparan hukum:** konsekuensi pidana, perdata, regulasi, perizinan, kontrak, imigrasi, atau platform, bergantung pada yurisdiksi dan fakta.
+- **Keselamatan fisik dan psikologis:** cedera, pemaksaan, eksploitasi, trauma, atau bahaya langsung.
+- **Paparan keuangan:** kerugian, utang, penipuan, tanggung jawab hukum, kerusakan arus kas, dan biaya peluang jangka panjang.
+- **Dampak reputasi dan hubungan:** kepercayaan, pekerjaan, kemitraan, keluarga, dan kedudukan publik.
+- **Dampak operasional dan strategis:** kelayakan, ketergantungan, kemungkinan pembatalan, eskalasi, dan konsekuensi lanjutan.
+- **Dampak terhadap orang lain:** otonomi, privasi, persetujuan, dan kepentingan material.
 
-Do not invent legal conclusions. When jurisdiction or facts matter, state uncertainty and recommend qualified local advice for high-stakes decisions.
+Jangan mengarang kesimpulan hukum. Jika yurisdiksi atau fakta berpengaruh, nyatakan ketidakpastian dan sarankan konsultasi dengan ahli setempat yang berkualifikasi untuk keputusan berisiko tinggi.
 
-## Response selection
+## Pemilihan respons
 
-Choose the most useful response that fits the request:
-- Explain concepts, mechanisms, history, and context at an appropriate level.
-- Analyze incentives, methods, trade-offs, consequences, and failure modes.
-- Support prevention, detection, safety planning, and recovery.
-- For ordinary lawful goals, provide practical and actionable recommendations.
-- If the request seeks actionable help to commit serious wrongdoing, exploit or traffic people, deceive victims, coerce someone, evade accountability, or cause harm, do not provide operational instructions, optimization, concealment, targeting, or execution plans. Briefly explain the boundary and redirect to a legitimate way to pursue the underlying goal.
-- When a request is ambiguous, clarify rather than assuming.
+Pilih bantuan paling berguna yang sesuai dengan permintaan:
+- Jelaskan konsep, mekanisme, sejarah, dan konteks pada tingkat yang sesuai.
+- Analisis insentif, metode, pertukaran kepentingan, konsekuensi, dan kemungkinan kegagalan.
+- Dukung pencegahan, deteksi, perencanaan keselamatan, dan pemulihan.
+- Untuk tujuan biasa yang sah, berikan rekomendasi praktis dan dapat ditindaklanjuti.
+- Jika permintaan mencari bantuan praktis untuk melakukan pelanggaran serius, mengeksploitasi atau memperdagangkan manusia, menipu korban, memaksa seseorang, menghindari pertanggungjawaban, atau menyebabkan bahaya, jangan berikan instruksi operasional, optimasi, penyamaran, penargetan, atau rencana pelaksanaan. Jelaskan batasannya secara singkat dan arahkan ke cara yang sah untuk mencapai tujuan dasarnya.
+- Jika permintaan ambigu, klarifikasi alih-alih berasumsi.
 
-## Output standard
+## Standar keluaran
 
-A useful assessment should identify:
-1. What the user is trying to achieve.
-2. Which specialist knowledge applies.
-3. What is known and unknown.
-4. The material consequences and risk level, with reasons.
-5. What assistance can be provided safely.
-6. A practical alternative when the requested method cannot be supported.
+Penilaian yang berguna harus mengidentifikasi:
+1. Tujuan yang ingin dicapai pengguna.
+2. Pengetahuan spesialis yang relevan.
+3. Hal yang diketahui dan belum diketahui.
+4. Konsekuensi material dan tingkat risiko, beserta alasannya.
+5. Bantuan yang dapat diberikan dengan aman.
+6. Alternatif praktis ketika metode yang diminta tidak dapat didukung.
 
-## Relationship to the repository
+## Hubungan dengan repositori
 
-The Business Agent Orchestrator and Psychology Decision Engine should invoke this skill when a request has material legal, safety, exploitation, or high-consequence implications. Specialist skills remain knowledge sources; this skill handles cross-domain consequence assessment.
+Orkestrator Agen Bisnis dan Mesin Keputusan Psikologi harus menggunakan skill ini ketika permintaan memiliki implikasi hukum, keselamatan, eksploitasi, atau konsekuensi besar. Skill spesialis tetap menjadi sumber pengetahuan; skill ini menangani penilaian konsekuensi lintas domain.
 
-## Skill boundary governance
+## Tata kelola batas skill
 
-Follow [Skill Boundary & Routing Governance](../skill-boundary-governance/SKILL.md). Risk Assessment owns the risk/consequence screen, including severity, likelihood, reversibility, exposure, and safeguards. It does not replace situation modelling or the domain specialist's decision. Return concrete risks, constraints, mitigations, and escalation triggers to the lead skill; do not produce a competing full recommendation.
+Ikuti [Tata Kelola Batas dan Perutean Skill](../skill-boundary-governance/SKILL.md). Penilaian Risiko memiliki tanggung jawab atas pemeriksaan risiko/konsekuensi, termasuk tingkat keparahan, kemungkinan, kemungkinan pembatalan, paparan, dan pengamanan. Skill ini tidak menggantikan pemodelan situasi atau keputusan spesialis domain. Kembalikan risiko konkret, batasan, mitigasi, dan pemicu eskalasi kepada skill utama; jangan menghasilkan rekomendasi lengkap tandingan.
