@@ -139,7 +139,7 @@ Sebelum menjawab:
 
 - [Pemahaman Konteks dan Inferensi Maksud](../contextual-understanding/SKILL.md) menyediakan riwayat percakapan, tujuan, batasan, dan keputusan sebelumnya yang relevan.
 - [Lapisan Kecerdasan Perilaku Manusia](../human-behavior-intelligence/SKILL.md) mengoordinasikan situasi manusia yang kompleks dengan banyak faktor perilaku, hubungan, sosial, atau kekuasaan.
-- [Mesin Keputusan Komunikasi](../../skills/communication/communication-decision-engine/SKILL.md) memilih pendekatan komunikasi dan teknik spesialis.
+- [Mesin Keputusan Komunikasi](../../skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md) memilih pendekatan komunikasi dan teknik spesialis.
 - [Mesin Keputusan Psikologi](../../skills/psychology/psychology-decision-engine/SKILL.md) memilih pengetahuan psikologis dan penafsiran perilaku yang relevan.
 - [Gaya Interaksi Pendamping](../companion-interaction-style/SKILL.md) mengatur bagaimana respons akhir dirasakan pengguna.
 
