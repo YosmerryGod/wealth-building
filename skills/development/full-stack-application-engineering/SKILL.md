@@ -1,33 +1,39 @@
 ---
 name: full-stack-application-engineering
-title: Full-Stack Application Engineering
+title: Rekayasa Aplikasi Full-Stack
 category: development
 subcategory: application-implementation
 source_type: original-adaptation-from-replica-skill
-language: English
-description: "Use when implementing application screens, routes, components, and end-to-end user flows from approved requirements and architecture."
-triggers: ["bangun aplikasi","implementasi frontend backend","buat halaman aplikasi","coding fitur","build application"]
-out_of_scope: "Product discovery, architecture decisions without context, specialist backend security, or production release approval"
-escalation: "Use Application Architecture Planning for unresolved architecture, Backend Engineering for auth/data/integrations, Frontend Design for visual direction, QA for verification, and Risk Assessment for high-consequence changes."
+language: Indonesian
+description: "Gunakan untuk mengimplementasikan layar, rute, komponen, dan alur pengguna menyeluruh berdasarkan kebutuhan, arsitektur, serta desain yang disetujui."
+triggers: ["bangun aplikasi","implementasi frontend backend","buat halaman aplikasi","coding fitur","implementasi fitur"]
+out_of_scope: "Penemuan produk, keputusan arsitektur tanpa konteks, kepemilikan khusus keamanan backend, atau persetujuan rilis produksi"
+escalation: "Gunakan Perencanaan Arsitektur Aplikasi untuk keputusan arsitektur yang belum selesai, Rekayasa Backend untuk autentikasi/data/integrasi, Desain Frontend untuk arah visual, QA untuk verifikasi, serta Penilaian Risiko untuk perubahan berdampak tinggi."
 ---
 
-# Full-Stack Application Engineering
+# Rekayasa Aplikasi Full-Stack
 
-## Purpose
-Implement a working product from approved requirements, architecture, and design contracts. Prioritize complete user outcomes over isolated mockups or disconnected code.
+## Tujuan
+Membangun produk yang benar-benar berfungsi berdasarkan kebutuhan, arsitektur, dan kontrak desain yang disetujui. Utamakan penyelesaian kebutuhan pengguna secara utuh, bukan sekadar mockup atau komponen yang terpisah.
 
-## Preconditions
-Read the actual project and relevant files before editing. Reuse its framework, conventions, components, tests, package manager, and deployment assumptions. If requirements or architecture are missing, resolve the smallest blocking uncertainty before broad implementation.
+## Prasyarat
+Baca repositori dan berkas yang benar-benar digunakan sebelum mengedit. Pertahankan framework, konvensi, komponen, pengujian, package manager, dan asumsi deployment yang sudah ada. Jika kebutuhan atau arsitektur belum jelas, selesaikan hanya ketidakpastian terkecil yang menghambat pekerjaan sebelum implementasi luas.
 
-## Method
-1. **Implementation contract:** identify target screen/flow, acceptance criteria, data source, routes, permissions, loading/error/empty states, responsive requirements, and allowed file scope.
-2. **Vertical slice:** implement one complete path through input, validation, processing, persistence (or clearly labelled temporary state), and visible outcome.
-3. **Dependency order:** app shell/routes; accessible primitives; core flow/data contracts; must-have screens; edge states/responsiveness; optional features.
-4. **Engineering standards:** semantic HTML, accessible names, server-side validation at trust boundaries, secrets kept server-side, explicit errors, clear data/domain/presentation boundaries, stable identifiers, safe constraints, proportionate dependencies, and tests for changed behavior.
-5. **Delivery evidence:** update feature status only when acceptance criteria pass. Record changed files, decisions, commands actually run, test results, limitations, and next work.
+## Metode
+1. **Kontrak implementasi:** tentukan layar/alur sasaran, kriteria penerimaan, sumber data, rute, izin, status memuat/kosong/gagal/berhasil, kebutuhan responsif, serta batas berkas yang boleh diubah.
+2. **Irisan vertikal:** implementasikan satu jalur lengkap dari masukan, validasi, pemrosesan, penyimpanan (atau status sementara yang diberi label jelas), hingga hasil yang terlihat pengguna.
+3. **Urutan dependensi:** kerangka aplikasi dan rute; komponen dasar yang aksesibel; kontrak data dan alur inti; layar wajib; kondisi tepi dan responsivitas; fitur opsional.
+4. **Standar rekayasa:** gunakan HTML semantik, nama aksesibel, validasi sisi server pada batas kepercayaan, rahasiakan kredensial di sisi server, tampilkan kesalahan secara jelas, pisahkan domain/data/presentasi, gunakan ID stabil, constraint aman, dependensi secukupnya, dan pengujian untuk perilaku yang berubah.
+5. **Disiplin cakupan:** ubah hanya bagian yang diminta dan diperlukan. Jangan mengganti stack, merombak struktur, menghapus fitur, atau mengubah perilaku lain tanpa alasan dan persetujuan yang sesuai.
+6. **Bukti hasil:** ubah status fitur hanya setelah kriteria penerimaan lulus. Catat berkas yang berubah, keputusan, perintah yang benar-benar dijalankan, hasil tes, keterbatasan, dan pekerjaan berikutnya.
 
-## Output
-Provide complete requested implementation/patch, concise change summary, exact validation commands and observed results, remaining gaps, and next dependency. Never claim tests/builds passed unless executed.
+## Keluaran
+Implementasi atau patch lengkap sesuai cakupan, ringkasan perubahan, perintah validasi beserta hasil yang diamati, celah yang tersisa, dan dependensi berikutnya. Jangan mengklaim build atau tes berhasil jika belum dijalankan.
 
-## Relationships
-Application Architecture Planning owns system design. Frontend Design owns visual direction. Backend Engineering owns backend security/integrations. QA owns independent verification. This skill owns scoped product implementation and integration.
+## Batas tanggung jawab
+- Perencanaan Arsitektur Aplikasi memiliki rancangan sistem dan kontrak.
+- Desain Frontend memiliki arah visual dan aturan pengalaman antarmuka.
+- Rekayasa Backend memiliki autentikasi, otorisasi, keamanan data, dan integrasi server.
+- QA memiliki verifikasi independen dan bukti cacat.
+- Skill ini memiliki implementasi fitur serta integrasi alur aplikasi dalam cakupan yang disetujui.
+- Rekayasa Deployment dan Rilis memiliki kesiapan dan pelaksanaan rilis produksi.
