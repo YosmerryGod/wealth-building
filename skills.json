@@ -107,14 +107,14 @@
       "id": "application-architecture-planning",
       "domain": "development",
       "path": "skills/development/application-architecture-planning/SKILL.md",
-      "owns": "tumpukan teknologi, batas sistem, skema basis data, kontrak API, model akses, dan urutan implementasi",
+      "owns": "keputusan arsitektur sistem, pemilihan stack, batas layanan, model data, kontrak API, akses, dan urutan pembangunan",
       "triggers": [
         "arsitektur aplikasi",
         "stack aplikasi",
         "rancang database",
-        "schema database",
+        "skema database",
         "desain API",
-        "arsitektur aplikasi"
+        "arsitektur sistem"
       ]
     },
     {
@@ -184,7 +184,7 @@
       "id": "backend-engineering-and-integrations",
       "domain": "development",
       "path": "skills/development/backend-engineering-and-integrations/SKILL.md",
-      "owns": "autentikasi sisi server, otorisasi, basis data, pembayaran, webhook, pekerjaan terjadwal, penyimpanan, dan integrasi",
+      "owns": "implementasi sisi server: autentikasi, otorisasi, keamanan data, migrasi, pembayaran, webhook, job, penyimpanan, dan integrasi",
       "triggers": [
         "buat backend",
         "login register",
@@ -192,7 +192,7 @@
         "database aplikasi",
         "payment gateway",
         "webhook",
-        "backend engineering"
+        "rekayasa backend"
       ]
     },
     {
@@ -620,13 +620,13 @@
       "id": "full-stack-application-engineering",
       "domain": "development",
       "path": "skills/development/full-stack-application-engineering/SKILL.md",
-      "owns": "implementasi terukur untuk layar, rute, komponen, dan alur pengguna menyeluruh",
+      "owns": "implementasi fitur dan integrasi alur aplikasi berdasarkan kebutuhan, arsitektur, serta desain yang disetujui",
       "triggers": [
         "bangun aplikasi",
         "implementasi frontend backend",
         "buat halaman aplikasi",
         "coding fitur",
-        "bangun aplikasi"
+        "implementasi fitur"
       ]
     },
     {
