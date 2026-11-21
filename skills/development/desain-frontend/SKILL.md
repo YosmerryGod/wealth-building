@@ -40,7 +40,7 @@ Pilih pembuka yang paling mewakili nilai produk: judul, gambar, demo, interaksi,
 
 ## 5. Gerak dan konten antarmuka
 
-Batasi animasi otomatis. Gerak akibat tindakan pengguna berguna bila menjelaskan perubahan, seperti panel terbuka atau penyimpanan berhasil. Jangan menghalangi konten atau memperlambat tugas. Gunakan [Micro-Interactions & UI Feedback Design](../micro-interactions-and-ui-feedback/SKILL.md) untuk pola feedback dan [Modern Web Navigation & Interaction Patterns](../modern-web-navigation-patterns/SKILL.md) untuk navigasi.
+Batasi animasi otomatis. Gerak akibat tindakan pengguna berguna bila menjelaskan perubahan, seperti panel terbuka atau penyimpanan berhasil. Jangan menghalangi konten atau memperlambat tugas. Gunakan [Micro-Interactions & UI Feedback Design](../interaksi-mikro-dan-umpan-balik-antarmuka/SKILL.md) untuk pola feedback dan [Modern Web Navigation & Interaction Patterns](../pola-navigasi-web-modern/SKILL.md) untuk navigasi.
 
 ## 6. Validasi rencana sebelum coding
 
