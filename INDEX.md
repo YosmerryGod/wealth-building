@@ -135,7 +135,7 @@ Dihasilkan dari `skills.json` dan diperiksa terhadap struktur berkas repositori.
 | Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan | penanganan keluhan individual, solusi yang proporsional, balasan publik, tindak lanjut, pemulihan | komplain, ulasan buruk, pengembalian dana, pelanggan kecewa, balas ulasan, keluhan individual | [SKILL.md](skills/marketing/pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan/SKILL.md) |
 | Rekayasa Konten Viral dan Psikologi Perhatian | pembuka, perhatian, kemudahan dibagikan, pengulangan konten | konten viral, FYP, pembuka konten | [SKILL.md](skills/marketing/rekayasa-konten-viral-dan-psikologi-perhatian/SKILL.md) |
 | Pemasaran Acara Viral dan Monetisasi Konten | rencana terpadu dari acara menjadi konten lalu pendapatan | acara jadi konten, monetisasi acara | [SKILL.md](skills/marketing/pemasaran-acara-viral-dan-monetisasi-konten/SKILL.md) |
-| Getok Tular dan Advokasi Merek | rekomendasi organik dan reputasi yang dibangun pelanggan | dari mulut ke mulut, pelanggan setia, rekomendasi | [SKILL.md](skills/marketing/word-of-mouth-and-brand-advocacy/SKILL.md) |
+| Getok Tular dan Advokasi Merek | rekomendasi organik dan reputasi yang dibangun pelanggan | dari mulut ke mulut, pelanggan setia, rekomendasi | [SKILL.md](skills/marketing/getok-tular-dan-advokasi-merek/SKILL.md) |
 
 ## Psikologi
 
