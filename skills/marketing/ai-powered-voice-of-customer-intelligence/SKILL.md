@@ -54,7 +54,7 @@ Use this skill when the task concerns **patterns across many customers, feedback
 
 Use [Service Recovery Marketing & Trust Building](service-recovery-marketing-and-trust-building/SKILL.md) when one customer's specific complaint requires acknowledgment, a fair remedy, follow-up, or a public reply. That skill remains authoritative for its public-reply output contract.
 
-Use [Business Operations & Scaling](../business/../business-operations-and-scaling/SKILL.md) when the business needs to investigate or change staffing, workflow, capacity, equipment, menu/process design, quality controls, or fulfilment.
+Use [Business Operations & Scaling](../business/business-operations-and-scaling/SKILL.md) when the business needs to investigate or change staffing, workflow, capacity, equipment, menu/process design, quality controls, or fulfilment.
 
 This skill may identify that waiting time is the most frequently reported issue; it does not decide an individual customer's compensation or dictate the operational fix without validation.
 
