@@ -259,7 +259,7 @@
     {
       "id": "business-model-innovation-and-asset-monetization",
       "domain": "business",
-      "path": "skills/business/business-model-innovation-and-asset-monetization/SKILL.md",
+      "path": "skills/bisnis/inovasi-model-bisnis-dan-monetisasi-aset/SKILL.md",
       "owns": "perbandingan model penjualan, penyewaan, langganan, dan pembayaran per penggunaan untuk aset yang dapat digunakan kembali",
       "triggers": [
         "sewa",
@@ -271,7 +271,7 @@
     {
       "id": "business-operations-and-scaling",
       "domain": "business",
-      "path": "skills/business/business-operations-and-scaling/SKILL.md",
+      "path": "skills/bisnis/operasional-dan-pengembangan-skala-bisnis/SKILL.md",
       "owns": "proses, kapasitas, mutu, tenaga kerja, persediaan, dan peningkatan skala usaha",
       "triggers": [
         "operasional",
@@ -301,7 +301,7 @@
     {
       "id": "business-ownership-and-equity",
       "domain": "business",
-      "path": "skills/business/business-ownership-and-equity/SKILL.md",
+      "path": "skills/bisnis/dasar-kepemilikan-bisnis-dan-ekuitas/SKILL.md",
       "owns": "konsep kepemilikan, ekuitas, saham, dan tata kelola",
       "triggers": [
         "saham",
@@ -715,7 +715,7 @@
     {
       "id": "innovation-and-competitive-advantage-strategy",
       "domain": "business",
-      "path": "skills/business/innovation-and-competitive-advantage-strategy/SKILL.md",
+      "path": "skills/bisnis/strategi-inovasi-dan-keunggulan-bersaing/SKILL.md",
       "owns": "diferensiasi strategis, pemusatan posisi pasar, dan daya tahan keunggulan bersaing berbasis bukti",
       "triggers": [
         "keunggulan kompetitif",
