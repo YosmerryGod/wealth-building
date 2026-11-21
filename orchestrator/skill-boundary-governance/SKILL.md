@@ -206,7 +206,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan | triase keluhan individual, pemulihan proporsional, balasan publik sesuai kontrak, tindak lanjut, dan pemulihan layanan | analisis umpan balik agregat, kompensasi otomatis, atau PR umum nonlayanan |
 | Rekayasa Konten Viral dan Psikologi Perhatian | pembuka, perhatian, struktur konten, potensi berbagi, dan iterasi | operasional acara atau monetisasi acara menyeluruh |
 | Pemasaran Acara Viral dan Monetisasi Konten | rencana terpadu acara, konten, distribusi, monetisasi, biaya, dan keselamatan | menggantikan metode spesialis acara, konten, keuangan, dan pertumbuhan |
-| Getok Tular dan Advokasi Merek | Organic recommendations, referral advocacy, and customer-led reputation | Paid influencer campaigns or remedy authority |
+| Getok Tular dan Advokasi Merek | rekomendasi organik, advokasi rujukan, dan reputasi yang digerakkan pelanggan | kampanye influencer berbayar atau kewenangan pemulihan keluhan |
 
 ### Psychology
 
