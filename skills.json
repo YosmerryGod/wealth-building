@@ -209,26 +209,26 @@
       "id": "kesadaran-dan-aktivasi-merek",
       "domain": "marketing",
       "path": "skills/marketing/kesadaran-dan-aktivasi-merek/SKILL.md",
-      "owns": "ingatan merek, tujuan kesadaran merek, dan pengalaman aktivasi",
+      "owns": "ingatan, posisi, asosiasi, dan aktivasi merek",
       "triggers": [
-        "brand awareness",
-        "dikenal orang",
+        "kesadaran merek",
+        "dikenal pelanggan",
         "branding",
         "citra merek",
-        "persepsi merek",
-        "brand positioning"
+        "posisi merek"
       ]
     },
     {
       "id": "komunikasi-merek-dan-hubungan-masyarakat",
       "domain": "marketing",
       "path": "skills/marketing/komunikasi-merek-dan-hubungan-masyarakat/SKILL.md",
-      "owns": "narasi merek, pesan publik, dan komunikasi reputasi",
+      "owns": "narasi merek, pesan publik, hubungan media, dan komunikasi reputasi",
       "triggers": [
-        "citra brand",
+        "komunikasi merek",
+        "hubungan masyarakat",
         "media",
         "krisis reputasi",
-        "PR"
+        "siaran pers"
       ]
     },
     {
@@ -349,11 +349,12 @@
       "id": "psikologi-konsumen-dan-persuasi",
       "domain": "marketing",
       "path": "skills/marketing/psikologi-konsumen-dan-persuasi/SKILL.md",
-      "owns": "variabel keputusan pembeli, persepsi nilai, dan persuasi etis",
+      "owns": "faktor keputusan pembeli, persepsi nilai, dan persuasi pemasaran etis",
       "triggers": [
         "psikologi pembeli",
         "harga psikologis",
-        "kenapa orang beli",
+        "kenapa orang membeli",
+        "bukti sosial",
         "kelangkaan"
       ]
     },
@@ -460,16 +461,15 @@
       "id": "kesadaran-merek-digital-dan-strategi-kanal",
       "domain": "marketing",
       "path": "skills/marketing/kesadaran-merek-digital-dan-strategi-kanal/SKILL.md",
-      "owns": "kehadiran digital, pemasaran langsung, pesan berbasis izin, dan peran platform",
+      "owns": "kehadiran digital, peran kanal, pemasaran langsung berbasis izin, dan pesan digital",
       "triggers": [
         "media sosial",
-        "instagram usaha",
+        "Instagram usaha",
         "konten digital",
-        "google bisnis",
+        "Google Bisnis",
         "pemasaran langsung",
-        "pemasaran langsung",
-        "pemasaran melalui surel",
-        "pemasaran WhatsApp"
+        "pemasaran WhatsApp",
+        "pemasaran surel"
       ]
     },
     {
@@ -537,12 +537,13 @@
       "id": "pemasaran-berbasis-pengalaman-dan-acara",
       "domain": "marketing",
       "path": "skills/marketing/pemasaran-berbasis-pengalaman-dan-acara/SKILL.md",
-      "owns": "pengalaman merek, uji coba, gerai sementara, dan acara",
+      "owns": "rancangan pengalaman peserta, uji coba produk, aktivasi, dan pelaksanaan acara",
       "triggers": [
         "bazar",
         "gerai sementara",
         "tester gratis",
-        "acara promosi"
+        "acara promosi",
+        "aktivasi langsung"
       ]
     },
     {
