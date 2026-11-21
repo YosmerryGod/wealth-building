@@ -1,69 +1,60 @@
 ---
 name: vocal-and-nonverbal-delivery
-title: Vocal & Nonverbal Delivery
+title: Penyampaian Vokal dan Nonverbal
 category: communication
 subcategory: voice-and-body-language
-source_type: book-inspired-framework-and-operational-synthesis
-source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); vocal delivery and nonverbal communication themes
-language: English
-description: "Use when a request needs voice, gesture, posture, delivery cues."
+source_type: sintesis-praktis-berbasis-buku
+source: *Bicara Itu Ada Seninya* karya Oh Su Hyang; tema tambahan dari *Rahasia Lancar Berkomunikasi*, *Seni Membangun Relasi*, dan *Cara Mudah & Praktis Belajar Public Speaking* karya Mulasih Tary dan Devi Ardiyanti.
+language: Indonesian
+description: "Gunakan untuk melatih suara, intonasi, gestur, postur, dan cara menyampaikan pesan."
 triggers:
   - "intonasi"
   - "bahasa tubuh"
   - "suara"
-  - "gesture"
-out_of_scope: "Inferring hidden thoughts or designing message content"
-escalation: "Hand off work involving Inferring hidden thoughts or designing message content to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+  - "gestur"
+out_of_scope: "Menebak pikiran tersembunyi atau menyusun isi pesan"
+escalation: "Serahkan penyusunan isi pesan kepada Perancangan Pesan dan penafsiran perilaku kepada skill psikologi terkait. Gunakan Penilaian Risiko untuk tindakan berkonsekuensi besar."
 ---
 
-# Vocal & Nonverbal Delivery
+# Penyampaian Vokal dan Nonverbal
 
-## Purpose
+## Tujuan
+Membantu pengguna menyampaikan pesan lisan agar mudah diikuti melalui pengaturan suara, tempo, artikulasi, jeda, dan perilaku nonverbal yang selaras.
 
-Help users make spoken communication easier to follow through appropriate voice, pace, articulation, pauses, and congruent nonverbal behavior.
+## Unsur vokal
+- **Tempo:** perlambat saat menjelaskan hal rumit atau penting; hindari nada datar yang tidak alami.
+- **Volume:** bicara cukup jelas untuk situasi tanpa mendominasi orang lain.
+- **Artikulasi:** ucapkan kata dengan jelas agar mudah dipahami.
+- **Jeda:** gunakan jeda singkat untuk memisahkan gagasan dan memberi waktu berpikir.
+- **Penekanan:** tekankan kata penting secukupnya agar tetap alami.
+- **Nada:** sesuaikan keseriusan, keramahan, dan energi dengan konteks.
 
-## Vocal elements
+## Unsur nonverbal
+Perhatikan postur, ekspresi wajah, gestur, kontak mata, dan jarak fisik. Maknanya dapat berbeda menurut budaya dan individu. Isyarat ini dapat mendukung atau mengganggu pesan, tetapi tidak dapat memastikan isi pikiran seseorang.
 
-- **Pace:** slow down for complex or important points; avoid an unnatural monotone.
-- **Volume:** speak audibly for the setting without overpowering others.
-- **Articulation:** pronounce words clearly enough for the audience.
-- **Pauses:** use short pauses to separate ideas and allow processing.
-- **Emphasis:** stress key words sparingly so the message remains natural.
-- **Tone:** match seriousness, warmth, and energy to the context.
+## Latihan
+1. Rekam penjelasan singkat.
+2. Dengarkan kejelasan, tempo, kata pengisi, dan susunan kalimat.
+3. Pilih satu hal yang perlu diperbaiki.
+4. Ulangi dengan membayangkan audiens atau situasi berbeda.
+5. Minta masukan spesifik dari orang tepercaya.
+6. Nilai perkembangan dari beberapa percobaan, bukan satu penampilan.
 
-## Nonverbal elements
+## Menyesuaikan situasi
+Presentasi, wawancara kerja, percakapan pelanggan, rapat daring, dan pembicaraan pribadi membutuhkan energi, volume, kontak mata, serta formalitas yang berbeda. Jangan menerapkan gaya panggung pada semua percakapan.
 
-Consider posture, facial expression, gestures, eye contact, and physical distance. These cues are culturally and individually variable. They can support or distract from the spoken message, but they do not reveal a person's thoughts with certainty.
+## Penyampaian nonverbal yang sesuai konteks
+- Pertimbangkan postur, ekspresi, gestur, kontak mata, jarak fisik, dan nada suara sebagai satu kesatuan konteks.
+- Sesuaikan cara penyampaian dengan situasi, budaya, kebutuhan aksesibilitas, dan kenyamanan lawan bicara.
+- Gunakan isyarat nonverbal untuk mendukung kejelasan dan perhatian, bukan membangun persona palsu.
+- Tafsirkan isyarat secara hati-hati. Tatapan, diam, gestur, atau postur tidak cukup untuk menyimpulkan pikiran maupun kejujuran.
+- Jika ucapan dan isyarat tampak tidak selaras, ajukan pertanyaan klarifikasi dengan hormat daripada mengklaim mengetahui perasaan tersembunyi.
 
-## Practice routine
+## Batasan
+Jangan mengklaim tinggi-rendah suara, aksen, gestur, atau jumlah kontak mata tertentu menjamin kredibilitas maupun ketertarikan. Hormati disabilitas, neurodiversitas, budaya, dan kenyamanan pribadi. Bahasa tubuh bukan alat pendeteksi kebohongan.
 
-1. Record a short explanation.
-2. Listen for clarity, pace, filler words, and structure.
-3. Identify one improvement at a time.
-4. Repeat with a different audience or setting in mind.
-5. Ask a trusted listener for specific feedback.
-6. Review progress over multiple attempts rather than judging one performance.
+## Hubungan dengan skill lain
+Gunakan Perancangan Pesan untuk isi pembicaraan dan Berbicara di Depan Umum untuk latihan penampilan serta pengelolaan rasa gugup.
 
-## Context adaptation
-
-A presentation, job interview, customer conversation, online meeting, and private discussion require different levels of energy, volume, eye contact, and formality. Do not apply stage-performance behaviors to every conversation.
-
-## Safeguards
-
-Do not claim that a particular voice pitch, accent, gesture, or amount of eye contact guarantees credibility or attraction. Respect disability, neurodiversity, culture, and personal comfort. Do not interpret nonverbal behavior as a lie detector.
-
-## Relationship to other skills
-
-Use Message Design & Storytelling for content structure and Public Speaking & Speaking Confidence for live performance and anxiety practice.
-
-## Source integration: nonverbal communication and adaptation
-
-This skill is additionally informed by the publicly listed topics in *Seni Membangun Relasi* by Devi Ardiyanti (Checklist, ISBN 978-623-7661-77-1), which include nonverbal ability, adaptation, communication, and interpersonal communication. The complete book text has not been inspected; this is an original operational synthesis of those catalogued topics.
-
-### Context-sensitive nonverbal delivery
-
-- Consider posture, facial expression, gesture, eye contact, physical distance, and vocal tone as parts of the communication context.
-- Adapt delivery to the setting, cultural expectations, accessibility needs, and the other person's comfort.
-- Use nonverbal cues to support clarity and attentiveness, not to create a false persona.
-- Interpret cues cautiously: a gesture, gaze pattern, silence, or posture does not reliably reveal a person's thoughts or honesty by itself.
-- If words and nonverbal cues appear inconsistent, ask a respectful clarifying question instead of declaring what the person secretly feels.
+## Batas sumber
+Skill ini merupakan sintesis praktik dari tema komunikasi nonverbal dan adaptasi yang tercantum dalam sumber. Teks lengkap buku tambahan belum diperiksa.
