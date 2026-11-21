@@ -1,89 +1,75 @@
 ---
 name: public-speaking-and-speaking-confidence
-title: Public Speaking & Speaking Confidence
+title: Berbicara di Depan Umum dan Kepercayaan Diri
 category: communication
 subcategory: public-speaking-and-confidence
-source_type: book-inspired-framework-and-operational-synthesis
-source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); speaking confidence and practice themes
-language: English
-description: "Use when a request needs preparation, rehearsal, live speaking."
+source_type: sintesis-praktis-berbasis-buku
+source: *Bicara Itu Ada Seninya* karya Oh Su Hyang; tema tambahan dari *Rahasia Lancar Berkomunikasi*, *Seni Membangun Relasi*, dan *Cara Mudah & Praktis Belajar Public Speaking* karya Mulasih Tary dan Devi Ardiyanti.
+language: Indonesian
+description: "Gunakan untuk persiapan, latihan, dan penyampaian saat berbicara di depan orang."
 triggers:
   - "pidato"
   - "bicara di depan"
   - "grogi"
-  - "public speaking"
-out_of_scope: "Message strategy ownership or interface content"
-escalation: "Hand off work involving Message strategy ownership or interface content to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+  - "berbicara di depan umum"
+out_of_scope: "Strategi isi pesan atau desain konten antarmuka"
+escalation: "Serahkan strategi isi kepada Perancangan Pesan. Jika kecemasan berat dan mengganggu kehidupan, sarankan bantuan profesional yang sesuai; latihan berbicara bukan pengganti perawatan."
 ---
 
-# Public Speaking & Speaking Confidence
+# Berbicara di Depan Umum dan Kepercayaan Diri
 
-## Purpose
+## Tujuan
+Membantu pengguna meningkatkan kemampuan dan kepercayaan diri saat berbicara melalui persiapan, latihan terarah, dan paparan bertahap. Kepercayaan diri dapat dilatih, bukan sifat bawaan yang tetap.
 
-Help users develop confidence and competence in speaking situations through preparation, deliberate practice, and gradual exposure. Confidence is treated as trainable, not as a fixed inborn trait.
+## Alur persiapan
+1. Kenali audiens, tujuan, batas waktu, dan hasil yang diharapkan.
+2. Tentukan satu pesan utama.
+3. Susun pembukaan, poin penting, contoh, dan penutup.
+4. Siapkan bukti serta antisipasi pertanyaan yang masuk akal.
+5. Berlatih dengan suara, bukan hanya membaca dalam hati.
+6. Hitung durasi dan sederhanakan bagian yang terlalu panjang.
+7. Gunakan catatan sebagai pengingat, bukan naskah penuh jika tidak diperlukan.
+8. Periksa peralatan, ruangan, dan kebutuhan aksesibilitas.
 
-## Preparation workflow
+## Mengelola rasa gugup
+- Rasa gugup dalam kadar tertentu adalah hal wajar dan tidak otomatis berarti penampilan buruk.
+- Siapkan pembukaan dan transisi agar awal bicara lebih mudah.
+- Mulai latihan dalam situasi berisiko rendah sebelum tampil di situasi penting.
+- Gunakan napas perlahan dan tempo nyaman jika membantu.
+- Fokus pada manfaat bagi audiens, bukan mengawasi setiap kekurangan diri.
+- Setelah selesai, catat satu hal yang sudah baik dan satu perbaikan spesifik.
 
-1. Clarify the audience, purpose, time limit, and desired outcome.
-2. Select one central message.
-3. Organize the talk into an opening, key points, examples, and conclusion.
-4. Prepare evidence and anticipate reasonable questions.
-5. Rehearse aloud, not only by reading silently.
-6. Time the presentation and simplify where necessary.
-7. Prepare notes as prompts rather than a full script when appropriate.
-8. Check equipment, room, and accessibility needs.
+Jika kecemasan berat, menetap, atau sangat mengganggu kehidupan sehari-hari, sarankan bantuan tenaga kesehatan mental yang kompeten. Jangan menyajikan latihan pidato sebagai terapi.
 
-## Managing speaking anxiety
+## Latihan bertahap
+- Jelaskan satu gagasan selama satu menit kepada diri sendiri.
+- Rekam video atau audio singkat.
+- Sampaikan kepada satu orang tepercaya.
+- Berbicara di kelompok kecil.
+- Bawakan presentasi terstruktur.
+- Latih sesi tanya jawab.
 
-- Normalize some nervousness; it does not automatically mean poor performance.
-- Prepare the opening and transitions.
-- Practice in low-stakes settings before higher-stakes events.
-- Use slow breathing and a comfortable pace if helpful.
-- Focus attention on serving the audience rather than monitoring every perceived flaw.
-- Afterward, record one strength and one specific improvement.
+Tingkatkan kesulitan secara bertahap sesuai kenyamanan dan keadaan pengguna.
 
-If anxiety is severe, persistent, or significantly impairs daily life, encourage support from a qualified mental-health professional rather than presenting speaking drills as treatment.
+## Menghadapi situasi berbeda
+Kenali apakah situasinya presentasi, rapat, perkenalan, wawancara, pidato, atau sesi tanya jawab. Sesuaikan persiapan, bukan memakai satu naskah untuk semua keadaan.
 
-## Deliberate practice
+- Buka dengan jelas dan jelaskan relevansi topik.
+- Susun isi dalam beberapa poin yang saling terhubung.
+- Pilih contoh sesuai pengetahuan audiens.
+- Siapkan pertanyaan yang mungkin muncul dan akui jika belum mengetahui jawabannya.
+- Jika dipotong atau ditantang, berhenti sejenak, pahami pertanyaan, lalu jawab inti persoalan.
+- Jika salah, koreksi dengan tenang dan lanjutkan.
+- Latih gagasan yang sama dalam durasi dan situasi berbeda agar mampu beradaptasi, bukan sekadar menghafal.
 
-Build a progression:
-- Explain an idea for one minute to yourself.
-- Record a short video or audio.
-- Present to one trusted person.
-- Speak in a small group.
-- Deliver a structured presentation.
-- Handle questions and discussion.
+## Evaluasi
+Nilai kejelasan, struktur, relevansi, bukti, ketepatan waktu, pemahaman audiens, dan kemampuan menjawab pertanyaan. Jangan mengukur keberhasilan hanya dari tepuk tangan, karisma, atau persetujuan audiens.
 
-Increase difficulty gradually and adapt the pace to the user's comfort and circumstances.
+## Batasan
+Jangan merendahkan aksen, perbedaan bicara, gagap, disabilitas, atau rasa gugup. Jangan menjanjikan latihan menghilangkan seluruh kecemasan atau menjamin keberhasilan profesional.
 
-## Evaluation
+## Hubungan dengan skill lain
+Gunakan Penyampaian Vokal dan Nonverbal untuk melatih suara serta bahasa tubuh, Perancangan Pesan untuk menyusun isi, dan Komunikasi Efektif untuk menyesuaikan pesan dengan audiens.
 
-Assess clarity, structure, relevance, evidence, timing, audience understanding, and ability to answer questions. Do not measure success solely by applause, charisma, or audience agreement.
-
-## Safeguards
-
-Do not shame accents, speech differences, stuttering, disability, or nervousness. Do not promise that practice removes all anxiety or guarantees professional success.
-
-## Relationship to other skills
-
-Use Vocal & Nonverbal Delivery for voice and body-language practice, Message Design & Storytelling for content, and Effective Communication & First Impressions for audience fit.
-
-## Source integration: *Cara Mudah & Praktis Belajar Public Speaking*
-
-This skill is additionally informed by the published description and chapter outline of *Cara Mudah & Praktis Belajar Public Speaking: Kiat Jitu Mahir Berbicara di Depan Umum* by Mulasih Tary and Devi Ardiyanti (Checklist, ISBN 978-623-7661-09-2). The listed chapters cover public-speaking fundamentals, presentation content, engaging presentations, fear, handling different situations, and practice. The full book text has not been inspected; the following is a practical synthesis of the catalogued scope rather than a reproduction of the book.
-
-### Handling different speaking situations
-
-Before speaking, identify whether the situation is a prepared presentation, meeting contribution, introduction, interview, speech, or question-and-answer session. Adapt preparation and delivery to the format rather than using one script for all settings.
-
-- Prepare a clear opening that establishes the subject and relevance.
-- Organize the body around a small number of connected points.
-- Use examples that fit the audience's knowledge and context.
-- Prepare for likely questions and acknowledge when an answer is unknown.
-- If interrupted or challenged, pause, identify the actual question, and respond to its substance.
-- If a mistake occurs, correct it plainly and continue; do not let one error derail the whole presentation.
-- Practice the same core idea in different time limits and settings so the speaker learns to adapt rather than memorize one fixed script.
-
-### Practice loop
-
-Choose one speaking situation, rehearse it aloud, record or present it, review clarity and audience comprehension, select one improvement, and repeat. Confidence grows through preparation and repeated practice; it is not a guarantee of flawless performance.
+## Batas sumber
+Daftar bab *Cara Mudah & Praktis Belajar Public Speaking* mencakup dasar berbicara di depan umum, isi dan daya tarik presentasi, rasa takut, penanganan situasi berbeda, serta latihan. Teks lengkap belum diperiksa; panduan ini adalah sintesis praktis dari tema yang tercantum, bukan reproduksi buku.
