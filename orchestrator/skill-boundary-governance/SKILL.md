@@ -126,12 +126,12 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 |---|---|---|
 | 2D Mesh Avatar Rigging | Technical preparation and quality of 2D mesh/avatar rigs | General brand illustration or frontend architecture |
 | 3D Media Storefront Experience | 3D media catalog/storefront experience patterns | General frontend design or media rights clearance |
-| AI Interface Design & Unslop Engineering | Product-specific AI interface direction and generic-pattern critique | Platform-specific compliance or specialist interaction implementation |
-| Apple Platform Design & HIG Review | Apple-platform convention and HIG-focused review | Universal visual design or implementation ownership |
+| Desain Antarmuka AI dan Rekayasa Anti-Generik | Audit antarmuka AI berbasis produk dan penghilangan pola generik | Kepatuhan platform khusus atau implementasi interaksi spesialis |
+| Review Desain Platform Apple dan Human Interface Guidelines | Konvensi Apple dan review berdasarkan panduan antarmuka manusia | Desain visual universal atau kepemilikan implementasi |
 | Desain Frontend | Arah visual dan spesifikasi antarmuka yang berlandaskan kebutuhan produk | Rekonstruksi referensi, kepatuhan platform khusus, atau implementasi fitur |
-| Micro-Interactions & UI Feedback Design | Interaction feedback states, motion, and feedback implementation guidance | Navigation architecture or overall visual identity |
-| Modern Web Navigation & Interaction Patterns | Navigation between product sections and destinations, including conventional and expressive patterns such as Radial Sidebar, Vertical Typography, and Scroll Progress | Full visual design, pagination within a collection, or detailed feedback animation |
-| Advanced Pagination & Data Navigation Patterns | Pagination pattern selection and page-to-page navigation within a collection | Global navigation architecture, overall visual design, or backend query architecture |
+| Interaksi Mikro dan Desain Umpan Balik UI | Feedback komponen, transisi state, animasi mikro, dan loading | Arsitektur navigasi atau identitas visual keseluruhan |
+| Pola Navigasi dan Interaksi Web Modern | Navigasi global antarbagian dan tujuan produk, termasuk pola ekspresif | Desain visual menyeluruh, paginasi dalam koleksi, atau feedback mikro |
+| Pola Paginasi dan Navigasi Data Tingkat Lanjut | Pemilihan pola dan perpindahan halaman dalam satu koleksi | Navigasi global, desain visual, atau arsitektur query backend |
 | Professional Logo & Brand Identity | Logo and identity system design | Product UI or trademark/legal clearance |
 | Reverse Engineering & Reference-Based Reconstruction | Evidence-led analysis of a reference and reconstruction brief | Claims about hidden internals not observed or final product ownership |
 | Evaluasi Kesesuaian Aplikasi | Penilaian cakupan fitur dan perbedaan terhadap persyaratan | Reproduksi bug, implementasi fitur, atau penilaian hukum |
