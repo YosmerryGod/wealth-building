@@ -54,7 +54,6 @@
       "path": "skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md",
       "owns": "pemilihan pola paginasi dan perpindahan halaman dalam satu koleksi",
       "triggers": [
-        "pagination",
         "paginasi",
         "navigasi halaman",
         "masukan lompat halaman",
@@ -66,11 +65,12 @@
       "id": "ai-interface-design-and-unslop-engineering",
       "domain": "development",
       "path": "skills/development/ai-interface-design-and-unslop-engineering/SKILL.md",
-      "owns": "arah desain antarmuka AI yang sesuai produk dan kritik terhadap pola generik",
+      "owns": "audit antarmuka AI berbasis produk dan penghilangan pola desain generik",
       "triggers": [
         "UI terlihat generik",
         "audit tampilan",
-        "anti-generik"
+        "anti-generik",
+        "rapikan desain AI"
       ]
     },
     {
@@ -95,12 +95,13 @@
       "id": "apple-platform-design-and-hig-review",
       "domain": "development",
       "path": "skills/development/apple-platform-design-and-hig-review/SKILL.md",
-      "owns": "konvensi desain platform Apple dan tinjauan Pedoman Antarmuka Manusia",
+      "owns": "konvensi desain Apple dan review berdasarkan Human Interface Guidelines",
       "triggers": [
         "iOS",
-        "iPhone app",
-        "Pedoman Antarmuka Manusia",
-        "desain Apple"
+        "aplikasi iPhone",
+        "HIG",
+        "desain Apple",
+        "SwiftUI"
       ]
     },
     {
@@ -783,28 +784,28 @@
       "id": "micro-interactions-and-ui-feedback",
       "domain": "development",
       "path": "skills/development/micro-interactions-and-ui-feedback/SKILL.md",
-      "owns": "status umpan balik interaksi, gerakan, dan status pemuatan antarmuka",
+      "owns": "feedback komponen, transisi state, animasi mikro, dan status pemuatan",
       "triggers": [
         "animasi tombol",
         "hover",
         "skeleton",
-        "interaksi mikro"
+        "interaksi mikro",
+        "feedback UI"
       ]
     },
     {
       "id": "modern-web-navigation-patterns",
       "domain": "development",
       "path": "skills/development/modern-web-navigation-patterns/SKILL.md",
-      "owns": "navigasi antarbagi­an dan tujuan produk, termasuk pola navigasi ekspresif dan indikator progres gulir",
+      "owns": "navigasi antarbagian dan tujuan produk; pola navigasi global konvensional maupun ekspresif",
       "triggers": [
-        "bilah navigasi",
+        "navbar",
         "tab bawah",
         "menu navigasi",
         "palet perintah",
         "bilah samping radial",
         "tipografi vertikal",
-        "progres gulir",
-        "navigasi gulir"
+        "progres gulir"
       ]
     },
     {
