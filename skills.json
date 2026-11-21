@@ -40,7 +40,7 @@
     {
       "id": "active-listening-and-conversational-rapport",
       "domain": "communication",
-      "path": "skills/communication/active-listening-and-conversational-rapport/SKILL.md",
+      "path": "skills/komunikasi/mendengarkan-aktif-dan-membangun-keakraban/SKILL.md",
       "owns": "perilaku mendengarkan aktif dan membangun keakraban timbal balik dalam percakapan",
       "triggers": [
         "mendengarkan",
@@ -326,7 +326,7 @@
     {
       "id": "communication-decision-engine",
       "domain": "communication",
-      "path": "skills/communication/communication-decision-engine/SKILL.md",
+      "path": "skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md",
       "owns": "pemilihan cara komunikasi, kanal, dan spesialis yang sesuai",
       "triggers": [
         "presentasi",
@@ -492,7 +492,7 @@
     {
       "id": "effective-communication-and-first-impressions",
       "domain": "communication",
-      "path": "skills/communication/effective-communication-and-first-impressions/SKILL.md",
+      "path": "skills/komunikasi/komunikasi-efektif-dan-kesan-pertama/SKILL.md",
       "owns": "komunikasi awal yang jelas dan pembentukan kesan pertama",
       "triggers": [
         "kesan pertama",
@@ -768,7 +768,7 @@
     {
       "id": "message-design-and-storytelling",
       "domain": "communication",
-      "path": "skills/communication/message-design-and-storytelling/SKILL.md",
+      "path": "skills/komunikasi/perancangan-pesan-dan-penceritaan/SKILL.md",
       "owns": "struktur pesan, narasi, dan pemahaman audiens",
       "triggers": [
         "cerita",
@@ -867,7 +867,7 @@
     {
       "id": "persuasive-communication-and-negotiation",
       "domain": "communication",
-      "path": "skills/communication/persuasive-communication-and-negotiation/SKILL.md",
+      "path": "skills/komunikasi/komunikasi-persuasif-dan-negosiasi/SKILL.md",
       "owns": "persuasi etis, penanganan keberatan, dan tawar-menawar",
       "triggers": [
         "nego",
@@ -952,7 +952,7 @@
     {
       "id": "public-speaking-and-speaking-confidence",
       "domain": "communication",
-      "path": "skills/communication/public-speaking-and-speaking-confidence/SKILL.md",
+      "path": "skills/komunikasi/berbicara-di-depan-umum-dan-kepercayaan-diri/SKILL.md",
       "owns": "persiapan, latihan, dan penyampaian saat berbicara langsung",
       "triggers": [
         "pidato",
@@ -1195,7 +1195,7 @@
     {
       "id": "vocal-and-nonverbal-delivery",
       "domain": "communication",
-      "path": "skills/communication/vocal-and-nonverbal-delivery/SKILL.md",
+      "path": "skills/komunikasi/penyampaian-vokal-dan-nonverbal/SKILL.md",
       "owns": "suara, gestur, postur, dan isyarat penyampaian",
       "triggers": [
         "intonasi",
