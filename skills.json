@@ -74,23 +74,6 @@
       ]
     },
     {
-      "id": "ai-powered-voice-of-customer-intelligence",
-      "domain": "marketing",
-      "path": "skills/marketing/ai-powered-voice-of-customer-intelligence/SKILL.md",
-      "owns": "aggregated customer-feedback analysis, issue frequency/trends, experience-problem prioritization, and improvement measurement",
-      "triggers": [
-        "analisis ulasan pelanggan",
-        "analisis banyak review",
-        "voice of customer",
-        "customer feedback analytics",
-        "keluhan paling sering",
-        "pola keluhan",
-        "sentiment review",
-        "feedback pelanggan",
-        "kenapa pelanggan tidak kembali"
-      ]
-    },
-    {
       "id": "apple-platform-design-and-hig-review",
       "domain": "development",
       "path": "skills/development/apple-platform-design-and-hig-review/SKILL.md",
@@ -723,6 +706,23 @@
         "competitive advantage",
         "zero to one",
         "moat bisnis"
+      ]
+    },
+    {
+      "id": "kecerdasan-suara-pelanggan-berbasis-ai",
+      "domain": "marketing",
+      "path": "skills/marketing/kecerdasan-suara-pelanggan-berbasis-ai/SKILL.md",
+      "owns": "analisis umpan balik pelanggan secara agregat, tren masalah berulang, penentuan prioritas pengalaman pelanggan, dan pengukuran perbaikan",
+      "triggers": [
+        "analisis ulasan pelanggan",
+        "analisis banyak ulasan",
+        "suara pelanggan",
+        "analitik umpan balik pelanggan",
+        "keluhan paling sering",
+        "pola keluhan",
+        "analisis sentimen ulasan",
+        "umpan balik pelanggan",
+        "kenapa pelanggan tidak kembali"
       ]
     },
     {
