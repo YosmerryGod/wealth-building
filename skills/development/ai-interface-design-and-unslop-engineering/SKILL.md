@@ -15,7 +15,7 @@ escalation: "Serahkan arah visual menyeluruh kepada Desain Frontend, review Appl
 
 ## Atribusi dan lisensi
 
-Diadaptasi dari **Unslop** oleh Damir Sokolovsky (https://github.com/heydamir/unslop), lisensi CC BY 4.0. Ini adaptasi independen, bukan rilis resmi upstream.
+Adaptasi independen dari **Unslop** oleh Damir Sokolovsky (https://github.com/heydamir/unslop), lisensi CC BY 4.0.
 
 ## Tujuan
 
@@ -63,7 +63,7 @@ Ringkas arah visual, temuan, perubahan, fitur yang dipertahankan, pemeriksaan re
 
 ## Kerangka keputusan
 
-Apakah pilihan memperjelas tugas dan hierarki, sesuai audiens/merek, meningkatkan kegunaan/aksesibilitas, memberi informasi, konsisten, serta sepadan dengan biaya?
+Apakah pilihan memperjelas tugas, hierarki, identitas, aksesibilitas, dan memberi manfaat yang sepadan dengan biaya?
 
 ## Hubungan dan batas
 
@@ -71,4 +71,4 @@ Pola Navigasi Web Modern memiliki navigasi; Micro-Interactions memiliki feedback
 
 ## Batas sumber
 
-Upstream Unslop membahas arah berbasis produk, audit, alur perbaikan, visual QA, serta spasi/warna/ikon/copy/tipografi/layout/detail/visual/motion. Adaptasi ini menambah pelestarian produk, responsivitas, aksesibilitas, QA fungsi, dan pelaporan. Referensi upstream yang tidak tersedia tidak direproduksi; lihat upstream untuk versi lengkap.
+Upstream Unslop membahas arah berbasis produk, audit, perbaikan, visual QA, serta spasi/warna/ikon/copy/tipografi/layout/visual/motion. Adaptasi menambah pelestarian produk, responsivitas, aksesibilitas, QA fungsi, dan pelaporan.
