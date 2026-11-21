@@ -510,6 +510,33 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Backend memiliki keamanan server dan integrasi; gunakan API resmi, sandbox pembayaran, dan verifikasi otorisasi."
+    },
+    {
+      "pesan": "Rancang ulang tampilan frontend aplikasi berdasarkan kebutuhan produk dan buat sistem visual yang konsisten.",
+      "skill_utama": "frontend-design",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Tetapkan arah visual, hierarki, token, responsivitas, dan spesifikasi; jangan mengambil alih implementasi fitur."
+    },
+    {
+      "pesan": "Buat rencana QA, jalankan pengujian alur utama, dan laporkan bug yang bisa direproduksi.",
+      "skill_utama": "software-testing-and-quality-assurance",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Laporkan hanya tes yang benar-benar dijalankan dan pisahkan dugaan dari cacat terkonfirmasi."
+    },
+    {
+      "pesan": "Bandingkan fitur aplikasi saya dengan matriks referensi dan hitung persentase kesesuaiannya.",
+      "skill_utama": "application-parity-evaluation",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Gunakan bukti setara, nyatakan pembilang/penyebut/bobot/rumus, dan pisahkan divergensi yang disengaja dari kekurangan."
     }
   ]
 }
