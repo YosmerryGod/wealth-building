@@ -66,7 +66,7 @@ Pola sesuai jumlah halaman/konten/tugas; pola sederhana telah dipertimbangkan; h
 
 ## Aturan implementasi AI
 
-Periksa aplikasi, sumber data, routing, dan kontrak paginasi sebelum mengubah kode. Jangan menambahkan tiga pola hanya karena ada di video. Pertahankan filter, sortir, route, dan UI lain. Jangan mengklaim preview atau total halaman tanpa dukungan data. Ubah ruang lingkup paginasi yang diminta saja dan uji state terkait.
+Periksa aplikasi, sumber data, routing, dan kontrak paginasi. Jangan menambah pola hanya karena ada di video. Pertahankan filter/sortir/route, jangan mengarang preview atau total halaman, dan uji state yang diubah.
 
 ## Hubungan dan batas
 
