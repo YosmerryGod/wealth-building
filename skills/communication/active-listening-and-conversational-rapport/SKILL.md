@@ -1,85 +1,72 @@
 ---
 name: active-listening-and-conversational-rapport
-title: Active Listening & Conversational Rapport
+title: Mendengarkan Aktif dan Membangun Keakraban Percakapan
 category: communication
 subcategory: listening-and-dialogue
-source_type: book-inspired-framework-and-operational-synthesis
-source: *Bicara Itu Ada Seninya* by Oh Su Hyang; additional book sources: *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3), *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1), and/or *Cara Mudah & Praktis Belajar Public Speaking* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-09-2); listening and conversational interaction themes
-language: English
-description: "Use when a request needs listening behaviors and reciprocal rapport."
+source_type: sintesis-praktis-berbasis-buku
+source: *Bicara Itu Ada Seninya* karya Oh Su Hyang; tema tambahan dari *Rahasia Lancar Berkomunikasi* dan *Seni Membangun Relasi* karya Mulasih Tary dan Devi Ardiyanti.
+language: Indonesian
+description: "Gunakan untuk memahami orang lain dan membangun percakapan dua arah."
 triggers:
   - "mendengarkan"
   - "ngobrol nyambung"
-  - "rapport"
-out_of_scope: "Persuasion strategy or hidden-motive diagnosis"
-escalation: "Hand off work involving Persuasion strategy or hidden-motive diagnosis to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+  - "membangun keakraban"
+out_of_scope: "Strategi persuasi atau diagnosis motif tersembunyi"
+escalation: "Serahkan strategi persuasi atau analisis motif kepada skill pemiliknya. Gunakan Penilaian Risiko untuk tindakan berkonsekuensi besar dan minta persetujuan sebelum tindakan eksternal atau sulit dibatalkan."
 ---
 
-# Active Listening & Conversational Rapport
+# Mendengarkan Aktif dan Membangun Keakraban Percakapan
 
-## Purpose
+## Tujuan
+Membantu pengguna memahami orang lain secara akurat dan membangun percakapan seimbang melalui perhatian, pertanyaan yang relevan, tanggapan yang tepat, dan pengakuan yang tulus.
 
-Help users understand others accurately and create balanced conversations through attention, relevant questions, thoughtful reactions, and respectful acknowledgment.
+## Siklus percakapan
+Percakapan bukan monolog. Dengarkan makna, tanyakan hal yang membantu pemahaman, tanggapi apa yang benar-benar disampaikan, lalu berikan kontribusi yang sesuai.
 
-## Core method
+1. **Tanya:** gunakan pertanyaan terbuka dan relevan.
+2. **Dengarkan:** beri perhatian tanpa buru-buru menyiapkan bantahan.
+3. **Cerminkan:** rangkum atau akui inti yang disampaikan.
+4. **Tanggapi:** berikan pemikiran, jawaban, atau pertanyaan lanjutan.
+5. **Periksa:** beri kesempatan untuk mengoreksi jika pemahaman kita keliru.
 
-A useful conversation is not a monologue. The speaker should listen for meaning, ask questions that advance understanding, respond to what was actually said, and contribute appropriately.
+Siklus ini adalah panduan praktik, bukan jaminan percakapan akan selalu berhasil.
 
-A practical conversation loop:
+## Perilaku mendengarkan
+- Ajukan pertanyaan terbuka ketika perlu menggali pemahaman.
+- Tanyakan satu hal pada satu waktu untuk topik pribadi atau rumit.
+- Bedakan fakta, perasaan, prioritas, dan batasan; jangan menebak motif tersembunyi.
+- Ulangi inti pesan dengan kata-kata sendiri untuk memastikan pemahaman.
+- Beri jeda; tidak semua keheningan harus diisi.
+- Berikan pengakuan yang spesifik dan tulus, bukan pujian otomatis.
+- Bagikan hal relevan tentang diri sendiri agar percakapan tidak terasa seperti wawancara.
+- Ingat dan tindak lanjuti detail jika memang pantas dan disambut.
 
-1. **Ask** — use open, relevant questions.
-2. **Listen** — give attention without preparing a rebuttal too early.
-3. **Reflect** — summarize or acknowledge the central point.
-4. **Respond** — add a useful thought, answer, or follow-up.
-5. **Check** — invite correction when interpretation may be wrong.
+## Menjaga kualitas percakapan
+Utamakan relevansi dan kontribusi timbal balik, bukan jumlah pesan. Percakapan singkat yang penuh perhatian bisa lebih baik daripada obrolan panjang berisi pertanyaan umum. Humor dapat membantu jika sesuai situasi dan tidak merendahkan orang lain.
 
-This is an operational listening loop, not a guarantee that a conversation will become successful.
+## Saat membantu menyusun balasan
+1. Kenali apa yang benar-benar disampaikan.
+2. Sesuaikan nada emosional tanpa meniru secara mekanis.
+3. Tanggapi isi utama sebelum membuka topik baru.
+4. Sesuaikan panjang balasan dengan hubungan dan tingkat keterlibatan.
+5. Jangan menganggap kesopanan, emoji, atau balasan sebagai bukti ketertarikan maupun persetujuan.
 
-## Listening behaviors
+## Mendengarkan sesuai hubungan
+- Pahami konteks dan hubungan sebelum memilih pembuka.
+- Tunjukkan minat melalui pertanyaan dan tanggapan yang relevan, bukan pura-pura memiliki minat yang sama.
+- Seimbangkan rasa ingin tahu dengan keterbukaan diri.
+- Sesuaikan tempo dan formalitas tanpa menghilangkan hak orang lain untuk berbeda pendapat, menolak, atau mengakhiri percakapan.
+- Saat terjadi salah paham, rangkum yang didengar dan minta koreksi sebelum membela diri.
+- Dalam pekerjaan, bedakan keakraban dari persetujuan; peran, harapan, dan keputusan tetap perlu diperjelas.
 
-- Use open questions when exploration is useful.
-- Ask one question at a time when the topic is personal or complex.
-- Notice facts, feelings, priorities, and constraints without assuming hidden motives.
-- Paraphrase important points in your own words.
-- Allow pauses; do not rush to fill every silence.
-- Give specific, sincere acknowledgment rather than automatic praise.
-- Share relevant information about yourself so the exchange does not become an interview.
-- Remember and follow up on details when appropriate and welcome.
+## Evaluasi
+Setelah percakapan penting, periksa apakah kedua pihak mendapat kesempatan bicara, pesan utama dipahami, dan langkah berikutnya jelas.
 
-## Conversational quality
+## Batasan
+Jangan gunakan pertanyaan untuk menginterogasi, mengambil informasi pribadi, atau menciptakan keakraban palsu. Jangan berpura-pura mendengarkan atau menjadikan pengungkapan pribadi sebagai alat tekan. Hormati tanda bahwa seseorang ingin berhenti atau beristirahat.
 
-Prioritize relevance and mutual contribution over message count. A short, attentive exchange can be better than a long conversation full of generic questions. Humor and lightness can help when the context supports them, but never at another person's expense.
+## Hubungan dengan skill lain
+Gunakan Komunikasi Efektif untuk menyesuaikan pesan, Perancangan Pesan untuk menyusun isi, Komunikasi Persuasif untuk negosiasi, serta skill psikologi hubungan hanya jika konteks hubungan memang relevan.
 
-## AI application
-
-When helping write a reply:
-1. Identify what the other person actually communicated.
-2. Preserve their emotional tone without mechanically copying it.
-3. Respond to the substance before introducing a new topic.
-4. Keep the reply proportionate to the relationship and their level of engagement.
-5. Avoid assuming that politeness, emojis, or a reply prove attraction or agreement.
-
-## Safeguards
-
-Do not use questions to interrogate, extract private information, or create false intimacy. Do not feign listening, manufacture praise, or treat a person's disclosure as leverage. Respect boundaries and signs that the person wants to end or pause the conversation.
-
-## Relationship to other skills
-
-Use Relationship Building & Mutual Attraction for romantic or social relationship context, Human Behavior & Decision Psychology for broader behavioral interpretation, and Conflict Communication & Negotiation for disagreement or competing interests.
-
-## Source integration: *Rahasia Lancar Berkomunikasi* and *Seni Membangun Relasi*
-
-This skill is additionally informed by the published descriptions and topic outlines of *Rahasia Lancar Berkomunikasi* by Mulasih Tary and Devi Ardiyanti (ISBN 978-623-7661-60-3) and *Seni Membangun Relasi* by Devi Ardiyanti (ISBN 978-623-7661-77-1). Publicly listed themes include communicating with different people, communication practice, overcoming fear, communication and nonverbal ability, adaptation, interpersonal communication, and professional interpersonal communication. The complete book texts have not been inspected; this section is an operational synthesis of catalogued themes.
-
-### Relationship-aware listening
-
-- Start by noticing the other person's context and the relationship, rather than using the same conversational opening with everyone.
-- Show genuine interest through relevant questions and attentive responses; do not imitate interest or manufacture shared preferences.
-- Balance curiosity with appropriate self-disclosure so the exchange does not feel like an interview.
-- Adapt conversational pace and formality while preserving the other person's ability to disagree, decline, or end the exchange.
-- When misunderstanding occurs, summarize what you heard and invite correction before defending your position.
-- In professional contexts, distinguish rapport from agreement: a good relationship does not remove the need to clarify roles, expectations, and decisions.
-
-### Practice and reflection
-
-After an important conversation, review whether both people had room to speak, whether the central message was understood, and whether the next step was clear. Do not treat body language or politeness as proof of hidden feelings.
+## Batas sumber
+Sebagian tema diambil dari deskripsi dan daftar topik buku yang tersedia untuk umum, bukan pemeriksaan teks lengkap. Jangan menganggap sintesis ini sebagai kutipan atau rangkuman bab buku.
