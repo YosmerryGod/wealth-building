@@ -21,47 +21,25 @@ Video 67332.mp4 menunjukkan empat teknik visual: animasi tombol, hover kartu, sk
 
 ## Teknik
 
-### 1. Animasi tombol
-Perubahan kecil pada skala, posisi, warna, bayangan, atau highlight untuk mengakui hover/tekan.
-- Definisikan state default, hover, focus-visible, pressed, disabled, dan loading sesuai kebutuhan.
-- Gunakan transisi singkat dan terkendali; pertahankan kontras.
-- Cegah pengiriman berulang saat proses berlangsung.
-- Animasi bukan pengganti status untuk aksi penting seperti simpan, pembayaran, atau hapus.
+1. **Animasi tombol:** perubahan kecil pada skala, posisi, warna, atau bayangan untuk mengakui interaksi. Definisikan default, hover, focus, pressed, disabled, loading; cegah submit berulang. Animasi bukan pengganti status penting.
+2. **Hover kartu:** elevasi/border/latar ringan untuk kartu yang benar-benar interaktif. Sediakan fokus keyboard, area klik jelas, dan dukungan touch; jangan sembunyikan informasi penting saat hover.
+3. **Skeleton loading:** placeholder sesuai struktur konten. Ganti dengan konten, empty, atau error; jangan tampil selamanya. Gunakan shimmer hanya bila berguna dan hormati reduced motion.
+4. **Glow:** highlight selektif untuk fokus/pilihan. Jaga kontras; jangan jadikan glow satu-satunya indikator state atau gunakan efek berat/terus bergerak.
 
-### 2. Efek hover kartu
-Elevasi, bayangan, border, latar, atau gerak kecil untuk menunjukkan kartu interaktif.
-- Gunakan hanya jika kartu memiliki aksi.
-- Sediakan fokus keyboard yang terlihat dan area klik/destinasi yang jelas.
-- Informasi penting tidak boleh hanya muncul saat hover.
-- Pastikan tetap jelas di perangkat sentuh.
-- Bila kartu punya beberapa aksi, gunakan tautan/tombol terpisah.
-
-### 3. Skeleton loading
-Placeholder sementara yang meniru bentuk konten saat data dimuat.
-- Sesuaikan ukuran dan susunan dengan konten yang diharapkan.
-- Ganti dengan konten nyata, empty state, atau error setelah proses selesai.
-- Gunakan shimmer hanya bila membantu; hormati reduced motion.
-- Sediakan status aksesibel bila waktu tunggu bermakna.
-- Jangan biarkan skeleton tampil selamanya ketika request gagal.
-
-### 4. Glow
-Highlight lembut di sekitar elemen untuk menekankan fokus, pilihan, atau aksi utama.
-- Gunakan secara selektif dan sebagai penguat state yang sudah jelas.
-- Jaga kontras; jangan jadikan glow satu-satunya indikator fokus, validasi, atau status.
-- Hindari glow besar/terus bergerak dan efek bayangan berlapis yang berat.
+Video 67332.mp4 menunjukkan empat teknik visual tersebut. Kriteria pemilihan, aksesibilitas, implementasi, dan pengujian adalah panduan tambahan.
 
 ## Memilih feedback
 
-| Kebutuhan | Feedback | Syarat |
-|---|---|---|
-| Mengakui klik/tekan | Animasi tombol | Aksi tetap jelas |
-| Menunjukkan kartu bisa dibuka | Hover dan fokus | Keyboard dan touch didukung |
-| Menunjukkan konten sedang dimuat | Skeleton | Berakhir pada konten, kosong, atau error |
-| Menekankan fokus/pilihan | Glow ringan | Ada indikator state lain |
-| Mengonfirmasi aksi penting | Teks status, ikon, notifikasi | Jangan hanya mengandalkan animasi |
-| Menjelaskan aksi gagal | Validasi/error | Jelaskan pemulihan bila perlu |
+| Kebutuhan | Feedback |
+|---|---|
+| Mengakui klik | Animasi tombol |
+| Menandai kartu interaktif | Hover dan fokus |
+| Menunjukkan loading | Skeleton |
+| Menekankan fokus/pilihan | Glow ringan plus indikator lain |
+| Konfirmasi aksi penting | Teks status/ikon/notifikasi |
+| Menjelaskan kegagalan | Error dan petunjuk pemulihan |
 
-Jika efek tidak memperbaiki feedback, pemahaman, hierarki, atau penyelesaian tugas, jangan gunakan.
+Jangan menambah efek jika tidak memperbaiki feedback, pemahaman, hierarki, atau tugas.
 
 ## Model state
 
@@ -82,9 +60,9 @@ Pilih state yang relevan: default, hover, focus-visible, active/pressed, selecte
 
 ## Aksesibilitas dan performa
 
-Jangan menyembunyikan fungsi penting pada hover. Semua elemen interaktif harus dapat diakses keyboard dengan fokus jelas. Jangan menyampaikan sukses, gagal, pilihan, atau validasi hanya lewat warna/animasi. Hindari flashing, pulsing cepat, dan gerak berulang yang mengganggu. Jaga target stabil, status loading dapat dipahami, serta kontras cukup.
+Jangan menyembunyikan fungsi pada hover. Semua kontrol dapat dioperasikan dengan keyboard dan fokus terlihat. Jangan menyampaikan state hanya lewat warna/animasi. Hindari flashing dan gerak berulang; hormati reduced motion. Jaga target stabil, kontras cukup, dan status loading jelas.
 
-Utamakan sistem animasi proyek atau CSS sederhana. Gunakan transform/opacity bila tepat; hindari animasi dimensi layout, blur besar, dan banyak shadow bergerak. Jangan menambah library untuk transisi sederhana. Gerak tidak boleh menunda tindakan, menyebabkan layout shift, atau menutupi konten. Uji perangkat mobile berdaya rendah.
+Utamakan sistem animasi proyek atau CSS sederhana. Gunakan transform/opacity bila sesuai; hindari animasi layout, blur/shadow berat, dependensi tak perlu, layout shift, serta gerak yang menunda tugas. Uji mobile berdaya rendah.
 
 ## Checklist
 
