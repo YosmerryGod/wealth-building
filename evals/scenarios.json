@@ -582,6 +582,51 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Periksa panduan resmi terkini untuk komponen yang terlihat; jangan mengklaim kepatuhan tanpa pengujian."
+    },
+    {
+      "pesan": "Siapkan aplikasi untuk rilis produksi dengan staging, pemeriksaan keamanan konfigurasi, rollback, dan pemantauan.",
+      "skill_utama": "application-deployment-and-release-engineering",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "jika perubahan produksi belum disetujui",
+      "catatan": "Staging dan bukti QA menjadi gerbang; jangan melakukan perubahan produksi atau DNS tanpa persetujuan eksplisit."
+    },
+    {
+      "pesan": "Ubah ilustrasi karakter menjadi avatar VTuber 2D yang bisa berkedip, menoleh, dan sinkronisasi mulut.",
+      "skill_utama": "2d-mesh-avatar-rigging",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Periksa gambar sumber, layer, landmark, deformasi, pose tetap, dan hak penggunaan aset."
+    },
+    {
+      "pesan": "Rancang katalog film seperti toko 3D dengan lorong, rak, dan detail item.",
+      "skill_utama": "3d-media-storefront-experience",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Etalase 3D adalah lapisan presentasi; sediakan mode daftar/grid serta hormati hak dan sumber media."
+    },
+    {
+      "pesan": "Buat identitas logo baru lengkap dengan versi favicon, monokrom, dan panduan warna.",
+      "skill_utama": "professional-logo-and-brand-identity",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Mulai dari brief dan konsep berbeda; minta pilihan sebelum membuat paket identitas penuh dan jangan klaim lolos pemeriksaan merek dagang."
+    },
+    {
+      "pesan": "Analisis website referensi dari screenshot dan interaksinya lalu buat brief rekonstruksi untuk produk saya.",
+      "skill_utama": "reverse-engineering-and-reference-based-reconstruction",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Pisahkan observasi, interpretasi, hipotesis, dan hal yang belum diketahui; adaptasi pola tanpa menyalin aset terlindungi."
     }
   ]
 }
