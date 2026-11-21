@@ -1,97 +1,96 @@
-# Repository Maintenance Notes
+# Catatan Pemeliharaan Repositori
 
-## Knowledge quality and source handling
+## Mutu pengetahuan dan pengelolaan sumber
 
-For every new video, article, book, or other source:
-- Record the source type, title or account/author, and link or identifying details when available.
-- Extract the source's actual claims and examples without presenting them as independently verified facts.
-- Separate source-derived ideas from additional analysis or frameworks added by the AI.
-- Label illustrative numbers and assumptions clearly.
-- Explain the mechanism: why the idea might work and under what conditions.
-- Include limitations, risks, failure conditions, and situations where the idea should not be used.
-- Add practical steps, decision criteria, and measurable validation methods where relevant.
-- Avoid copying large portions of copyrighted material; summarize in original wording.
-- Do not turn an allegory, anecdote, or short video into a scientific conclusion without supporting evidence.
+Untuk setiap video, artikel, buku, atau sumber baru:
+- Catat jenis sumber, judul atau akun/penulis, serta tautan atau rincian pengenal jika tersedia.
+- Ambil klaim dan contoh yang benar-benar disampaikan sumber tanpa menyajikannya sebagai fakta yang telah diverifikasi secara independen.
+- Pisahkan gagasan yang berasal dari sumber dengan analisis atau kerangka tambahan yang dibuat AI.
+- Beri label yang jelas pada angka ilustratif dan asumsi.
+- Jelaskan mekanismenya: mengapa gagasan tersebut mungkin berhasil dan dalam kondisi apa.
+- Sertakan keterbatasan, risiko, kondisi kegagalan, dan situasi ketika metode tersebut tidak boleh digunakan.
+- Tambahkan langkah praktis, kriteria keputusan, dan metode validasi terukur jika relevan.
+- Hindari menyalin bagian besar dari materi berhak cipta; rangkum dengan susunan kata sendiri.
+- Jangan mengubah alegori, anekdot, atau video singkat menjadi kesimpulan ilmiah tanpa bukti pendukung.
 
-### Source audit: dynamic knowledge retrieval
+### Audit sumber: pengambilan pengetahuan dinamis
 
-- **GoogleChrome, Modern Web Guidance** ([published skill](https://github.com/GoogleChrome/modern-web-guidance), [source repository](https://github.com/GoogleChrome/modern-web-guidance-src), reviewed 2026-11-19). The upstream skill documents focused catalog search, exact guide-ID retrieval, progressive disclosure, implementation checks, and browser-support fallbacks. Paul Irish's [technical deep dive](https://developer.chrome.com/blog/mwg-technical-deep-dive) describes the local search approach and its motivation. Wealth Building adopts the retrieval workflow and creates an original cross-domain evidence/ownership adapter; it does not copy or bundle the upstream guide corpus or CLI. The upstream CLI is not installed by this repository and requires a compatible runtime, network access, and permission.
+- **GoogleChrome, Modern Web Guidance** ([skill yang diterbitkan](https://github.com/GoogleChrome/modern-web-guidance), [repositori sumber](https://github.com/GoogleChrome/modern-web-guidance-src), ditinjau 2026-11-19). Skill sumber mendokumentasikan pencarian katalog terarah, pengambilan ID panduan yang tepat, pengungkapan informasi bertahap, pemeriksaan implementasi, dan alternatif dukungan peramban. [Pembahasan teknis mendalam](https://developer.chrome.com/blog/mwg-technical-deep-dive) oleh Paul Irish menjelaskan pendekatan pencarian lokal dan alasannya. Wealth Building mengadopsi alur pengambilan tersebut dan membuat adaptor bukti/kepemilikan lintas domain yang orisinal; repositori ini tidak menyalin atau menyertakan kumpulan panduan maupun CLI sumber. CLI sumber tidak dipasang oleh repositori ini dan memerlukan runtime yang kompatibel, akses jaringan, serta izin.
 
-### Source audit: habit formation and competitive advantage
+### Audit sumber: pembentukan kebiasaan dan keunggulan bersaing
 
-- **Wendy Wood, *Good Habits, Bad Habits: The Science of Making Positive Changes That Stick* (2019).** Publisher overview and publicly available excerpt reviewed. Source-supported themes used: habit formation is not reducible to willpower; context, repetition, and reward matter; environmental friction and cues influence repeated behavior. The new skill is an original coaching synthesis, not a full-text extraction or clinical protocol. [Publisher overview](https://us.macmillan.com/books/9781250159083/goodhabitsbadhabits/).
-- **Peter Thiel with Blake Masters, *Zero to One: Notes on Startups, or How to Build the Future* (2014).** Publisher description and source text reviewed. Source-supported themes used: creating something meaningfully new, focused initial markets, distinctive market positions, and proprietary technology, network effects, economies of scale, and brand as potential sources of durability. The new skill is an original strategy synthesis; the 10x statement is treated as a heuristic, and monopoly language is bounded by lawful, customer-beneficial competition. [Publisher page](https://www.penguinrandomhouse.com/books/234730/zero-to-one-by-peter-thiel-with-blake-masters/).
+- **Wendy Wood, *Good Habits, Bad Habits: The Science of Making Positive Changes That Stick* (2019).** Ringkasan penerbit dan kutipan yang tersedia untuk umum telah ditinjau. Tema yang didukung sumber: pembentukan kebiasaan tidak dapat direduksi menjadi kemauan semata; konteks, pengulangan, dan imbalan berperan; hambatan lingkungan dan pemicu memengaruhi perilaku berulang. Skill baru merupakan sintesis pembinaan orisinal, bukan ekstraksi seluruh buku atau protokol klinis. [Ringkasan penerbit](https://us.macmillan.com/books/9781250159083/goodhabitsbadhabits/).
+- **Peter Thiel bersama Blake Masters, *Zero to One: Notes on Startups, or How to Build the Future* (2014).** Deskripsi penerbit dan teks sumber telah ditinjau. Tema yang didukung sumber: menciptakan sesuatu yang benar-benar baru, memilih pasar awal yang terfokus, membangun posisi pasar yang khas, serta teknologi eksklusif, efek jaringan, skala ekonomi, dan merek sebagai sumber daya tahan yang potensial. Skill baru merupakan sintesis strategi orisinal; pernyataan 10x diperlakukan sebagai heuristik, sedangkan bahasa monopoli dibatasi oleh persaingan yang sah dan bermanfaat bagi pelanggan. [Halaman penerbit](https://www.penguinrandomhouse.com/books/234730/zero-to-one-by-peter-thiel-with-blake-masters/).
 
-The sources were not treated as proof that any habit method works for every person or that any business can or should achieve monopoly. No long copyrighted passages were copied.
+Sumber-sumber tersebut tidak diperlakukan sebagai bukti bahwa satu metode kebiasaan cocok untuk semua orang atau bahwa setiap bisnis dapat maupun seharusnya mencapai monopoli. Tidak ada kutipan panjang berhak cipta yang disalin.
 
-### Source audit: pagination patterns
+### Audit sumber: pola paginasi
 
-- **User-provided video 67567.mp4** (creator watermark visible as @kodebin; no public source URL supplied). Direct frame review identified three demonstrated patterns: Jump Input, Page Preview, and Sliding Pagination. The video recommends considering advanced pagination for very large page counts or visual content that benefits from a preview, while retaining simple pagination when page counts are small and function is the priority. The skill's accessibility, backend, performance, edge-case, and testing guidance is additional operational synthesis; the video does not supply implementation code or usability measurements.
+- **Video yang diberikan pengguna 67567.mp4** (tanda air kreator terlihat sebagai @kodebin; tidak ada URL sumber publik). Peninjauan bingkai secara langsung menemukan tiga pola yang ditampilkan: Masukan Lompat Halaman, Pratinjau Halaman, dan Paginasi Geser. Video menyarankan pertimbangan paginasi tingkat lanjut untuk jumlah halaman yang sangat besar atau konten visual yang mendapat manfaat dari pratinjau, sambil mempertahankan paginasi sederhana ketika jumlah halaman sedikit dan fungsi lebih penting. Panduan aksesibilitas, backend, kinerja, kasus tepi, dan pengujian dalam skill merupakan sintesis operasional tambahan; video tidak menyediakan kode implementasi atau pengukuran kegunaan.
 
-### Source audit: expressive navigation patterns
+### Audit sumber: pola navigasi ekspresif
 
-- **User-provided video 67562.mp4** (creator watermark visible as @kodebin; no public source URL supplied). Direct frame review identified Radial Sidebar, Vertical Typography Navigation, and Scroll Progress Navigation. The video explicitly presents Radial Sidebar as suitable for creative portfolios and experimental landing pages; it shows vertical typographic section labels and a scroll-progress rail whose active marker follows scrolling and can be clicked to jump to a section. The video does not provide usability research, implementation code, or measured outcomes. Responsive, accessibility, selection, and implementation guidance in the expanded skill is operational synthesis.
+- **Video yang diberikan pengguna 67562.mp4** (tanda air kreator terlihat sebagai @kodebin; tidak ada URL sumber publik). Peninjauan bingkai secara langsung menemukan Bilah Samping Radial, Navigasi Tipografi Vertikal, dan Navigasi Progres Gulir. Video secara eksplisit menyebut Bilah Samping Radial cocok untuk portofolio kreatif dan halaman utama eksperimental; video juga menampilkan label bagian dengan tipografi vertikal serta jalur progres gulir dengan penanda aktif yang mengikuti posisi gulir dan dapat diklik untuk berpindah ke bagian tertentu. Video tidak menyediakan riset kegunaan, kode implementasi, atau hasil terukur. Panduan responsif, aksesibilitas, pemilihan pola, dan implementasi dalam skill yang diperluas merupakan sintesis operasional.
 
-### Source audit: Replica Skill application lifecycle
+### Audit sumber: siklus pengembangan aplikasi Replica Skill
 
-- **Jakeschincariol/replica-skill** (MIT-licensed repository; README and all eleven `replica-*/SKILL.md` files reviewed on 2026-11-18): source workflows cover reference reconnaissance, architecture planning, design-system reconstruction, screen-by-screen implementation, backend integrations, QA, feature/layout comparison, public user-review analysis, rebranding, launch preparation, and deployment.
-- Wealth Building additions are original adaptations of workflow concepts and boundaries, not copied skill text, scripts, templates, or proprietary implementation. Existing owners were reused for recon/design/brand/customer discovery; new skills were added only for distinct architecture, implementation, backend, QA, parity, release, orchestration, and launch-planning responsibilities.
-- Clean-room, privacy, authorized-access, no-fabrication, user-approval, and legal-review boundaries were retained and aligned with Wealth Building governance and Risk Assessment. Source repository tools are not installed or implied to be available here.
+- **Jakeschincariol/replica-skill** (repositori berlisensi MIT; README dan seluruh sebelas berkas `replica-*/SKILL.md` ditinjau pada 2026-11-18): alur sumber mencakup pengintaian referensi, perencanaan arsitektur, rekonstruksi sistem desain, implementasi layar demi layar, integrasi backend, QA, perbandingan fitur/tata letak, analisis ulasan publik, perubahan merek, persiapan peluncuran, dan deployment.
+- Penambahan pada Wealth Building merupakan adaptasi orisinal dari konsep alur kerja dan batas tanggung jawab, bukan salinan teks skill, skrip, templat, atau implementasi eksklusif. Pemilik yang sudah ada digunakan kembali untuk rekonstruksi, desain, merek, dan penemuan pelanggan; skill baru hanya ditambahkan untuk tanggung jawab berbeda dalam arsitektur, implementasi, backend, QA, kesesuaian, rilis, orkestrasi, dan perencanaan peluncuran.
+- Batas kerja bersih, privasi, akses berizin, larangan mengarang, persetujuan pengguna, dan tinjauan hukum tetap dipertahankan serta diselaraskan dengan tata kelola Wealth Building dan Penilaian Risiko. Perangkat dari repositori sumber tidak dipasang dan tidak boleh dianggap tersedia di sini.
 
-### Source audit: Kecerdasan Suara Pelanggan Berbasis AI
+### Audit sumber: Kecerdasan Suara Pelanggan Berbasis AI
 
-- **User-provided video 68199.mp4** (reviewed 2026-11-22). The illustrated scenario shows a dataset labelled 200 customer reviews, a prompt to find complaints appearing more than three times, and displayed counts for long waits (87), limited seating (21), and difficult parking (9). It also contrasts a 15-minute drink preparation example with a later 3-minute result and depicts repeat customers after three months. The video does not expose the raw reviews, sampling period, counting method, exact operational intervention, or independently verified retention data. The new skill preserves the workflow—aggregate feedback, rank recurring issues, validate the operational cause, test a focused improvement, and measure outcomes—while treating all displayed figures and results as illustrative claims, not verified evidence. It is separated from Service Recovery's ownership of individual complaint remedies and public replies.
+- **Video yang diberikan pengguna 68199.mp4** (ditinjau 2026-11-22). Skenario ilustratif menampilkan kumpulan data berlabel 200 ulasan pelanggan, perintah untuk menemukan keluhan yang muncul lebih dari tiga kali, serta jumlah yang ditampilkan untuk waktu tunggu lama (87), tempat duduk terbatas (21), dan parkir sulit (9). Video juga membandingkan contoh persiapan minuman selama 15 menit dengan hasil berikutnya selama 3 menit serta menggambarkan pelanggan yang kembali setelah tiga bulan. Video tidak menampilkan ulasan mentah, periode pengambilan sampel, metode penghitungan, intervensi operasional yang tepat, atau data retensi yang diverifikasi secara independen. Skill mempertahankan alur kerja—menggabungkan umpan balik, mengurutkan masalah berulang, memvalidasi penyebab operasional, menguji perbaikan terarah, dan mengukur hasil—seraya memperlakukan seluruh angka dan hasil yang ditampilkan sebagai ilustrasi, bukan bukti terverifikasi. Tanggung jawabnya dipisahkan dari Pemulihan Layanan yang menangani solusi keluhan individual dan balasan publik.
 
-## Repository update protocol
+## Protokol pembaruan repositori
 
-**Every time a skill is added, changed, moved, or removed, update this README in the same work session.** The README is the orientation document for people and AI assistants opening the repository in a new conversation.
+**Setiap kali skill ditambahkan, diubah, dipindahkan, atau dihapus, perbarui README ini dalam sesi kerja yang sama.** README merupakan dokumen orientasi bagi orang dan asisten AI yang membuka repositori dalam percakapan baru.
 
-For each skill update:
+Untuk setiap pembaruan skill:
 
-1. Add, revise, move, or remove the relevant skill file.
-2. Update the Skills library table and folder tree.
-3. Update AI workflow rules if the new skill changes how the mentor should reason.
-4. Update the roadmap if a capability has been added or a gap has become more important.
-5. Add a dated changelog entry with a concise description.
-6. Verify that all README links and skill paths exist and that no obsolete paths remain.
+1. Tambahkan, revisi, pindahkan, atau hapus berkas skill terkait.
+2. Perbarui tabel pustaka skill dan pohon folder.
+3. Perbarui aturan alur kerja AI jika skill baru mengubah cara mentor melakukan penalaran.
+4. Perbarui peta jalan jika kemampuan baru telah ditambahkan atau celah tertentu menjadi lebih penting.
+5. Tambahkan catatan changelog bertanggal dengan uraian ringkas.
+6. Pastikan semua tautan README dan lokasi skill tersedia serta tidak ada lokasi lama yang tertinggal.
 
-## Capabilities to build next
+## Kemampuan yang akan dibangun berikutnya
 
-These are planned knowledge areas, not claims that complete skills already exist for them. Add them incrementally when useful sources and practical examples are reviewed.
+Bagian ini memuat bidang pengetahuan yang direncanakan, bukan klaim bahwa skill lengkap sudah tersedia. Tambahkan secara bertahap ketika sumber yang berguna dan contoh praktis telah ditinjau.
 
-1. **Customer Research & Demand Validation** — customer interviews, willingness to pay, market sizing, competitor research, and evidence of demand.
-2. **Business Models & Unit Economics** — pricing, contribution margin, break-even analysis, customer acquisition cost, lifetime value, and cash conversion. Strategic differentiation and defensibility are now covered by Innovation & Competitive Advantage Strategy.
-3. **Marketing, Sales & Distribution** — foundational coverage now includes Product Launch & Go-to-Market Planning alongside Traction Strategy, the Bullseye Framework, channel selection, growth experiments, referral growth, partnerships, and growth metrics. Further work can deepen positioning, offer design, sales processes, lifecycle marketing, and retention.
-4. **Product & Offer Development** — product-market fit, differentiation, quality, packaging, and customer experience.
-5. **Business Operations & Systems** — standard operating procedures, staffing, inventory, quality control, capacity, and process improvement. Core coverage added through Business Operations & Scaling.
-6. **Financial Management** — foundational coverage now includes Financial Intelligence, Asset & Liability Analysis, Cash Flow Management, Pay Yourself First, and Financial Statement Literacy. Further work can deepen tax planning, debt management, and financial controls.
-7. **Growth & Capital Allocation** — reinvestment priorities, return on invested capital, productive assets, expansion decisions, and responsible leverage.
-8. **Risk, Resilience & Compliance** — downside planning, insurance, fraud prevention, legal requirements, taxes, and business continuity.
-9. **Personal Finance & Wealth Preservation** — foundational coverage now includes income-to-asset planning, savings allocation, asset/liability analysis, and investment evaluation. Further work can deepen emergency-fund design, diversification, retirement planning, and wealth preservation.
-10. **Communication & Interpersonal Effectiveness** — foundational coverage added through six Communication skills based on *Bicara Itu Ada Seninya*: effective communication, active listening, persuasion and negotiation, message design, vocal delivery, and public speaking.
-11. **Execution & Progress Coaching** — goal setting, prioritization, accountability, progress reviews, and adapting plans to results. General non-financial habit design is now covered by General Habit Formation & Behavior Change; financial routines remain covered by Financial Habit Formation.
-12. **Digital Product Design & Development** — expanded through Application Delivery Orchestrator, Application Architecture Planning, Full-Stack Application Engineering, Backend Engineering & Integrations, Software Testing & QA, Application Parity Evaluation, and Application Deployment & Release Engineering.
-13. **Creative Production & Brand Identity** — image generation workflows, visual design, logo systems, brand identity, and consistent creative direction.
+1. **Riset Pelanggan dan Validasi Permintaan** — wawancara pelanggan, kesediaan membayar, ukuran pasar, riset kompetitor, dan bukti permintaan.
+2. **Model Bisnis dan Ekonomi Unit** — harga, margin kontribusi, analisis titik impas, biaya akuisisi pelanggan, nilai pelanggan sepanjang hubungan, dan konversi kas. Diferensiasi strategis dan daya tahan keunggulan kini ditangani oleh Strategi Inovasi dan Keunggulan Bersaing.
+3. **Pemasaran, Penjualan, dan Distribusi** — cakupan dasar kini meliputi Perencanaan Peluncuran Produk dan Strategi Masuk Pasar bersama Strategi Mendapatkan Daya Tarik Pasar, Kerangka Bullseye, pemilihan kanal, eksperimen pertumbuhan, pertumbuhan rujukan, kemitraan, dan metrik pertumbuhan. Pengembangan berikutnya dapat memperdalam posisi merek, perancangan penawaran, proses penjualan, pemasaran siklus pelanggan, dan retensi.
+4. **Pengembangan Produk dan Penawaran** — kesesuaian produk-pasar, diferensiasi, mutu, kemasan, dan pengalaman pelanggan.
+5. **Operasional dan Sistem Bisnis** — prosedur operasi standar, tenaga kerja, persediaan, kendali mutu, kapasitas, dan perbaikan proses. Cakupan inti telah ditambahkan melalui Operasional dan Pengembangan Skala Bisnis.
+6. **Manajemen Keuangan** — cakupan dasar kini meliputi Kecerdasan Finansial, Analisis Aset dan Liabilitas, Pengelolaan Arus Kas, Dahulukan Membayar Diri Sendiri, dan Literasi Laporan Keuangan. Pengembangan berikutnya dapat memperdalam perencanaan pajak, pengelolaan utang, dan kendali keuangan.
+7. **Pertumbuhan dan Alokasi Modal** — prioritas investasi kembali, imbal hasil atas modal yang diinvestasikan, aset produktif, keputusan ekspansi, dan penggunaan daya ungkit secara bertanggung jawab.
+8. **Risiko, Ketahanan, dan Kepatuhan** — perencanaan skenario buruk, asuransi, pencegahan penipuan, persyaratan hukum, pajak, dan kesinambungan bisnis.
+9. **Keuangan Pribadi dan Pelestarian Kekayaan** — cakupan dasar kini meliputi perencanaan pendapatan menjadi aset, alokasi tabungan, analisis aset/liabilitas, dan evaluasi investasi. Pengembangan berikutnya dapat memperdalam rancangan dana darurat, diversifikasi, perencanaan pensiun, dan pelestarian kekayaan.
+10. **Komunikasi dan Efektivitas Interpersonal** — cakupan dasar ditambahkan melalui enam skill Komunikasi berdasarkan *Bicara Itu Ada Seninya*: komunikasi efektif, mendengarkan aktif, persuasi dan negosiasi, perancangan pesan, penyampaian vokal, dan berbicara di depan umum.
+11. **Pelaksanaan dan Pendampingan Kemajuan** — penetapan tujuan, penentuan prioritas, akuntabilitas, tinjauan kemajuan, dan penyesuaian rencana berdasarkan hasil. Perancangan kebiasaan umum nonfinansial kini ditangani oleh Pembentukan Kebiasaan Umum dan Perubahan Perilaku; rutinitas keuangan tetap ditangani oleh Pembentukan Kebiasaan Finansial.
+12. **Desain dan Pengembangan Produk Digital** — diperluas melalui Orkestrator Pengembangan dan Pengiriman Aplikasi, Perencanaan Arsitektur Aplikasi, Rekayasa Aplikasi Full-Stack, Rekayasa Backend dan Integrasi, Pengujian Perangkat Lunak dan QA, Evaluasi Kesesuaian Aplikasi, serta Rekayasa Deployment dan Rilis Aplikasi.
+13. **Produksi Kreatif dan Identitas Merek** — alur kerja pembuatan gambar, desain visual, sistem logo, identitas merek, dan arahan kreatif yang konsisten.
 
-## Repository approach
+## Pendekatan repositori
 
-This knowledge base grows incrementally as useful sources are reviewed. Each skill should contribute a reusable principle or method that helps the future AI mentor give grounded, context-aware, and actionable guidance.
+Pangkalan pengetahuan ini berkembang secara bertahap seiring peninjauan sumber yang berguna. Setiap skill harus menyumbangkan prinsip atau metode yang dapat digunakan kembali untuk membantu mentor AI di masa depan memberikan panduan yang berlandaskan bukti, memahami konteks, dan dapat ditindaklanjuti.
 
-The goal is not to collect the largest number of skills. The goal is to build reliable knowledge that improves the AI's decisions and the user's ability to act.
+Tujuannya bukan mengumpulkan skill sebanyak mungkin. Tujuannya adalah membangun pengetahuan tepercaya yang meningkatkan kualitas keputusan AI dan kemampuan pengguna untuk bertindak.
 
-## Future AI Company Naming Note
+## Catatan Penamaan Perusahaan AI di Masa Depan
 
-The following names are reserved as proposed identities for the future AI department agents. This is a planning note only; it does not mean the agents or organization structure have been implemented.
+Nama-nama berikut disimpan sebagai identitas yang diusulkan untuk agen departemen AI di masa depan. Ini hanya catatan perencanaan; bukan berarti agen atau struktur organisasi tersebut sudah diterapkan.
 
-| AI name | Planned department |
+| Nama AI | Departemen yang Direncanakan |
 |---|---|
-| Mekki | Marketing |
-| Tachy | Technology |
-| Fini | Finance |
-| Operi | Operations |
-| Hura | Human Resources |
-| Straty | Strategy & Growth |
-| Puddi | Product |
+| Mekki | Pemasaran |
+| Tachy | Teknologi |
+| Fini | Keuangan |
+| Operi | Operasional |
+| Hura | Sumber Daya Manusia |
+| Straty | Strategi dan Pertumbuhan |
+| Puddi | Produk |
 
-The CEO name and the final organization structure are still to be decided. These names should be retained for the future AI Company architecture and revisited when the organization layer is designed.
-
+Nama CEO dan struktur organisasi final masih harus ditentukan. Nama-nama ini perlu dipertahankan untuk arsitektur Perusahaan AI di masa depan dan ditinjau kembali ketika lapisan organisasi mulai dirancang.
