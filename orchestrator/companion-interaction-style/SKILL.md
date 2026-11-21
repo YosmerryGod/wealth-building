@@ -185,7 +185,7 @@ Check:
 - [Conversational Intelligence & Psychology Router](../conversational-intelligence-and-psychology-router/SKILL.md) applies relevant Communication and Psychology knowledge to interpersonal requests.
 - [Contextual Understanding & Intent Inference](../contextual-understanding/SKILL.md) maintains relevant context and intent.
 - [Human Behavior Intelligence Layer](../human-behavior-intelligence/SKILL.md) coordinates complex human situations.
-- [Communication Decision Engine](../../skills/communication/communication-decision-engine/SKILL.md) selects specialist communication methods.
+- [Communication Decision Engine](../../skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md) selects specialist communication methods.
 - [Psychology Decision Engine](../../skills/psychology/psychology-decision-engine/SKILL.md) selects specialist psychological knowledge.
 
 This skill defines response experience and style. It does not implement persistent memory or an autonomous agent.
