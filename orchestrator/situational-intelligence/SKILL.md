@@ -299,7 +299,7 @@ First inspect:
 6. What future readers may infer from the business's public response.
 7. Whether the proposed remedy is approved, feasible, and proportionate.
 
-Coordinate with [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md), [Consumer Psychology & Persuasion](../../skills/marketing/consumer-psychology-and-persuasion/SKILL.md), [Brand Communication & Public Relations](../../skills/marketing/brand-communication-and-public-relations/SKILL.md), relevant Business Operations skills, and Communication skills as needed.
+Coordinate with [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md), [Psikologi Konsumen dan Persuasi](../../skills/marketing/psikologi-konsumen-dan-persuasi/SKILL.md), [Komunikasi Merek dan Hubungan Masyarakat](../../skills/marketing/komunikasi-merek-dan-hubungan-masyarakat/SKILL.md), relevant Business Operations skills, and Communication skills as needed.
 
 ### Existing inclusion versus additional value
 
@@ -399,8 +399,8 @@ This is an original AI reasoning framework, not a claim that an AI has human con
 - [Human Behavior Intelligence Layer](../human-behavior-intelligence/SKILL.md)
 - [Business Agent Orchestrator](../business-agent/SKILL.md)
 - [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md)
-- [Consumer Psychology & Persuasion](../../skills/marketing/consumer-psychology-and-persuasion/SKILL.md)
-- [Brand Communication & Public Relations](../../skills/marketing/brand-communication-and-public-relations/SKILL.md)
+- [Psikologi Konsumen dan Persuasi](../../skills/marketing/psikologi-konsumen-dan-persuasi/SKILL.md)
+- [Komunikasi Merek dan Hubungan Masyarakat](../../skills/marketing/komunikasi-merek-dan-hubungan-masyarakat/SKILL.md)
 - [Communication Decision Engine](../../skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md)
 - [Risk Assessment & Consequence Intelligence](../risk-assessment/SKILL.md)
 

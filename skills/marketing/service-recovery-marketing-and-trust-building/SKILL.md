@@ -425,9 +425,9 @@ For every business review or customer complaint, explicitly run the integrated s
 
 
 - **[Context-Aware Response Strategy Engine](../../../orchestrator/context-aware-response-strategy-engine/SKILL.md):** selects the response strategy from the full situation before this specialist skill determines service-recovery actions. Use it to avoid automatic compensation and to keep marketing visible only when relevant.
-- **[Brand Communication & Public Relations](../brand-communication-and-public-relations/SKILL.md):** public statements, stakeholder communication, and reputation response.
+- **[Komunikasi Merek dan Hubungan Masyarakat](../komunikasi-merek-dan-hubungan-masyarakat/SKILL.md):** public statements, stakeholder communication, and reputation response.
 - **[Word of Mouth & Brand Advocacy](../word-of-mouth-and-brand-advocacy/SKILL.md):** customer recommendations, eWOM, and voluntary advocacy.
-- **[Consumer Psychology & Persuasion](../consumer-psychology-and-persuasion/SKILL.md):** customer expectations, fairness perceptions, trust, and decision behavior.
+- **[Psikologi Konsumen dan Persuasi](../psikologi-konsumen-dan-persuasi/SKILL.md):** customer expectations, fairness perceptions, trust, and decision behavior.
 - **[Active Listening & Conversational Rapport](../../communication/active-listening-and-conversational-rapport/SKILL.md):** listening to complaints and understanding the customer's account.
 - **[Effective Communication & First Impressions](../../communication/effective-communication-and-first-impressions/SKILL.md):** clear, respectful responses.
 - **[Business Operations & Scaling](../../business/business-operations-and-scaling/SKILL.md):** process quality, staff responsibilities, and prevention of recurring failures.
@@ -563,7 +563,7 @@ Customer feedback is a source of evidence about the gap between what customers e
 8. Check whether the change reduced recurrence and improved customer outcomes.
 
 ### Response and ownership boundary
-This skill owns complaint triage, proportionate remedies, and recovery communication. General feedback analysis and product/brand learning should be shared with Business Operations & Scaling, Brand Awareness & Brand Activation, and Business Opportunity Discovery as relevant. Do not treat every criticism as a complaint requiring compensation, and do not turn feedback into a sales pitch.
+This skill owns complaint triage, proportionate remedies, and recovery communication. General feedback analysis and product/brand learning should be shared with Business Operations & Scaling, Kesadaran dan Aktivasi Merek, and Business Opportunity Discovery as relevant. Do not treat every criticism as a complaint requiring compensation, and do not turn feedback into a sales pitch.
 
 ### Evidence and metrics
 Track feedback volume with its denominator where possible, recurring themes, severity, resolution time, repeat incidents, refunds/replacements, customer satisfaction, repeat purchase, and retention. Public review counts and online comments may be biased toward unusually positive or negative experiences; do not claim they represent all customers without a defensible sampling method.

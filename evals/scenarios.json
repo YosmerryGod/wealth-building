@@ -429,7 +429,7 @@
       "pesan": "Apa bedanya supply dan demand, dan bagaimana menguji apakah pasar ayam panggang di daerah saya benar-benar membutuhkan produk ini?",
       "skill_utama": "business-opportunity-discovery",
       "skill_pendukung_maks_2": [
-        "consumer-psychology-and-persuasion",
+        "psikologi-konsumen-dan-persuasi",
         "business-operations-and-scaling"
       ],
       "harus_ditanyakan": "tidak",
@@ -437,9 +437,9 @@
     },
     {
       "pesan": "Buat pendekatan WhatsApp langsung untuk menawarkan produk kepada calon pelanggan.",
-      "skill_utama": "digital-brand-awareness-and-channel-strategy",
+      "skill_utama": "kesadaran-merek-digital-dan-strategi-kanal",
       "skill_pendukung_maks_2": [
-        "consumer-psychology-and-persuasion",
+        "psikologi-konsumen-dan-persuasi",
         "communication-decision-engine"
       ],
       "harus_ditanyakan": "tidak",
@@ -449,7 +449,7 @@
       "pesan": "Apakah saya sebaiknya memasang iklan Instagram untuk usaha makanan saya?",
       "skill_utama": "traction-channel-selection",
       "skill_pendukung_maks_2": [
-        "digital-brand-awareness-and-channel-strategy",
+        "kesadaran-merek-digital-dan-strategi-kanal",
         "growth-experimentation"
       ],
       "harus_ditanyakan": "tidak",
@@ -460,17 +460,17 @@
       "skill_utama": "service-recovery-marketing-and-trust-building",
       "skill_pendukung_maks_2": [
         "business-operations-and-scaling",
-        "brand-awareness-and-brand-activation"
+        "kesadaran-dan-aktivasi-merek"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Klasifikasikan feedback, verifikasi pola, tentukan akar masalah, tindakan korektif dan metrik; jangan otomatis memberi kompensasi."
     },
     {
       "pesan": "Bagaimana membangun branding usaha agar pelanggan mengingat ayam panggang saya?",
-      "skill_utama": "brand-awareness-and-brand-activation",
+      "skill_utama": "kesadaran-dan-aktivasi-merek",
       "skill_pendukung_maks_2": [
-        "consumer-psychology-and-persuasion",
-        "digital-brand-awareness-and-channel-strategy"
+        "psikologi-konsumen-dan-persuasi",
+        "kesadaran-merek-digital-dan-strategi-kanal"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Tentukan positioning, janji, bukti, identitas, dan konsistensi pengalaman; jangan samakan branding dengan iklan atau tampilan mewah."

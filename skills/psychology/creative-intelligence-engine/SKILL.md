@@ -207,7 +207,7 @@ For simple requests, return only the most useful ideas and a concise recommendat
 - **Business Opportunity Discovery:** validates customer problems, segments, willingness to pay, and market feasibility.
 - **Situational Intelligence & Contextual Reasoning:** reconstructs complex situations and compares feasible actions.
 - **Human Behavior Intelligence Layer:** interprets behavior and social context from observable evidence.
-- **Consumer Psychology & Persuasion:** applies buyer motivation and decision principles to offers and marketing.
+- **Psikologi Konsumen dan Persuasi:** applies buyer motivation and decision principles to offers and marketing.
 - **Growth Experimentation:** tests growth hypotheses with measurable experiments.
 - **Business Agent Orchestrator:** coordinates creative discovery within an approved business project.
 - **Frontend Design and other Development skills:** translate validated product or interface concepts into usable implementations.
@@ -234,7 +234,7 @@ This is an AI reasoning framework, not human consciousness, lived experience, in
 - [Knowledge Graph Builder](../../knowledge/knowledge-graph-builder/SKILL.md)
 - [Business Opportunity Discovery](../../business/business-opportunity-discovery/SKILL.md)
 - [Growth Experimentation](../../growth/growth-experimentation/SKILL.md)
-- [Consumer Psychology & Persuasion](../../marketing/consumer-psychology-and-persuasion/SKILL.md)
+- [Psikologi Konsumen dan Persuasi](../../marketing/psikologi-konsumen-dan-persuasi/SKILL.md)
 - [Situational Intelligence & Contextual Reasoning](../../../orchestrator/situational-intelligence/SKILL.md)
 - [Business Agent Orchestrator](../../../orchestrator/business-agent/SKILL.md)
 
