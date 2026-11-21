@@ -124,16 +124,16 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 
 | Skill | Owns | Does not own |
 |---|---|---|
-| 2D Mesh Avatar Rigging | Technical preparation and quality of 2D mesh/avatar rigs | General brand illustration or frontend architecture |
-| 3D Media Storefront Experience | 3D media catalog/storefront experience patterns | General frontend design or media rights clearance |
+| Rigging Avatar Mesh 2D | Persiapan ilustrasi menjadi avatar mesh 2D, pemisahan layer, rigging, dan mutu animasi | Ilustrasi merek umum atau arsitektur frontend |
+| Pengalaman Etalase Media 3D | Katalog media 3D, navigasi spasial, pemeriksaan item, dan integrasi tindakan | Desain frontend umum atau pemeriksaan hak media |
 | Desain Antarmuka AI dan Rekayasa Anti-Generik | Audit antarmuka AI berbasis produk dan penghilangan pola generik | Kepatuhan platform khusus atau implementasi interaksi spesialis |
 | Review Desain Platform Apple dan Human Interface Guidelines | Konvensi Apple dan review berdasarkan panduan antarmuka manusia | Desain visual universal atau kepemilikan implementasi |
 | Desain Frontend | Arah visual dan spesifikasi antarmuka yang berlandaskan kebutuhan produk | Rekonstruksi referensi, kepatuhan platform khusus, atau implementasi fitur |
 | Interaksi Mikro dan Desain Umpan Balik UI | Feedback komponen, transisi state, animasi mikro, dan loading | Arsitektur navigasi atau identitas visual keseluruhan |
 | Pola Navigasi dan Interaksi Web Modern | Navigasi global antarbagian dan tujuan produk, termasuk pola ekspresif | Desain visual menyeluruh, paginasi dalam koleksi, atau feedback mikro |
 | Pola Paginasi dan Navigasi Data Tingkat Lanjut | Pemilihan pola dan perpindahan halaman dalam satu koleksi | Navigasi global, desain visual, atau arsitektur query backend |
-| Professional Logo & Brand Identity | Logo and identity system design | Product UI or trademark/legal clearance |
-| Reverse Engineering & Reference-Based Reconstruction | Evidence-led analysis of a reference and reconstruction brief | Claims about hidden internals not observed or final product ownership |
+| Desain Logo Profesional dan Identitas Merek | Perancangan dan produksi sistem logo serta identitas merek | UI produk atau kepastian hukum merek dagang |
+| Rekayasa Balik dan Rekonstruksi Berbasis Referensi | Investigasi produk referensi berbasis bukti dan brief adaptasi orisinal | Klaim internal yang tidak diamati atau kepemilikan akhir produk |
 | Evaluasi Kesesuaian Aplikasi | Penilaian cakupan fitur dan perbedaan terhadap persyaratan | Reproduksi bug, implementasi fitur, atau penilaian hukum |
 | Scroll-Driven 3D Storytelling | Scroll-linked 3D narrative and scene continuity | General motion design or marketing strategy |
 | Pengujian Perangkat Lunak dan Jaminan Mutu | Rencana tes, reproduksi cacat, bukti pengujian, dan regresi | Implementasi fitur, evaluasi kesetaraan referensi, atau persetujuan rilis |
@@ -340,6 +340,6 @@ Canonical sequence when each stage is actually needed:
 7. Application Parity Evaluation — report feature coverage and deliberate differences without pixel-copy goals.
 8. Penemuan Peluang Bisnis — analisis umpan balik publik pengguna dan validasi kebutuhan yang belum terpenuhi; gunakan Strategi Inovasi dan Keunggulan Bersaing untuk menilai daya tahan keunggulan bila sesuai.
 9. Product Launch & Go-to-Market Planning — prepare positioning, launch assets, channel sequence, and metrics; delegate pricing calculations to Finance and channel experiments to Growth.
-10. Application Deployment & Release Engineering — preflight, staging, rollback, and production readiness; explicit user approval remains mandatory.
+10. Rekayasa Deployment dan Rilis Aplikasi — pemeriksaan awal, staging, rollback, dan kesiapan produksi; persetujuan eksplisit tetap wajib.
 
 Existing projects may enter at a later stage. A one-screen request must not trigger the full sequence. Keep the global maximum of three loaded skills per message, one primary owner, and bounded supporting contributions. Only Contextual Understanding is always-on; load Companion Interaction Style and this governance skill conditionally so the cap leaves room for the task owner and necessary evidence specialist.
