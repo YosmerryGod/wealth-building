@@ -212,7 +212,7 @@ Use this skill as a strategic lens, not as a replacement for specialist knowledg
 - [False Concern & Covert Sabotage](../false-concern-and-covert-sabotage/SKILL.md) — recognize covert obstruction and reputational undermining.
 - [Persuasive Communication & Negotiation](../../communication/persuasive-communication-and-negotiation/SKILL.md) — communicate interests and negotiate transparently.
 - [Effective Communication & First Impressions](../../communication/effective-communication-and-first-impressions/SKILL.md) — adapt clear, respectful communication to the audience.
-- [Viral Content Engineering & Attention Psychology](../../marketing/viral-content-engineering-and-attention-psychology/SKILL.md) — attention and visibility in public content contexts.
+- [Rekayasa Konten Viral dan Psikologi Perhatian](../../marketing/rekayasa-konten-viral-dan-psikologi-perhatian/SKILL.md) — attention and visibility in public content contexts.
 
 ## Source and limitations
 

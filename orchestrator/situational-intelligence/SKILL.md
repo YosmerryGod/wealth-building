@@ -299,7 +299,7 @@ First inspect:
 6. What future readers may infer from the business's public response.
 7. Whether the proposed remedy is approved, feasible, and proportionate.
 
-Coordinate with [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md), [Psikologi Konsumen dan Persuasi](../../skills/marketing/psikologi-konsumen-dan-persuasi/SKILL.md), [Komunikasi Merek dan Hubungan Masyarakat](../../skills/marketing/komunikasi-merek-dan-hubungan-masyarakat/SKILL.md), relevant Business Operations skills, and Communication skills as needed.
+Coordinate with [Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan](../../skills/marketing/pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan/SKILL.md), [Psikologi Konsumen dan Persuasi](../../skills/marketing/psikologi-konsumen-dan-persuasi/SKILL.md), [Komunikasi Merek dan Hubungan Masyarakat](../../skills/marketing/komunikasi-merek-dan-hubungan-masyarakat/SKILL.md), relevant Business Operations skills, and Communication skills as needed.
 
 ### Existing inclusion versus additional value
 
@@ -367,7 +367,7 @@ If rice is part of the approved offer and appropriate to the original order, sta
 |---|---|---|
 | Complex human situation with behavior and communication | Human Behavior Intelligence Layer | Psychology and Communication Decision Engines |
 | Business decision with multiple interacting constraints | Business Agent Orchestrator | Business Operations, Finance, Marketing |
-| Customer complaint or public review | Service Recovery Marketing & Trust Building | Consumer Psychology, PR, Communication, Business Operations |
+| Customer complaint or public review | Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan | Consumer Psychology, PR, Communication, Business Operations |
 | Sales objection or conversion decision | Marketing / Consumer Psychology | Persuasive Communication, pricing, product economics |
 | Financial or investment decision | Relevant Finance skill | Risk Assessment and current evidence |
 | Ambiguous request with important prior context | Contextual Understanding & Intent Inference | Relevant domain engine |
@@ -398,7 +398,7 @@ This is an original AI reasoning framework, not a claim that an AI has human con
 - [Contextual Understanding & Intent Inference](../contextual-understanding/SKILL.md)
 - [Human Behavior Intelligence Layer](../human-behavior-intelligence/SKILL.md)
 - [Business Agent Orchestrator](../business-agent/SKILL.md)
-- [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md)
+- [Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan](../../skills/marketing/pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan/SKILL.md)
 - [Psikologi Konsumen dan Persuasi](../../skills/marketing/psikologi-konsumen-dan-persuasi/SKILL.md)
 - [Komunikasi Merek dan Hubungan Masyarakat](../../skills/marketing/komunikasi-merek-dan-hubungan-masyarakat/SKILL.md)
 - [Communication Decision Engine](../../skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md)

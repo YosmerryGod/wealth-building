@@ -42,4 +42,4 @@ Top candidate clips with start/end timecodes, standalone premise, original openi
 - Treat performance as uncertain and measure each format separately.
 
 ## Ownership boundary
-This skill owns clip selection and short-form adaptation. **Transcript-Based Video Editing** owns detailed transcript cut lists; **Video Scriptwriting & Hook Engineering** owns standalone script creation; **Viral Content Engineering & Attention Psychology** provides broader attention principles. Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md).
+This skill owns clip selection and short-form adaptation. **Transcript-Based Video Editing** owns detailed transcript cut lists; **Video Scriptwriting & Hook Engineering** owns standalone script creation; **Rekayasa Konten Viral dan Psikologi Perhatian** provides broader attention principles. Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md).

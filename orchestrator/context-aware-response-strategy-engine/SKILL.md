@@ -261,7 +261,7 @@ Then write in the user's requested language and voice. Keep simple responses con
 - **Human Behavior Intelligence Layer:** coordinates complex human, relational, social, and power dynamics.
 - **Psychology Decision Engine:** selects focused behavioral and psychological knowledge.
 - **Communication Decision Engine:** designs listening, wording, negotiation, feedback, and delivery.
-- **Service Recovery Marketing & Trust Building:** handles customer complaints, remedies, public reviews, and recovery follow-through.
+- **Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan:** handles customer complaints, remedies, public reviews, and recovery follow-through.
 - **Consumer Psychology & Persuasion:** handles buyer behavior, value perception, offers, and persuasion.
 - **Brand Communication & Public Relations:** handles public statements and reputation messaging.
 - **Business Operations & Scaling:** addresses operational causes and repeat failures.

@@ -109,13 +109,13 @@ Separate organic recommendations from incentivized referrals. Do not count a soc
 
 ## Service recovery integration
 
-Use [Service Recovery Marketing & Trust Building](../service-recovery-marketing-and-trust-building/SKILL.md) when a customer complaint or service failure needs an actual remedy and operational correction. A credible recovery may influence word of mouth, but compensation must never be conditional on a positive review, changed rating, or removal of criticism.
+Use [Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan](../pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan/SKILL.md) when a customer complaint or service failure needs an actual remedy and operational correction. A credible recovery may influence word of mouth, but compensation must never be conditional on a positive review, changed rating, or removal of criticism.
 
 ## Relationship to other skills
 
 - **Brand Awareness & Brand Activation:** links customer advocacy to the wider brand memory objective.
 - **Consumer Psychology & Persuasion:** explains social proof and recommendation behavior.
-- **Influencer, Opinion Leader & Endorsement Strategy:** covers paid or structured third-party influence; this skill focuses on customer/community advocacy.
+- **Strategi Influencer, Pemimpin Opini, dan Endorsement:** covers paid or structured third-party influence; this skill focuses on customer/community advocacy.
 - **Business Operations & Scaling:** improves the underlying experience that recommendations depend on.
 - **Growth Metrics & Optimization:** measures referral and retention outcomes.
 - **Viral & Referral Growth:** designs broader referral loops and distribution mechanisms.

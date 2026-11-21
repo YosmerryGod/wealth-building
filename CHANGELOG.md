@@ -156,3 +156,11 @@ Reverse chronological repository history (newest first).
 - Menerjemahkan lima skill Pemasaran ke bahasa Indonesia dan mengganti nama folder serta ID skill.
 - Menjaga setiap berkas `SKILL.md` di bawah 5.000 karakter.
 - Memperbarui indeks, registri, skenario evaluasi, dan referensi internal.
+
+
+## 2026-11-22 — Lokalisasi lima skill Pemasaran berikutnya
+
+- Menerjemahkan Strategi Influencer, Kecerdasan Suara Pelanggan, Pemulihan Layanan, Rekayasa Konten Viral, dan Pemasaran Acara Viral ke bahasa Indonesia.
+- Menjaga setiap berkas `SKILL.md` di bawah 5.000 karakter.
+- Mengganti empat nama folder/ID yang sebelumnya berbahasa Inggris; folder Kecerdasan Suara Pelanggan sudah berbahasa Indonesia sehingga dipertahankan.
+- Memperbarui README, INDEX, registri, skenario evaluasi, tata kelola perutean, dan tautan silang.

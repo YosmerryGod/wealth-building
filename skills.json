@@ -702,13 +702,15 @@
       ]
     },
     {
-      "id": "influencer-opinion-leader-and-endorsement",
+      "id": "strategi-influencer-pemimpin-opini-dan-endorsement",
       "domain": "marketing",
-      "path": "skills/marketing/influencer-opinion-leader-and-endorsement/SKILL.md",
-      "owns": "pemilihan kreator/pendukung, keterbukaan promosi, dan pengukuran",
+      "path": "skills/marketing/strategi-influencer-pemimpin-opini-dan-endorsement/SKILL.md",
+      "owns": "pemilihan kreator/pendukung, kerja sama, keterbukaan promosi, dan pengukuran",
       "triggers": [
         "influencer",
         "endorse",
+        "food vlogger",
+        "kreator konten",
         "pengulas kuliner"
       ]
     },
@@ -1022,19 +1024,17 @@
       ]
     },
     {
-      "id": "service-recovery-marketing-and-trust-building",
+      "id": "pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan",
       "domain": "marketing",
-      "path": "skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md",
-      "owns": "penanganan keluhan, solusi proporsional, balasan publik dengan unsur pemasaran yang wajib terlihat, dan pemulihan kepercayaan",
+      "path": "skills/marketing/pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan/SKILL.md",
+      "owns": "triase keluhan individual, pemulihan proporsional, balasan publik, tindak lanjut, dan kepercayaan",
       "triggers": [
         "komplain",
         "ulasan jelek",
         "refund",
         "pelanggan kecewa",
         "balas ulasan",
-        "keluhan satu pelanggan",
-        "kasus komplain individual",
-        "pemulihan pelanggan"
+        "keluhan individual"
       ]
     },
     {
@@ -1174,24 +1174,29 @@
       ]
     },
     {
-      "id": "viral-content-engineering-and-attention-psychology",
+      "id": "rekayasa-konten-viral-dan-psikologi-perhatian",
       "domain": "marketing",
-      "path": "skills/marketing/viral-content-engineering-and-attention-psychology/SKILL.md",
-      "owns": "pembuka, perhatian, kemudahan dibagikan, dan pengembangan konten berulang",
+      "path": "skills/marketing/rekayasa-konten-viral-dan-psikologi-perhatian/SKILL.md",
+      "owns": "pembuka, perhatian, struktur konten, potensi berbagi, dan iterasi",
       "triggers": [
         "konten viral",
         "FYP",
-        "hook konten"
+        "hook konten",
+        "pembuka konten",
+        "konten ramai"
       ]
     },
     {
-      "id": "viral-event-marketing-and-content-monetization",
+      "id": "pemasaran-acara-viral-dan-monetisasi-konten",
       "domain": "marketing",
-      "path": "skills/marketing/viral-event-marketing-and-content-monetization/SKILL.md",
-      "owns": "rencana terpadu dari acara menjadi konten lalu pendapatan",
+      "path": "skills/marketing/pemasaran-acara-viral-dan-monetisasi-konten/SKILL.md",
+      "owns": "rencana terpadu acara, konten, distribusi, monetisasi, biaya, dan keselamatan",
       "triggers": [
-        "event jadi konten",
-        "monetisasi event"
+        "acara jadi konten",
+        "monetisasi acara",
+        "event viral",
+        "tantangan berhadiah",
+        "turnamen konten"
       ]
     },
     {

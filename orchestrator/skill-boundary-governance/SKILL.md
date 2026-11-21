@@ -201,11 +201,11 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Consumer Psychology & Persuasion | Buyer decision variables, value perception, and ethical persuasion in marketing | General interpersonal diagnosis or customer-service remedy selection |
 | Digital Brand Awareness & Channel Strategy | Digital presence, platform roles, digital content/channel execution, and permission-based direct marketing | Overall acquisition channel experimentation |
 | Experiential & Event-Based Marketing | Design and delivery of brand/customer experiences and events | Viral-content system or event revenue model integration |
-| Influencer, Opinion Leader & Endorsement Strategy | Creator/endorser selection, collaboration, disclosure, and measurement | General partnership strategy or organic advocacy |
+| Strategi Influencer, Pemimpin Opini, dan Endorsement | pemilihan kreator, kerja sama, keterbukaan promosi, dan pengukuran | kemitraan umum atau advokasi organik |
 | Kecerdasan Suara Pelanggan Berbasis AI | Analisis umpan balik pelanggan secara agregat, frekuensi/tren masalah, penentuan prioritas pengalaman pelanggan, dan pengukuran perbaikan | Pemulihan keluhan individual/balasan publik atau pelaksanaan operasional |
-| Service Recovery Marketing & Trust Building | Individual customer complaint triage, proportionate remedies, public reply that satisfies its Output contract, follow-up, and service recovery | Aggregated cross-customer feedback analytics, automatic compensation, or general PR for non-service issues |
-| Viral Content Engineering & Attention Psychology | Hooks, attention, content shareability, and content iteration | Event operations or full event monetization |
-| Viral Event Marketing & Content Monetization | Integrated event-to-content-to-revenue plan | Replacing specialist event, content, finance, and growth methods |
+| Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan | triase keluhan individual, pemulihan proporsional, balasan publik sesuai kontrak, tindak lanjut, dan pemulihan layanan | analisis umpan balik agregat, kompensasi otomatis, atau PR umum nonlayanan |
+| Rekayasa Konten Viral dan Psikologi Perhatian | pembuka, perhatian, struktur konten, potensi berbagi, dan iterasi | operasional acara atau monetisasi acara menyeluruh |
+| Pemasaran Acara Viral dan Monetisasi Konten | rencana terpadu acara, konten, distribusi, monetisasi, biaya, dan keselamatan | menggantikan metode spesialis acara, konten, keuangan, dan pertumbuhan |
 | Word of Mouth & Brand Advocacy | Organic recommendations, referral advocacy, and customer-led reputation | Paid influencer campaigns or remedy authority |
 
 ### Psychology
@@ -299,11 +299,11 @@ Frontend Design owns the overall product interface → Modern Web Navigation own
 
 ### YouTube and creator content
 
-Content Intelligence Orchestrator owns YouTube/content-production routing → select one lead from Scriptwriting, Packaging, Transcript Editing, Retention, Shorts, Comments, Calendar, SEO, Chapters, Competitor Intelligence, or Channel Audit → add only specialists whose distinct output is required → synthesize once. General Viral Content Engineering supplies cross-platform attention principles; Growth owns acquisition strategy and measurement governance.
+Content Intelligence Orchestrator owns YouTube/content-production routing → select one lead from Scriptwriting, Packaging, Transcript Editing, Retention, Shorts, Comments, Calendar, SEO, Chapters, Competitor Intelligence, or Channel Audit → add only specialists whose distinct output is required → synthesize once. Rekayasa Konten Viral dan Psikologi Perhatian supplies cross-platform attention principles; Growth owns acquisition strategy and measurement governance.
 
 ### Event-led content and monetization
 
-Viral Event owns the integrated plan → Experiential owns the event experience → Viral Content owns hooks/content mechanics → Finance owns costs/cash economics → Growth owns distribution tests/metrics → Operations owns capacity and execution. Viral Event integrates but does not repeat those specialist methods.
+Pemasaran Acara Viral dan Monetisasi Konten owns the integrated plan → Pemasaran Berbasis Pengalaman dan Acara owns the event experience → Rekayasa Konten Viral dan Psikologi Perhatian owns hooks/content mechanics → Finance owns costs/cash economics → Growth owns distribution tests/metrics → Operations owns capacity and execution. Pemasaran Acara Viral mengintegrasikan hasil tanpa mengulang metode spesialis.
 
 ## Required final quality gate
 

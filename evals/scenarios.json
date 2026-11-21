@@ -108,7 +108,7 @@
       "pesan": "Pelanggan bilang ayam yang diterima kurang matang dan meminta solusi.",
       "skill_utama": "context-aware-response-strategy-engine",
       "skill_pendukung_maks_2": [
-        "service-recovery-marketing-and-trust-building",
+        "pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan",
         "situational-intelligence"
       ],
       "harus_ditanyakan": "ya",
@@ -124,7 +124,7 @@
       "pesan": "Pelanggan memberi bintang lima dan bilang ayamnya enak. Balas singkat.",
       "skill_utama": "context-aware-response-strategy-engine",
       "skill_pendukung_maks_2": [
-        "service-recovery-marketing-and-trust-building",
+        "pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan",
         "communication-decision-engine"
       ],
       "harus_ditanyakan": "tidak",
@@ -140,7 +140,7 @@
       "pesan": "Pesanan pelanggan kurang satu item karena kesalahan kami. Buat balasan publik.",
       "skill_utama": "context-aware-response-strategy-engine",
       "skill_pendukung_maks_2": [
-        "service-recovery-marketing-and-trust-building",
+        "pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan",
         "communication-decision-engine"
       ],
       "harus_ditanyakan": "tidak",
@@ -403,7 +403,7 @@
       "pesan": "Tiga ulasan marketplace minggu ini: (1) 3★ dari pelanggan setia, katanya enak tapi hari ini banyak yang gosong; (2) 5★ tanpa teks; (3) 1★ nasi tidak ikut terkirim disertai foto. Buatkan balasan untuk masing-masing ulasan.",
       "skill_utama": "context-aware-response-strategy-engine",
       "skill_pendukung_maks_2": [
-        "service-recovery-marketing-and-trust-building",
+        "pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan",
         "situational-intelligence"
       ],
       "harus_ditanyakan": "tidak",
@@ -457,7 +457,7 @@
     },
     {
       "pesan": "Banyak pelanggan mengeluh ayam terlalu kering. Bagaimana mengolah feedback ini?",
-      "skill_utama": "service-recovery-marketing-and-trust-building",
+      "skill_utama": "pemulihan-layanan-pemasaran-dan-pembangunan-kepercayaan",
       "skill_pendukung_maks_2": [
         "business-operations-and-scaling",
         "kesadaran-dan-aktivasi-merek"
