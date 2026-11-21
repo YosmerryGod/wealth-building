@@ -206,7 +206,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan | triase keluhan individual, pemulihan proporsional, balasan publik sesuai kontrak, tindak lanjut, dan pemulihan layanan | analisis umpan balik agregat, kompensasi otomatis, atau PR umum nonlayanan |
 | Rekayasa Konten Viral dan Psikologi Perhatian | pembuka, perhatian, struktur konten, potensi berbagi, dan iterasi | operasional acara atau monetisasi acara menyeluruh |
 | Pemasaran Acara Viral dan Monetisasi Konten | rencana terpadu acara, konten, distribusi, monetisasi, biaya, dan keselamatan | menggantikan metode spesialis acara, konten, keuangan, dan pertumbuhan |
-| Word of Mouth & Brand Advocacy | Organic recommendations, referral advocacy, and customer-led reputation | Paid influencer campaigns or remedy authority |
+| Getok Tular dan Advokasi Merek | Organic recommendations, referral advocacy, and customer-led reputation | Paid influencer campaigns or remedy authority |
 
 ### Psychology
 
@@ -271,7 +271,7 @@ For simple wording, skip HBIL and Situational Intelligence unless they materiall
 
 ### Customer complaint or public review
 
-Contextual Understanding → Situational Intelligence (actual order, offer, inclusions, evidence, operations, economics, and an explicit marketing-opportunity assessment) → HBIL only if human interpretation adds value → Context-Aware Response Strategy (reviewer response mode, remedy/no remedy, and a deliberate use/defer/omit marketing decision) → Service Recovery for complaint handling and fair remedy → Consumer Psychology/Brand Communication/Word of Mouth when they add a distinct buyer, value, reputation, or advocacy contribution → Communication for wording.
+Contextual Understanding → Situational Intelligence (actual order, offer, inclusions, evidence, operations, economics, and an explicit marketing-opportunity assessment) → HBIL only if human interpretation adds value → Context-Aware Response Strategy (reviewer response mode, remedy/no remedy, and a deliberate use/defer/omit marketing decision) → Service Recovery for complaint handling and fair remedy → Consumer Psychology/Brand Communication/Getok Tular when they add a distinct buyer, value, reputation, or advocacy contribution → Communication for wording.
 
 For every business review, marketing opportunity detection must be evaluated; it is not optional as an assessment. The use of promotional wording remains contextual and evidence-based. The lead must check product value, differentiators, existing inclusions, approved additional benefits, buyer objections, and a suitable conversion path. The final reply should make a relevant product-value or trust signal visible when appropriate. Do not force a promotion when no relevant or verified opportunity exists. Never let marketing override a fair remedy, misrepresent an existing inclusion as a new gift, or turn compensation into a default.
 
