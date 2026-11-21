@@ -231,29 +231,29 @@
     },
     {
       "pesan": "Saya ingin landing page SUKA AI yang minimalis.",
-      "skill_utama": "frontend-design",
+      "skill_utama": "desain-frontend",
       "skill_pendukung_maks_2": [
         "desain-antarmuka-ai-anti-generik",
-        "modern-web-navigation-patterns"
+        "pola-navigasi-web-modern"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Mulai dari struktur dan tujuan produk; jangan menambah elemen yang tidak diminta."
     },
     {
       "pesan": "Tombol kirim tidak memberi feedback saat loading.",
-      "skill_utama": "micro-interactions-and-ui-feedback",
+      "skill_utama": "interaksi-mikro-dan-umpan-balik-antarmuka",
       "skill_pendukung_maks_2": [
-        "frontend-design"
+        "desain-frontend"
       ],
       "harus_ditanyakan": "ya",
       "catatan": "Perlu stack atau komponen aktual untuk implementasi."
     },
     {
       "pesan": "Audit navigasi mobile aplikasi saya.",
-      "skill_utama": "modern-web-navigation-patterns",
+      "skill_utama": "pola-navigasi-web-modern",
       "skill_pendukung_maks_2": [
-        "frontend-design",
-        "micro-interactions-and-ui-feedback"
+        "desain-frontend",
+        "interaksi-mikro-dan-umpan-balik-antarmuka"
       ],
       "harus_ditanyakan": "ya",
       "catatan": "Minta screenshot atau kode bila belum tersedia."
@@ -327,18 +327,18 @@
       "pesan": "Saya ingin mengganti pagination tabel pesanan 120 halaman dengan pola yang lebih modern. Apa yang cocok?",
       "skill_utama": "paginasi-data-tingkat-lanjut",
       "skill_pendukung_maks_2": [
-        "frontend-design",
-        "modern-web-navigation-patterns"
+        "desain-frontend",
+        "pola-navigasi-web-modern"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Nilai apakah pengguna perlu lompat ke nomor tertentu (Jump Input), mengenali konten secara visual (Page Preview), atau berpindah di rentang halaman panjang (Sliding Pagination); jangan menganggap pola paling dekoratif paling baik."
     },
     {
       "pesan": "Saya ingin memakai sidebar radial, teks menu vertikal, dan scroll progress seperti referensi video. Mana yang cocok untuk website saya?",
-      "skill_utama": "modern-web-navigation-patterns",
+      "skill_utama": "pola-navigasi-web-modern",
       "skill_pendukung_maks_2": [
-        "frontend-design",
-        "micro-interactions-and-ui-feedback"
+        "desain-frontend",
+        "interaksi-mikro-dan-umpan-balik-antarmuka"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Pahami tipe produk dan tugas pengguna. Radial lebih sesuai untuk portfolio kreatif/landing page eksperimental; vertical typography untuk editorial/portfolio yang memang art-directed; scroll progress untuk halaman panjang dengan section jelas. Jangan memilih semua pola sekaligus tanpa alasan."
@@ -363,7 +363,7 @@
     },
     {
       "pesan": "Tolong uji semua alur aplikasi dan laporkan bug yang benar-benar ditemukan.",
-      "skill_utama": "software-testing-and-quality-assurance",
+      "skill_utama": "pengujian-perangkat-lunak-dan-jaminan-mutu",
       "skill_pendukung_maks_2": [
         "application-delivery-orchestrator"
       ],
@@ -383,7 +383,7 @@
       "pesan": "Siapkan aplikasi ke production dan hubungkan domain.",
       "skill_utama": "rekayasa-deployment-dan-rilis-aplikasi",
       "skill_pendukung_maks_2": [
-        "software-testing-and-quality-assurance",
+        "pengujian-perangkat-lunak-dan-jaminan-mutu",
         "risk-assessment"
       ],
       "harus_ditanyakan": "ya",
@@ -418,7 +418,7 @@
     },
     {
       "pesan": "Buat modal konfirmasi yang bisa ditutup dengan Escape dan klik di luar, lalu pastikan aksesibilitasnya.",
-      "skill_utama": "frontend-design",
+      "skill_utama": "desain-frontend",
       "skill_pendukung_maks_2": [
         "dynamic-knowledge-retrieval"
       ],
@@ -495,7 +495,7 @@
     },
     {
       "pesan": "Implementasikan halaman dashboard sesuai arsitektur dan desain yang sudah disetujui.",
-      "skill_utama": "full-stack-application-engineering",
+      "skill_utama": "rekayasa-aplikasi-tumpukan-penuh",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -504,7 +504,7 @@
     },
     {
       "pesan": "Buat autentikasi, aturan akses database, dan webhook pembayaran.",
-      "skill_utama": "backend-engineering-and-integrations",
+      "skill_utama": "rekayasa-backend-dan-integrasi",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -513,7 +513,7 @@
     },
     {
       "pesan": "Rancang ulang tampilan frontend aplikasi berdasarkan kebutuhan produk dan buat sistem visual yang konsisten.",
-      "skill_utama": "frontend-design",
+      "skill_utama": "desain-frontend",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -522,7 +522,7 @@
     },
     {
       "pesan": "Buat rencana QA, jalankan pengujian alur utama, dan laporkan bug yang bisa direproduksi.",
-      "skill_utama": "software-testing-and-quality-assurance",
+      "skill_utama": "pengujian-perangkat-lunak-dan-jaminan-mutu",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -540,7 +540,7 @@
     },
     {
       "pesan": "Tentukan pola navigasi global yang tepat untuk dashboard dengan banyak menu dan pengguna desktop/mobile.",
-      "skill_utama": "modern-web-navigation-patterns",
+      "skill_utama": "pola-navigasi-web-modern",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -558,7 +558,7 @@
     },
     {
       "pesan": "Tambahkan animasi tombol, skeleton loading, dan feedback state yang aksesibel.",
-      "skill_utama": "micro-interactions-and-ui-feedback",
+      "skill_utama": "interaksi-mikro-dan-umpan-balik-antarmuka",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -576,7 +576,7 @@
     },
     {
       "pesan": "Review desain aplikasi iOS saya berdasarkan Apple Human Interface Guidelines.",
-      "skill_utama": "review-desain-platform-apple",
+      "skill_utama": "tinjauan-desain-platform-apple",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -594,7 +594,7 @@
     },
     {
       "pesan": "Ubah ilustrasi karakter menjadi avatar VTuber 2D yang bisa berkedip, menoleh, dan sinkronisasi mulut.",
-      "skill_utama": "rigging-avatar-mesh-2d",
+      "skill_utama": "perangkaan-avatar-mesh-2d",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],

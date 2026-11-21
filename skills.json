@@ -17,9 +17,9 @@
   },
   "skills": [
     {
-      "id": "rigging-avatar-mesh-2d",
+      "id": "perangkaan-avatar-mesh-2d",
       "domain": "development",
-      "path": "skills/development/rigging-avatar-mesh-2d/SKILL.md",
+      "path": "skills/development/perangkaan-avatar-mesh-2d/SKILL.md",
       "owns": "persiapan ilustrasi menjadi avatar mesh 2D, pemisahan layer, rigging, dan pemeriksaan mutu animasi",
       "triggers": [
         "avatar 2d",
@@ -92,9 +92,9 @@
       ]
     },
     {
-      "id": "review-desain-platform-apple",
+      "id": "tinjauan-desain-platform-apple",
       "domain": "development",
-      "path": "skills/development/review-desain-platform-apple/SKILL.md",
+      "path": "skills/development/tinjauan-desain-platform-apple/SKILL.md",
       "owns": "konvensi desain Apple dan review berdasarkan Human Interface Guidelines",
       "triggers": [
         "iOS",
@@ -183,9 +183,9 @@
       ]
     },
     {
-      "id": "backend-engineering-and-integrations",
+      "id": "rekayasa-backend-dan-integrasi",
       "domain": "development",
-      "path": "skills/development/backend-engineering-and-integrations/SKILL.md",
+      "path": "skills/development/rekayasa-backend-dan-integrasi/SKILL.md",
       "owns": "implementasi sisi server: autentikasi, otorisasi, keamanan data, migrasi, pembayaran, webhook, job, penyimpanan, dan integrasi",
       "triggers": [
         "buat backend",
@@ -607,9 +607,9 @@
       ]
     },
     {
-      "id": "frontend-design",
+      "id": "desain-frontend",
       "domain": "development",
-      "path": "skills/development/frontend-design/SKILL.md",
+      "path": "skills/development/desain-frontend/SKILL.md",
       "owns": "arah visual, hierarki, tipografi, tata letak, dan spesifikasi antarmuka",
       "triggers": [
         "desain web",
@@ -620,9 +620,9 @@
       ]
     },
     {
-      "id": "full-stack-application-engineering",
+      "id": "rekayasa-aplikasi-tumpukan-penuh",
       "domain": "development",
-      "path": "skills/development/full-stack-application-engineering/SKILL.md",
+      "path": "skills/development/rekayasa-aplikasi-tumpukan-penuh/SKILL.md",
       "owns": "implementasi fitur dan integrasi alur aplikasi berdasarkan kebutuhan, arsitektur, serta desain yang disetujui",
       "triggers": [
         "bangun aplikasi",
@@ -781,9 +781,9 @@
       ]
     },
     {
-      "id": "micro-interactions-and-ui-feedback",
+      "id": "interaksi-mikro-dan-umpan-balik-antarmuka",
       "domain": "development",
-      "path": "skills/development/micro-interactions-and-ui-feedback/SKILL.md",
+      "path": "skills/development/interaksi-mikro-dan-umpan-balik-antarmuka/SKILL.md",
       "owns": "feedback komponen, transisi state, animasi mikro, dan status pemuatan",
       "triggers": [
         "animasi tombol",
@@ -794,9 +794,9 @@
       ]
     },
     {
-      "id": "modern-web-navigation-patterns",
+      "id": "pola-navigasi-web-modern",
       "domain": "development",
-      "path": "skills/development/modern-web-navigation-patterns/SKILL.md",
+      "path": "skills/development/pola-navigasi-web-modern/SKILL.md",
       "owns": "navigasi antarbagian dan tujuan produk; pola navigasi global konvensional maupun ekspresif",
       "triggers": [
         "navbar",
@@ -1003,9 +1003,9 @@
       ]
     },
     {
-      "id": "scroll-driven-3d-storytelling",
+      "id": "penceritaan-3d-berbasis-gulir",
       "domain": "development",
-      "path": "skills/development/scroll-driven-3d-storytelling/SKILL.md",
+      "path": "skills/development/penceritaan-3d-berbasis-gulir/SKILL.md",
       "owns": "narasi 3D yang terhubung dengan pergerakan gulir",
       "triggers": [
         "gulir 3D",
@@ -1088,9 +1088,9 @@
       ]
     },
     {
-      "id": "software-testing-and-quality-assurance",
+      "id": "pengujian-perangkat-lunak-dan-jaminan-mutu",
       "domain": "development",
-      "path": "skills/development/software-testing-and-quality-assurance/SKILL.md",
+      "path": "skills/development/pengujian-perangkat-lunak-dan-jaminan-mutu/SKILL.md",
       "owns": "perencanaan tes, reproduksi cacat, bukti pengujian manual/otomatis, dan regresi",
       "triggers": [
         "test aplikasi",

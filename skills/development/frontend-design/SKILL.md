@@ -1,9 +1,9 @@
 ---
-name: frontend-design
+name: desain-frontend
 title: Desain Frontend
 category: development
 subcategory: product-design
-source_type: original-adaptation-from-anthropic-frontend-design
+source_type: original-adaptation-from-anthropic-desain-frontend
 language: Indonesian
 description: "Menentukan arah visual dan rancangan antarmuka website atau aplikasi berdasarkan kebutuhan produk."
 triggers: ["desain web","landing page","tampilan app","frontend","desain antarmuka"]
@@ -40,7 +40,7 @@ Pilih pembuka yang paling mewakili nilai produk: judul, gambar, demo, interaksi,
 
 ## 5. Gerak dan konten antarmuka
 
-Batasi animasi otomatis. Gerak akibat tindakan pengguna berguna bila menjelaskan perubahan, seperti panel terbuka atau penyimpanan berhasil. Jangan menghalangi konten atau memperlambat tugas. Gunakan [Micro-Interactions & UI Feedback Design](../micro-interactions-and-ui-feedback/SKILL.md) untuk pola feedback dan [Modern Web Navigation & Interaction Patterns](../modern-web-navigation-patterns/SKILL.md) untuk navigasi.
+Batasi animasi otomatis. Gerak akibat tindakan pengguna berguna bila menjelaskan perubahan, seperti panel terbuka atau penyimpanan berhasil. Jangan menghalangi konten atau memperlambat tugas. Gunakan [Micro-Interactions & UI Feedback Design](../interaksi-mikro-dan-umpan-balik-antarmuka/SKILL.md) untuk pola feedback dan [Modern Web Navigation & Interaction Patterns](../pola-navigasi-web-modern/SKILL.md) untuk navigasi.
 
 ## 6. Validasi rencana sebelum coding
 
@@ -69,4 +69,4 @@ Rekayasa Balik memiliki bukti referensi; AI Interface Design mengaudit pola gene
 
 ## Sumber
 
-Diadaptasi dan ditulis ulang dari **Frontend Design** oleh Anthropic: https://github.com/anthropics/skills/tree/main/skills/frontend-design. Sumber berlisensi Apache License 2.0; atribusi dan lisensi dipertahankan dalam direktori ini. Panduan tambahan merupakan sintesis khusus repositori.
+Diadaptasi dan ditulis ulang dari **Frontend Design** oleh Anthropic: https://github.com/anthropics/skills/tree/main/skills/desain-frontend. Sumber berlisensi Apache License 2.0; atribusi dan lisensi dipertahankan dalam direktori ini. Panduan tambahan merupakan sintesis khusus repositori.
