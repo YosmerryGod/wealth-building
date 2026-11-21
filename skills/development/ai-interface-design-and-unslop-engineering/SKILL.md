@@ -64,7 +64,7 @@ Render dan bandingkan dengan baseline. Periksa temuan satu per satu, desktop/tab
 
 ### Fase 7 — Laporan
 
-Ringkas arah visual, temuan, perubahan per fase, fitur yang dipertahankan, pemeriksaan responsif/aksesibilitas/interaksi, isu tersisa, asumsi, dan apakah hasil diterapkan pada proyek nyata atau hanya direkonstruksi dari screenshot. Jangan mengklaim tes yang tidak dilakukan.
+Ringkas arah visual, temuan, perubahan, fitur yang dipertahankan, pemeriksaan responsif/aksesibilitas/interaksi, isu tersisa, asumsi, dan apakah hasil diterapkan di proyek atau hanya direkonstruksi. Jangan mengklaim tes yang tidak dilakukan.
 
 ## Kerangka keputusan
 
