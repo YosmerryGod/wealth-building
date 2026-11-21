@@ -58,7 +58,7 @@ Gunakan tautan semantik jika tujuan memiliki URL stabil dan history browser pent
 
 ## Data dan performa
 
-Jangan mengambil semua halaman hanya untuk menggambar kontrol atau preview. Gunakan paginasi server untuk dataset besar bila sesuai kontrak backend. Pada API berbasis cursor, jangan mengarang nomor atau total halaman yang tidak disediakan. Definisikan perilaku untuk nol hasil, satu halaman, total tak diketahui, data terhapus, filter berubah, tautan kedaluwarsa, dan nomor di luar rentang. Cegah request duplikat dan respons usang saat navigasi cepat. Gunakan urutan stabil dengan tie-breaker deterministik.
+Jangan mengambil semua halaman untuk menggambar kontrol/preview. Gunakan paginasi server sesuai kontrak; API cursor tidak boleh diberi nomor/total rekaan. Tentukan perilaku nol/satu halaman, total tak diketahui, data terhapus, filter berubah, tautan usang, dan nomor invalid. Cegah request duplikat/respons usang serta gunakan urutan stabil.
 
 ## Checklist
 
