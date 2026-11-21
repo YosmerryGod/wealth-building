@@ -63,8 +63,4 @@ Pastikan tujuan mudah ditemukan, state aktif jelas, keyboard/touch/fokus/label a
 
 ## Hubungan skill
 
-Desain Frontend memiliki arah visual; AI Interface Design mengaudit kekhasan dan pola generik; Pola Paginasi menangani halaman dalam koleksi; Full-Stack mengimplementasikan komponen dan rute; aksesibilitas memberi audit lebih mendalam. Skill ini tidak menggantikan rekayasa frontend atau riset UX.
-
-## Batas bukti sumber
-
-Video 67567.mp4 menunjukkan Floating Pill, Bottom Tab Bar, dan Command Palette. Video 67562.mp4 menunjukkan Radial Sidebar, Vertical Typography, dan Scroll Progress. Video tidak menyediakan kode, riset usability, pengukuran performa, atau bukti keunggulan universal. Kriteria seleksi, aksesibilitas, fallback, implementasi, dan pengujian adalah panduan operasional tambahan.
+Desain Frontend memiliki arah visual; AI Interface Design mengaudit pola generik; Paginasi Tingkat Lanjut memiliki navigasi halaman dalam koleksi; Full-Stack mengimplementasikan; QA memverifikasi. Skill ini fokus pada navigasi global.
