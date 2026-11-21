@@ -78,9 +78,3 @@ Pola Navigasi Web Modern memiliki navigasi; Micro-Interactions memiliki feedback
 
 Upstream Unslop membahas arah berbasis produk, audit layar, alur perbaikan, visual QA, dan panduan spasi/warna/ikon/copy/tipografi/layout/detail/visual/motion. Adaptasi ini menyusun ulang menjadi sembilan pass dan menambah pelestarian produk, keputusan desain, responsivitas, aksesibilitas, QA fungsi, dan pelaporan. Referensi upstream terpisah yang tidak tersedia pada path yang diperiksa tidak direproduksi; lihat upstream untuk versi lengkap.
 
-## Klasifikasi
-
-- Domain: Development / UI/UX
-- Sumber: Unslop oleh Damir Sokolovsky, CC BY 4.0
-- Penggunaan: audit UI, arah visual, redesign, polish, sistem responsif, dan QA visual
-- Status: adaptasi dengan atribusi dan kerangka operasional tambahan.
