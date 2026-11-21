@@ -159,8 +159,8 @@ Dihasilkan dari `skills.json` dan diperiksa terhadap struktur berkas repositori.
 
 | Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Kecerdasan OSINT dan Jejak Digital | riset sumber terbuka yang sah dan pengumpulan bukti | jejak digital, OSINT, cek informasi publik, verifikasi identitas | [SKILL.md](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) |
-| Analisis Asal-Usul Media AI dan Tanda Air | metadata gambar, video, audio, catatan asal-usul, pemeriksaan tanda air terlihat/tak terlihat, pembersihan berizin | tanda air AI, hapus metadata, EXIF, XMP, C2PA, SynthID | [SKILL.md](skills/research/ai-media-provenance-and-watermark-analysis/SKILL.md) |
+| Intelijen Sumber Terbuka dan Jejak Digital | riset sumber terbuka yang sah dan pengumpulan bukti | jejak digital, OSINT, cek informasi publik, verifikasi identitas | [SKILL.md](skills/research/intelijen-sumber-terbuka-dan-jejak-digital/SKILL.md) |
+| Analisis Asal-Usul Media AI dan Tanda Air | metadata gambar, video, audio, catatan asal-usul, pemeriksaan tanda air terlihat/tak terlihat, pembersihan berizin | tanda air AI, hapus metadata, EXIF, XMP, C2PA, SynthID | [SKILL.md](skills/research/analisis-asal-usul-media-ai-dan-tanda-air/SKILL.md) |
 
 ## Spiritualitas
 

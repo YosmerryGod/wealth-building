@@ -74,21 +74,17 @@
       ]
     },
     {
-      "id": "ai-media-provenance-and-watermark-analysis",
+      "id": "analisis-asal-usul-media-ai-dan-tanda-air",
       "domain": "research",
-      "path": "skills/research/ai-media-provenance-and-watermark-analysis/SKILL.md",
-      "owns": "metadata media, asal-usul konten, pemeriksaan tanda air, dan panduan pembersihan yang berizin",
+      "path": "skills/research/analisis-asal-usul-media-ai-dan-tanda-air/SKILL.md",
+      "owns": "pemeriksaan metadata, asal-usul media, klasifikasi tanda air, dan verifikasi pembersihan berizin",
       "triggers": [
-        "watermark AI",
-        "watermark remover",
-        "hapus metadata gambar",
-        "cek metadata foto",
+        "tanda air AI",
+        "hapus metadata",
         "EXIF",
         "XMP",
         "C2PA",
-        "Content Credentials",
-        "SynthID",
-        "AI image provenance"
+        "SynthID"
       ]
     },
     {
@@ -833,15 +829,16 @@
       ]
     },
     {
-      "id": "osint-and-digital-footprint-intelligence",
+      "id": "intelijen-sumber-terbuka-dan-jejak-digital",
       "domain": "research",
-      "path": "skills/research/osint-and-digital-footprint-intelligence/SKILL.md",
-      "owns": "riset sumber terbuka yang sah dan pengumpulan bukti",
+      "path": "skills/research/intelijen-sumber-terbuka-dan-jejak-digital/SKILL.md",
+      "owns": "riset sumber terbuka yang sah, pengumpulan bukti publik, pemetaan jejak digital, dan penilaian paparan",
       "triggers": [
         "jejak digital",
         "OSINT",
         "cek informasi publik",
-        "verifikasi identitas"
+        "verifikasi informasi publik",
+        "pemetaan aset digital"
       ]
     },
     {

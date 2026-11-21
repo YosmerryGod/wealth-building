@@ -269,7 +269,7 @@
       "pesan": "Jelaskan cara kerja phishing untuk materi edukasi keamanan.",
       "skill_utama": "risk-assessment",
       "skill_pendukung_maks_2": [
-        "osint-and-digital-footprint-intelligence"
+        "intelijen-sumber-terbuka-dan-jejak-digital"
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Jelaskan mekanisme dan pencegahan, bukan playbook penipuan."

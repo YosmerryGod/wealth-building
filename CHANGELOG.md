@@ -1,3 +1,5 @@
+- **2026-11-22** — Melokalkan dua skill Research ke bahasa Indonesia, mengganti nama folder/ID, membatasi setiap SKILL.md di bawah 5.000 karakter, serta memperbarui README, INDEX, skills.json, skenario evaluasi, dan nama pada tata kelola skill.
+
 - **2026-11-22** — Melokalkan seluruh 17 folder skill Development. Mengganti sembilan nama folder yang masih berbahasa Inggris/campuran, memperbarui jalur pada README, INDEX, skills.json, skenario evaluasi, orkestrator bisnis, serta tautan internal Desain Frontend. Memvalidasi bahwa seluruh 17 entri registri dan tautan indeks/README menunjuk ke berkas yang tersedia.
 
 - **2026-11-22** — Mengganti lima nama folder dan ID skill Development ke bahasa Indonesia: `paginasi-data-tingkat-lanjut`, `desain-antarmuka-ai-anti-generik`, `review-desain-platform-apple`, `perencanaan-arsitektur-aplikasi`, dan `evaluasi-kesesuaian-aplikasi`. Memperbarui README, INDEX, registri, evaluasi, serta referensi orkestrator.
