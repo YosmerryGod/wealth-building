@@ -104,7 +104,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 |---|---|---|
 | Business Model Innovation & Asset Monetization | Compare sale, rental, access, and asset-use revenue models | General opportunity discovery or final financial audit |
 | Business Operations & Scaling | Process, capacity, quality, people, inventory, and operational scaling | Market demand proof or investment portfolio advice |
-| Business Opportunity Discovery | Discover customer problems, diagnose supply and demand, assess demand evidence, offer fit, and low-cost validation | Durable competitive-advantage design after candidate discovery, full ongoing operations, or financial statement analysis |
+| Penemuan Peluang Bisnis | Menemukan masalah pelanggan, mendiagnosis penawaran dan permintaan, menilai bukti permintaan, kecocokan penawaran, serta validasi berbiaya rendah | Perancangan keunggulan bersaing jangka panjang setelah kandidat ditemukan, operasional berkelanjutan secara menyeluruh, atau analisis laporan keuangan |
 | Innovation & Competitive Advantage Strategy | Strategic differentiation, focused market positioning, and evidence-based durability of competitive advantage | Initial customer-problem discovery, detailed channel experiments, financial valuation, operational scaling, or legal competition advice |
 | Business Ownership & Equity Basics | Ownership structures, equity, shares, and governance concepts | Legal opinions or valuation without evidence |
 
@@ -275,7 +275,7 @@ For every business review, marketing opportunity detection must be evaluated; it
 
 ### Business creation and growth
 
-Business Agent owns the project → Contextual Understanding supplies project state → Creative Intelligence/Knowledge Graph only for genuine idea-generation or cross-domain discovery → Business Opportunity Discovery identifies the customer problem and validates demand → Innovation & Competitive Advantage Strategy evaluates strategic differentiation and defensibility when a candidate has enough evidence or the user explicitly asks for positioning → Operations and Finance specialists assess feasibility → Traction Strategy owns acquisition strategy → Channel Selection/Bullseye choose and test channels → Growth Experimentation owns test design → Growth Metrics owns measurement → Business Agent synthesizes and asks approval before commitments.
+Business Agent owns the project → Contextual Understanding supplies project state → Creative Intelligence/Knowledge Graph only for genuine idea-generation or cross-domain discovery → Penemuan Peluang Bisnis mengidentifikasi masalah pelanggan dan memvalidasi permintaan → Innovation & Competitive Advantage Strategy evaluates strategic differentiation and defensibility when a candidate has enough evidence or the user explicitly asks for positioning → Operations and Finance specialists assess feasibility → Traction Strategy owns acquisition strategy → Channel Selection/Bullseye choose and test channels → Growth Experimentation owns test design → Growth Metrics owns measurement → Business Agent synthesizes and asks approval before commitments.
 
 For general non-financial behavior change, General Habit Formation & Behavior Change owns the habit design. For money-specific routines, Financial Habit Formation remains the owner; Behavioral Finance contributes only when money-related biases or emotions materially affect the decision.
 
@@ -336,7 +336,7 @@ Canonical sequence when each stage is actually needed:
 5. Backend Engineering & Integrations — implement server-side services and integrations using official APIs.
 6. Software Testing & Quality Assurance — test acceptance criteria, edge cases, accessibility, and regressions.
 7. Application Parity Evaluation — report feature coverage and deliberate differences without pixel-copy goals.
-8. Business Opportunity Discovery — analyze public user feedback and validate unmet needs; use Innovation & Competitive Advantage Strategy for defensibility when appropriate.
+8. Penemuan Peluang Bisnis — analisis umpan balik publik pengguna dan validasi kebutuhan yang belum terpenuhi; gunakan Strategi Inovasi dan Keunggulan Bersaing untuk menilai daya tahan keunggulan bila sesuai.
 9. Product Launch & Go-to-Market Planning — prepare positioning, launch assets, channel sequence, and metrics; delegate pricing calculations to Finance and channel experiments to Growth.
 10. Application Deployment & Release Engineering — preflight, staging, rollback, and production readiness; explicit user approval remains mandatory.
 
