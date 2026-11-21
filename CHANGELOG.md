@@ -1,3 +1,5 @@
+- **2026-11-22** — Mengganti lima nama folder dan ID skill Development ke bahasa Indonesia: `paginasi-data-tingkat-lanjut`, `desain-antarmuka-ai-anti-generik`, `review-desain-platform-apple`, `perencanaan-arsitektur-aplikasi`, dan `evaluasi-kesesuaian-aplikasi`. Memperbarui README, INDEX, registri, evaluasi, serta referensi orkestrator.
+
 - **2026-11-22** — Lokalisasi lima skill Development ke Bahasa Indonesia: Rekayasa Deployment dan Rilis Aplikasi, Rigging Avatar Mesh 2D, Pengalaman Etalase Media 3D, Desain Logo Profesional dan Identitas Merek, serta Rekayasa Balik dan Rekonstruksi Berbasis Referensi. Perjelas alur kerja, batas kemampuan, hak aset, dan gerbang persetujuan; perbarui registri, indeks, tata kelola, skenario evaluasi, dan panduan routing.
 
 - **2026-11-22** — Lokalisasi dan penegasan batas lima skill Development: Pola Navigasi dan Interaksi Web Modern, Pola Paginasi dan Navigasi Data Tingkat Lanjut, Interaksi Mikro dan Desain Umpan Balik UI, Desain Antarmuka AI dan Rekayasa Anti-Generik, serta Review Desain Platform Apple dan Human Interface Guidelines. Perbarui registri, indeks, tata kelola, skenario regresi, dan panduan routing.
