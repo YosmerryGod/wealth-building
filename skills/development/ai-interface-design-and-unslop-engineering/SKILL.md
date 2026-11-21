@@ -15,7 +15,7 @@ escalation: "Serahkan arah visual menyeluruh kepada Desain Frontend, review Appl
 
 ## Atribusi dan lisensi
 
-Diadaptasi dari **Unslop** oleh Damir Sokolovsky, https://github.com/heydamir/unslop, berlisensi Creative Commons Attribution 4.0 International (CC BY 4.0). Ini adaptasi independen untuk Wealth Building, bukan rilis resmi upstream. Repository upstream tetap menjadi sumber utama untuk implementasi dan referensi lengkap.
+Diadaptasi dari **Unslop** oleh Damir Sokolovsky (https://github.com/heydamir/unslop), lisensi CC BY 4.0. Ini adaptasi independen, bukan rilis resmi upstream.
 
 ## Tujuan
 
@@ -47,16 +47,15 @@ Tetapkan produk/fungsi, 2–3 sifat karakter, dunia/metafora produk, satu-dua mo
 
 ### Fase 5 — Perbaikan berurutan
 
-Perbaiki dalam pass yang konsisten:
-1. **Spasi/alignment:** gunakan skala yang konsisten; 4px hanya titik awal. Periksa tabel, sidebar, dan mobile.
-2. **Warna:** tetapkan peran background, surface, border, teks, aksen, dan status; cek kontras semua tema/state.
-3. **Ikon:** gunakan keluarga konsisten; kontrol ikon punya nama aksesibel. Emoji hanya dipertahankan bila bagian identitas/konten.
-4. **Copy:** judul spesifik; hapus klaim, metrik, dan testimoni tanpa bukti. Tandai data contoh.
-5. **Tipografi:** tetapkan skala; cek line-height, wrapping, angka, dan bahasa.
-6. **Layout:** jaga arsitektur informasi; pilih komposisi sesuai tugas dan urutan mobile logis.
-7. **Komponen/data:** konsistenkan detail; rancang state aktif, disabled, loading, sukses, error, kosong, dan usang.
-8. **Visual:** gunakan aset/diagram/chart yang menjelaskan produk; jangan mengarang kemampuan atau bukti. Gambar generatif hanya untuk kebutuhan yang jelas.
-9. **Gerak:** gunakan untuk state/relasi; hormati reduced motion dan hindari loop/flash yang menghambat.
+1. **Spasi:** gunakan skala konsisten; periksa tabel, sidebar, dan mobile.
+2. **Warna:** tetapkan peran surface/teks/aksen/status; cek kontras tiap tema.
+3. **Ikon:** gunakan keluarga konsisten dan nama aksesibel; emoji hanya bila bagian identitas/konten.
+4. **Copy:** judul spesifik; hapus klaim/metrik/testimoni tanpa bukti; tandai data contoh.
+5. **Tipografi:** tetapkan skala dan cek wrapping, line-height, angka, bahasa.
+6. **Layout:** jaga arsitektur informasi dan urutan mobile; hindari kartu seragam bila tidak sesuai.
+7. **Komponen/data:** rancang state aktif, disabled, loading, sukses, error, kosong, dan usang.
+8. **Visual:** gunakan aset yang menjelaskan produk; jangan mengarang kemampuan/bukti.
+9. **Gerak:** dukung state/relasi; hormati reduced motion dan hindari gerak menghambat.
 
 ### Fase 6 — QA visual dan fungsi
 
