@@ -1,9 +1,11 @@
-# Knowledge Engineering
+# Domain Pengetahuan
 
-This folder contains AI-oriented skills for organizing and reasoning across the repository's knowledge base.
+Domain ini mengelola hubungan antarskill, sumber pengetahuan, dan celah cakupan di seluruh repositori.
 
-## Skills
+## Prinsip
 
-- [Knowledge Graph Builder](knowledge-graph-builder/SKILL.md) — discovers skills and concepts, maps evidence-backed relationships, audits overlap and gaps, and helps the AI reason across domains.
-
-The Knowledge Graph Builder is an AI reasoning workflow. It does not include a code-based graph engine, persistent graph database, automatic watcher, or web explorer.
+- Hubungkan konsep hanya jika ada dasar yang jelas dari isi skill atau sumber yang telah diperiksa.
+- Bedakan hubungan yang dinyatakan langsung, hubungan hasil sintesis, dan dugaan yang masih perlu diuji.
+- Jangan menganggap dua skill saling berkaitan hanya karena menggunakan istilah yang sama.
+- Gunakan [Pembangun Graf Pengetahuan](knowledge-graph-builder/SKILL.md) untuk memetakan hubungan, ketergantungan, duplikasi, dan celah pengetahuan.
+- Registri `skills.json` serta [Tata Kelola Batas Skill](../../orchestrator/skill-boundary-governance/SKILL.md) tetap menjadi acuan kepemilikan dan perutean.
