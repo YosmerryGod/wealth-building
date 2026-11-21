@@ -104,7 +104,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 |---|---|---|
 | Business Model Innovation & Asset Monetization | Compare sale, rental, access, and asset-use revenue models | General opportunity discovery or final financial audit |
 | Business Operations & Scaling | Process, capacity, quality, people, inventory, and operational scaling | Market demand proof or investment portfolio advice |
-| Penemuan Peluang Bisnis | Menemukan masalah pelanggan, mendiagnosis penawaran dan permintaan, menilai bukti permintaan, kecocokan penawaran, serta validasi berbiaya rendah | Perancangan keunggulan bersaing jangka panjang setelah kandidat ditemukan, operasional berkelanjutan secara menyeluruh, atau analisis laporan keuangan |
+| Penemuan Peluang Bisnis | Menemukan masalah pelanggan, memetakan motivasi pembelian (termasuk lensa heuristik 7 Dorongan Dasar Manusia), mendiagnosis penawaran dan permintaan, menilai bukti permintaan, kecocokan penawaran, serta validasi berbiaya rendah | Perancangan keunggulan bersaing jangka panjang setelah kandidat ditemukan, operasional berkelanjutan secara menyeluruh, atau analisis laporan keuangan; pemetaan 7 dorongan bukan diagnosis psikologis atau bukti permintaan |
 | Innovation & Competitive Advantage Strategy | Strategic differentiation, focused market positioning, and evidence-based durability of competitive advantage | Initial customer-problem discovery, detailed channel experiments, financial valuation, operational scaling, or legal competition advice |
 | Business Ownership & Equity Basics | Ownership structures, equity, shares, and governance concepts | Legal opinions or valuation without evidence |
 
