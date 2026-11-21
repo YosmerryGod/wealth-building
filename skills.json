@@ -17,9 +17,9 @@
   },
   "skills": [
     {
-      "id": "2d-mesh-avatar-rigging",
+      "id": "rigging-avatar-mesh-2d",
       "domain": "development",
-      "path": "skills/development/2d-mesh-avatar-rigging/SKILL.md",
+      "path": "skills/development/rigging-avatar-mesh-2d/SKILL.md",
       "owns": "persiapan ilustrasi menjadi avatar mesh 2D, pemisahan layer, rigging, dan pemeriksaan mutu animasi",
       "triggers": [
         "avatar 2d",
@@ -28,9 +28,9 @@
       ]
     },
     {
-      "id": "3d-media-storefront-experience",
+      "id": "pengalaman-etalase-media-3d",
       "domain": "development",
-      "path": "skills/development/3d-media-storefront-experience/SKILL.md",
+      "path": "skills/development/pengalaman-etalase-media-3d/SKILL.md",
       "owns": "pola katalog media 3D, navigasi spasial, pemeriksaan item, dan integrasi tindakan melihat atau membeli",
       "triggers": [
         "toko 3d",
@@ -133,9 +133,9 @@
       ]
     },
     {
-      "id": "application-deployment-and-release-engineering",
+      "id": "rekayasa-deployment-dan-rilis-aplikasi",
       "domain": "development",
-      "path": "skills/development/application-deployment-and-release-engineering/SKILL.md",
+      "path": "skills/development/rekayasa-deployment-dan-rilis-aplikasi/SKILL.md",
       "owns": "pemeriksaan kesiapan rilis, deployment staging/produksi, pemulihan versi, dan pemantauan pascarilis",
       "triggers": [
         "deploy aplikasi",
@@ -919,9 +919,9 @@
       ]
     },
     {
-      "id": "professional-logo-and-brand-identity",
+      "id": "desain-logo-profesional-dan-identitas-merek",
       "domain": "development",
-      "path": "skills/development/professional-logo-and-brand-identity/SKILL.md",
+      "path": "skills/development/desain-logo-profesional-dan-identitas-merek/SKILL.md",
       "owns": "perancangan, evaluasi, dan produksi sistem logo serta identitas merek yang dapat digunakan",
       "triggers": [
         "logo",
@@ -978,9 +978,9 @@
       ]
     },
     {
-      "id": "reverse-engineering-and-reference-based-reconstruction",
+      "id": "rekayasa-balik-dan-rekonstruksi-berbasis-referensi",
       "domain": "development",
-      "path": "skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md",
+      "path": "skills/development/rekayasa-balik-dan-rekonstruksi-berbasis-referensi/SKILL.md",
       "owns": "investigasi produk referensi berbasis bukti dan penerjemahan pola menjadi brief rekonstruksi orisinal",
       "triggers": [
         "tiru tampilan",
