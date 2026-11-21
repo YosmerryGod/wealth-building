@@ -25,11 +25,7 @@ Prinsip utama: hilangkan kebiasaan visual generik tanpa menghilangkan identitas,
 
 ## Prinsip desain
 
-- Arah berasal dari produk, audiens, tugas, dan konten, bukan tren.
-- Kontrol dan permukaan mendukung tugas; visual kaya dipakai untuk konten/hasil bermakna.
-- Warna, skala, spasi, tipografi, komposisi, dan gerak memperjelas hierarki.
-- Desain harus punya karakter produk, bukan template yang dapat dipertukarkan.
-- Saat memperbaiki layar, pertahankan tujuan, fitur, konten, arsitektur informasi, dan urutan kecuali perubahan diminta.
+Arah berasal dari produk, audiens, tugas, dan konten; bukan tren. Kontrol mendukung tugas, visual kaya menonjolkan konten bermakna, dan seluruh elemen memperjelas hierarki. Desain harus memiliki karakter produk. Saat memperbaiki layar, pertahankan tujuan, fitur, konten, dan arsitektur informasi kecuali perubahan diminta.
 
 ## Alur kerja
 
