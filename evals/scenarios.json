@@ -537,6 +537,51 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Gunakan bukti setara, nyatakan pembilang/penyebut/bobot/rumus, dan pisahkan divergensi yang disengaja dari kekurangan."
+    },
+    {
+      "pesan": "Tentukan pola navigasi global yang tepat untuk dashboard dengan banyak menu dan pengguna desktop/mobile.",
+      "skill_utama": "modern-web-navigation-patterns",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Pilih berdasarkan arsitektur informasi dan tugas; command palette bukan pengganti navigasi yang terlihat."
+    },
+    {
+      "pesan": "Rancang paginasi untuk daftar transaksi dengan ribuan halaman dan filter yang harus tetap aktif.",
+      "skill_utama": "advanced-pagination-and-data-navigation-patterns",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Tentukan jump input/sliding pagination, pertahankan filter dan sortir, serta ikuti kontrak backend."
+    },
+    {
+      "pesan": "Tambahkan animasi tombol, skeleton loading, dan feedback state yang aksesibel.",
+      "skill_utama": "micro-interactions-and-ui-feedback",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Efek harus memiliki tujuan; dukung keyboard, reduced motion, dan state sukses/error."
+    },
+    {
+      "pesan": "Audit dashboard yang terlihat seperti template AI generik dan buat arahan perbaikannya tanpa menghapus fitur.",
+      "skill_utama": "ai-interface-design-and-unslop-engineering",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Inspeksi produk aktual, pertahankan fitur/arsitektur informasi, dan pisahkan temuan dari preferensi estetika."
+    },
+    {
+      "pesan": "Review desain aplikasi iOS saya berdasarkan Apple Human Interface Guidelines.",
+      "skill_utama": "apple-platform-design-and-hig-review",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Periksa panduan resmi terkini untuk komponen yang terlihat; jangan mengklaim kepatuhan tanpa pengujian."
     }
   ]
 }
