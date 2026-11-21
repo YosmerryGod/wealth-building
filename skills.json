@@ -283,7 +283,7 @@
       "id": "business-opportunity-discovery",
       "domain": "business",
       "path": "skills/bisnis/penemuan-peluang-bisnis/SKILL.md",
-      "owns": "penemuan masalah pelanggan, segmentasi dan motivasi pembelian, diagnosis penawaran-permintaan, kecocokan penawaran, serta validasi berbayar berbiaya rendah",
+      "owns": "penemuan masalah pelanggan, segmentasi dan motivasi pembelian (termasuk pemetaan heuristik 7 dorongan dasar manusia), diagnosis penawaran-permintaan, kecocokan penawaran, serta validasi berbayar berbiaya rendah",
       "triggers": [
         "peluang usaha",
         "validasi",
@@ -293,7 +293,11 @@
         "penawaran dan permintaan",
         "penawaran dan permintaan",
         "permintaan pasar",
-        "kebutuhan pelanggan"
+        "kebutuhan pelanggan",
+        "7 dosa manusia",
+        "seven deadly sins",
+        "dorongan dasar manusia",
+        "peluang bisnis dari psikologi"
       ]
     },
     {
