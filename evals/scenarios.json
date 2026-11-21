@@ -233,7 +233,7 @@
       "pesan": "Saya ingin landing page SUKA AI yang minimalis.",
       "skill_utama": "frontend-design",
       "skill_pendukung_maks_2": [
-        "ai-interface-design-and-unslop-engineering",
+        "desain-antarmuka-ai-anti-generik",
         "modern-web-navigation-patterns"
       ],
       "harus_ditanyakan": "tidak",
@@ -325,7 +325,7 @@
     },
     {
       "pesan": "Saya ingin mengganti pagination tabel pesanan 120 halaman dengan pola yang lebih modern. Apa yang cocok?",
-      "skill_utama": "advanced-pagination-and-data-navigation-patterns",
+      "skill_utama": "paginasi-data-tingkat-lanjut",
       "skill_pendukung_maks_2": [
         "frontend-design",
         "modern-web-navigation-patterns"
@@ -354,7 +354,7 @@
     },
     {
       "pesan": "Rancang arsitektur aplikasi booking dengan database dan API.",
-      "skill_utama": "application-architecture-planning",
+      "skill_utama": "perencanaan-arsitektur-aplikasi",
       "skill_pendukung_maks_2": [
         "rekayasa-balik-dan-rekonstruksi-berbasis-referensi"
       ],
@@ -372,7 +372,7 @@
     },
     {
       "pesan": "Bandingkan fitur aplikasi saya dengan aplikasi referensi dan tunjukkan kekurangannya.",
-      "skill_utama": "application-parity-evaluation",
+      "skill_utama": "evaluasi-kesesuaian-aplikasi",
       "skill_pendukung_maks_2": [
         "rekayasa-balik-dan-rekonstruksi-berbasis-referensi"
       ],
@@ -486,7 +486,7 @@
     },
     {
       "pesan": "Rancang arsitektur aplikasi dengan database, API, autentikasi, dan deployment.",
-      "skill_utama": "application-architecture-planning",
+      "skill_utama": "perencanaan-arsitektur-aplikasi",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -531,7 +531,7 @@
     },
     {
       "pesan": "Bandingkan fitur aplikasi saya dengan matriks referensi dan hitung persentase kesesuaiannya.",
-      "skill_utama": "application-parity-evaluation",
+      "skill_utama": "evaluasi-kesesuaian-aplikasi",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -549,7 +549,7 @@
     },
     {
       "pesan": "Rancang paginasi untuk daftar transaksi dengan ribuan halaman dan filter yang harus tetap aktif.",
-      "skill_utama": "advanced-pagination-and-data-navigation-patterns",
+      "skill_utama": "paginasi-data-tingkat-lanjut",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -567,7 +567,7 @@
     },
     {
       "pesan": "Audit dashboard yang terlihat seperti template AI generik dan buat arahan perbaikannya tanpa menghapus fitur.",
-      "skill_utama": "ai-interface-design-and-unslop-engineering",
+      "skill_utama": "desain-antarmuka-ai-anti-generik",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
@@ -576,7 +576,7 @@
     },
     {
       "pesan": "Review desain aplikasi iOS saya berdasarkan Apple Human Interface Guidelines.",
-      "skill_utama": "apple-platform-design-and-hig-review",
+      "skill_utama": "review-desain-platform-apple",
       "skill_pendukung_maks_2": [
         "contextual-understanding"
       ],
