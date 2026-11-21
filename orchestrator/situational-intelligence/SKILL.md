@@ -401,7 +401,7 @@ This is an original AI reasoning framework, not a claim that an AI has human con
 - [Service Recovery Marketing & Trust Building](../../skills/marketing/service-recovery-marketing-and-trust-building/SKILL.md)
 - [Consumer Psychology & Persuasion](../../skills/marketing/consumer-psychology-and-persuasion/SKILL.md)
 - [Brand Communication & Public Relations](../../skills/marketing/brand-communication-and-public-relations/SKILL.md)
-- [Communication Decision Engine](../../skills/communication/communication-decision-engine/SKILL.md)
+- [Communication Decision Engine](../../skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md)
 - [Risk Assessment & Consequence Intelligence](../risk-assessment/SKILL.md)
 
 ## Implementation status
