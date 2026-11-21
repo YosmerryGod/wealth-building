@@ -1,65 +1,60 @@
 ---
 name: professional-logo-and-brand-identity
-description: "Use when a request needs logo and identity system design."
-triggers:
-  - "logo"
-  - "identitas brand"
-  - "favicon"
-out_of_scope: "Product UI or trademark/legal clearance"
-escalation: "Hand off work involving Product UI or trademark/legal clearance to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+title: Desain Logo Profesional dan Identitas Merek
+category: development
+subcategory: brand-identity-design
+source_type: original-adaptation-from-logo-design-skill
+language: Indonesian
+description: "Gunakan saat merancang, mengkritik, memperbarui, atau memperluas logo dan sistem identitas merek."
+triggers: ["logo","identitas brand","favicon"]
+out_of_scope: "Desain UI produk atau kepastian hukum merek dagang"
+escalation: "Serahkan UI produk atau pemeriksaan hukum merek dagang kepada pemiliknya; gunakan Penilaian Risiko untuk konsekuensi penting dan minta persetujuan sebelum tindakan eksternal."
 ---
 
-# Professional Logo & Brand Identity
+# Desain Logo Profesional dan Identitas Merek
 
-## Purpose
+## Tujuan
+Memandu agen desain dari pemahaman merek hingga pembuatan aset vektor yang dapat digunakan dan paket identitas ringkas.
 
-Guide an AI design agent through a complete identity-design process, from understanding a brand to producing usable vector assets and a compact identity kit.
+## Mode kerja
+- **Desain:** membuat identitas baru dari brief.
+- **Kritik:** mengevaluasi logo yang ada beserta kekuatan dan kelemahannya.
+- **Desain ulang:** mempertahankan ekuitas merek yang berguna sambil meningkatkan identitas.
+- **Sistem:** memperluas logo menjadi tipografi, warna, lockup, pola, dan aturan submerek.
+- **Aset:** menyiapkan varian favicon, ikon aplikasi, media sosial, monokrom, inversi, dan ekspor.
 
-## Modes
+## Alur desain
 
-- **Design:** create a new identity from a brief.
-- **Critique:** evaluate an existing mark and explain strengths and weaknesses.
-- **Redesign:** preserve useful brand equity while improving the identity.
-- **System:** extend a mark into typography, color, lockups, patterns, and sub-brand rules.
-- **Assets:** prepare favicon, app icon, social, monochrome, reversed, and export variants.
+1. **Penemuan:** pahami nama merek, audiens, kategori, posisi, kepribadian, pesaing, konteks penggunaan, batasan, dan keluaran yang dibutuhkan.
+2. **Riset:** periksa lanskap visual kompetitor; temukan konvensi kategori, peluang pembeda, dan klise visual.
+3. **Strategi:** tetapkan gagasan inti, asosiasi yang diinginkan, serta kriteria penilaian konsep.
+4. **Konsep:** eksplorasi arah yang benar-benar berbeda: wordmark, monogram, bentuk huruf, pictorial, abstrak, emblem, maskot, atau kombinasi.
+5. **Konstruksi vektor:** bangun geometri SVG yang bersih dan dapat diedit. Mulai dari monokrom agar konsep tidak bergantung pada efek warna.
+6. **Penyempurnaan:** periksa keseimbangan optis, jarak, ruang negatif, konsistensi garis, dan keterbacaan ukuran kecil.
+7. **Pengujian:** periksa pada ukuran favicon, satu warna, latar gelap dengan warna inversi, ukuran besar, dan konteks merek nyata.
+8. **Titik persetujuan:** tampilkan sejumlah kecil konsep berbeda beserta alasan dan komprominya. Minta pengguna memilih sebelum membuat paket identitas lengkap.
+9. **Penyerahan:** buat varian logo yang disetujui, ekspor SVG dan raster, panduan warna dan tipografi, aturan jarak, serta contoh penggunaan.
 
-## Design workflow
+## Kriteria evaluasi
+- Keunikan dan kemudahan diingat.
+- Relevansi dengan merek tanpa terlalu harfiah.
+- Kesederhanaan dan skalabilitas.
+- Keterbacaan pada ukuran kecil.
+- Dapat direproduksi dalam satu warna.
+- Kesesuaian untuk media digital dan fisik.
+- Konsistensi dengan posisi merek yang dituju.
 
-1. **Discovery:** establish brand name, audience, category, positioning, personality, competitors, use cases, constraints, and required deliverables.
-2. **Research:** inspect the competitive visual landscape and identify category conventions, opportunities, and visual clichés.
-3. **Strategy:** define the core idea, desired associations, and criteria for judging concepts.
-4. **Concepts:** explore materially different directions such as wordmark, monogram, letterform, pictorial, abstract, emblem, mascot, or combination mark.
-5. **Vector construction:** build clean, editable SVG geometry. Start in monochrome so the concept does not depend on color effects.
-6. **Refinement:** check optical balance, spacing, negative space, stroke consistency, and small-size legibility.
-7. **Testing:** inspect at favicon size, in one color, reversed on dark backgrounds, at large scale, and in realistic brand contexts.
-8. **Checkpoint:** present a small set of distinct concepts with rationale and trade-offs. Get the user's selection before building a full identity kit.
-9. **Delivery:** create approved logo variants, SVG and raster exports, color and typography guidance, spacing rules, and usage examples.
+## Standar produksi
+- Utamakan path SVG yang bersih dan dimensi viewBox eksplisit.
+- Hindari filter berlebihan, gambar raster tertanam, dan efek rapuh pada elemen inti.
+- Pertahankan berkas sumber yang dapat diedit dan susun hasil ekspor secara rapi.
+- Jika memungkinkan, verifikasi rendering pada lebih dari satu browser atau renderer SVG.
+- Jangan menyatakan konsep hasil generasi telah lolos pemeriksaan merek dagang. Pencarian kemiripan dan pemeriksaan hukum merupakan pekerjaan terpisah.
 
-## Evaluation criteria
+## Serah-terima merek untuk produk hasil rekonstruksi
+Jika produk terinspirasi dari kompetitor atau referensi, buat identitas yang dapat dikenali secara mandiri. Periksa kandidat nama terhadap potensi kemiripan yang membingungkan; catat sumber dan tanggal pemeriksaan. Tandai pemeriksaan merek dagang, domain, toko aplikasi, atau handle yang belum dilakukan sebagai tertunda. Pemeriksaan awal bukan kepastian hukum.
 
-- Distinctiveness and memorability
-- Relevance to the brand without being overly literal
-- Simplicity and scalability
-- Legibility at small sizes
-- Reproducibility in one color
-- Suitability across digital and physical applications
-- Consistency with the intended positioning
+Tentukan peran palet, kebutuhan kontras, penggunaan logo pada ukuran kecil dan besar, prinsip suara merek, serta panduan penggantian teks placeholder. Koordinasikan dengan Perencanaan Peluncuran Produk dan Go-to-Market agar materi peluncuran memakai identitas baru. Jangan menggunakan logo, tanda khas, salinan teks, aset eksklusif, atau nama yang membingungkan dengan merek referensi.
 
-## Production standards
-
-- Prefer clean SVG paths and explicit viewBox dimensions.
-- Avoid unnecessary filters, embedded raster images, and fragile effects in core marks.
-- Keep source files editable and exports organized.
-- Verify rendering in more than one browser or SVG renderer when possible.
-- Do not present generated concepts as trademark-cleared. Similarity searches and legal clearance are separate tasks.
-
-## Source and attribution
-
-Original knowledge synthesis based on the workflow in [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill), licensed MIT. The upstream repository includes scripts and a reference-logo collection; this skill does not copy those assets. The upstream project notes that its trademark reference materials have separate terms, so do not assume every referenced logo is reusable.
-
-
-## Brand handoff for reconstructed products
-
-When a product is informed by a competitor or reference, create an independently recognizable identity. Screen name candidates for confusing similarity, document screening sources and dates, and label unperformed trademark/domain/store/handle checks as pending. These are preliminary screens, not legal clearance.
-
-Define palette roles, contrast requirements, logo use at small and large sizes, voice principles, and replacement guidance for placeholder strings. Coordinate with Product Launch & Go-to-Market Planning so launch copy uses the new identity. Do not reuse the reference's logo, distinctive mark, copy, proprietary assets, or confusingly similar name.
+## Sumber dan atribusi
+Sintesis pengetahuan orisinal berdasarkan alur kerja [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill), berlisensi MIT. Repositori sumber menyertakan skrip dan koleksi logo referensi; skill ini tidak menyalin aset tersebut. Materi referensi merek dagang memiliki ketentuan terpisah dan tidak otomatis dapat digunakan ulang.
