@@ -1,252 +1,114 @@
 ---
 name: modern-web-navigation-patterns
-title: Modern Web Navigation & Interaction Patterns
+title: Pola Navigasi dan Interaksi Web Modern
 category: development
 source_type: user-provided-video-and-operational-framework
-source: User-provided videos 67567.mp4 and 67562.mp4 shared in conversation; demonstrate Floating Pill Navigation, Bottom Tab Bar, Command Palette (Ctrl+K), Radial Sidebar, Vertical Typography, and Scroll Progress
+source: Video pengguna 67567.mp4 dan 67562.mp4
 language: Indonesian
-description: "Use when a request needs navigation patterns and information movement."
-triggers:
-  - "navbar"
-  - "bottom tab"
-  - "menu navigasi"
-  - "command palette"
-  - "radial sidebar"
-  - "vertical typography"
-  - "scroll progress"
-  - "scroll navigation"
-out_of_scope: "Full visual design or detailed feedback animation"
-escalation: "Hand off work involving Full visual design or detailed feedback animation to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+description: "Memilih dan merancang pola navigasi global website atau aplikasi berdasarkan struktur informasi, tugas, dan perangkat."
+triggers: ["navbar","bottom tab","menu navigasi","command palette","radial sidebar","vertical typography","scroll progress"]
+out_of_scope: "Desain visual menyeluruh, paginasi dalam koleksi, atau animasi feedback terperinci"
+escalation: "Serahkan desain visual kepada Desain Frontend, paginasi kepada Pola Paginasi Tingkat Lanjut, dan feedback mikro kepada pemilik skill terkait."
 ---
 
-# Modern Web Navigation & Interaction Patterns
+# Pola Navigasi dan Interaksi Web Modern
 
-## Purpose
+## Tujuan dan batas
 
-Help an AI agent choose, design, and implement modern navigation patterns for websites and applications. The goal is to make products easier to understand, faster to navigate, responsive across devices, accessible, and visually consistent.
+Memilih pola navigasi agar produk mudah dipahami, cepat digunakan, responsif, aksesibel, dan konsisten. Pola harus mengikuti arsitektur informasi, tugas pengguna, perangkat, dan kompleksitas; tidak ada satu gaya yang cocok untuk semua produk.
 
-This skill is a practical UI/UX and frontend-development reference. It does not prescribe one navigation style for every product. The correct pattern depends on the product's information architecture, user tasks, device context, and navigation complexity.
+Skill ini memiliki navigasi antarbagian dan tujuan produk. Perpindahan halaman di dalam satu koleksi adalah milik Pola Paginasi dan Navigasi Data Tingkat Lanjut.
 
-## Patterns shown in the source video
-
-The user-provided video demonstrates three navigation patterns. The descriptions below preserve those patterns and add implementation guidance.
+## Pola dari sumber video
 
 ### 1. Floating Pill Navigation
-
-A compact navigation group displayed inside a rounded, pill-shaped container. It may float over the page or sit within a hero/header area, with clear active-state styling.
-
-**Good fit**
-- Landing pages and product websites with a small number of top-level destinations.
-- Interfaces where navigation should remain visually lightweight.
-- Desktop or wide layouts where a floating element does not obstruct content.
-
-**Design guidance**
-- Keep the number of primary destinations small.
-- Make the active destination visually distinct.
-- Use adequate spacing and hit areas.
-- Ensure the pill does not cover important content, dialogs, or other controls.
-- On small screens, test whether it should wrap, scroll, collapse, or change to another navigation pattern.
-
-**Avoid when**
-- The product has many destinations or deep information architecture.
-- The floating element obscures content or competes with primary actions.
-- The design relies on hover alone to communicate essential behavior.
+Kelompok tautan ringkas dalam wadah berbentuk pil, dapat mengambang atau berada di header.
+- Cocok untuk landing page dengan sedikit tujuan utama.
+- Batasi tujuan, bedakan item aktif, sediakan area sentuh cukup, dan jangan menutupi konten.
+- Pada layar kecil, tentukan apakah navigasi membungkus, digulir, diringkas, atau diganti.
+- Hindari jika tujuan banyak, hierarki dalam, atau elemen menghalangi tugas.
 
 ### 2. Bottom Tab Bar
-
-A navigation bar anchored to the bottom edge of the application, commonly used to switch between a small set of primary sections.
-
-**Good fit**
-- Mobile applications and mobile-first web apps.
-- Products with a few frequently used top-level destinations.
-- Task-oriented experiences where users switch between sections often.
-
-**Design guidance**
-- Reserve tabs for top-level destinations, not every page or action.
-- Use familiar icons and short labels; do not rely on icons alone when labels improve clarity.
-- Show a clear selected state.
-- Keep the bar clear of device safe areas and system gestures.
-- Account for the bar in page layout so it does not cover scrollable content, forms, or primary buttons.
-- Keep navigation state predictable when users move between tabs.
-
-**Avoid when**
-- There are too many primary sections.
-- The application is primarily desktop-oriented.
-- The bottom bar competes with important bottom-positioned actions or system controls.
+Navigasi di bagian bawah untuk berpindah antarbagian utama.
+- Cocok untuk aplikasi mobile dengan sedikit bagian yang sering dipakai.
+- Gunakan hanya untuk tujuan tingkat atas; ikon dan label harus mudah dikenali.
+- Perhitungkan safe area dan ruang konten agar bar tidak menutupi form atau tombol.
+- Hindari terlalu banyak tab atau konflik dengan kontrol sistem.
 
 ### 3. Command Palette (Ctrl+K)
-
-A keyboard-first search and command interface, commonly opened with Ctrl+K (and often Cmd+K on macOS). It lets users search destinations or execute available actions without manually browsing menus.
-
-**Good fit**
-- Complex dashboards, admin tools, developer tools, and productivity applications.
-- Products with many pages, entities, or repeatable actions.
-- Power users who benefit from fast keyboard navigation.
-
-**Design guidance**
-- Support the expected keyboard shortcut for the current operating system (Ctrl+K and Cmd+K).
-- Provide a visible way to open the palette for users who do not know the shortcut.
-- Group results logically, such as pages, actions, and recent items.
-- Support arrow-key navigation, Enter to select, and Escape to close.
-- Include useful empty, loading, and no-results states.
-- Make the dialog accessible: manage focus, announce results appropriately, and return focus to the trigger when closed.
-- Do not expose actions the current user is not authorized to perform.
-
-**Avoid when**
-- The product has very few destinations and the palette adds unnecessary complexity.
-- Essential functionality is available only through the keyboard shortcut.
-- Search results are ambiguous or destructive actions lack confirmation.
+Antarmuka pencarian/perintah berbasis keyboard, umumnya Ctrl+K atau Cmd+K.
+- Cocok untuk dashboard kompleks, alat admin, developer, dan produktivitas.
+- Sediakan cara visual untuk membukanya; shortcut bukan satu-satunya akses.
+- Kelompokkan halaman, tindakan, dan item terbaru. Dukung panah, Enter, Escape, fokus, loading, dan hasil kosong.
+- Jangan tampilkan tindakan yang tidak diizinkan untuk pengguna.
 
 ### 4. Radial Sidebar
-
-A navigation menu arranged around a central item or focal point, with secondary destinations distributed along a circular or radial path. The second user-provided video (67562.mp4) shows a central "Industries" item surrounded by icon-based destinations.
-
-**Good fit**
-- Creative portfolios, experimental landing pages, and immersive brand experiences where exploration is part of the presentation.
-- A small set of related destinations that can be represented clearly around one focal point.
-
-**Design guidance**
-- Keep the number of destinations small and make each destination's meaning understandable.
-- Provide visible labels or an accessible text equivalent; do not rely on ambiguous icons alone.
-- Ensure the center item and surrounding destinations have a clear hierarchy and predictable focus order.
-- Provide a conventional list/menu fallback for narrow screens, keyboard users, and assistive technologies when the radial layout becomes difficult to operate.
-- Keep hit areas large enough and avoid overlapping targets.
-
-**Avoid when**
-- The product is a data-heavy dashboard, admin tool, or content site where users need fast, predictable scanning.
-- The radial layout makes labels, focus order, or touch targets difficult to understand.
-- Users must learn an unfamiliar spatial interaction to reach essential destinations.
+Tujuan sekunder disusun melingkar mengitari titik pusat.
+- Cocok untuk portofolio kreatif atau pengalaman eksploratif dengan sedikit tujuan.
+- Beri label jelas, urutan fokus logis, dan area sentuh yang tidak tumpang tindih.
+- Sediakan menu konvensional untuk mobile, keyboard, dan teknologi bantu.
+- Hindari untuk dashboard padat atau alur kerja yang menuntut pemindaian cepat.
 
 ### 5. Vertical Typography Navigation
-
-A navigation composition where section names or menu labels are displayed vertically, often as tall typographic columns or panels. The second video shows a portfolio/editorial-style layout with vertically arranged labels such as Home, Work, About, and Contact.
-
-**Good fit**
-- Editorial websites, portfolios, creative studios, and art-directed landing pages where typography is a central part of the visual identity.
-- A small number of high-level sections with short, recognizable labels.
-
-**Design guidance**
-- Keep labels readable and make their link behavior obvious.
-- Preserve a logical reading and keyboard order even when the visual arrangement is vertical.
-- Provide horizontal or conventional navigation at small breakpoints if vertical labels become cramped.
-- Use appropriate writing-mode and layout behavior for the language; do not rotate text arbitrarily when it harms readability.
-- Give active, hover, and focus-visible states that remain distinguishable.
-
-**Avoid when**
-- The audience needs conventional, instantly scannable navigation.
-- Labels are long, localization is extensive, or the layout becomes difficult on mobile.
-- Vertical styling competes with the content or reduces text legibility.
+Label navigasi disusun vertikal sebagai bagian komposisi tipografi.
+- Cocok untuk editorial, portofolio, studio kreatif, dan landing page berarah seni.
+- Pastikan label terbaca, urutan baca/fokus logis, dan state aktif/fokus terlihat.
+- Gunakan pola horizontal atau konvensional pada breakpoint sempit bila perlu.
+- Hindari bila label panjang atau gaya vertikal mengurangi keterbacaan.
 
 ### 6. Scroll Progress Navigation
+Indikator posisi pada halaman panjang dengan penanda bagian yang dapat dipilih.
+- Cocok untuk storytelling, studi kasus, editorial, dan landing page multi-bagian.
+- Hubungkan tiap penanda ke bagian bernama; tampilkan bagian aktif dan dukung klik langsung.
+- Perhitungkan header sticky, deep link, history, konten dinamis, dan posisi mobile.
+- Hindari untuk halaman pendek atau tanpa struktur bagian yang bermakna.
 
-A persistent progress indicator that represents the user's position through a long page or a sequence of sections. The second video shows a vertical track with section markers: scrolling moves the active marker, and selecting a marker jumps to its corresponding section.
+## Memilih pola
 
-**Good fit**
-- Long-form storytelling, product narratives, case studies, editorial pages, and landing pages with clearly separated sections.
-- Experiences where users benefit from knowing their position and jumping directly between sections.
+Nilai jenis produk, jumlah/kedalaman tujuan, tugas yang sering dilakukan, perangkat/input, pengalaman pengguna, aksesibilitas, ruang konten, serta biaya kompleksitas.
 
-**Design guidance**
-- Tie each marker to a real, named section and show the active section clearly.
-- Keep the indicator compact and avoid covering content or primary controls.
-- Support both scroll-based active-state updates and direct selection of a marker.
-- Use semantic links for stable section anchors where appropriate; ensure browser history and deep links behave predictably.
-- Account for sticky headers when calculating anchor positions.
-- On mobile, consider a compact or alternate presentation rather than shrinking the desktop rail.
-- Avoid excessive scroll listeners; use efficient observation and update strategies.
-
-**Avoid when**
-- The page is short or has no meaningful section structure.
-- The indicator adds visual noise or obscures content.
-- The active marker jumps unpredictably because section boundaries or dynamic content are not handled well.
-
-## Choosing the right pattern
-
-Before implementation, evaluate:
-
-1. **Product type:** marketing website, content site, mobile app, dashboard, admin panel, or productivity tool.
-2. **Information architecture:** number of top-level sections, depth of navigation, and relationships between destinations.
-3. **Primary user tasks:** destinations users visit most often and actions they repeat.
-4. **Device context:** mobile, tablet, desktop, touch, keyboard, or mixed input.
-5. **User familiarity:** first-time visitors may need visible labels; experienced users may benefit from shortcuts.
-6. **Accessibility:** keyboard access, focus visibility, semantic controls, screen-reader names, contrast, and touch target size.
-7. **Content space:** whether persistent or floating navigation reduces the usable viewport.
-8. **Complexity cost:** whether the pattern genuinely improves task completion enough to justify its implementation and maintenance.
-
-### Practical selection guide
-
-| Product context | Starting pattern | Important consideration |
+| Konteks | Pola awal | Catatan |
 |---|---|---|
-| Simple marketing website | Floating Pill Navigation or conventional header navigation | Keep destinations obvious and limited |
-| Mobile application | Bottom Tab Bar | Limit tabs to primary sections and respect safe areas |
-| Complex dashboard or admin tool | Command Palette plus visible navigation | Keep navigation discoverable; palette is a shortcut, not the only route |
-| Content-heavy website | Information-architecture-led header/sidebar navigation | Organize categories and hierarchy before choosing visual treatment |
-| Creative portfolio or experimental landing page | Radial Sidebar or Vertical Typography | Keep destinations few, labeled, and easy to operate |
-| Long-form story or multi-section landing page | Scroll Progress Navigation | Use only when section structure and position awareness help the task |
+| Website pemasaran sederhana | Header atau Floating Pill | Tujuan sedikit dan jelas |
+| Aplikasi mobile | Bottom Tab Bar | Hanya bagian utama |
+| Dashboard kompleks | Navigasi terlihat + Command Palette | Palette hanya jalan pintas |
+| Website konten | Header/sidebar berbasis hierarki | Susun kategori dahulu |
+| Portofolio kreatif | Radial atau Vertical Typography | Label dan fallback jelas |
+| Cerita panjang | Scroll Progress | Gunakan bagian nyata |
 
-These are starting points, not rigid rules. A product may combine patterns when each serves a distinct purpose—for example, a visible sidebar plus a command palette for fast access.
+Ini titik awal, bukan aturan kaku. Kombinasikan pola hanya bila masing-masing punya fungsi berbeda.
 
-## Implementation workflow for the AI agent
+## Alur implementasi
 
-1. **Inspect the existing project.** Identify its framework, routing system, layout structure, design tokens, breakpoints, and current navigation behavior before changing code.
-2. **Map destinations.** List top-level sections, nested pages, and high-frequency actions. Separate navigation from actions such as create, save, or submit.
-3. **Choose a pattern.** Select the simplest pattern that supports the actual user tasks and device context.
-4. **Define responsive behavior.** Specify how navigation behaves at mobile, tablet, and desktop breakpoints.
-5. **Define interaction states.** Include default, active, hover, focus, disabled, open, closed, loading, and empty states where relevant.
-6. **Implement accessibly.** Use semantic navigation landmarks, real links for destinations, buttons for actions, keyboard support, visible focus, and appropriate accessible names.
-7. **Preserve project conventions.** Reuse existing components, tokens, routing, and styling patterns. Do not introduce a new library without a clear need.
-8. **Test behavior.** Verify route changes, browser back/forward, refresh on nested routes, keyboard interaction, touch targets, safe areas, responsive layouts, and scroll-to-section accuracy where relevant.
-9. **Review usability.** Confirm that users can discover destinations and complete common tasks without relying on hidden gestures or undocumented shortcuts.
+1. Periksa framework, router, layout, token, breakpoint, dan navigasi yang ada.
+2. Petakan tujuan tingkat atas, halaman turunan, dan tindakan; pisahkan navigasi dari aksi seperti simpan/kirim.
+3. Pilih pola paling sederhana yang mendukung tugas.
+4. Tentukan perilaku desktop, tablet, dan mobile.
+5. Rancang state aktif, hover, fokus, disabled, terbuka, tertutup, loading, dan kosong sesuai kebutuhan.
+6. Gunakan landmark navigasi, tautan untuk tujuan, tombol untuk aksi, nama aksesibel, dan fokus terlihat.
+7. Pertahankan komponen, router, dan gaya proyek.
+8. Uji route, back/forward, refresh rute turunan, keyboard, touch, safe area, breakpoint, serta akurasi anchor.
+9. Pastikan tujuan mudah ditemukan tanpa gestur tersembunyi.
 
-## Quality checklist
+## Pemeriksaan mutu
 
-- [ ] Primary destinations are easy to discover.
-- [ ] Current location or selected tab is clearly indicated.
-- [ ] Navigation works with keyboard and touch.
-- [ ] Focus states are visible.
-- [ ] Links and actions use appropriate semantic elements.
-- [ ] Labels and accessible names are meaningful.
-- [ ] Layout does not overlap content, dialogs, or device system areas.
-- [ ] Responsive behavior is intentional rather than accidental.
-- [ ] Browser navigation and direct route loading work.
-- [ ] Radial and vertical navigation have clear labels, logical focus order, and usable mobile fallbacks.
-- [ ] Scroll progress reflects the actual active section and marker clicks reach the correct anchor.
-- [ ] The navigation pattern does not add complexity without a user benefit.
+- Tujuan utama mudah ditemukan dan state aktif jelas.
+- Keyboard, touch, fokus, label, dan nama aksesibel berfungsi.
+- Navigasi tidak menutupi konten atau area sistem.
+- Perilaku responsif dirancang, bukan sekadar mengecilkan layout.
+- Deep link dan browser navigation bekerja.
+- Radial/vertical memiliki fallback.
+- Scroll progress mengikuti bagian aktual.
+- Kompleksitas tambahan memberi manfaat nyata.
 
-## AI implementation rules
+## Aturan implementasi AI
 
-- Inspect the existing codebase before proposing or editing navigation.
-- Change only the requested scope; do not redesign unrelated pages or components.
-- Do not assume that a visually modern pattern is automatically more usable.
-- Do not use a command palette as a replacement for discoverable navigation.
-- Do not use icons without accessible names.
-- Use Radial Sidebar and Vertical Typography only when the product benefits from an expressive, exploratory presentation; preserve a conventional fallback when needed.
-- Use Scroll Progress only for meaningful long-page section navigation, not as decoration or a replacement for page structure.
-- Do not hide essential actions behind hover-only interactions.
-- Explain meaningful trade-offs when more than one pattern is suitable.
-- If requirements are unclear, ask one focused question before implementation.
-- When code changes are requested, preserve the project's architecture and conventions and verify the affected flows.
+Periksa codebase sebelum mengubah navigasi. Ubah cakupan yang diminta saja. Jangan menganggap pola modern otomatis lebih mudah digunakan, jangan mengganti navigasi terlihat dengan palette, jangan memakai ikon tanpa nama aksesibel, dan jangan menyembunyikan aksi penting pada hover. Bila pilihan berdampak besar belum jelas, ajukan satu pertanyaan terarah.
 
-## Relationship to other skills
+## Hubungan skill
 
-- **AI Interface Design & Unslop Engineering:** provides the broader product-specific visual direction, interface audit, composition, and visual QA process that complements this skill's focused subject.
+Desain Frontend memiliki arah visual; AI Interface Design mengaudit kekhasan dan pola generik; Pola Paginasi menangani halaman dalam koleksi; Full-Stack mengimplementasikan komponen dan rute; aksesibilitas memberi audit lebih mendalam. Skill ini tidak menggantikan rekayasa frontend atau riset UX.
 
-- **[Advanced Pagination & Data Navigation Patterns](../advanced-pagination-and-data-navigation-patterns/SKILL.md):** owns Jump Input, Page Preview, Sliding Pagination, and page movement within one collection; this skill owns global section navigation.
-- **Frontend Development:** Implements components, responsive layouts, routing, and interaction states.
-- **Visual Design & Design Systems:** Defines visual hierarchy, spacing, typography, color, and reusable tokens.
-- **Accessibility:** Provides deeper guidance for inclusive interaction and assistive technologies.
-- **Product & UX Design:** Helps map user journeys, information architecture, and task priorities.
-- **Web Architecture:** Defines routing, layouts, and application-level structure.
+## Batas bukti sumber
 
-This skill focuses on navigation between product sections and destinations. For page-to-page movement inside one collection, hand off to [Advanced Pagination & Data Navigation Patterns](../advanced-pagination-and-data-navigation-patterns/SKILL.md). It does not replace full frontend engineering, accessibility review, or product UX research.
-
-## Source limitations
-
-Video 67567.mp4 demonstrates Floating Pill Navigation, Bottom Tab Bar, and Command Palette (Ctrl+K). Video 67562.mp4 demonstrates Radial Sidebar, Vertical Typography Navigation, and Scroll Progress Navigation; it identifies Radial Sidebar as a fit for creative portfolios and experimental landing pages, and shows scroll position tracking plus clickable section markers. Neither video provides usability research, performance measurements, implementation code, or evidence that any pattern is universally superior. The selection criteria, implementation workflow, accessibility guidance, responsive fallbacks, and quality checklist in this document are added operational guidance and should not be attributed to the videos.
-
-## Classification
-
-- Primary skill: Modern Web Navigation & Interaction Patterns
-- Domain: Frontend Development / UI/UX
-- Source-derived patterns: Floating Pill Navigation, Bottom Tab Bar, Command Palette (Ctrl+K), Radial Sidebar, Vertical Typography Navigation, Scroll Progress Navigation
-- Primary use cases: Website navigation, mobile application navigation, dashboards, admin panels, and productivity tools
-- Source status: Six patterns summarized from user-provided videos 67567.mp4 and 67562.mp4; practical selection, implementation, accessibility, responsive, and testing guidance added as operational framework
+Video 67567.mp4 menunjukkan Floating Pill, Bottom Tab Bar, dan Command Palette. Video 67562.mp4 menunjukkan Radial Sidebar, Vertical Typography, dan Scroll Progress. Video tidak menyediakan kode, riset usability, pengukuran performa, atau bukti keunggulan universal. Kriteria seleksi, aksesibilitas, fallback, implementasi, dan pengujian adalah panduan operasional tambahan.
