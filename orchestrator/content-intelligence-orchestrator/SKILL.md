@@ -1,79 +1,79 @@
 ---
 name: content-intelligence-orchestrator
-title: Content Intelligence Orchestrator
+title: Orkestrator Kecerdasan Konten
 category: orchestration
 source_type: original_repository_architecture
 language: Indonesian
-description: "Use when a request needs routing of YouTube/content-production requests."
+description: "Gunakan ketika permintaan memerlukan perutean tugas YouTube atau produksi konten."
 triggers:
   - "youtube"
   - "konten"
   - "channel"
   - "video"
-out_of_scope: "General business acquisition strategy, specialist content methods, or publishing without approval"
-escalation: "Hand off work involving General business acquisition strategy, specialist content methods, or publishing without approval to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+out_of_scope: "Strategi akuisisi bisnis umum, metode spesialis konten, atau penerbitan tanpa persetujuan"
+escalation: "Serahkan pekerjaan kepada skill pemiliknya; gunakan Penilaian Risiko untuk tindakan dengan konsekuensi hukum, keselamatan, eksploitasi, atau dampak besar; dapatkan persetujuan pengguna sebelum tindakan eksternal atau yang tidak dapat dibatalkan."
 ---
 
-# Content Intelligence Orchestrator
+# Orkestrator Kecerdasan Konten
 
-## Purpose
-Route creator and YouTube-related requests to the smallest sufficient set of Content Creation skills. Own task classification, specialist selection, handoffs, and final synthesis—not the specialist methods themselves.
+## Tujuan
+Mengarahkan permintaan kreator dan YouTube ke kumpulan skill Pembuatan Konten terkecil yang sudah memadai. Memiliki tanggung jawab atas klasifikasi tugas, pemilihan spesialis, serah-terima, dan sintesis akhir—bukan metode spesialis itu sendiri.
 
-## Entry conditions
-Use for YouTube/channel growth, video planning, scriptwriting, packaging, editing from transcripts, retention analysis, Shorts repurposing, comment analysis, SEO metadata, chapters, competitor research, or channel audits. For unrelated marketing or general business growth, use the existing Marketing/Growth routing instead.
+## Kondisi penggunaan
+Gunakan untuk pertumbuhan YouTube/kanal, perencanaan video, penulisan naskah, pengemasan, penyuntingan berdasarkan transkrip, analisis retensi, pengubahan video panjang menjadi Shorts, analisis komentar, metadata SEO, bab video, riset kompetitor, atau audit kanal. Untuk pemasaran lain atau pertumbuhan bisnis umum, gunakan perutean Pemasaran/Pertumbuhan yang sudah ada.
 
-## Routing registry
+## Registri perutean
 
-| User need | Lead specialist | Optional supporting specialist |
+| Kebutuhan pengguna | Spesialis utama | Spesialis pendukung opsional |
 |---|---|---|
-| Write a video script or hook | Video Scriptwriting & Hook Engineering | Title & Thumbnail Packaging Optimization |
-| Improve title and thumbnail | Title & Thumbnail Packaging Optimization | Video Scriptwriting & Hook Engineering |
-| Analyze transcript for cuts | Transcript-Based Video Editing | Short-Form Video Repurposing |
-| Diagnose audience drop-off | Audience Retention Intelligence | Transcript-Based Video Editing; Video Scriptwriting & Hook Engineering |
-| Turn long video into Shorts | Short-Form Video Repurposing | Video Scriptwriting & Hook Engineering |
-| Triage comments and draft replies | YouTube Comment Intelligence | Communication Decision Engine when communication stakes require it |
-| Plan a content week/month | Content Calendar & Production Planning | YouTube Competitor & Viral Intelligence; Growth Metrics & Optimization |
-| Write search-facing metadata | YouTube SEO & Search Intent | Title & Thumbnail Packaging Optimization |
-| Generate chapters | YouTube Chapter & Timestamp Engineering | YouTube SEO & Search Intent |
-| Research niche and competitor videos | YouTube Competitor & Viral Intelligence | Viral Content Engineering when interpreting broader attention principles |
-| Audit a channel | YouTube Channel Audit & Optimization | Only specialists needed for the diagnosed bottleneck |
+| Menulis naskah atau pembuka video | Penulisan Naskah Video dan Rekayasa Hook | Optimasi Judul dan Gambar Mini |
+| Memperbaiki judul dan gambar mini | Optimasi Judul dan Gambar Mini | Penulisan Naskah Video dan Rekayasa Hook |
+| Menganalisis transkrip untuk menentukan potongan | Penyuntingan Video Berbasis Transkrip | Pengubahan Video Pendek |
+| Mendiagnosis penurunan jumlah penonton | Kecerdasan Retensi Audiens | Penyuntingan Video Berbasis Transkrip; Penulisan Naskah Video dan Rekayasa Hook |
+| Mengubah video panjang menjadi Shorts | Pengubahan Video Pendek | Penulisan Naskah Video dan Rekayasa Hook |
+| Mengelompokkan komentar dan menyusun balasan | Kecerdasan Komentar YouTube | Mesin Keputusan Komunikasi jika interaksi membutuhkan pertimbangan komunikasi |
+| Merencanakan konten mingguan/bulanan | Kalender Konten dan Perencanaan Produksi | Kecerdasan Kompetitor dan Viral YouTube; Optimasi Metrik Pertumbuhan |
+| Menulis metadata untuk pencarian | SEO YouTube dan Maksud Pencarian | Optimasi Judul dan Gambar Mini |
+| Membuat bab video | Rekayasa Bab dan Penanda Waktu YouTube | SEO YouTube dan Maksud Pencarian |
+| Meneliti ceruk dan video kompetitor | Kecerdasan Kompetitor dan Viral YouTube | Rekayasa Konten Viral jika prinsip perhatian lintas kanal diperlukan |
+| Mengaudit kanal | Audit dan Optimasi Kanal YouTube | Hanya spesialis yang diperlukan untuk hambatan yang ditemukan |
 
-## Routing procedure
-1. Identify the user's actual outcome and the asset/data they supplied.
-2. Retrieve relevant creator context and voice profile only when available and relevant. Do not invent a persistent file or claim to have read one.
-3. Choose one lead specialist. Add another only when its output can materially change the result.
-4. Check input sufficiency. Ask one focused question if an essential input is missing; otherwise proceed and label limitations.
-5. Pass a compact handoff: objective, audience, platform, source asset/data, constraints, evidence, and requested output.
-6. Receive bounded specialist findings. Do not ask every skill to repeat the same analysis.
-7. Synthesize one recommendation and clearly separate verified observations, estimates, and hypotheses.
-8. Ask for approval before publishing, scheduling, replying, pinning, deleting, or taking any externally visible action.
+## Prosedur perutean
+1. Identifikasi hasil yang sebenarnya diinginkan pengguna dan aset/data yang diberikan.
+2. Ambil konteks kreator dan profil gaya bicara yang relevan hanya jika tersedia. Jangan mengarang berkas persisten atau mengaku telah membacanya.
+3. Pilih satu spesialis utama. Tambahkan spesialis lain hanya jika keluarannya dapat mengubah hasil secara material.
+4. Periksa kecukupan masukan. Ajukan satu pertanyaan terarah jika masukan penting belum tersedia; jika tidak, lanjutkan dan nyatakan batasannya.
+5. Kirim paket serah-terima ringkas: tujuan, audiens, platform, aset/data sumber, batasan, bukti, dan keluaran yang diminta.
+6. Terima temuan spesialis dengan cakupan terbatas. Jangan meminta setiap skill mengulang analisis yang sama.
+7. Sintesis satu rekomendasi dan pisahkan pengamatan terverifikasi, perkiraan, serta hipotesis dengan jelas.
+8. Minta persetujuan sebelum menerbitkan, menjadwalkan, membalas, menyematkan, menghapus, atau melakukan tindakan yang terlihat secara eksternal.
 
-## Shared quality and safety rules
-- Preserve the creator's actual voice; do not force a generic viral tone.
-- Never fabricate analytics, sources, comments, timestamps, search volume, or performance outcomes.
-- Treat scoring rubrics as editorial heuristics, not predictors of success.
-- Use public competitor information only and respect platform terms.
-- Do not use misleading clickbait, fake scarcity, fake engagement, harassment, or manipulative outrage.
-- Protect privacy and rights in source footage, music, images, and comments.
-- A skill file does not itself provide YouTube API access, data collection, file processing, persistent memory, scheduling, or publishing.
-- Do not claim to have executed a Python tool or edited media unless the capability was actually available and used.
-- Keep the user in control of public actions.
+## Aturan mutu dan keselamatan bersama
+- Pertahankan suara kreator yang sebenarnya; jangan memaksakan gaya viral generik.
+- Jangan pernah mengarang analitik, sumber, komentar, penanda waktu, volume pencarian, atau hasil kinerja.
+- Perlakukan rubrik penilaian sebagai heuristik editorial, bukan prediktor keberhasilan.
+- Gunakan hanya informasi kompetitor yang tersedia untuk publik dan patuhi ketentuan platform.
+- Jangan gunakan umpan klik yang menyesatkan, kelangkaan palsu, interaksi palsu, pelecehan, atau kemarahan manipulatif.
+- Lindungi privasi dan hak atas rekaman sumber, musik, gambar, dan komentar.
+- Berkas skill tidak dengan sendirinya menyediakan akses API YouTube, pengumpulan data, pemrosesan berkas, memori persisten, penjadwalan, atau penerbitan.
+- Jangan mengklaim telah menjalankan alat Python atau menyunting media kecuali kapabilitas tersebut benar-benar tersedia dan digunakan.
+- Kendali atas tindakan publik tetap berada pada pengguna.
 
-## Handoff packet
-- Goal and success measure.
-- Audience, niche, language, and platform.
-- Creator voice and content constraints.
-- Source asset or dataset and its provenance/date.
-- Known facts, assumptions, and missing evidence.
-- Specialist output requested.
-- Approval required before any external action.
+## Paket serah-terima
+- Tujuan dan ukuran keberhasilan.
+- Audiens, ceruk, bahasa, dan platform.
+- Suara kreator dan batasan konten.
+- Aset sumber atau kumpulan data beserta asal-usul/tanggalnya.
+- Fakta yang diketahui, asumsi, dan bukti yang belum tersedia.
+- Keluaran spesialis yang diminta.
+- Persetujuan yang diperlukan sebelum tindakan eksternal.
 
-## Relationship to existing repository skills
-- **Viral Content Engineering & Attention Psychology** owns general cross-platform attention, hook principles, shareability, and reputation-aware iteration. The YouTube Script and Packaging skills own their specific video deliverables.
-- **Digital Brand Awareness & Channel Strategy** owns cross-platform digital presence and channel roles. This orchestrator owns YouTube-specific production task routing.
-- **Traction Strategy**, **Traction Channel Selection**, and **Bullseye Framework** own business acquisition channel strategy and testing; they are not replaced by content scheduling.
-- **Growth Metrics & Optimization** owns general growth metric definitions and scorecard interpretation. Audience Retention Intelligence owns the YouTube-specific interpretation of retention curves.
-- **Communication Decision Engine** owns communication approach where the comment interaction requires broader communication judgment. YouTube Comment Intelligence owns comment triage and creator-voice reply drafts.
+## Hubungan dengan skill repositori yang sudah ada
+- **Rekayasa Konten Viral dan Psikologi Perhatian** memiliki tanggung jawab atas perhatian lintas platform, prinsip hook, kemudahan dibagikan, dan iterasi yang memperhatikan reputasi. Skill Naskah YouTube dan Pengemasan memiliki tanggung jawab atas hasil video spesifik.
+- **Kesadaran Merek Digital dan Strategi Kanal** memiliki tanggung jawab atas kehadiran digital lintas platform dan peran kanal. Orkestrator ini memiliki tanggung jawab atas perutean tugas produksi khusus YouTube.
+- **Strategi Traction**, **Pemilihan Kanal Traction**, dan **Kerangka Bullseye** memiliki tanggung jawab atas strategi serta pengujian kanal akuisisi bisnis; semuanya tidak digantikan oleh penjadwalan konten.
+- **Optimasi Metrik Pertumbuhan** memiliki tanggung jawab atas definisi metrik pertumbuhan umum dan penafsiran kartu penilaian. Kecerdasan Retensi Audiens memiliki tanggung jawab atas penafsiran khusus YouTube terhadap kurva retensi.
+- **Mesin Keputusan Komunikasi** memiliki tanggung jawab atas pendekatan komunikasi ketika interaksi komentar membutuhkan pertimbangan komunikasi yang lebih luas. Kecerdasan Komentar YouTube memiliki tanggung jawab atas pengelompokan komentar dan draf balasan dengan suara kreator.
 
-## Governance
-Follow [Skill Boundary & Routing Governance](../skill-boundary-governance/SKILL.md). The orchestrator is the single synthesis owner for YouTube/content-creation requests. It must not override specialist expertise, duplicate specialist analysis, or route simple requests through unrelated skills.
+## Tata kelola
+Ikuti [Tata Kelola Batas dan Perutean Skill](../skill-boundary-governance/SKILL.md). Orkestrator ini merupakan satu-satunya pemilik sintesis untuk permintaan YouTube/pembuatan konten. Orkestrator tidak boleh mengesampingkan keahlian spesialis, menduplikasi analisis spesialis, atau mengarahkan permintaan sederhana ke skill yang tidak berkaitan.
