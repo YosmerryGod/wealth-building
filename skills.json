@@ -74,6 +74,24 @@
       ]
     },
     {
+      "id": "ai-media-provenance-and-watermark-analysis",
+      "domain": "research",
+      "path": "skills/research/ai-media-provenance-and-watermark-analysis/SKILL.md",
+      "owns": "media metadata, content provenance, watermark inspection, and authorized cleanup guidance",
+      "triggers": [
+        "watermark AI",
+        "watermark remover",
+        "hapus metadata gambar",
+        "cek metadata foto",
+        "EXIF",
+        "XMP",
+        "C2PA",
+        "Content Credentials",
+        "SynthID",
+        "AI image provenance"
+      ]
+    },
+    {
       "id": "apple-platform-design-and-hig-review",
       "domain": "development",
       "path": "skills/development/apple-platform-design-and-hig-review/SKILL.md",
