@@ -284,8 +284,8 @@
     {
       "id": "business-opportunity-discovery",
       "domain": "business",
-      "path": "skills/business/business-opportunity-discovery/SKILL.md",
-      "owns": "penemuan masalah pelanggan, permintaan pasar, kecocokan penawaran, dan validasi berbiaya rendah",
+      "path": "skills/bisnis/penemuan-peluang-bisnis/SKILL.md",
+      "owns": "penemuan masalah pelanggan, segmentasi dan motivasi pembelian, diagnosis penawaran-permintaan, kecocokan penawaran, serta validasi berbayar berbiaya rendah",
       "triggers": [
         "peluang usaha",
         "validasi",
