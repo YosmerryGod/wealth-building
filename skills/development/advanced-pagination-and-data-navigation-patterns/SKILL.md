@@ -66,7 +66,7 @@ Pastikan pola sesuai jumlah halaman/tugas, status halaman akurat, batas konsiste
 
 ## Aturan implementasi AI
 
-Periksa aplikasi dan kontrak paginasi. Jangan menambah pola tanpa kebutuhan. Pertahankan filter, sortir, dan route; jangan mengarang preview/total; uji state yang diubah.
+Periksa aplikasi dan kontrak paginasi. Jangan menambah pola tanpa kebutuhan; pertahankan filter/sortir/route, jangan mengarang preview/total, dan uji perubahan.
 
 ## Hubungan dan batas
 
