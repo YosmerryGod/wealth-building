@@ -38,7 +38,7 @@ The sources were not treated as proof that any habit method works for every pers
 - Wealth Building additions are original adaptations of workflow concepts and boundaries, not copied skill text, scripts, templates, or proprietary implementation. Existing owners were reused for recon/design/brand/customer discovery; new skills were added only for distinct architecture, implementation, backend, QA, parity, release, orchestration, and launch-planning responsibilities.
 - Clean-room, privacy, authorized-access, no-fabrication, user-approval, and legal-review boundaries were retained and aligned with Wealth Building governance and Risk Assessment. Source repository tools are not installed or implied to be available here.
 
-### Source audit: AI-powered voice of customer intelligence
+### Source audit: Kecerdasan Suara Pelanggan Berbasis AI
 
 - **User-provided video 68199.mp4** (reviewed 2026-11-22). The illustrated scenario shows a dataset labelled 200 customer reviews, a prompt to find complaints appearing more than three times, and displayed counts for long waits (87), limited seating (21), and difficult parking (9). It also contrasts a 15-minute drink preparation example with a later 3-minute result and depicts repeat customers after three months. The video does not expose the raw reviews, sampling period, counting method, exact operational intervention, or independently verified retention data. The new skill preserves the workflow—aggregate feedback, rank recurring issues, validate the operational cause, test a focused improvement, and measure outcomes—while treating all displayed figures and results as illustrative claims, not verified evidence. It is separated from Service Recovery's ownership of individual complaint remedies and public replies.
 
