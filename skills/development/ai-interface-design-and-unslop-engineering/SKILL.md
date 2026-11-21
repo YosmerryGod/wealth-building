@@ -25,48 +25,25 @@ Prinsip utama: hilangkan kebiasaan visual generik tanpa menghilangkan identitas,
 
 ## Prinsip desain
 
-1. **Berangkat dari produk:** arah desain berasal dari audiens, tugas, dan konten, bukan tren.
-2. **Antarmuka tenang, fokus bermakna:** kontrol mendukung tugas; kekayaan visual dipakai untuk konten atau hasil yang penting.
-3. **Hierarki sengaja:** skala, warna, spasi, tipografi, komposisi, dan gerak memperjelas prioritas.
-4. **Identitas di atas template:** desain tidak boleh terasa dapat dipertukarkan hanya dengan mengganti logo dan judul.
-5. **Pertahankan produk:** saat memperbaiki layar, jaga tujuan, fitur, konten, arsitektur informasi, dan urutan bagian kecuali pengguna meminta perubahan UX.
-
-## Sinyal pola generik
-
-Audit konteks aktual. Waspadai gradasi tanpa alasan, glow/neon yang bersaing, emoji sebagai ikon kontrol, badge tanpa fungsi, uppercase/bobot font berlebihan, alignment acak, kartu seragam untuk konten berbeda, copy/metric/testimoni palsu, animasi dekoratif, dan layout yang tidak sesuai konteks. Ini sinyal, bukan larangan universal; nilai berdasarkan merek, konten, aksesibilitas, dan fungsi.
+- Arah berasal dari produk, audiens, tugas, dan konten, bukan tren.
+- Kontrol dan permukaan mendukung tugas; visual kaya dipakai untuk konten/hasil bermakna.
+- Warna, skala, spasi, tipografi, komposisi, dan gerak memperjelas hierarki.
+- Desain harus punya karakter produk, bukan template yang dapat dipertukarkan.
+- Saat memperbaiki layar, pertahankan tujuan, fitur, konten, arsitektur informasi, dan urutan kecuali perubahan diminta.
 
 ## Alur kerja
 
 ### Fase 1 — Inspeksi nyata
-1. Temukan file dan komponen layar.
-2. Identifikasi framework, routing, komponen, styling, token, font, breakpoint, dan tema.
-3. Jalankan produk bila memungkinkan dan periksa render pada viewport target.
-4. Ambil screenshot baseline jika tersedia.
-5. Jika hanya URL, gunakan workflow browser yang diizinkan; jangan mengaku melihat source.
-6. Jika hanya screenshot, nyatakan hasil sebagai rekonstruksi visual, bukan perubahan aplikasi nyata.
-7. Catat fitur, konten, urutan bagian, responsivitas, dan state sebelum mengedit.
+Temukan file/komponen; identifikasi framework, routing, sistem komponen, token, font, breakpoint, dan tema. Jalankan aplikasi dan ambil baseline bila memungkinkan. Jika hanya URL atau screenshot tersedia, nyatakan batas bukti; jangan mengaku memeriksa source. Catat fitur, konten, urutan, responsivitas, dan state sebelum edit.
 
 ### Fase 2 — Audit
-Catat temuan konkret beserta lokasinya: kejelasan produk, spasi, alignment, density, warna/kontras, ikon, copy/klaim, tipografi, komposisi, responsivitas, detail komponen, visual, motion, aksesibilitas, keyboard, touch, reduced motion, performa, dan konsistensi implementasi.
-
-Untuk setiap temuan, tulis apa yang terlihat, lokasi, dampak, dan apakah perlu diubah. Perbedaan estetika bukan otomatis cacat.
+Catat lokasi dan bukti terkait kejelasan produk, spasi, warna/kontras, ikon, copy/klaim, tipografi, komposisi, responsivitas, komponen, visual, motion, aksesibilitas, input, performa, dan konsistensi. Jelaskan dampak dan apakah perlu diubah; beda estetika bukan otomatis cacat.
 
 ### Fase 3 — Tetapkan cakupan
-- **Redesign besar:** masalah luas merusak hierarki, konsistensi, atau identitas.
-- **Polish terarah:** identitas sudah koheren; perbaiki isu spesifik.
-- **Tidak ada masalah berarti:** nyatakan apa adanya; jangan mengubah layar hanya agar terlihat sibuk.
-
-Jika arah atau cakupan ambigu, tunjukkan audit dan usulan sebelum mengedit. Lewati jeda bila pengguna jelas meminta implementasi langsung.
+Pilih **redesign besar** bila masalah luas merusak hierarki/identitas, **polish terarah** bila sistem sudah koheren, atau **tidak ada masalah berarti** bila tak ada isu substantif. Jangan mengubah layar hanya demi aktivitas. Bila arah ambigu, minta persetujuan sebelum edit; lewati bila pengguna jelas meminta implementasi langsung.
 
 ### Fase 4 — Definisikan arah
-Tuliskan lima hal:
-1. **Produk:** fungsi dan pengguna dalam satu kalimat.
-2. **Karakter:** 2–3 sifat konkret.
-3. **Dunia:** konteks, material, lingkungan, atau metafora produk.
-4. **Momen:** satu atau dua area yang layak mendapat detail visual lebih kaya.
-5. **Ciri khas:** detail yang mudah dikenali dan konsisten, bukan dekorasi di semua tempat.
-
-Pertahankan identitas merek yang sah. Rebranding adalah cakupan terpisah yang memerlukan permintaan eksplisit.
+Tetapkan produk/fungsi, 2–3 sifat karakter, dunia/metafora produk, satu-dua momen visual penting, dan satu ciri khas konsisten. Pertahankan identitas merek yang sah; rebranding adalah cakupan terpisah.
 
 ### Fase 5 — Perbaikan berurutan
 
@@ -95,7 +72,7 @@ Apakah pilihan memperjelas tugas, memperkuat hierarki, sesuai audiens/merek, men
 
 ## Hubungan dan batas
 
-Pola Navigasi Web Modern memiliki struktur navigasi; Micro-Interactions memiliki feedback komponen; Desain Frontend memiliki arah visual dan komposisi; Apple HIG memiliki kepatuhan platform. Skill ini memiliki kritik antarmuka AI dan penghilangan pola generik, bukan spesifikasi visual penuh atau implementasi interaksi.
+Pola Navigasi Web Modern memiliki navigasi; Micro-Interactions memiliki feedback; Desain Frontend memiliki arah visual; Apple HIG memiliki kepatuhan platform. Skill ini mengkritik pola generik dan tidak mengambil alih spesialis tersebut.
 
 ## Batas sumber
 
