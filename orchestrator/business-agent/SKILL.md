@@ -67,7 +67,7 @@ Do not ask for every item if it is not necessary. Do not make the user repeat fa
 
 ### Stage 2 — Opportunity discovery and evaluation
 
-Use [Creative Intelligence Engine](../../skills/psychology/creative-intelligence-engine/SKILL.md) when the user needs new business directions, alternative models, differentiated offers, or a fresh framing of a problem. Use [Knowledge Graph Builder](../../skills/knowledge/knowledge-graph-builder/SKILL.md) to discover relevant cross-domain skills and concepts before generating or combining ideas. Then use the existing **Business Opportunity Discovery** skill and other relevant business skills to validate customer problems, demand, willingness to pay, and feasibility. Creative novelty is not evidence of a viable opportunity.
+Use [Creative Intelligence Engine](../../skills/psychology/creative-intelligence-engine/SKILL.md) when the user needs new business directions, alternative models, differentiated offers, or a fresh framing of a problem. Use [Knowledge Graph Builder](../../skills/knowledge/knowledge-graph-builder/SKILL.md) to discover relevant cross-domain skills and concepts before generating or combining ideas. Then use the existing **Penemuan Peluang Bisnis** skill and other relevant business skills to validate customer problems, demand, willingness to pay, and feasibility. Creative novelty is not evidence of a viable opportunity.
 
 Generate and evaluate candidate opportunities against:
 
@@ -298,7 +298,7 @@ If persistent storage is unavailable, be transparent and provide a compact proje
 Use specialist skills as knowledge sources. They explain their domains and should not be treated as the repository's global safety or action-policy layer.
 
 - For business situations where employee behavior, customer psychology, relationship dynamics, power, and communication interact, consult the [Human Behavior Intelligence Layer](../human-behavior-intelligence/SKILL.md) to coordinate the relevant engines and specialist skills.
-- For idea generation, reframing, lateral thinking, cross-domain synthesis, or creative problem solving in a business project, use [Creative Intelligence Engine](../../skills/psychology/creative-intelligence-engine/SKILL.md). Pair it with [Knowledge Graph Builder](../../skills/knowledge/knowledge-graph-builder/SKILL.md) when repository-wide connections are useful, and validate business ideas through Business Opportunity Discovery before commitment.
+- For idea generation, reframing, lateral thinking, cross-domain synthesis, or creative problem solving in a business project, use [Creative Intelligence Engine](../../skills/psychology/creative-intelligence-engine/SKILL.md). Pair it with [Knowledge Graph Builder](../../skills/knowledge/knowledge-graph-builder/SKILL.md) when repository-wide connections are useful, and validate business ideas through Penemuan Peluang Bisnis before commitment.
 - For focused psychology situations, route through the Psychology Decision Engine and the relevant specialist skills.
 - For material legal, safety, exploitation, coercion, fraud, or other high-consequence implications, consult Risk Assessment & Consequence Intelligence before recommending action.
 - For communication tasks in business discovery, customer research, sales, negotiation, team management, and marketing, route through the Communication Decision Engine before selecting specialist Communication skills.
@@ -364,7 +364,7 @@ For each proposed business or approved offer, build a practical customer profile
 - Trust requirements, objections, and purchase friction.
 - Reachable channels and expected acquisition effort.
 
-Use [Business Opportunity Discovery Through Consumer Psychology](../../skills/business/business-opportunity-discovery/SKILL.md) for opportunity-stage segmentation and willingness-to-pay validation. Use [Consumer Psychology & Persuasion](../../skills/marketing/consumer-psychology-and-persuasion/SKILL.md) when interpreting buyer decisions, shaping offers, framing value, or preparing ethical marketing. Route the actual customer interaction through Context-Aware Response Strategy Engine before drafting a reply, offer, discount, or remedy.
+Use [Penemuan Peluang Bisnis melalui Psikologi Konsumen](../../skills/bisnis/penemuan-peluang-bisnis/SKILL.md) for opportunity-stage segmentation and willingness-to-pay validation. Use [Consumer Psychology & Persuasion](../../skills/marketing/consumer-psychology-and-persuasion/SKILL.md) when interpreting buyer decisions, shaping offers, framing value, or preparing ethical marketing. Route the actual customer interaction through Context-Aware Response Strategy Engine before drafting a reply, offer, discount, or remedy.
 
 ### Decision rules
 
