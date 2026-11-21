@@ -483,6 +483,33 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Jelaskan sumber, periode, denominator, jumlah review/mention, pola dan tingkat keparahan; pisahkan hipotesis akar masalah dari fakta; buat uji terukur. Kasus individual dan remedy tetap milik Service Recovery."
+    },
+    {
+      "pesan": "Rancang arsitektur aplikasi dengan database, API, autentikasi, dan deployment.",
+      "skill_utama": "application-architecture-planning",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Arsitektur menentukan kontrak sistem dan urutan pembangunan; jangan langsung menulis implementasi."
+    },
+    {
+      "pesan": "Implementasikan halaman dashboard sesuai arsitektur dan desain yang sudah disetujui.",
+      "skill_utama": "full-stack-application-engineering",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Implementasikan alur lengkap dalam cakupan; pertahankan stack dan jangan mengambil alih keputusan backend yang belum disepakati."
+    },
+    {
+      "pesan": "Buat autentikasi, aturan akses database, dan webhook pembayaran.",
+      "skill_utama": "backend-engineering-and-integrations",
+      "skill_pendukung_maks_2": [
+        "contextual-understanding"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Backend memiliki keamanan server dan integrasi; gunakan API resmi, sandbox pembayaran, dan verifikasi otorisasi."
     }
   ]
 }
