@@ -29,27 +29,13 @@ Video menyarankan pola lanjutan dipertimbangkan untuk ratusan halaman atau konte
 ## Pola
 
 ### 1. Jump Input
-Input nomor halaman, biasanya bersama tombol sebelumnya/berikutnya dan informasi halaman aktif/total.
-- Cocok untuk data besar saat pengguna mengetahui nomor tujuan: tabel admin, pesanan, log, laporan.
-- Validasi bilangan bulat dan rentang. Tentukan navigasi melalui Enter atau tombol Go; jangan berpindah setiap ketikan.
-- Tolak atau batasi nilai di luar rentang secara konsisten dan jelaskan rentang valid.
-- Pertahankan filter, sortir, dan pencarian. Nonaktifkan tombol batas jika relevan.
-- Hindari untuk koleksi kecil, tujuan tak dikenal, atau urutan yang sering berubah.
+Input nomor halaman untuk data besar saat pengguna mengetahui tujuan. Validasi bilangan bulat/rentang; navigasi melalui Enter atau tombol Go, bukan setiap ketikan. Pertahankan filter/sortir/pencarian dan beri feedback nilai invalid. Hindari untuk koleksi kecil atau urutan yang sering berubah.
 
 ### 2. Page Preview
-Pemilih tujuan dengan thumbnail, gambar, judul, atau cuplikan konten.
-- Cocok untuk galeri, editorial, peta, katalog, atau koleksi visual yang identitas halamannya penting.
-- Tampilkan konten tujuan yang nyata, bukan placeholder menyesatkan.
-- Muat preview secara efisien, beri label dan kontrol keyboard/touch, serta fallback bila data tidak tersedia.
-- Hindari jika konten repetitif/tabel, thumbnail mahal, atau preview tidak membantu membedakan halaman.
+Thumbnail, judul, atau cuplikan untuk galeri, editorial, peta, atau katalog visual. Preview harus konten nyata, ringan, berlabel, dapat dipilih lewat keyboard/touch, dan memiliki fallback. Hindari bila data repetitif atau preview tidak membantu.
 
 ### 3. Sliding Pagination
-Menampilkan jendela nomor halaman terbatas yang bergeser ketika halaman berubah.
-- Cocok untuk koleksi panjang, timeline, galeri, dan katalog.
-- Bedakan halaman aktif; tentukan perilaku dekat awal/akhir.
-- Gunakan elipsis hanya untuk rentang yang dilewati; jadikan interaktif hanya bila fungsinya jelas.
-- Pertahankan fokus saat jendela bergeser. Jangan mengandalkan swipe/drag saja.
-- Hindari jika jumlah halaman sedikit atau pergeseran membuat pengguna kehilangan orientasi.
+Jendela nomor terbatas yang bergeser untuk koleksi panjang. Bedakan halaman aktif, tentukan perilaku batas, gunakan elipsis untuk rentang yang dilewati, dan pertahankan fokus. Jangan bergantung pada swipe/drag saja.
 
 ## Alur pemilihan
 
@@ -76,16 +62,7 @@ Jangan mengambil semua halaman hanya untuk menggambar kontrol atau preview. Guna
 
 ## Checklist
 
-- Pola sesuai jumlah halaman, konten, dan maksud pengguna.
-- Pola lebih sederhana telah dipertimbangkan.
-- Halaman aktif dan total/tidak diketahui dinyatakan akurat.
-- Batas dan nilai invalid konsisten.
-- Filter/sortir/pencarian tetap terjaga.
-- Keyboard, touch, screen reader, fokus, dan reduced motion dapat digunakan.
-- Preview relevan dan dimuat efisien.
-- Kontrak backend sesuai dengan UI.
-- Mobile tetap jelas.
-- Loading, kosong, error, dan data usang diuji.
+Pola sesuai jumlah halaman/konten/tugas; pola sederhana telah dipertimbangkan; halaman aktif dan total akurat; batas/invalid konsisten; filter/sortir tetap; keyboard/touch/screen reader/fokus/reduced motion berfungsi; preview relevan dan efisien; kontrak backend sesuai; mobile jelas; loading/kosong/error/data usang diuji.
 
 ## Aturan implementasi AI
 
