@@ -474,6 +474,16 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Tentukan positioning, janji, bukti, identitas, dan konsistensi pengalaman; jangan samakan branding dengan iklan atau tampilan mewah."
+    },
+    {
+      "pesan": "Saya punya 200 ulasan dari beberapa bulan. Tolong cari keluhan yang paling sering, urutkan berdasarkan dampak, lalu tentukan perbaikan yang perlu diuji.",
+      "skill_utama": "ai-powered-voice-of-customer-intelligence",
+      "skill_pendukung_maks_2": [
+        "business-operations-and-scaling",
+        "service-recovery-marketing-and-trust-building"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Jelaskan sumber, periode, denominator, jumlah review/mention, pola dan tingkat keparahan; pisahkan hipotesis akar masalah dari fakta; buat uji terukur. Kasus individual dan remedy tetap milik Service Recovery."
     }
   ]
 }
