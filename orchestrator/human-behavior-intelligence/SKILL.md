@@ -263,7 +263,7 @@ Before delivering an integrated recommendation:
 ## Related orchestration skills
 
 - [Psychology Decision Engine](../../skills/psychology/psychology-decision-engine/SKILL.md) — routes behavioral, psychological, relational, and power questions.
-- [Communication Decision Engine](../../skills/communication/communication-decision-engine/SKILL.md) — routes interaction, messages, listening, negotiation, and delivery.
+- [Communication Decision Engine](../../skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md) — routes interaction, messages, listening, negotiation, and delivery.
 - [Business Agent Orchestrator](../business-agent/SKILL.md) — uses human-behavior insight during business discovery, customer research, sales, team management, and execution.
 - [Risk Assessment & Consequence Intelligence](../risk-assessment/SKILL.md) — reviews material consequences and high-impact decisions.
 
