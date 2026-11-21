@@ -627,6 +627,16 @@
       ],
       "harus_ditanyakan": "tidak",
       "catatan": "Pisahkan observasi, interpretasi, hipotesis, dan hal yang belum diketahui; adaptasi pola tanpa menyalin aset terlindungi."
+    },
+    {
+      "pesan": "Bagaimana membuat pelanggan secara sukarela merekomendasikan usaha saya dan mengukur hasil program referral?",
+      "skill_utama": "getok-tular-dan-advokasi-merek",
+      "skill_pendukung_maks_2": [
+        "consumer-psychology-and-persuasion",
+        "viral-and-referral-growth"
+      ],
+      "harus_ditanyakan": "tidak",
+      "catatan": "Utamakan pengalaman nyata, partisipasi sukarela, keterbukaan insentif, dan pisahkan referral organik dari referral berbayar."
     }
   ]
 }
