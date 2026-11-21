@@ -229,6 +229,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Skill | Owns | Does not own |
 |---|---|---|
 | OSINT & Digital Footprint Intelligence | Lawful, ethical open-source research and evidence collection | Unauthorized access, stalking, or unverified identity claims |
+| AI Media Provenance & Watermark Analysis | Media metadata, content provenance, watermark-type triage, and authorized cleanup verification | Copyright/legal determinations, universal AI-origin detection, or defeating trust/moderation systems |
 | Meaningful Prayer & Khushu | Reflective learning and practical support around prayer meaning and attentiveness | Issuing unsupported religious rulings or inventing religious sources |
 
 ## Canonical handoff packet
