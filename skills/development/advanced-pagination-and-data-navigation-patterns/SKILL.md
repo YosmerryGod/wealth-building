@@ -62,7 +62,7 @@ Jangan mengambil semua halaman untuk menggambar kontrol/preview. Gunakan paginas
 
 ## Checklist
 
-Pastikan pola sesuai jumlah halaman/tugas, status halaman akurat, batas konsisten, filter terjaga, aksesibilitas berfungsi, preview efisien, kontrak backend sesuai, mobile jelas, dan state loading/kosong/error diuji.
+Pola sesuai tugas; status dan batas akurat; filter terjaga; aksesibilitas, preview, backend, dan mobile berfungsi; state loading/kosong/error diuji.
 
 ## Aturan implementasi AI
 
