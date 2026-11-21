@@ -63,7 +63,7 @@ Dihasilkan dari `skills.json` dan diperiksa terhadap struktur berkas repositori.
 
 | Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Penyiapan Rig Avatar Jaring 2D | persiapan dan pemeriksaan mutu rig jaring 2D untuk avatar | avatar 2D, rigging, VTuber | [SKILL.md](skills/development/2d-mesh-avatar-rigging/SKILL.md) |
+| Rigging Avatar Mesh 2D | persiapan ilustrasi, pemisahan layer, rigging, dan mutu animasi avatar | avatar 2D, rigging, VTuber | [SKILL.md](skills/development/2d-mesh-avatar-rigging/SKILL.md) |
 | Pengalaman Etalase Media 3D | pola katalog dan etalase media 3D | toko 3D, katalog 3D | [SKILL.md](skills/development/3d-media-storefront-experience/SKILL.md) |
 | Desain Antarmuka AI dan Rekayasa Anti-Generik | audit antarmuka berbasis produk dan penghilangan pola generik | UI terlihat generik, audit tampilan, anti-generik | [SKILL.md](skills/development/ai-interface-design-and-unslop-engineering/SKILL.md) |
 | Review Desain Platform Apple dan Human Interface Guidelines | konvensi Apple dan review berdasarkan panduan antarmuka manusia | iOS, aplikasi iPhone, HIG, desain Apple, SwiftUI | [SKILL.md](skills/development/apple-platform-design-and-hig-review/SKILL.md) |
@@ -71,15 +71,15 @@ Dihasilkan dari `skills.json` dan diperiksa terhadap struktur berkas repositori.
 | Interaksi Mikro dan Desain Umpan Balik UI | feedback komponen, transisi state, animasi mikro, dan status pemuatan | animasi tombol, hover, skeleton, feedback UI | [SKILL.md](skills/development/micro-interactions-and-ui-feedback/SKILL.md) |
 | Pola Navigasi dan Interaksi Web Modern | navigasi antarbagian produk, pola global konvensional dan ekspresif | navbar, tab bawah, palet perintah, bilah samping radial, tipografi vertikal, progres gulir | [SKILL.md](skills/development/modern-web-navigation-patterns/SKILL.md) |
 | Pola Paginasi dan Navigasi Data Tingkat Lanjut | pemilihan pola paginasi dan perpindahan halaman dalam satu koleksi | paginasi, lompat halaman, pratinjau, paginasi geser | [SKILL.md](skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md) |
-| Logo Profesional dan Identitas Merek | perancangan sistem logo dan identitas | logo, identitas merek, favicon | [SKILL.md](skills/development/professional-logo-and-brand-identity/SKILL.md) |
-| Rekayasa Balik dan Rekonstruksi Berbasis Referensi | analisis referensi berbasis bukti dan penyusunan arahan rekonstruksi | tiru tampilan, referensi situs web, analisis situs | [SKILL.md](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) |
+| Desain Logo Profesional dan Identitas Merek | perancangan, evaluasi, dan produksi sistem identitas merek | logo, identitas merek, favicon | [SKILL.md](skills/development/professional-logo-and-brand-identity/SKILL.md) |
+| Rekayasa Balik dan Rekonstruksi Berbasis Referensi | investigasi produk berbasis bukti dan adaptasi pola menjadi brief orisinal | tiru tampilan, referensi situs web, bongkar situs | [SKILL.md](skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) |
 | Perencanaan Arsitektur Aplikasi | tumpukan teknologi, skema, kontrak API, model akses, urutan implementasi | arsitektur aplikasi, teknologi aplikasi, rancangan basis data | [SKILL.md](skills/development/application-architecture-planning/SKILL.md) |
 | Rekayasa Aplikasi Full-Stack | implementasi terukur untuk layar, rute, komponen, dan alur menyeluruh | bangun aplikasi, buat fitur, pengembangan aplikasi | [SKILL.md](skills/development/full-stack-application-engineering/SKILL.md) |
 | Rekayasa Backend dan Integrasi | autentikasi, data, pembayaran, webhook, pekerjaan terjadwal, dan integrasi | buat backend, login daftar, integrasi API, webhook | [SKILL.md](skills/development/backend-engineering-and-integrations/SKILL.md) |
 | Desain Frontend | arah visual, hierarki, tipografi, tata letak, dan spesifikasi antarmuka | desain web, landing page, tampilan app, frontend | [SKILL.md](skills/development/frontend-design/SKILL.md) |
 | Pengujian Perangkat Lunak dan Jaminan Mutu | rencana pengujian, cacat yang dapat direproduksi, otomatisasi, bukti regresi | uji aplikasi, QA aplikasi, cari bug, pengujian E2E | [SKILL.md](skills/development/software-testing-and-quality-assurance/SKILL.md) |
 | Evaluasi Kesesuaian Aplikasi | cakupan fitur dan perbedaan perilaku atau tata letak yang bermakna | kesesuaian fitur, bandingkan aplikasi, pemeriksaan kesesuaian | [SKILL.md](skills/development/application-parity-evaluation/SKILL.md) |
-| Rekayasa Deployment dan Rilis Aplikasi | pemeriksaan kesiapan rilis, pemulihan versi, kesiapan produksi, pemantauan | deploy aplikasi, terbitkan aplikasi, hubungkan domain | [SKILL.md](skills/development/application-deployment-and-release-engineering/SKILL.md) |
+| Rekayasa Deployment dan Rilis Aplikasi | kesiapan rilis, staging/produksi, rollback, dan pemantauan | deploy aplikasi, terbitkan aplikasi, hubungkan domain | [SKILL.md](skills/development/application-deployment-and-release-engineering/SKILL.md) |
 | Penceritaan 3D Berbasis Gulir | narasi 3D yang terhubung dengan pergerakan gulir | gulir 3D, web interaktif 3D | [SKILL.md](skills/development/scroll-driven-3d-storytelling/SKILL.md) |
 
 ## Keuangan
