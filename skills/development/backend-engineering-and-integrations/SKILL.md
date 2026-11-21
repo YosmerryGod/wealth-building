@@ -1,33 +1,39 @@
 ---
 name: backend-engineering-and-integrations
-title: Backend Engineering & Integrations
+title: Rekayasa Backend dan Integrasi
 category: development
 subcategory: backend-engineering
 source_type: original-adaptation-from-replica-skill
-language: English
-description: "Use when implementing authentication, authorization, databases, migrations, payments, webhooks, email, jobs, storage, or third-party API integrations."
-triggers: ["buat backend","login register","integrasi API","database aplikasi","payment gateway","webhook","backend engineering"]
-out_of_scope: "Frontend visual design, overall product architecture, legal certification, or release approval"
-escalation: "Use Application Architecture Planning for system contracts, Risk Assessment for security/privacy/legal risks, QA for verification, and Deployment & Release Engineering for production rollout."
+language: Indonesian
+description: "Gunakan untuk membangun autentikasi, otorisasi, basis data, migrasi, pembayaran, webhook, email, job, penyimpanan, dan integrasi API pihak ketiga."
+triggers: ["buat backend","login register","integrasi API","database aplikasi","payment gateway","webhook","rekayasa backend"]
+out_of_scope: "Desain visual frontend, arsitektur produk secara keseluruhan, sertifikasi hukum, atau persetujuan rilis"
+escalation: "Gunakan Perencanaan Arsitektur Aplikasi untuk kontrak sistem, Penilaian Risiko untuk risiko keamanan/privasi/hukum, QA untuk verifikasi, dan Rekayasa Deployment dan Rilis untuk penerapan produksi."
 ---
 
-# Backend Engineering & Integrations
+# Rekayasa Backend dan Integrasi
 
-## Purpose
-Implement reliable server-side capabilities with explicit data ownership, authorization, secrets management, failure handling, and integration boundaries.
+## Tujuan
+Membangun kapabilitas sisi server yang andal dengan kepemilikan data, otorisasi, pengelolaan rahasia, penanganan kegagalan, dan batas integrasi yang jelas.
 
-## Method
-1. **Contracts:** read approved architecture, schema, route definitions, code, and provider documentation. Identify actors, data classification, permissions, expected traffic, and failure modes. Never use undocumented private APIs of a reference product.
-2. **Authentication/authorization:** use maintained mechanisms; verify identity server-side; secure sessions; enforce authorization on every read/write; test cross-user and cross-tenant isolation; support safe recovery, revocation, and deletion where applicable.
-3. **Database/lifecycle:** use versioned migrations, constraints and justified indexes; define transaction/consistency/delete behavior; use synthetic seed data; document retention, export, deletion, backup, and restoration.
-4. **Payments/webhooks:** use official provider APIs and user's own accounts; start in sandbox; verify signatures; persist event IDs; make handlers idempotent; keep provider state authoritative where applicable; make cancellation/refunds clear. Never request live secrets in chat.
-5. **Integrations/jobs:** document provider, API version, minimum scopes, rate limits, quotas, review needs, timeout, retry, fallback, and observability. Use fresh transactional copy and idempotent jobs.
-6. **Security baseline:** secrets in environment/secret manager; server validation; per-operation authorization; abuse rate limits; signature/replay protection; upload limits; no sensitive values in URLs/logs; dependency audit; data minimization and processor/retention disclosure.
+## Metode
+1. **Kontrak dan konteks:** baca arsitektur, skema, definisi route, kode aktual, serta dokumentasi penyedia yang telah disetujui. Identifikasi aktor, klasifikasi data, izin, perkiraan beban, dan pola kegagalan. Jangan menggunakan API privat atau tidak terdokumentasi milik produk referensi.
+2. **Autentikasi dan otorisasi:** gunakan mekanisme terpelihara. Verifikasi identitas di server, amankan sesi, dan tegakkan izin pada setiap operasi baca/tulis. Uji isolasi antar pengguna dan tenant. Sediakan pemulihan akun, pencabutan akses, dan penghapusan secara aman jika relevan.
+3. **Basis data dan siklus hidup:** gunakan migrasi berversi, constraint, dan indeks yang beralasan. Tetapkan transaksi, konsistensi, perilaku penghapusan, data awal sintetis, retensi, ekspor, penghapusan, pencadangan, dan pemulihan.
+4. **Pembayaran dan webhook:** gunakan API resmi serta akun milik pengguna; mulai dari mode sandbox. Verifikasi tanda tangan, simpan ID peristiwa, buat handler idempoten, dan jadikan status penyedia sebagai acuan ketika sesuai. Jelaskan pembatalan dan pengembalian dana. Jangan meminta rahasia produksi melalui percakapan.
+5. **Integrasi dan pekerjaan latar:** dokumentasikan penyedia, versi API, cakupan izin minimum, batas permintaan, kuota, kebutuhan peninjauan, timeout, retry, fallback, dan observabilitas. Gunakan salinan transaksional yang konsisten serta job idempoten.
+6. **Baseline keamanan:** simpan rahasia dalam environment/secret manager; validasi masukan di server; otorisasi setiap operasi; batasi penyalahgunaan; lindungi tanda tangan dan replay; batasi unggahan; jangan letakkan data sensitif pada URL/log; audit dependensi; minimalkan data serta jelaskan retensi dan pemrosesannya.
+7. **Kegagalan dan pemulihan:** definisikan perilaku saat penyedia tidak tersedia, koneksi terputus, permintaan berulang, proses parsial, dan data tidak konsisten. Hindari retry tanpa batas atau operasi ganda.
 
-A checklist does not prove an application secure. High-risk systems require qualified review and appropriate testing.
+Checklist bukan bukti bahwa aplikasi aman. Sistem berisiko tinggi membutuhkan peninjauan tenaga ahli dan pengujian yang sesuai.
 
-## Output
-Migrations, server implementation, env variable names without values, integration notes, security checklist, tests/gaps, and operational risks. Do not create accounts, purchase services, or switch live payment modes for the user.
+## Keluaran
+Migrasi, implementasi server, nama variabel environment tanpa nilainya, catatan integrasi, pemeriksaan keamanan, hasil tes/celah, serta risiko operasional. Jangan membuat akun, membeli layanan, atau mengaktifkan mode pembayaran langsung atas nama pengguna.
 
-## Relationships
-Architecture Planning owns system contracts. Full-Stack integrates backend into product flows. Risk Assessment owns consequence screening. QA owns independent verification. Deployment owns production release.
+## Batas tanggung jawab
+- Perencanaan Arsitektur Aplikasi memiliki kontrak sistem dan keputusan arsitektur.
+- Skill ini memiliki implementasi server, keamanan autentikasi/otorisasi, pengelolaan data, serta integrasi.
+- Rekayasa Aplikasi Full-Stack menghubungkan kapabilitas backend ke alur produk.
+- Penilaian Risiko memiliki pemeriksaan konsekuensi.
+- QA memiliki verifikasi independen.
+- Rekayasa Deployment dan Rilis memiliki penerapan produksi.
