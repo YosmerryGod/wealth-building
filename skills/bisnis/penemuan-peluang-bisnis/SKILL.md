@@ -5,7 +5,7 @@ category: business-building
 source_type: video_and_framework
 source: Video TikTok yang diberikan pengguna (akun: @detektifmodal, judul yang ditampilkan: "Cepat Kaya")
 language: Indonesian
-description: "Gunakan ketika permintaan membutuhkan penemuan masalah pelanggan, permintaan pasar, kecocokan penawaran, dan validasi berbiaya rendah."
+description: "Membantu menemukan peluang bisnis dari masalah manusia, perubahan tren, kebutuhan pasar, dan celah lokal, lalu mengujinya dengan modal dan risiko yang terkendali."
 triggers:
   - "peluang usaha"
   - "validasi"
@@ -16,329 +16,328 @@ out_of_scope: "Perancangan keunggulan bersaing jangka panjang setelah kandidat d
 escalation: "Serahkan pekerjaan yang melibatkan operasional berkelanjutan secara menyeluruh atau analisis laporan keuangan kepada skill pemiliknya; gunakan Penilaian Risiko untuk tindakan dengan konsekuensi hukum, keselamatan, eksploitasi, atau dampak besar; minta persetujuan pengguna sebelum tindakan eksternal atau yang tidak dapat dibatalkan."
 ---
 
-# Penemuan Peluang Bisnis melalui Psikologi Konsumen
+# Penemuan Peluang Bisnis
 
-## Tujuan
+## Inti skill ini
 
-Membantu mentor AI membimbing seseorang yang bingung menentukan bisnis yang ingin dimulai. AI tidak boleh langsung memberikan daftar generik ide bisnis yang sedang tren. AI perlu memahami orangnya terlebih dahulu, menemukan kebutuhan pelanggan yang nyata, mengidentifikasi peluang, mengevaluasi ekonomi bisnis, lalu merekomendasikan validasi berbiaya rendah sebelum investasi besar.
+Tugas utama AI adalah membantu pengguna menemukan **apa yang orang butuhkan, inginkan, takutkan, atau ingin hindari**, lalu mencari cara yang masuk akal untuk menjadikannya peluang bisnis.
 
-Skill ini merupakan kerangka pengambilan keputusan untuk menemukan dan menguji peluang bisnis. Skill ini tidak menjamin keberhasilan ide apa pun.
+Jangan langsung memberi daftar bisnis yang sedang viral. Cari tahu dulu alasan orang mau mengeluarkan uang.
 
-## Gagasan sumber: orang membeli hasil, bukan hanya produk
+**Prinsip paling penting: orang tidak hanya membeli barang. Mereka membeli manfaat atau hasil yang mereka inginkan.**
 
-Video yang ditinjau menggambarkan bahwa bisnis dapat menjawab kebutuhan, keinginan, emosi, dan kekhawatiran manusia yang mendasarinya. Contohnya meliputi wewangian, produk kecantikan, pendampingan atau bantuan, layanan terkait pendidikan anak, serta hiburan atau pengalaman.
+Contoh sederhana:
 
-Pertanyaan mendasar yang berguna adalah:
+- Orang membeli parfum bukan hanya untuk mendapatkan wangi, tetapi juga agar merasa lebih percaya diri.
+- Orang membeli skincare karena ingin merawat kulit dan merasa lebih nyaman dengan penampilannya.
+- Orang membeli penutup knalpot karena khawatir air masuk ke knalpot saat motor terparkir ketika banjir.
+- Orang membeli aksesori gaming karena ingin bermain lebih nyaman.
+- Orang membeli bundel mikrofon dan splitter karena ingin semua perlengkapan yang dibutuhkan tanpa repot mencari satu per satu.
 
-**Hasil, kebutuhan, keinginan, atau masalah apa yang ingin diselesaikan pelanggan dengan membayar?**
+Contoh tersebut adalah cara memahami alasan membeli, bukan bukti bahwa produknya pasti laku.
 
-Fitur fisik produk hanya salah satu bagian dari nilainya. Pelanggan mungkin juga membeli kemudahan, kepercayaan diri, rasa memiliki, ketenangan, penghematan waktu, kesenangan, atau berkurangnya ketidakpastian.
+## Cara menjelaskan sesuatu agar mudah dipahami
 
-Video tersebut memuat harga dan contoh bisnis yang bersifat ilustratif. Angka-angka itu belum diverifikasi secara independen sebagai data pasar dan tidak boleh dianggap sebagai bukti profitabilitas.
+Pengguna bisa saja sedang membaca sambil melakukan hal lain atau tidak ingin membaca penjelasan panjang. Karena itu:
 
-## Perilaku AI ketika pengguna belum tahu bisnis apa yang ingin dimulai
+- Mulai dengan inti jawaban, bukan teori panjang.
+- Gunakan kalimat sehari-hari dan paragraf pendek.
+- Jelaskan satu gagasan dalam satu bagian.
+- Gunakan contoh produk atau kejadian yang dekat dengan kehidupan pengguna.
+- Gunakan daftar atau tabel hanya jika membuat informasi lebih mudah dipindai.
+- Tampilkan detail secara bertahap. Jangan menumpahkan semua analisis sekaligus.
+- Jika istilah bisnis diperlukan, jelaskan artinya dengan bahasa sederhana.
+- Berikan satu kesimpulan dan satu langkah berikutnya yang paling berguna.
+- Jangan mengulang hal yang sudah dipahami atau diputuskan pengguna.
 
-### 1. Pahami orangnya sebelum menyarankan ide
+Jangan menganggap pengguna tidak mampu memahami hal rumit. Buat penjelasannya mudah dicerna tanpa menghilangkan isi penting.
 
-Tanyakan secara alami informasi yang benar-benar memengaruhi kelayakan:
+## Peta besar: dari menemukan masalah sampai menghasilkan penjualan
 
-- Modal awal yang tersedia dan jumlah yang harus tetap disimpan sebagai dana darurat.
-- Keahlian, pengalaman kerja, minat, dan sumber daya yang sudah dimiliki.
-- Lokasi, kelompok pelanggan yang dapat dijangkau, serta akses distribusi.
-- Waktu yang tersedia dan apakah pengguna akan menjalankan bisnis sendiri.
-- Target pendapatan dan jangka waktu yang diharapkan.
-- Toleransi risiko, tanggungan, dan batasan lainnya.
+Gunakan alur ini sebagai panduan. Tidak semua peluang harus ditemukan melalui urutan yang sama; tren, masalah, musim, atau produk bisa menjadi titik awal.
 
-Jangan menanyakan semuanya sekaligus jika beberapa pertanyaan saja sudah cukup untuk melanjutkan. Jangan mengasumsikan pengguna memiliki modal, pengalaman, atau waktu yang belum pernah disebutkan.
+1. **Temukan sinyal:** amati masalah manusia, tren, perubahan kebiasaan, musim, dan kejadian.
+2. **Pahami alasan membeli:** cari tahu siapa yang membutuhkan, apa yang mereka rasakan, dan apa yang ingin mereka hindari atau dapatkan.
+3. **Temukan solusi:** cari produk atau jasa yang bisa menjawab kebutuhan tersebut.
+4. **Periksa pasar:** lihat apakah orang benar-benar membeli, siapa pesaingnya, dan apakah ada celah.
+5. **Cari sumber barang atau cara menyediakan jasa:** bandingkan harga, kualitas, stok, dan kemudahan pengiriman.
+6. **Hitung keuntungan:** pastikan harga jual masih menyisakan keuntungan setelah semua biaya.
+7. **Uji dalam skala kecil:** cari pembeli sungguhan sebelum membeli stok banyak.
+8. **Ambil keputusan:** lanjutkan, perbaiki, tambah stok, atau tinggalkan peluang tersebut.
 
-### 2. Temukan kebutuhan dan motivasi membeli pelanggan
+## Dua radar utama untuk menemukan peluang
 
-Jelajahi pasar dari sudut pandang pelanggan:
+### 1. Radar masalah dan keinginan manusia
 
-- Masalah berulang atau kebutuhan yang belum terpenuhi apa yang ada?
-- Siapa yang mengalaminya dan seberapa sering?
-- Apa yang saat ini dilakukan orang untuk menyelesaikannya?
-- Apa yang membuat alternatif saat ini terasa merepotkan, mahal, lambat, tidak praktis, atau tidak dapat diandalkan?
-- Hasil seperti apa yang membuat pelanggan bersedia membayar?
-- Apakah pembelian terutama didorong kebutuhan, kemudahan, aspirasi, emosi, pengurangan risiko, atau kesenangan?
+Amati hal-hal yang membuat orang mau mencari solusi atau mengeluarkan uang.
 
-Gunakan psikologi konsumen untuk memahami motivasi, bukan mengeksploitasi kerentanan. Pemasaran emosional harus tetap jujur dan tidak boleh mengandalkan penipuan, kelangkaan palsu, rasa malu, menakut-nakuti, atau klaim tanpa dukungan.
+| Yang dirasakan orang | Contoh masalah atau keinginan | Contoh peluang |
+|---|---|---|
+| Takut rugi atau kehilangan | Takut motor rusak saat banjir | Perlengkapan perlindungan motor |
+| Insecure atau kurang percaya diri | Tidak nyaman dengan kondisi kulit atau penampilan | Perawatan diri, pakaian, parfum |
+| Takut tidak aman | Khawatir barang dicuri | Kunci, alarm, alat pengaman |
+| Tidak mau repot | Harus membeli beberapa barang secara terpisah | Paket atau bundel produk |
+| Ingin lebih nyaman | Aktivitas sehari-hari terasa merepotkan | Produk praktis |
+| Ingin mengikuti tren | Tertarik pada barang yang sedang populer | Produk tren dan koleksi |
+| Ingin diakui atau diterima | Ingin mengikuti hobi atau komunitas | Aksesori, perlengkapan hobi |
+| Ingin menghemat | Merasa harga atau cara membeli terlalu mahal | Produk alternatif atau paket hemat |
 
-### 3. Ubah kebutuhan menjadi peluang bisnis
+Gunakan emosi untuk memahami kebutuhan, bukan untuk menipu atau menakut-nakuti orang. Jangan membuat klaim keamanan, kesehatan, kecantikan, atau manfaat yang tidak terbukti.
 
-Buat daftar pendek yang relevan, bukan daftar generik yang panjang. Untuk setiap peluang, jelaskan:
+### 2. Radar tren dan perubahan pasar
 
-- Target pelanggan.
-- Masalah pelanggan atau hasil yang diinginkan.
-- Produk atau layanan yang diusulkan.
-- Alasan pelanggan mungkin memilihnya dibandingkan alternatif yang sudah ada.
-- Cara bisnis menjangkau pelanggan.
-- Kebutuhan operasional dan batasan utamanya.
+Jangan hanya melihat produk yang sudah viral. Cari tanda bahwa minat orang mulai berubah.
 
-Utamakan peluang yang sesuai dengan kemampuan, sumber daya, pasar yang dapat dijangkau, dan batas risiko pengguna.
+Amati beberapa sumber:
 
-### 4. Evaluasi model bisnis
+- **TikTok dan YouTube Shorts:** produk yang mulai sering muncul, dibahas oleh banyak kreator, atau memancing pertanyaan tempat membeli.
+- **Marketplace:** produk yang mulai mendapat transaksi, ulasan baru, atau variasi penawaran.
+- **Komunitas dan media sosial:** barang yang mulai dicari atau dibicarakan orang.
+- **Pasar luar negeri:** produk yang lebih dulu populer di Amerika, Jepang, Korea, atau negara lain.
+- **Kota besar di Indonesia:** produk yang mulai terlihat di Jakarta atau kota lain sebelum menyebar ke daerah.
+- **Pasar lokal:** apakah produk sudah tersedia, berapa banyak penjualnya, dan bagaimana harga serta pelayanannya.
 
-Nilai setiap kandidat berdasarkan bukti yang tersedia dan beri label yang jelas pada asumsi:
+Contoh pola penyebaran tren:
 
-| Dimensi | Pertanyaan |
-|---|---|
-| Permintaan | Apakah ada bukti pelanggan menginginkan dan bersedia membayar untuk ini? |
-| Segmen pelanggan | Siapa pembeli yang sebenarnya? |
-| Persaingan | Alternatif apa yang sudah memenuhi kebutuhan tersebut? |
-| Diferensiasi | Mengapa pelanggan akan memilih penawaran ini? |
-| Modal awal | Apa yang harus dibeli sebelum penjualan pertama? |
-| Ekonomi unit | Berapa harga jual, biaya variabel, margin kontribusi, dan biaya akuisisi? |
-| Distribusi | Bagaimana pelanggan menemukan, memesan, dan menerima penawaran? |
-| Pembelian berulang | Apakah kebutuhannya berulang, sesekali, atau hanya sekali? |
-| Skalabilitas | Dapatkah volume bertumbuh tanpa biaya atau kompleksitas meningkat lebih cepat? |
-| Risiko | Apa yang dapat membuat ide gagal dan seberapa mahal dampak kegagalannya? |
+**Pasar luar negeri → kota besar di Indonesia → kota atau daerah lain.**
 
-Jangan mencampuradukkan omzet, margin kotor, laba operasional, dan arus kas. Sertakan tenaga kerja, sewa, pengiriman, biaya platform, pemasaran, barang rusak atau kedaluwarsa, pajak, pembiayaan, serta waktu pemilik jika relevan.
+Pola ini tidak selalu terjadi. Tren juga bisa muncul bersamaan di banyak tempat atau justru berasal dari pasar lokal.
 
-### 5. Validasi sebelum mengikat modal besar
+Perhatikan tiga jenis tren:
 
-Rekomendasikan eksperimen praktis terkecil yang dapat menguji asumsi paling berisiko:
+1. **Tren baru:** produk atau kebiasaan yang mulai dikenal.
+2. **Tren yang menyebar:** produk yang sudah populer di satu negara atau kota lalu mulai masuk ke pasar lain.
+3. **Tren yang kembali populer:** barang lama yang kembali diminati, seperti lato-lato.
 
-- Wawancarai calon pelanggan tentang perilaku mereka saat ini, bukan hanya apakah mereka menyukai ide tersebut.
-- Uji penawaran sederhana atau purwarupa.
-- Jalankan prapesan kecil atau uji coba berbayar jika sesuai.
-- Uji wilayah geografis atau segmen pelanggan yang terbatas.
-- Gunakan anggaran pemasaran kecil dengan batas yang jelas.
-- Catat pertanyaan masuk, konversi menjadi pesanan berbayar, pembelian berulang, margin kontribusi, dan masukan pelanggan.
+Jangan menganggap video dengan banyak tayangan sebagai bukti penjualan. Tayangan hanya petunjuk awal.
 
-Tetapkan periode pengujian, batas anggaran, ambang keberhasilan, serta kondisi untuk berhenti atau menyesuaikan. Minat, tanda suka, tayangan, dan pujian tidak setara dengan permintaan berbayar.
+## Cari momentum: kapan orang mulai membutuhkan sesuatu?
 
-### 6. Buat rekomendasi dengan ketidakpastian yang terlihat
+Masalah yang sama bisa menciptakan peluang lebih besar pada waktu tertentu.
 
-Setelah membandingkan pilihan:
+Amati perubahan yang berulang atau bisa diperkirakan:
 
-1. Nyatakan kandidat terkuat dan alasan kesesuaiannya dengan pengguna.
-2. Jelaskan bukti yang mendukungnya.
-3. Pisahkan fakta terverifikasi, fakta dari pengguna, perkiraan, dan asumsi.
-4. Identifikasi risiko terbesar yang belum terjawab.
-5. Usulkan rencana validasi berbiaya rendah.
-6. Jelaskan hasil seperti apa yang membenarkan investasi lanjutan dan hasil seperti apa yang berarti arah perlu diubah.
-
-Jika informasi yang tersedia belum cukup, ajukan satu pertanyaan terpenting berikutnya alih-alih berpura-pura mengetahui jawabannya.
-
-## Konsep pendukung dari psikologi konsumen
-
-- **Psikologi Konsumen:** memahami cara pelanggan memersepsikan nilai dan mengambil keputusan pembelian.
-- **Analisis Titik Masalah:** mengidentifikasi masalah, hambatan, dan kebutuhan yang belum terpenuhi.
-- **Pemasaran Emosional:** menyampaikan hasil emosional yang relevan secara jujur dan penuh hormat.
-- **Proposisi Nilai:** menjelaskan alasan konkret pelanggan sebaiknya memilih penawaran.
-- **Penulisan Naskah Persuasif:** menyajikan penawaran dan ajakan bertindak yang jelas serta jujur tanpa manipulasi.
-- **Riset Pasar:** memeriksa apakah kebutuhan dan kesediaan membayar benar-benar ada di pasar sasaran.
-
-Kemampuan pendukung ini tidak menggantikan validasi permintaan atau analisis keuangan.
-
-## Pola interaksi contoh
-
-Pengguna: "Saya punya sedikit modal, tetapi belum tahu bisnis apa yang harus dimulai."
-
-Pendekatan AI yang disarankan:
-
-1. Tanyakan kisaran modal, keahlian atau pengalaman, serta lokasi atau pelanggan yang dapat dijangkau.
-2. Identifikasi kelompok pelanggan dan kebutuhan yang realistis untuk dilayani pengguna.
-3. Sajikan daftar pendek peluang yang sesuai, bukan tebakan berdasarkan tren.
-4. Bandingkan kebutuhan modal awal, ekonomi unit, persaingan, dan risiko.
-5. Pilih satu peluang untuk diuji melalui eksperimen kecil.
-6. Tinjau hasil nyata sebelum menyarankan ekspansi atau pinjaman.
-
-## Batasan pengaman
-
-- Jangan pernah menjanjikan kekayaan cepat, keuntungan terjamin, atau permintaan yang pasti.
-- Jangan merekomendasikan ide hanya karena sedang viral atau populer.
-- Jangan mengarang ukuran pasar, permintaan pelanggan, harga, atau data pesaing.
-- Bedakan gagasan yang berasal dari sumber dengan kerangka analisis AI dan riset eksternal.
-- Jangan mendorong pengguna mempertaruhkan tabungan pokok atau mengambil utang sebelum permintaan dan arus kas tervalidasi.
-- Hormati pelanggan: pahami motivasi emosional tanpa memanipulasi ketakutan, rasa tidak aman, atau ketergantungan.
-
-## Klasifikasi
-
-- Skill utama: Penemuan Peluang Bisnis
-- Skill pendukung: Psikologi Konsumen, Pemasaran Emosional, Riset Pasar, Proposisi Nilai, Ekonomi Unit, Validasi Bisnis
-- Kasus penggunaan utama: membantu pengguna yang belum yakin bisnis apa yang ingin dimulai
-- Status sumber: gagasan inti tentang motivasi konsumen berasal dari video yang diberikan pengguna; kerangka evaluasi dan validasi ditambahkan sebagai proses operasional pengambilan keputusan AI
-
-## Segmentasi pelanggan dan analisis motivasi pembelian
-
-Sebelum merekomendasikan peluang, segmentasikan pasar berdasarkan perbedaan yang dapat diamati dan memengaruhi keputusan pembelian. Jangan menganggap semua orang yang mungkin menggunakan produk sebagai satu kelompok pembeli.
-
-Untuk setiap segmen yang relevan, identifikasi:
-
-- **Pembeli dan pengguna:** siapa yang membayar, siapa yang menggunakan produk, dan apakah keduanya orang yang sama.
-- **Kebutuhan dan situasi:** pekerjaan yang ingin diselesaikan, titik masalah, hasil yang diinginkan, serta kapan kebutuhan muncul.
-- **Pemicu pembelian:** peristiwa atau kondisi yang membuat pelanggan bertindak sekarang, bukan nanti.
-- **Perilaku pembelian:** frekuensi, kanal pilihan, kecepatan keputusan, kebiasaan membandingkan, serta pihak yang memengaruhi atau menyetujui pembelian.
-- **Anggaran dan sensitivitas harga:** kemampuan belanja yang mungkin, kisaran harga yang dapat diterima, serta pengeluaran pelanggan saat ini untuk alternatif. Perlakukan hal ini sebagai hipotesis sampai tervalidasi.
-- **Kriteria keputusan:** kualitas, kemudahan, kecepatan, kepercayaan, lokasi, status, keandalan, layanan, atau faktor lain yang benar-benar penting bagi segmen tersebut.
-- **Hambatan dan risiko:** keterjangkauan, ketidakpastian, kebiasaan, upaya berpindah, kurangnya kepercayaan, akses, atau prioritas lain yang bersaing.
-- **Bukti:** perilaku yang diamati, pesanan berbayar, wawancara, pembelian berulang, bukti pencarian atau pasar, serta asumsi yang belum terjawab.
-
-### Bedakan kebutuhan, keinginan, dan kesediaan membayar
-
-Analisis secara terpisah:
-
-1. **Kebutuhan:** masalah atau keperluan yang ingin diselesaikan pelanggan.
-2. **Keinginan:** hasil atau pengalaman yang lebih disukai pelanggan.
-3. **Motivasi membeli:** alasan praktis atau emosional di balik pemilihan penawaran, seperti menghemat waktu, kemudahan, kepercayaan diri, rasa memiliki, kesenangan, pengakuan, atau pengurangan risiko.
-4. **Kesediaan membayar:** apakah pelanggan bersedia menukar uang untuk solusi yang ditawarkan pada harga tertentu.
-5. **Kemampuan membayar:** apakah pelanggan secara realistis mampu membelinya tanpa tekanan keuangan yang tidak dapat diterima.
-
-Keinginan yang kuat tidak membuktikan kesediaan atau kemampuan membayar. Pujian dan minat yang diucapkan merupakan bukti lebih lemah dibandingkan uang muka, uji coba berbayar, transaksi selesai, dan pesanan berulang.
-
-### Prioritas segmen
-
-Bandingkan kandidat segmen berdasarkan:
-
-- Tingkat keparahan dan frekuensi masalah.
-- Urgensi dan kekuatan pemicu pembelian.
-- Kemampuan dan kesediaan membayar.
-- Kemudahan dijangkau dan biaya akuisisi pelanggan.
-- Persaingan dan mutu alternatif yang sudah ada.
-- Potensi pembelian berulang dan margin kontribusi.
-- Kesesuaian dengan sumber daya serta kapasitas operasional pengguna.
-
-Rekomendasikan segmen hanya jika daya tariknya didukung bukti atau asumsi yang diberi label dengan jelas. Jelaskan mengapa segmen tersebut lebih baik sebagai target awal dibandingkan alternatifnya.
-
-### Rantai peluang yang wajib ditelusuri
-
-Buat alur penalaran yang dapat ditelusuri:
-
-**Masalah atau keinginan manusia → segmen pelanggan spesifik → situasi dan motivasi pembelian → penawaran → alasan untuk memilih → kanal yang dapat dijangkau → validasi berbayar → ekonomi unit.**
-
-Jika salah satu mata rantai belum didukung, nyatakan hal yang belum diketahui dan rancang pengujian praktis terkecil. Jangan melompat dari keinginan manusia yang menarik langsung ke rekomendasi bisnis.
-
-## Penemuan peluang secara percakapan: dari rasa ingin tahu hingga bukti berbayar
-
-Skill ini harus bekerja dalam percakapan alami yang berlangsung beberapa giliran, bukan hanya sebagai daftar pemeriksaan analisis bisnis yang statis.
-
-### 1. Kenali tahap pengguna saat ini
-
-Klasifikasikan respons terbaru pengguna sebagai:
-- Ketidakpastian umum: ingin memulai bisnis tetapi belum punya arah.
-- Eksplorasi ide: sedang mempertimbangkan kategori atau kemungkinan.
-- Ketertarikan sementara: memberikan respons positif terhadap satu kandidat.
-- Evaluasi kandidat: ingin memahami apakah ide tersebut dapat berjalan.
-- Validasi: ingin menguji permintaan pelanggan.
-- Komitmen: secara eksplisit memilih dan menyetujui bisnis.
-- Eksekusi: meminta hasil operasional atau materi peluncuran yang konkret.
-
-Lanjutkan dari tahap tersebut. Jangan mengulang proses penemuan dari awal pada setiap giliran percakapan.
-
-### 2. Perlakukan ketertarikan terhadap produk sebagai hipotesis awal
-
-Ketika pengguna mengatakan suatu produk atau bisnis "terdengar bagus", jangan menganggap pasar pasti menginginkannya atau pengguna sudah memutuskan untuk meluncurkannya. Bantu memperjelas:
-- Siapa kemungkinan pembelinya dan kapan pembelian terjadi.
-- Hasil apa yang diinginkan pembeli.
-- Penawaran seperti apa yang membuat produk layak dipilih.
-- Ketidakpastian paling penting.
-- Eksperimen kecil berikutnya.
-
-Gunakan bahasa bersyarat sampai ada bukti: "berpotensi", "bisa jadi", "layak diuji", atau "hipotesis kita saat ini". Jangan mengubah dugaan segmen pelanggan menjadi fakta pasar yang terbukti.
-
-### 3. Temukan alasan membeli, bukan hanya kategori produk
-
-Untuk produk makanan seperti kue atau camilan daerah, bedakan kemungkinan situasi pembelian:
-- Camilan pribadi atau konsumsi sehari-hari.
-- Berbagi dengan keluarga, tamu, atau rekan kerja.
-- Hadiah dan oleh-oleh.
-- Pesanan untuk rapat, acara, atau perayaan.
-- Penjualan kembali melalui toko atau gerai mitra.
-
-Semua ini adalah kandidat segmen, bukan bukti permintaan. Pilih satu segmen awal berdasarkan akses, kesesuaian produk, perilaku pembelian, dan bukti. Jangan mencoba menargetkan semua segmen sekaligus.
-
-### 4. Uji satu asumsi penting dalam satu waktu
+- Musim hujan dan risiko banjir.
+- Liburan sekolah dan musim perjalanan.
+- Ramadan, Lebaran, Natal, dan Tahun Baru.
+- Acara olahraga, konser, atau kegiatan komunitas.
+- Perubahan cuaca dan kondisi lingkungan.
+- Produk atau kebiasaan yang sedang ramai dibicarakan.
 
 Contoh:
-- Jika rasa belum pasti, buat sampel kecil dan kumpulkan masukan terstruktur dari calon pembeli.
-- Jika kesediaan membayar belum pasti, tunjukkan penawaran dengan harga yang jelas dan cari prapesan nyata, bukan hanya bertanya apakah idenya disukai.
-- Jika masa simpan atau pengiriman belum pasti, uji kemasan, penyimpanan, dan kondisi pengiriman sebelum meningkatkan skala.
-- Jika pembelian berulang belum pasti, amati apakah pembeli awal memesan kembali setelah jeda waktu yang wajar.
 
-Sebuah pengujian harus menetapkan hipotesis, sampel praktis terkecil, batas biaya, hasil yang dapat diamati, dan keputusan berikutnya. Jangan menyarankan produksi dalam jumlah besar, kampanye berbayar, atau pembelian peralatan permanen sebelum ketidakpastian utama diuji.
+Saat musim hujan mendekat, pemilik motor di daerah rawan banjir mungkin mulai mencari cara melindungi kendaraannya. Penutup knalpot bisa menjadi salah satu produk yang diuji sebagai perlindungan tambahan ketika motor diparkir. Produk ini tidak membuat motor aman dari banjir dan harus dilepas sebelum mesin dinyalakan.
 
-### 5. Jaga eksplorasi tetap ringan
+**Cari kebutuhan sebelum puncak kejadian, bukan setelah semua orang mulai panik.**
 
-Ketika pengguna masih penasaran:
-- Berikan satu wawasan berguna dan satu langkah konkret berikutnya.
-- Jangan mewajibkan profil bisnis lengkap atau proyeksi keuangan.
-- Jangan menanyakan anggaran, keahlian, jadwal, target pasar, dan detail produk sekaligus.
-- Ajukan pertanyaan berikutnya hanya ketika jawabannya menentukan eksperimen selanjutnya atau secara material mengubah kelayakan.
-- Pertahankan kebebasan pengguna untuk mengubah arah.
+## Dari sinyal menjadi peluang bisnis
 
-### 6. Ambang bukti untuk melanjutkan tahap
+Ketika menemukan masalah atau produk menarik, jangan langsung membeli barang. Jawab pertanyaan sederhana berikut:
 
-Bergerak dari eksplorasi ke evaluasi ketika pengguna menginginkan penilaian serius. Bergerak dari evaluasi ke validasi ketika asumsi utama dapat diuji. Masuk ke tahap komitmen hanya setelah pengguna memilih dan menyetujui peluang yang telah didefinisikan. Tingkatkan skala hanya setelah permintaan berbayar yang nyata, margin kontribusi yang layak, keandalan operasional, dan kapasitas kas yang memadai terbukti.
+1. **Siapa yang membutuhkan?** Jangan menyebut semua orang sebagai target pembeli.
+2. **Apa masalah atau keinginannya?** Apa yang ingin mereka perbaiki, dapatkan, atau hindari?
+3. **Kapan mereka membutuhkan?** Setiap hari, pada musim tertentu, atau ketika ada kejadian khusus?
+4. **Apa yang mereka lakukan sekarang?** Apakah sudah ada produk atau cara lain untuk menyelesaikannya?
+5. **Apa kekurangan solusi yang ada?** Terlalu mahal, sulit ditemukan, kurang praktis, kualitas buruk, atau pilihan terbatas?
+6. **Apakah mereka mau membayar?** Cari bukti perilaku membeli, bukan hanya jawaban "tertarik".
+7. **Bisakah kita menjangkau mereka?** Periksa lokasi, komunitas, marketplace, dan jalur penjualan yang tersedia.
 
-Komentar positif, tayangan media sosial, tanda suka, dan niat membeli secara hipotetis merupakan sinyal lemah. Pesanan berbayar, transaksi selesai, pembelian berulang, dan margin kontribusi merupakan bukti lebih kuat, tetapi tetap harus ditafsirkan sesuai konteks dan ukuran sampel.
+Jika jawabannya belum diketahui, tandai sebagai hal yang perlu diperiksa. Jangan mengubah dugaan menjadi fakta.
 
-### 7. Contoh: eksplorasi camilan daerah
+## Cari celah pasar dan pesaing
 
-Pengguna: "Roti pisang Banjar boleh nih."
+Produk yang jarang dijual belum tentu punya peluang. Bisa jadi memang tidak ada orang yang membutuhkannya.
 
-Respons yang membantu:
-"Menarik untuk diuji. Kita jangan langsung produksi banyak. Tentukan dulu satu pembeda yang bisa dirasakan—misalnya tekstur lebih lembut, isian pisang yang terasa, atau kemasan praktis untuk oleh-oleh—lalu uji batch kecil kepada calon pembeli. Respons yang paling penting bukan sekadar 'enak', tetapi apakah mereka bersedia membeli dengan harga yang menutup biaya."
+Periksa:
 
-Contoh ini menggambarkan metode interaksi. Contoh tersebut tidak menyatakan adanya permintaan lokal, posisi pesaing, atau harga yang sesuai dan telah terverifikasi.
+- Berapa banyak penjual yang menawarkan produk serupa?
+- Berapa harga dan variasi produknya?
+- Apakah stok mudah ditemukan?
+- Apakah pelanggan mengeluhkan kualitas, harga, atau pengiriman?
+- Apakah ada kelompok pembeli atau wilayah yang belum terlayani?
+- Apakah kita bisa menawarkan harga, kemudahan, bundel, kualitas, atau layanan yang lebih sesuai?
 
-### Gerbang mutu
+Cari alasan nyata mengapa pelanggan akan memilih penawaran kita.
 
-Respons gagal jika melompat dari ketertarikan ke komitmen, mengarang permintaan pelanggan, membanjiri pengguna dengan pertanyaan, atau memberikan daftar tren yang generik. Respons lolos jika melanjutkan ide yang sedang dibahas, mengidentifikasi hipotesis pembelian yang nyata, menyarankan pengujian berbiaya rendah, dan menunggu bukti serta persetujuan pengguna sebelum melanjutkan.
+Ulasan pelanggan, komentar, dan diskusi komunitas bisa menjadi petunjuk. Catat sumber dan tanggalnya. Bedakan keluhan yang berulang dari pendapat satu orang. Jangan mengarang jumlah pembeli, ulasan, atau kesimpulan pasar.
 
-## Serah terima ke Strategi Inovasi dan Keunggulan Bersaing
+## Cari cara mendapatkan keuntungan
 
-Penemuan Peluang Bisnis tetap menjadi pemilik alur tahap awal: masalah pelanggan → segmen yang dapat dijangkau → motivasi membeli → hipotesis penawaran → bukti permintaan → validasi berbiaya rendah. Pemeriksaan diferensiasinya menanyakan alasan pelanggan mungkin memilih penawaran, tetapi tidak menyatakan bahwa pembeda tersebut dapat dipertahankan atau tahan lama.
+Setelah ada kandidat produk, cari beberapa kemungkinan:
 
-Setelah kandidat memiliki pelanggan, penawaran, dan bukti permintaan awal yang cukup jelas—atau ketika pengguna secara eksplisit meminta posisi strategis—serahkan pekerjaan kepada [Strategi Inovasi dan Keunggulan Bersaing](../strategi-inovasi-dan-keunggulan-bersaing/SKILL.md). Skill tersebut mengevaluasi diferensiasi bermakna, kemampuan eksklusif, efek jaringan, ekonomi skala, merek, pasar awal yang terfokus, dan daya tahan keunggulan. Skill tersebut harus menggunakan kembali bukti pelanggan dan validasi dari skill ini, bukan mengulang penemuan dari awal.
+- Membeli dari pemasok yang lebih murah.
+- Membeli grosir jika harga dan jumlah minimumnya masuk akal.
+- Menggabungkan beberapa barang menjadi satu paket.
+- Menjual produk yang lebih mudah ditemukan di daerah sendiri.
+- Menawarkan ukuran, variasi, atau layanan yang belum tersedia.
+- Memanfaatkan ongkos kirim yang lebih efisien jika beberapa barang bisa dikirim bersama.
 
-Jangan mewajibkan keunggulan ala Zero to One untuk setiap bisnis kecil. Bisnis lokal dapat layak melalui ceruk yang dilayani dengan baik, pelaksanaan yang andal, harga yang adil, kemudahan, atau kepercayaan pelanggan tanpa teknologi berskala modal ventura atau dominasi pasar.
+Contoh:
 
-## Bukti umpan balik publik pengguna dan kesenjangan pesaing
+- Sarung jempol gaming: barang ringan yang bisa dibeli dari pemasok lalu ditawarkan ke pembeli lokal.
+- Mikrofon dan splitter: dua barang pelengkap bisa dijual sebagai satu paket agar pembeli tidak perlu mencari sendiri-sendiri.
+- Kartu Pokémon: produk koleksi yang perlu diperiksa tren, keaslian, pemasok, harga, dan komunitas pembelinya.
 
-Ketika sebuah ide terinspirasi oleh aplikasi yang sudah ada, ulasan publik dan diskusi permintaan fitur dapat mengungkap pekerjaan yang belum terpenuhi serta hambatan pengguna. Perlakukan hal tersebut sebagai bukti kualitatif, bukan survei representatif secara otomatis.
+Bundel atau harga beli murah tidak otomatis menghasilkan keuntungan. Hitung semua biaya dan pastikan pelanggan memang menginginkan penawaran tersebut.
 
-Untuk setiap item, simpan URL publik, platform atau sumber, tanggal, rating yang terlihat, dan ringkasan yang setia pada isi. Jangan mengarang ulasan, jumlah, identitas pengulas, atau konsensus. Catat ukuran sampel, keragaman sumber, kebaruan, bias seleksi, dan tema yang belum cukup kuat untuk mendukung klaim luas.
+## Periksa apakah bisnisnya masuk akal
 
-Pisahkan keluhan berulang, permintaan fitur eksplisit, pekerjaan atau kelompok yang kurang terlayani, dan pendapat satu kali. Prioritaskan berdasarkan kekuatan bukti, dampak terhadap pelanggan, audiens yang dapat dijangkau, bukti kesediaan membayar, kelayakan, dan diferensiasi. Serahkan daya tahan keunggulan kepada Strategi Inovasi dan Keunggulan Bersaing serta pesan peluncuran kepada Perencanaan Peluncuran Produk dan Strategi Masuk Pasar. Jangan pernah menggunakan ulasan pesaing sebagai testimoni untuk produk pengguna.
+Gunakan bahasa sederhana untuk memeriksa sepuluh hal ini:
 
-## Penawaran, permintaan, dan keseimbangan pasar
+| Yang diperiksa | Pertanyaan sederhana |
+|---|---|
+| Pembeli | Siapa yang benar-benar akan membeli? |
+| Kebutuhan | Seberapa penting masalahnya bagi mereka? |
+| Bukti permintaan | Apakah sudah ada transaksi atau bukti pembelian? |
+| Pesaing | Siapa yang sudah menjual solusi serupa? |
+| Alasan memilih | Mengapa pembeli akan memilih kita? |
+| Modal | Berapa uang yang harus keluar sebelum penjualan? |
+| Keuntungan | Berapa sisa uang setelah semua biaya? |
+| Penjualan | Bagaimana calon pembeli menemukan dan membeli produk? |
+| Perputaran stok | Seberapa cepat barang kemungkinan terjual? |
+| Risiko | Apa yang terjadi jika barang tidak laku, rusak, atau tren turun? |
 
-Gunakan penawaran dan permintaan sebagai alat diagnosis pasar, bukan jalan pintas untuk menyatakan bahwa peluang bisnis pasti ada.
+Hitung biaya yang relevan: harga barang, ongkir pemasok, kemasan, biaya platform, iklan, pengiriman ke pelanggan, tenaga kerja, barang rusak, pajak, dan biaya lainnya.
 
-- **Permintaan** adalah jumlah barang atau jasa yang bersedia dan mampu dibeli pelanggan pada harga tertentu serta dalam kondisi yang dinyatakan selama periode tertentu. Minat, kebutuhan, tayangan, dan pujian saja tidak membuktikan permintaan berbayar.
-- **Penawaran** adalah jumlah barang atau jasa yang dapat dan bersedia disediakan penjual pada harga tertentu selama periode tertentu. Sertakan batas produksi, tenaga kerja, stok, lokasi, pengiriman, mutu, dan pemenuhan pesanan.
-- **Kesenjangan pasar** adalah hipotesis bahwa penawaran yang ada belum melayani segmen pelanggan, situasi pembelian, ekspektasi kualitas, tingkat harga, atau kebutuhan akses secara memadai. Hipotesis ini harus diuji terhadap alternatif dan perilaku pelanggan.
+Bedakan:
+- **Omzet:** seluruh uang penjualan.
+- **Laba kotor:** penjualan dikurangi harga pokok barang.
+- **Laba bersih:** sisa setelah biaya usaha yang relevan diperhitungkan.
+- **Arus kas:** uang yang benar-benar masuk dan keluar serta kapan terjadinya.
 
-### Diagnosis penawaran dan permintaan
+Jangan menyebut omzet sebagai keuntungan.
 
-1. Tentukan kategori produk, wilayah atau area layanan, periode waktu, dan situasi pembelian.
-2. Identifikasi segmen pelanggan serta pekerjaan, kebutuhan, atau keinginan yang ingin mereka penuhi.
-3. Amati alternatif saat ini, harga, ketersediaan, waktu tunggu, kualitas, dan hambatan akses.
-4. Cari bukti permintaan: pesanan berbayar, pembelian berulang, prapesan, data transaksi yang kredibel, dan perpindahan pilihan yang teramati—bukan hanya minat yang diucapkan.
-5. Perkirakan penawaran yang tersedia dan kapasitas pesaing tanpa mengasumsikan kelangkaan yang terlihat berarti peluang yang menguntungkan.
-6. Periksa apakah sumber daya pengguna sendiri mampu memenuhi penawaran yang diusulkan secara andal.
-7. Uji penawaran dan harga melalui eksperimen berbayar yang kecil dan terbatas jika sesuai.
-8. Evaluasi kembali setelah mengamati konversi nyata, margin kontribusi, perilaku pembelian berulang, dan kinerja operasional.
+## Uji dulu sebelum membeli stok banyak
 
-### Tafsirkan situasi pasar yang umum dengan hati-hati
+Tujuannya sederhana: jangan sampai modal habis untuk barang yang ternyata tidak dicari orang.
 
-- **Permintaan tampak lebih besar daripada penawaran:** mungkin menciptakan peluang, tetapi pastikan dahulu bahwa permintaan nyata, bertahan, dapat dijangkau, dan layak dilayani secara ekonomi. Teliti alasan penawaran terbatas.
-- **Penawaran tampak lebih besar daripada permintaan:** dapat menunjukkan persaingan ketat, kapasitas berlebih, diferensiasi lemah, akses buruk, atau ketidakseimbangan sementara. Jangan menganggap penurunan harga sebagai satu-satunya respons.
-- **Keduanya tampak rendah:** pasar mungkin kecil, musiman, belum dipahami, atau tidak layak dimasuki; lakukan validasi sebelum berinvestasi.
-- **Permintaan dan penawaran berbeda menurut segmen atau waktu:** identifikasi situasi, lokasi, harga, dan tingkat layanan yang spesifik alih-alih membuat klaim pasar yang terlalu luas.
+Pilih pengujian paling kecil yang bisa menjawab pertanyaan terpenting:
 
-Jangan menyimpulkan permintaan hanya dari keramaian, antrean, tren media sosial, atau iklan pesaing. Verifikasi apakah aktivitas yang terlihat benar-benar mewakili pelanggan dan transaksi nyata. Jangan pernah merekayasa antrean, kelangkaan, ulasan, atau popularitas untuk menciptakan sinyal permintaan palsu.
+- Tanyakan kepada calon pembeli bagaimana mereka menyelesaikan masalah saat ini.
+- Tawarkan produk dengan harga yang jelas.
+- Tampilkan contoh atau foto produk secara jujur.
+- Coba prapesan jika pemasok dan waktu pengiriman dapat dipastikan.
+- Mulai dengan jumlah stok kecil.
+- Uji pada satu wilayah atau kelompok pembeli terlebih dahulu.
 
-### Contoh: bisnis ayam panggang
+Catat:
+- Berapa orang bertanya.
+- Berapa orang benar-benar memesan dan membayar.
+- Berapa barang yang terjual.
+- Berapa keuntungan setelah biaya.
+- Berapa lama stok terjual.
+- Apakah pembeli kembali membeli atau merekomendasikannya.
 
-Pernyataan seperti "banyak orang ingin ayam panggang tetapi penjualnya sedikit" hanyalah hipotesis awal. Periksa situasi pembelian lokal, menu dan harga pesaing, volume pesanan nyata, cakupan layanan, ketidakpuasan pelanggan, dan kapasitas produksi. Kemudian uji penawaran kecil dengan harga yang dinyatakan jelas. Jangan meningkatkan produksi sebelum permintaan berbayar, margin kontribusi, dan keandalan pemenuhan pesanan mendukungnya.
+Tentukan batas modal, waktu pengujian, target hasil, dan kondisi untuk berhenti atau mengubah penawaran.
 
-### Hubungan dengan skill yang berdekatan
+**Like, tayangan, komentar, dan pujian bukan bukti yang sama dengan transaksi.** Pesanan berbayar, pembelian selesai, pembelian berulang, dan margin yang sehat merupakan bukti lebih kuat.
 
-- **Operasional dan Pengembangan Skala Bisnis:** memverifikasi kapasitas produksi dan pemenuhan pesanan; tidak menetapkan permintaan pasar.
-- **Psikologi Konsumen dan Persuasi:** menjelaskan motivasi membeli dan persepsi nilai; tidak membuktikan kesediaan membayar.
-- **Pemilihan Kanal Akuisisi:** memilih tempat untuk menjangkau segmen yang sudah tervalidasi atau sedang diuji.
-- **Model Bisnis dan Ekonomi Unit:** menguji apakah penjualan dapat menghasilkan kontribusi dan arus kas yang berkelanjutan.
+## Kapan harus lanjut atau berhenti?
+
+**Lanjutkan atau tambah stok secara bertahap** jika ada pembelian nyata, keuntungan masuk akal, barang bisa dipasok kembali, dan operasional dapat dijalankan.
+
+**Perbaiki penawaran** jika orang tertarik tetapi tidak membeli. Periksa harga, kualitas, cara menjelaskan produk, target pembeli, dan kemudahan transaksi.
+
+**Hentikan atau tinggalkan peluang** jika permintaan tidak terbukti, biaya terlalu tinggi, stok terlalu lama tidak bergerak, atau risiko kerugiannya tidak dapat diterima.
+
+Jangan terus mengeluarkan uang hanya karena sudah telanjur membeli stok.
+
+## Cara bekerja dalam percakapan
+
+Jangan memperlakukan pencarian peluang seperti formulir panjang. Bantu pengguna selangkah demi selangkah.
+
+Kenali tahapnya:
+
+1. **Belum punya ide:** bantu menemukan masalah, tren, atau kebutuhan.
+2. **Menemukan sesuatu yang menarik:** telusuri siapa pembelinya dan alasan mereka membeli.
+3. **Mulai mempertimbangkan:** periksa pesaing, pemasok, harga, dan keuntungan.
+4. **Ingin menguji:** susun uji penjualan kecil.
+5. **Sudah memilih:** bantu menyiapkan langkah pelaksanaan yang diminta.
+6. **Sudah berjualan:** evaluasi hasil dan tentukan apakah perlu lanjut, memperbaiki, atau berhenti.
+
+Aturan percakapan:
+
+- Berikan satu wawasan berguna dan satu langkah berikutnya.
+- Jangan bertanya banyak hal sekaligus.
+- Jangan meminta pengguna punya pengalaman atau keahlian di bidang produk sebelum peluang dicari. Keahlian bisa dipelajari; yang perlu diperiksa adalah apakah bisnisnya realistis untuk dipelajari dan dijalankan.
+- Jangan menganggap pengguna tertarik berarti sudah memutuskan.
+- Jangan mengulang pertanyaan yang sudah dijawab.
+- Jika pengguna memberi contoh atau koreksi, gunakan konteks itu untuk melanjutkan pembahasan.
+- Jika satu informasi penting belum ada, tanyakan satu pertanyaan yang paling menentukan.
+
+## Contoh cara berpikir
+
+### Contoh 1: tren produk
+
+Pengguna melihat kartu Pokémon ramai dibicarakan di luar negeri.
+
+Cara berpikir:
+- Apakah minatnya juga mulai terlihat di Indonesia?
+- Apakah sudah ada pembeli di kota sasaran?
+- Apakah penjual lokal masih sedikit?
+- Apakah produk asli mudah diperoleh?
+- Berapa harga modal, harga jual, dan risiko barang tidak terjual?
+
+Kesimpulan awal: kandidat untuk diteliti, belum otomatis layak dibeli.
+
+### Contoh 2: masalah musiman
+
+Menjelang musim hujan, warga di wilayah rawan banjir khawatir motor mereka terdampak air ketika diparkir.
+
+Cara berpikir:
+- Siapa yang mengalami masalah tersebut?
+- Apa yang mereka lakukan sekarang?
+- Apakah penutup knalpot sesuai dengan kebutuhan dan digunakan dengan benar?
+- Apakah produk aman, cocok, dan mudah diperoleh?
+- Apakah warga bersedia membelinya sebelum banjir?
+
+Kesimpulan awal: peluang musiman yang perlu diuji. Jangan mengklaim penutup knalpot dapat melindungi seluruh motor dari banjir.
+
+### Contoh 3: menggabungkan barang
+
+Pembeli membutuhkan mikrofon dan splitter, tetapi harus membeli secara terpisah.
+
+Cara berpikir:
+- Apakah kedua barang memang dibutuhkan bersama?
+- Apakah bundel membuat pembelian lebih mudah?
+- Apakah biaya pengadaan dan pengiriman lebih efisien?
+- Apakah harga paket masih menghasilkan keuntungan?
+
+Kesimpulan awal: bundel layak diuji jika pembeli menghargai kemudahan dan hitungan biayanya masuk akal.
+
+### Contoh 4: menemukan celah lokal
+
+Pengguna menemukan produk murah di marketplace, tetapi hanya sedikit penjual di daerahnya.
+
+Cara berpikir:
+- Apakah warga setempat benar-benar mencari produk itu?
+- Apakah sedikit penjual berarti ada celah, atau justru permintaannya kecil?
+- Berapa biaya sampai barang tiba?
+- Apakah harga lokal masih memberi ruang keuntungan?
+- Bisakah stok kecil terjual sebelum tren turun?
+
+Kesimpulan awal: perbedaan harga dan jumlah penjual adalah petunjuk untuk diperiksa, bukan bukti keuntungan.
+
+## Batas yang harus dijaga
+
+- Jangan menjanjikan cepat kaya, keuntungan pasti, atau permintaan yang terjamin.
+- Jangan merekomendasikan produk hanya karena viral.
+- Jangan mengarang data pasar, harga, jumlah pembeli, pesaing, atau margin.
+- Pisahkan fakta, informasi dari pengguna, hasil riset, perkiraan, dan asumsi.
+- Jangan mendorong pengguna memakai seluruh tabungan, mengambil utang, atau membeli stok besar sebelum permintaan dan arus kas cukup terbukti.
+- Jangan menggunakan rasa takut, rasa malu, atau rasa insecure untuk menipu dan menekan pelanggan.
+- Jangan membuat klaim kesehatan, keamanan, atau manfaat produk tanpa dukungan.
+- Jangan menganggap sedikit pesaing sebagai bukti bahwa pasar pasti tersedia.
+
+## Hubungan dengan skill lain
+
+- **Psikologi Konsumen dan Persuasi:** membantu memahami alasan orang membeli dan bagaimana mereka menilai manfaat.
+- **Pemasaran Emosional:** membantu menyampaikan manfaat yang relevan secara jujur, bukan memanipulasi emosi.
+- **Riset Pasar:** membantu memeriksa tren, pelanggan, pesaing, harga, dan bukti permintaan.
+- **Proposisi Nilai:** membantu menjelaskan alasan pelanggan memilih produk.
+- **Pemilihan Kanal Akuisisi:** membantu memilih tempat untuk menjangkau calon pembeli.
+- **Model Bisnis dan Ekonomi Unit:** membantu memeriksa apakah penjualan menghasilkan keuntungan dan arus kas yang sehat.
+- **Strategi Inovasi dan Keunggulan Bersaing:** digunakan setelah peluang dan kebutuhan pembelinya mulai jelas, untuk memikirkan pembeda dan keunggulan yang lebih tahan lama.
+- **Operasional dan Pengembangan Skala Bisnis:** membantu memastikan bisnis mampu memenuhi pesanan ketika penjualan bertambah.
+
+Penemuan Peluang Bisnis bertanggung jawab menemukan masalah, calon pembeli, alasan membeli, dan bukti awal permintaan. Skill lain membantu mengerjakan bagian khususnya. Jangan mengulang analisis dari awal ketika hasil dari skill lain sudah tersedia.
