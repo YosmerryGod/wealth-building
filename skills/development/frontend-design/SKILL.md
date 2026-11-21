@@ -1,178 +1,149 @@
 ---
 name: frontend-design
-description: "Use when a request needs product-grounded visual and frontend design direction."
-triggers:
-  - "desain web"
-  - "landing page"
-  - "tampilan app"
-  - "frontend"
-out_of_scope: "Platform-specific compliance or reference reverse engineering"
-escalation: "Hand off work involving Platform-specific compliance or reference reverse engineering to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+title: Desain Frontend
+category: development
+subcategory: product-design
+source_type: original-adaptation-from-anthropic-frontend-design
+language: Indonesian
+description: "Gunakan saat merancang arah visual dan pengalaman antarmuka website atau aplikasi berdasarkan kebutuhan produk."
+triggers: ["desain web","landing page","tampilan app","frontend","desain antarmuka"]
+out_of_scope: "Kepatuhan platform khusus, rekonstruksi referensi, dan implementasi fitur aplikasi secara menyeluruh"
+escalation: "Serahkan investigasi referensi, implementasi, QA, serta kepatuhan platform kepada pemilik skill terkait; gunakan Penilaian Risiko untuk risiko material."
 ---
 
-# Frontend Design
+# Desain Frontend
 
-## Purpose
+## Tujuan dan kepemilikan
 
-Approach frontend work as the design lead of a studio that gives every product a distinct visual identity. The goal is not to decorate a generic interface or reproduce a fashionable template. Make deliberate choices about visual direction, typography, layout, content, and interaction based on the actual product brief.
+Menentukan arah visual dan rancangan antarmuka yang khas, relevan dengan produk, mudah digunakan, responsif, dan dapat diterapkan. Skill ini menjadi pemilik keputusan desain visual dan spesifikasi frontend, bukan pemilik implementasi seluruh fitur, arsitektur backend, atau pengujian rilis.
 
-Use this skill when creating a new website or application interface, redesigning an existing frontend, or substantially reshaping its visual language. Combine it with engineering, UI audit, navigation, and micro-interaction skills when those concerns are in scope.
+Gunakan untuk membuat website/aplikasi baru atau merombak bahasa visual antarmuka yang sudah ada. Gabungkan dengan skill engineering, navigasi, audit UI, dan micro-interaction hanya jika cakupannya diperlukan.
 
-## 1. Ground the design in the product
+## 1. Pahami produk sebelum memilih gaya
 
-Before choosing colors or components, identify:
+Identifikasi:
+- **Produk dan domain:** apa yang dibuat dan istilah atau pola yang memang relevan.
+- **Pengguna:** siapa yang memakai, tingkat pemahaman, dan kebutuhan utamanya.
+- **Pekerjaan utama:** tugas yang harus paling mudah diselesaikan.
+- **Lingkungan:** desktop, mobile, tablet, kiosk, atau lintas perangkat.
+- **Batasan:** aset merek, stack, konten, aturan bisnis, aksesibilitas, dan preferensi yang sudah disetujui.
 
-- **Product and subject:** What is being designed, and what domain language, materials, conventions, or context belong to it?
-- **Audience:** Who will use it, what do they know, and what are they trying to accomplish?
-- **Primary job:** What is the most important task the interface must help users complete?
-- **Environment:** Desktop, mobile, tablet, kiosk, embedded view, or a combination?
-- **Constraints:** Existing brand assets, technical stack, accessibility requirements, content, business rules, and user preferences.
+Jika konteks penting belum tersedia, ajukan satu interpretasi konkret untuk dikonfirmasi sebelum mengunci arah desain. Gunakan konteks produk yang diketahui sebagai petunjuk, bukan alasan untuk mengarang fakta.
 
-If the brief omits essential context, propose one concrete interpretation and confirm it before committing to a visual direction. Use relevant known product context as a hint, not as permission to invent facts.
+Jangan menyamakan desain aplikasi komunikasi, POS, terminal trading, dan situs restoran hanya karena semuanya antarmuka web.
 
-Keep real product content in the design. A communication app, merchant POS, trading terminal, and restaurant website should not receive the same layout merely because they are all web interfaces.
+## 2. Tetapkan arah visual yang khas
 
-## 2. Establish a distinctive visual direction
+Buat rencana desain ringkas sebelum implementasi.
 
-Make a compact design plan before implementation.
+### Warna
+Tentukan palet inti 4–6 warna beserta kode hex dan perannya: latar, permukaan, teks utama, teks sekunder, aksen, serta status bila diperlukan. Periksa kontras. Jangan memilih warna hanya karena sedang tren.
 
-### Color
+### Tipografi
+Pilih satu atau dua keluarga font dengan peran jelas. Tetapkan skala ukuran, bobot, lebar, dan jarak. Hindari otomatis memakai font umum atau memberi aksen pada satu kata di setiap judul.
 
-Define a core palette of 4–6 named colors with hex values. Explain each role: background, surface, primary text, secondary text, accent, and status colors where needed. Check contrast and avoid choosing a palette solely because it is fashionable.
+### Tata letak
+Jelaskan komposisi, perataan, hierarki, dan alasan pemilihannya. Gunakan sketsa sederhana bila membantu. Biarkan alur tugas dan hubungan informasi menentukan struktur.
 
-### Typography
+### Ciri pembeda
+Tentukan satu gagasan visual yang mudah diingat beserta prinsip pendukungnya. Gunakan penekanan secara terarah; satu fokus kuat biasanya lebih efektif daripada banyak dekorasi yang saling bersaing.
 
-Choose one or two type families with clear roles. Define a deliberate type scale, weights, widths, and spacing. Treat display typography as part of the visual identity rather than neutral text delivery. Avoid defaulting automatically to familiar font families or accenting a single word in every headline.
+## 3. Jadikan struktur visual bermakna
 
-### Layout and alignment
+- Border dan outline menunjukkan kelompok atau batas yang nyata.
+- Divider memisahkan konteks atau bagian yang berkaitan.
+- Label menjelaskan status, kategori, kepemilikan, atau tindakan.
+- Nomor menunjukkan urutan atau proses yang benar-benar ada.
+- Spasi memperjelas hierarki dan hubungan.
+- Ikon memperkuat tindakan atau konsep yang dikenali.
 
-Describe the composition in plain language and, when useful, compare compact ASCII wireframes. State whether content should be left-aligned, centered, or organized in another way, and why. Let hierarchy and task flow determine the structure.
+Jangan menambahkan elemen untuk sekadar mengisi ruang. Hindari label kecil berulang, angka dekoratif, metadata tanpa fungsi, dan ornamen template generik.
 
-### Distinctive principles
+## 4. Rancang kesan pertama sesuai fungsi
 
-Name the one memorable visual idea and the supporting principles that make the interface specific to this product. Spend visual emphasis deliberately: one strong focal point is usually more effective than many competing decorations.
+Untuk halaman web, tentukan hal pertama yang perlu dipahami pengguna. Pembuka dapat berupa judul, gambar produk, demo langsung, interaksi, tugas utama, atau pendekatan lain yang paling mewakili nilai produk.
 
-## 3. Treat visual structure as information
+Jangan otomatis memakai judul besar di tengah, aksen gradasi, atau statistik berukuran besar. Untuk aplikasi kerja, utamakan tugas utama dan konteks kerja; jangan memaksakan hero pemasaran.
 
-Every structural device should communicate something:
+## 5. Gunakan gerak dan interaksi dengan tujuan
 
-- Borders and outlines define meaningful grouping or boundaries.
-- Dividers separate related areas or changes in context.
-- Labels clarify status, category, ownership, or action.
-- Numbering represents a real sequence, process, or ordered set.
-- Spacing expresses hierarchy and relationship.
-- Icons reinforce recognizable actions or concepts.
+Batasi animasi yang berjalan tanpa tindakan pengguna. Satu rangkaian entrance/reveal yang terarah biasanya lebih baik daripada animasi acak pada setiap bagian.
 
-Do not add these elements merely to fill empty space. Avoid repeated eyebrow labels, decorative numbers, arbitrary metadata, and generic template chrome.
+Animasi akibat tindakan pengguna berguna bila menjelaskan perubahan, misalnya panel terbuka, detail diperluas, penyimpanan berhasil, atau perpindahan konteks. Jangan menghalangi konten atau memperlambat tugas rutin.
 
-## 4. Choose the right first impression
+Untuk pola feedback terperinci, gunakan [Micro-Interactions & UI Feedback Design](../micro-interactions-and-ui-feedback/SKILL.md). Untuk navigasi, gunakan [Modern Web Navigation & Interaction Patterns](../modern-web-navigation-patterns/SKILL.md).
 
-For a web page, decide what users should understand first. The opening may be a headline, product image, live demonstration, interactive moment, key task, or another treatment that best represents the subject.
+## 6. Tulis konten antarmuka sebagai bagian desain
 
-Do not automatically use a large centered headline, gradient accent, or oversized statistic. Select the opening based on the product's actual value and audience.
+- Tulis dari sudut pandang pengguna akhir.
+- Gunakan nama yang sederhana dan spesifik, bukan istilah internal implementasi.
+- Utamakan kalimat aktif dan ringkas.
+- Pastikan setiap teks memiliki satu fungsi.
+- Jaga konsistensi nama tindakan dan konfirmasi.
+- Jelaskan error: apa yang terjadi dan cara memperbaikinya.
+- Jadikan empty state sebagai petunjuk tindakan berikutnya.
+- Sesuaikan nada dengan produk tanpa mengorbankan kejelasan.
 
-For application interfaces, prioritize the user's primary task and the most useful working context rather than forcing a marketing-style hero into a functional workspace.
+## 7. Uji rencana terhadap kebutuhan
 
-## 5. Design motion and interaction with intent
+Sebelum coding, periksa:
+1. Apakah palet, tipografi, tata letak, dan komponen ini akan sama jika produknya diganti dengan domain lain?
+2. Apakah ciri visual utama benar-benar terkait dengan produk?
+3. Apakah hierarki mendukung tugas utama?
+4. Apakah label, border, angka, dan dekorasi menyampaikan informasi?
+5. Adakah elemen yang hanya muncul karena kebiasaan desain generik AI?
 
-Use non-user-triggered motion sparingly. A single orchestrated entrance or reveal is usually more effective than scattered animations on every section or card.
+Perbaiki pilihan generik dan catat alasan perubahannya. Mulai implementasi setelah arah desain memiliki dasar yang jelas.
 
-Motion triggered by a user action is useful when it clarifies what changed, such as opening a panel, expanding details, confirming a save, or moving between states. Ensure motion does not obscure content or make routine tasks slower.
+## 8. Siapkan spesifikasi yang dapat dibangun
 
-For detailed interaction states and feedback patterns, consult [Micro-Interactions & UI Feedback Design](../micro-interactions-and-ui-feedback/SKILL.md). For navigation patterns, consult [Modern Web Navigation & Interaction Patterns](../modern-web-navigation-patterns/SKILL.md).
+- Ikuti framework, konvensi komponen, dan arsitektur proyek yang ada.
+- Gunakan komponen ulang untuk konsistensi, bukan memaksa semua bagian menjadi kartu seragam.
+- Pisahkan token desain dari kode komponen.
+- Tetapkan peran token warna, skala tipografi dan spasi, breakpoint, aturan layout, varian komponen, serta state interaksi.
+- Gunakan HTML semantik dan pola interaksi yang aksesibel.
+- Pertahankan fungsi serta konten produk yang nyata.
+- Hindari dependensi dan efek dekoratif yang menambah kompleksitas tanpa manfaat.
 
-## 6. Write interface content as part of the design
+## 9. Kritik hasil implementasi
 
-Words should make the interface easier to understand and use, not act as decoration.
+Jika lingkungan mendukung screenshot, periksa hasil render aktual, bukan hanya source code. Nilai:
+- kekhasan produk dan arah visual;
+- hierarki, tipografi, perataan, spasi, dan kejelasan konten;
+- konsistensi tanpa pengulangan monoton;
+- penyelesaian tugas dan state fungsional;
+- responsivitas hingga mobile;
+- fokus keyboard dan kemudahan penggunaan keyboard;
+- kontras serta keterbacaan;
+- preferensi reduced motion;
+- state loading, kosong, error, sukses, dan disabled.
 
-- Write from the end user's perspective.
-- Use simple, specific names rather than internal implementation terms.
-- Prefer active voice and concise sentence-case copy.
-- Make each text element perform one clear job.
-- Keep action names consistent throughout a flow: a button labeled "Save changes" should lead to a confirmation such as "Changes saved."
-- Explain errors by stating what happened and how the user can fix it.
-- Treat empty states as useful invitations to take the next action.
-- Match the product's tone and audience without sacrificing clarity.
+Hapus setidaknya satu elemen visual yang tidak membantu pemahaman, identitas, atau penyelesaian tugas. Catat isu yang belum diperiksa; jangan mengklaim QA selesai bila antarmuka belum dirender atau diuji.
 
-## 7. Review the plan against the brief
+## 10. Alur kerja
 
-Before coding, challenge the design plan:
+1. **Temukan konteks:** produk, pengguna, tugas utama, lingkungan, dan batasan.
+2. **Rencanakan:** palet, tipografi, tata letak, hierarki, dan ciri pembeda.
+3. **Bandingkan:** buat alternatif bila arah belum jelas.
+4. **Tinjau:** tantang pilihan generik dan revisi.
+5. **Serahkan untuk implementasi:** berikan spesifikasi yang disetujui kepada engineering.
+6. **Inspeksi:** periksa screenshot atau antarmuka aktual.
+7. **Kritik:** nilai kegunaan, responsivitas, aksesibilitas, dan state.
+8. **Perbaiki:** prioritaskan masalah berdampak tinggi.
 
-1. Would this same palette, type, layout, and component style appear if the product brief were replaced with an unrelated product?
-2. Is the memorable visual idea genuinely connected to the subject?
-3. Does the hierarchy support the user's primary task?
-4. Are labels, borders, numbers, and decorative elements carrying information?
-5. Is any element present only because it is a common AI-generated design habit?
+## Hubungan dan batas skill
 
-Revise generic choices and record what changed and why. Build only after the direction has a clear reason to exist for this product.
+- **Rekayasa Balik dan Rekonstruksi Berbasis Referensi:** mengumpulkan bukti dari produk referensi sebelum desain baru ditentukan.
+- **AI Interface Design & Unslop Engineering:** mengaudit kekhasan produk dan pola UI generik.
+- **Apple Platform Design & HIG Review:** meninjau konvensi platform Apple.
+- **Micro-Interactions & UI Feedback Design:** merancang state feedback dan gerak.
+- **Modern Web Navigation & Interaction Patterns:** merancang navigasi global.
+- **Professional Logo & Brand Identity:** membuat identitas merek; Desain Frontend menerapkannya pada antarmuka.
+- **Rekayasa Aplikasi Full-Stack:** mengimplementasikan fitur berdasarkan spesifikasi yang disetujui.
+- **Software Testing & Quality Assurance:** memverifikasi fungsi dan regresi.
 
-## 8. Build carefully
+Desain Frontend memiliki keputusan arah visual dan spesifikasi antarmuka. Ia tidak mengambil alih investigasi referensi, arsitektur sistem, implementasi fitur, QA, atau keputusan rilis.
 
-Translate the approved plan into maintainable frontend code.
+## Sumber dan adaptasi
 
-- Respect the existing framework, component conventions, and project architecture.
-- Use reusable components where they improve consistency, not to force every section into an identical card.
-- Keep CSS selectors and specificity deliberate; avoid rules that unexpectedly cancel one another.
-- Use semantic HTML and accessible interaction patterns.
-- Preserve the product's real functionality and content requirements.
-- Avoid unnecessary dependencies and decorative effects that increase complexity without improving the experience.
-
-This skill defines design reasoning; it does not replace frontend engineering, security, data modeling, or application testing.
-
-## 9. Critique the implementation
-
-Review the built interface against the original brief and plan. If the environment supports screenshots, inspect the actual rendered result rather than relying only on source code.
-
-Evaluate:
-
-- Product specificity and visual distinctiveness.
-- Visual hierarchy, typography, alignment, spacing, and content clarity.
-- Consistency without monotonous repetition.
-- Primary task completion and functional states.
-- Responsive behavior down to mobile.
-- Visible keyboard focus and keyboard usability.
-- Color contrast and readable text.
-- Reduced-motion preferences.
-- Loading, empty, error, success, and disabled states where relevant.
-
-Remove at least one unnecessary visual element during critique when it does not contribute to understanding, identity, or task completion. Record remaining issues rather than claiming a complete review when the interface has not been rendered or tested.
-
-## 10. Practical workflow
-
-1. **Discover:** Understand the product, audience, primary task, environment, and constraints.
-2. **Plan:** Define the palette, typography, layout, alignment, and distinctive principles.
-3. **Compare:** Sketch alternatives when the direction is uncertain.
-4. **Review:** Challenge generic choices against the actual brief and revise them.
-5. **Build:** Implement the approved design using the existing stack and maintainable components.
-6. **Inspect:** Review rendered screenshots or the live interface when available.
-7. **Critique:** Test hierarchy, usability, responsiveness, accessibility, and functional states.
-8. **Refine:** Remove unnecessary decoration and correct the highest-impact issues.
-
-## 11. Relationship to other Development skills
-
-- **[Reverse Engineering & Reference-Based Reconstruction](../reverse-engineering-and-reference-based-reconstruction/SKILL.md):** investigates reference products and extracts evidence-backed patterns before this skill establishes the new product's distinct visual direction.
-- [AI Interface Design & Unslop Engineering](../ai-interface-design-and-unslop-engineering/SKILL.md) provides a broader UI audit and quality-review framework. Use Frontend Design to establish the visual direction and design plan; use the audit skill to inspect and improve the resulting interface.
-- [Micro-Interactions & UI Feedback Design](../micro-interactions-and-ui-feedback/SKILL.md) provides detailed interaction-state and feedback patterns.
-- [Modern Web Navigation & Interaction Patterns](../modern-web-navigation-patterns/SKILL.md) provides navigation structures and interaction models.
-- [Professional Logo & Brand Identity](../professional-logo-and-brand-identity/SKILL.md) covers logo and identity-system development. Frontend Design applies the approved identity to a usable interface.
-
-## Source and adaptation
-
-This skill is an original operational synthesis adapted from Anthropic's **Frontend Design** skill:
-
-- Source: https://github.com/anthropics/skills/tree/main/skills/frontend-design
-- Original author/publisher: Anthropic
-- Source license: Apache License 2.0
-- The source's design principles and workflow have been reorganized and rewritten for the Wealth Building repository. Additional implementation, review, and cross-skill routing guidance is repository-specific synthesis.
-- The Apache License 2.0 text is retained in this directory as required for redistribution.
-
-## Ownership and routing boundary
-
-Follow [Skill Boundary & Routing Governance](../../../orchestrator/skill-boundary-governance/SKILL.md). Frontend Design owns product-grounded visual direction and the overall interface design brief. AI Interface Design audits product specificity and generic-pattern quality; Apple HIG Review owns Apple-platform convention review; Modern Web Navigation owns navigation patterns; Micro-Interactions owns interaction feedback; Reverse Engineering owns evidence gathered from supplied references; Professional Logo owns brand identity assets. Invoke those specialists only when their scope is present, and do not treat their audits as replacements for frontend implementation or testing.
-
-
-## Design-system handoff for application delivery
-
-For multi-screen products, make visual direction implementable and testable: semantic design-token roles, typography and spacing scales, layout/breakpoint rules, component variants, interaction states, focus behavior, responsive rules, and examples of use. Keep tokens separate from component code so identity can evolve without rewriting every component.
-
-When adapting a reference, retain general usability principles but create distinct brand expression, copy, assets, and visual composition. Screenshot similarity is not the definition of design quality. Coordinate with Application Architecture Planning for technical constraints and Full-Stack Application Engineering for implementation.
+Sintesis operasional ini diadaptasi dan ditulis ulang dari skill **Frontend Design** milik Anthropic: https://github.com/anthropics/skills/tree/main/skills/frontend-design. Sumber berlisensi Apache License 2.0; atribusi dan lisensi dipertahankan dalam direktori ini. Panduan implementasi, review, dan routing tambahan merupakan sintesis khusus repositori.
