@@ -124,7 +124,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 
 | Skill | Owns | Triggers | Path |
 |---|---|---|---|
-| AI Powered Voice Of Customer Intelligence | aggregated review analysis, recurring issue trends, prioritization, improvement measurement | analisis ulasan pelanggan, analisis banyak review, voice of customer, pola keluhan | [SKILL.md](skills/marketing/ai-powered-voice-of-customer-intelligence/SKILL.md) |
+| Kecerdasan Suara Pelanggan Berbasis AI | analisis ulasan agregat, tren masalah berulang, penentuan prioritas, pengukuran perbaikan | analisis ulasan pelanggan, analisis banyak ulasan, suara pelanggan, pola keluhan | [SKILL.md](skills/marketing/kecerdasan-suara-pelanggan-berbasis-ai/SKILL.md) |
 | Brand Awareness And Brand Activation | brand memory, positioning, customer-perception consistency, awareness objective, activation experience | brand awareness, dikenal orang, branding, citra merek, persepsi merek | [SKILL.md](skills/marketing/brand-awareness-and-brand-activation/SKILL.md) |
 | Brand Communication And Public Relations | brand narrative, public messaging, reputation communication | citra brand, media, krisis reputasi, PR | [SKILL.md](skills/marketing/brand-communication-and-public-relations/SKILL.md) |
 | Consumer Psychology And Persuasion | buyer decision variables, value perception, ethical persuasion | psikologi pembeli, harga psikologis, kenapa orang beli, scarcity | [SKILL.md](skills/marketing/consumer-psychology-and-persuasion/SKILL.md) |
