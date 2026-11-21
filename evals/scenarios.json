@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "id",
-  "purpose": "Regression scenarios for routing, continuity, ownership, clarification, and risk assessment.",
+  "purpose": "Skenario regresi untuk pengujian perutean, kesinambungan konteks, kepemilikan skill, klarifikasi, dan penilaian risiko.",
   "scenarios": [
     {
       "pesan": "Saya ingin mulai usaha kecil dari nol, tapi belum tahu peluang yang cocok.",
