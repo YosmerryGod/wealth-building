@@ -70,4 +70,4 @@ Periksa aplikasi, sumber data, routing, dan kontrak paginasi. Jangan menambah po
 
 ## Hubungan dan batas
 
-Pola Navigasi Web Modern memiliki navigasi antarbagian; Desain Frontend memiliki arah visual; Micro-Interactions memiliki feedback; AI Interface Design mengaudit kompleksitas dekoratif; Rekayasa Balik memiliki bukti referensi. Skill ini memiliki pemilihan pola dan perilaku navigasi halaman dalam koleksi, bukan query backend atau implementasi umum.
+Navigasi Web Modern memiliki navigasi antarbagian; Desain Frontend memiliki arah visual; Micro-Interactions memiliki feedback; AI Interface Design mengaudit kompleksitas; Rekayasa Balik memiliki bukti referensi. Skill ini memiliki pola dan perilaku paginasi, bukan query backend atau engineering umum.
