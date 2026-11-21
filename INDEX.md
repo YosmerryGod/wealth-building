@@ -35,13 +35,13 @@ Dihasilkan dari `skills.json` dan diperiksa terhadap struktur berkas repositori.
 
 | Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Mesin Keputusan Komunikasi | memilih cara komunikasi, kanal, dan spesialis yang sesuai | presentasi, negosiasi, komunikasi, pesan penting | [SKILL.md](skills/communication/communication-decision-engine/SKILL.md) |
-| Mendengarkan Aktif dan Membangun Keakraban Percakapan | perilaku mendengarkan dan membangun hubungan timbal balik dalam percakapan | mendengarkan, ngobrol nyambung, membangun keakraban | [SKILL.md](skills/communication/active-listening-and-conversational-rapport/SKILL.md) |
-| Komunikasi Efektif dan Kesan Pertama | komunikasi awal yang jelas dan pembentukan kesan pertama | kesan pertama, perkenalan, komunikasi awal | [SKILL.md](skills/communication/effective-communication-and-first-impressions/SKILL.md) |
-| Perancangan Pesan dan Penceritaan | struktur pesan, narasi, dan pemahaman audiens | cerita, penceritaan, susun pesan, struktur penjelasan | [SKILL.md](skills/communication/message-design-and-storytelling/SKILL.md) |
-| Komunikasi Persuasif dan Negosiasi | persuasi etis, penanganan keberatan, dan tawar-menawar | negosiasi, tawar, yakinkan, keberatan | [SKILL.md](skills/communication/persuasive-communication-and-negotiation/SKILL.md) |
-| Berbicara di Depan Umum dan Kepercayaan Diri | persiapan, latihan, dan penyampaian saat berbicara langsung | pidato, bicara di depan, grogi, berbicara di depan umum | [SKILL.md](skills/communication/public-speaking-and-speaking-confidence/SKILL.md) |
-| Penyampaian Vokal dan Nonverbal | suara, gestur, postur, dan isyarat penyampaian | intonasi, bahasa tubuh, suara, gestur | [SKILL.md](skills/communication/vocal-and-nonverbal-delivery/SKILL.md) |
+| Mesin Keputusan Komunikasi | memilih cara komunikasi, kanal, dan spesialis yang sesuai | presentasi, negosiasi, komunikasi, pesan penting | [SKILL.md](skills/komunikasi/mesin-keputusan-komunikasi/SKILL.md) |
+| Mendengarkan Aktif dan Membangun Keakraban Percakapan | perilaku mendengarkan dan membangun hubungan timbal balik dalam percakapan | mendengarkan, ngobrol nyambung, membangun keakraban | [SKILL.md](skills/komunikasi/mendengarkan-aktif-dan-membangun-keakraban/SKILL.md) |
+| Komunikasi Efektif dan Kesan Pertama | komunikasi awal yang jelas dan pembentukan kesan pertama | kesan pertama, perkenalan, komunikasi awal | [SKILL.md](skills/komunikasi/komunikasi-efektif-dan-kesan-pertama/SKILL.md) |
+| Perancangan Pesan dan Penceritaan | struktur pesan, narasi, dan pemahaman audiens | cerita, penceritaan, susun pesan, struktur penjelasan | [SKILL.md](skills/komunikasi/perancangan-pesan-dan-penceritaan/SKILL.md) |
+| Komunikasi Persuasif dan Negosiasi | persuasi etis, penanganan keberatan, dan tawar-menawar | negosiasi, tawar, yakinkan, keberatan | [SKILL.md](skills/komunikasi/komunikasi-persuasif-dan-negosiasi/SKILL.md) |
+| Berbicara di Depan Umum dan Kepercayaan Diri | persiapan, latihan, dan penyampaian saat berbicara langsung | pidato, bicara di depan, grogi, berbicara di depan umum | [SKILL.md](skills/komunikasi/berbicara-di-depan-umum-dan-kepercayaan-diri/SKILL.md) |
+| Penyampaian Vokal dan Nonverbal | suara, gestur, postur, dan isyarat penyampaian | intonasi, bahasa tubuh, suara, gestur | [SKILL.md](skills/komunikasi/penyampaian-vokal-dan-nonverbal/SKILL.md) |
 
 ## Pembuatan Konten
 
