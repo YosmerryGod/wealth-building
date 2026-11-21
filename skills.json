@@ -2,7 +2,7 @@
   "_meta": {
     "purpose": "Machine-readable skill index for the runtime router. Load this file every message; load a SKILL.md only when selected.",
     "generated_from": "orchestrator/skill-boundary-governance/SKILL.md (ownership registry) and the actual folder tree",
-    "generated_on": "2026-11-20",
+    "generated_on": "2026-11-22",
     "note": "'owns' paraphrases the governance registry. 'triggers' are routing hints, not proof that a skill must load. Governance remains authoritative; skill files remain authoritative for methods. Only contextual-understanding is always-on so the three-skill cap still leaves room for a lead owner and supporting evidence.",
     "always_on": [
       "contextual-understanding"
@@ -71,6 +71,23 @@
         "UI terlihat generik",
         "audit tampilan",
         "unslop"
+      ]
+    },
+    {
+      "id": "ai-powered-voice-of-customer-intelligence",
+      "domain": "marketing",
+      "path": "skills/marketing/ai-powered-voice-of-customer-intelligence/SKILL.md",
+      "owns": "aggregated customer-feedback analysis, issue frequency/trends, experience-problem prioritization, and improvement measurement",
+      "triggers": [
+        "analisis ulasan pelanggan",
+        "analisis banyak review",
+        "voice of customer",
+        "customer feedback analytics",
+        "keluhan paling sering",
+        "pola keluhan",
+        "sentiment review",
+        "feedback pelanggan",
+        "kenapa pelanggan tidak kembali"
       ]
     },
     {
