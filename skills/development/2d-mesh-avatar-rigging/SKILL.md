@@ -1,57 +1,54 @@
 ---
 name: 2d-mesh-avatar-rigging
-description: "Use when a request needs 2D mesh avatar rig preparation and quality."
-triggers:
-  - "avatar 2d"
-  - "rigging"
-  - "vtuber"
-out_of_scope: "General brand illustration or frontend architecture"
-escalation: "Hand off work involving General brand illustration or frontend architecture to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+title: Rigging Avatar Mesh 2D
+category: development
+subcategory: 2d-avatar-animation
+source_type: original-adaptation-from-mesh-avatar-studio
+language: Indonesian
+description: "Gunakan saat menyiapkan ilustrasi menjadi avatar 2D ber-mesh yang dapat dianimasikan dan diperiksa mutunya."
+triggers: ["avatar 2d","rigging","vtuber"]
+out_of_scope: "Ilustrasi merek umum atau arsitektur frontend"
+escalation: "Serahkan ilustrasi merek umum atau arsitektur frontend kepada skill pemiliknya; gunakan Penilaian Risiko untuk konsekuensi penting dan minta persetujuan sebelum tindakan eksternal atau yang sulit dibatalkan."
 ---
 
-# 2D Mesh Avatar Rigging
+# Rigging Avatar Mesh 2D
 
-## Purpose
+## Tujuan
+Membantu agen coding menyiapkan ilustrasi sebagai avatar 2D animasi, lalu menyerahkan proyek ke editor lokal untuk penyempurnaan dan ekspor.
 
-Help a coding agent prepare an illustration as an animated 2D avatar, then hand the project to a local editor for refinement and export.
+## Persyaratan input
+- Utamakan ilustrasi menghadap depan dengan tampilan kepala dan bahu serta fitur wajah yang jelas.
+- PNG transparan mempermudah pemisahan bagian.
+- Sudut tiga perempat, wajah tertutup, rambut bertumpuk, tangan di depan wajah, dan aksesori kompleks meningkatkan kesulitan rekonstruksi.
+- Pertahankan gambar sumber secara lokal kecuali pengguna secara eksplisit menyetujui pengiriman ke layanan gambar eksternal.
 
-## Input requirements
+## Alur kerja
 
-- Prefer a front-facing, head-and-shoulders illustration with clear facial features.
-- Transparent PNG backgrounds simplify segmentation.
-- Three-quarter views, occluded faces, overlapping hair, hands across the face, and complex accessories increase reconstruction difficulty.
-- Preserve the source image locally unless the user explicitly approves sending it to an external image service.
+1. Periksa dimensi gambar, transparansi, pose, keterlihatan wajah, dan tantangan segmentasi.
+2. Buat struktur proyek yang memisahkan gambar sumber dan berkas kerja hasil pemrosesan.
+3. Petakan landmark wajah dan tubuh; kalibrasi ketepatan pembacaan koordinat sebelum rigging rinci.
+4. Tentukan bagian yang dapat diedit serta titik kontrol untuk wajah, mata, mulut, rambut, sanggul, aksesori, dan bagian tubuh opsional.
+5. Pisahkan ilustrasi menjadi layer dengan mempertahankan bagian yang saling menutupi dan urutan kedalamannya.
+6. Bangun rig mesh dengan area deformasi dan parameter gerak yang sesuai.
+7. Pratinjau pose tetap: menoleh, memiringkan kepala, berkedip, bernapas saat diam, mengayunkan rambut, dan menggerakkan mulut.
+8. Perbaiki distorsi dan bangun ulang layer bila kontur atau mask sumber berubah.
+9. Tambahkan variasi gambar seperti mata tertutup, bentuk mulut vokal, dan ekspresi jika benar-benar meningkatkan animasi.
+10. Ekspor paket avatar portabel serta dokumentasikan asal gambar dan ketentuan penggunaan aset.
 
-## Workflow
+## Pemeriksaan mutu
+- Fitur wajah tetap sejajar saat kepala bergerak.
+- Rambut dan aksesori tidak terlepas atau berubah bentuk secara tidak wajar.
+- Kedipan menutup dan membuka kembali tanpa getaran.
+- Bentuk bibir untuk sinkronisasi ucapan tetap terbaca.
+- Gerakan idle halus dan tidak mengganggu.
+- Avatar bekerja pada player, lingkungan streaming, atau aplikasi tujuan.
 
-1. Inspect image dimensions, transparency, pose, facial visibility, and likely segmentation challenges.
-2. Create a project structure that preserves the source image and generated working files.
-3. Map facial and body landmarks; calibrate coordinate-reading accuracy before detailed rigging.
-4. Define editable parts and control points for face, eyes, mouth, hair, buns, accessories, and optional body regions.
-5. Separate the illustration into layers while preserving overlaps and occlusion.
-6. Build a mesh rig with suitable deformation regions and motion parameters.
-7. Preview fixed poses: head turns, tilts, blinking, idle breathing, hair sway, and mouth movement.
-8. Correct distortions and rebuild layers when source outlines or masks change.
-9. Add drawn variants such as closed eyes, vowel mouths, and expressions when they materially improve animation.
-10. Export a portable avatar package and document the source-image and asset terms.
+## Pertimbangan teknis
+- Cocokkan kebutuhan Node.js, Python, pemrosesan gambar, dan rendering browser dengan dokumentasi proyek terkini.
+- Jalankan perintah diagnostik proyek sebelum proses generasi.
+- Gunakan kalibrasi visual dan pemeriksaan pose tetap; jangan mengandalkan perkiraan koordinat tanpa verifikasi.
+- Susun layer, mask, data rig, dan gambar sumber agar terorganisasi serta dapat direproduksi.
+- Pemrosesan kamera dan mikrofon harus transparan; jelaskan data yang tetap lokal dan yang dikirim keluar.
 
-## Quality review
-
-- Facial features remain aligned during head movement.
-- Hair and accessories do not detach or deform unnaturally.
-- Blinks close cleanly and reopen without jitter.
-- Lip-sync shapes remain readable.
-- Idle motion is subtle and does not distract.
-- The avatar works in the intended player, streaming, or application environment.
-
-## Technical considerations
-
-- Check required Node.js, Python, image-processing, and browser-rendering dependencies against the current project documentation.
-- Run the project's diagnostic commands before generation.
-- Use visual calibration and fixed-pose reviews rather than trusting coordinate estimates blindly.
-- Keep generated layers, masks, rig data, and source images organized and reproducible.
-- Camera and microphone processing should be transparent to the user; document what stays local and what is transmitted.
-
-## Source and attribution
-
-Original knowledge synthesis based on [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio), licensed MIT. Its sample character Miko is explicitly excluded from the repository's MIT license and has separate usage terms. Do not reuse or redistribute that character as a generic MIT asset.
+## Sumber dan atribusi
+Sintesis pengetahuan orisinal berdasarkan alur kerja [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio), berlisensi MIT. Karakter contoh Miko secara eksplisit tidak termasuk lisensi MIT repositori tersebut dan memiliki ketentuan penggunaan tersendiri. Jangan menggunakan ulang atau mendistribusikan karakter itu seolah aset MIT umum.
