@@ -3,7 +3,7 @@ name: getok-tular-dan-advokasi-merek
 title: Getok Tular dan Advokasi Merek
 category: marketing
 source_type: sintesis-operasional-terinspirasi-buku
-source: "150 Brand Awareness Ideas" karya Akmal Musyadat Cholil; disusun dari deskripsi bibliografi dan informasi topik yang tersedia, bukan telaah teks lengkap
+source: "150 Brand Awareness Ideas" karya Akmal Musyadat Cholil; sintesis dari deskripsi yang tersedia, bukan telaah teks lengkap
 language: Indonesian
 description: "Membangun rekomendasi organik, rujukan pelanggan, dan reputasi dari pengalaman nyata."
 triggers:
@@ -21,7 +21,7 @@ escalation: "Serahkan influencer berbayar kepada skill Influencer dan pemulihan 
 
 ## Tujuan dan konsep
 
-Membantu bisnis memperoleh serta memahami rekomendasi pelanggan melalui pengalaman yang layak dibicarakan, layanan tepercaya, dan cara berbagi yang mudah serta sukarela.
+Membangun rekomendasi pelanggan melalui pengalaman yang layak dibicarakan, layanan tepercaya, dan cara berbagi sukarela.
 
 - **Getok tular (WOM):** informasi atau pendapat tentang produk/merek yang dibagikan antarmanusia.
 - **Getok tular elektronik (eWOM):** opini dan rekomendasi melalui ulasan, komentar, forum, serta platform digital.
@@ -29,11 +29,11 @@ Membantu bisnis memperoleh serta memahami rekomendasi pelanggan melalui pengalam
 - **Rujukan (referral):** pengenalan calon pelanggan yang dapat dilacak dari pelanggan atau mitra.
 - **Konten buatan pengguna (UGC):** konten komunitas tentang pengalaman nyata.
 
-Rekomendasi dapat positif, netral, atau negatif. Pelajari semuanya; jangan berusaha mengendalikan setiap percakapan.
+Pelajari rekomendasi positif, netral, maupun negatif; jangan mengendalikan percakapan.
 
 ## Mengapa pelanggan merekomendasikan
 
-Pemicu yang mungkin: mutu dan konsistensi produk, pengalaman berkesan, kepercayaan, rasa memiliki, kemudahan, pemulihan layanan, cerita yang mudah dibagikan, serta insentif yang transparan. Jangan menganggap semua pelanggan ingin membuat konten atau merekomendasikan bisnis. Partisipasi harus sukarela.
+Pemicu: mutu konsisten, pengalaman berkesan, kepercayaan, rasa memiliki, kemudahan, pemulihan layanan, cerita menarik, dan insentif transparan. Partisipasi pelanggan harus sukarela.
 
 ## Membangun pengalaman yang layak direkomendasikan
 
@@ -44,13 +44,13 @@ Pemicu yang mungkin: mutu dan konsistensi produk, pengalaman berkesan, kepercaya
 5. Kenali pengalaman bernilai yang memang ingin dibagikan pelanggan.
 6. Permudah berbagi tanpa tekanan.
 
-Program referral tidak dapat menutupi mutu produk yang buruk atau pemenuhan pesanan yang tidak konsisten.
+Referral tidak menutupi mutu produk atau pemenuhan pesanan yang buruk.
 
 ## Mekanisme advokasi
 
-Pilih sesuai perilaku pelanggan: tautan/kode rujukan, cerita pelanggan dengan izin, ulasan asli, komunitas, apresiasi loyalitas, program ajak teman, konten buatan pelanggan, atau pesan tindak lanjut yang mengundang masukan jujur.
+Mekanisme: kode rujukan, cerita berizin, ulasan asli, komunitas, apresiasi loyalitas, ajak teman, UGC, atau pesan yang mengundang masukan jujur.
 
-Jelaskan syarat, nilai hadiah, masa berlaku, batas, dan cara penukaran. Jangan membeli ulasan positif tersembunyi atau mengaitkan manfaat dengan rating baik.
+Ungkapkan syarat, hadiah, masa berlaku, batas, dan penukaran. Jangan membeli ulasan positif tersembunyi atau mengaitkan manfaat dengan rating.
 
 ## Menangani getok tular negatif
 
@@ -60,11 +60,11 @@ Jelaskan syarat, nilai hadiah, masa berlaku, batas, dan cara penukaran. Jangan m
 - Perbaiki penyebab operasional yang berulang.
 - Lindungi data pribadi; jangan mengancam atau memanipulasi pelanggan agar menghapus kritik jujur.
 
-Respons bertanggung jawab menunjukkan akuntabilitas, tetapi tidak menjamin pelanggan mengubah pendapat.
+Respons bertanggung jawab menunjukkan akuntabilitas, bukan jaminan perubahan pendapat.
 
 ## Pengukuran
 
-Pantau sumber rujukan, pertanyaan dari pelanggan rujukan, konversi menjadi pembelian, pembelian berulang, jumlah dan sebaran rating, tema ulasan, konten pelanggan beserta izinnya, sumber informasi pelanggan baru, serta biaya dan kontribusi insentif. Pisahkan rekomendasi organik dari referral berinsentif. Jangan menghitung unggahan sebagai pelanggan baru sebelum hasilnya terverifikasi.
+Pantau sumber dan konversi rujukan, pembelian berulang, jumlah/sebaran rating, tema ulasan, UGC dan izinnya, sumber pelanggan baru, serta biaya insentif. Pisahkan rekomendasi organik dari referral berinsentif. Jangan menghitung unggahan sebagai pelanggan baru tanpa verifikasi.
 
 ## Alur kerja
 
@@ -90,4 +90,4 @@ Gunakan [Pemulihan Layanan, Pemasaran, dan Pembangunan Kepercayaan](../pemulihan
 
 ## Dasar sumber dan batasan
 
-Topik getok tular diasosiasikan dengan *150 Brand Awareness Ideas* karya Akmal Musyadat Cholil berdasarkan deskripsi yang tersedia; teks lengkap belum ditelaah. Dokumen ini adalah kerangka praktis orisinal dan tidak mengklaim semua mekanisme atau metrik tercantum dalam buku.
+Getok tular termasuk topik yang diasosiasikan dengan *150 Brand Awareness Ideas* karya Akmal Musyadat Cholil. Teks lengkap belum ditelaah; kerangka ini orisinal.
