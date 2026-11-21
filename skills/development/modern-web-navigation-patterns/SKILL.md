@@ -21,47 +21,14 @@ Skill ini memiliki navigasi antarbagian dan tujuan produk. Perpindahan halaman d
 
 ## Pola dari sumber video
 
-### 1. Floating Pill Navigation
-Kelompok tautan ringkas dalam wadah berbentuk pil, dapat mengambang atau berada di header.
-- Cocok untuk landing page dengan sedikit tujuan utama.
-- Batasi tujuan, bedakan item aktif, sediakan area sentuh cukup, dan jangan menutupi konten.
-- Pada layar kecil, tentukan apakah navigasi membungkus, digulir, diringkas, atau diganti.
-- Hindari jika tujuan banyak, hierarki dalam, atau elemen menghalangi tugas.
+1. **Floating Pill Navigation:** tautan utama dalam wadah pil; cocok untuk website dengan sedikit tujuan. Bedakan state aktif, jaga area sentuh, dan pastikan tidak menutupi konten. Pada mobile, tentukan wrap, scroll, collapse, atau pengganti.
+2. **Bottom Tab Bar:** navigasi bawah untuk bagian utama aplikasi mobile. Batasi tab, gunakan label/ikon jelas, hormati safe area, dan jangan menutupi konten atau aksi.
+3. **Command Palette (Ctrl+K/Cmd+K):** pencarian tujuan/aksi berbasis keyboard untuk dashboard kompleks. Sediakan pemicu visual, kelompok hasil, dukung panah/Enter/Escape, fokus, loading/kosong, dan izin pengguna.
+4. **Radial Sidebar:** tujuan melingkar untuk portofolio/landing kreatif dengan pilihan sedikit. Beri label, urutan fokus, target sentuh, serta fallback konvensional. Hindari dashboard padat.
+5. **Vertical Typography:** label vertikal untuk editorial/portofolio. Jaga keterbacaan, urutan baca/fokus, dan fallback horizontal di layar sempit.
+6. **Scroll Progress:** penanda bagian pada halaman panjang. Hubungkan ke section nyata, tampilkan posisi aktif, dukung anchor, header sticky, deep link, dan alternatif mobile.
 
-### 2. Bottom Tab Bar
-Navigasi di bagian bawah untuk berpindah antarbagian utama.
-- Cocok untuk aplikasi mobile dengan sedikit bagian yang sering dipakai.
-- Gunakan hanya untuk tujuan tingkat atas; ikon dan label harus mudah dikenali.
-- Perhitungkan safe area dan ruang konten agar bar tidak menutupi form atau tombol.
-- Hindari terlalu banyak tab atau konflik dengan kontrol sistem.
-
-### 3. Command Palette (Ctrl+K)
-Antarmuka pencarian/perintah berbasis keyboard, umumnya Ctrl+K atau Cmd+K.
-- Cocok untuk dashboard kompleks, alat admin, developer, dan produktivitas.
-- Sediakan cara visual untuk membukanya; shortcut bukan satu-satunya akses.
-- Kelompokkan halaman, tindakan, dan item terbaru. Dukung panah, Enter, Escape, fokus, loading, dan hasil kosong.
-- Jangan tampilkan tindakan yang tidak diizinkan untuk pengguna.
-
-### 4. Radial Sidebar
-Tujuan sekunder disusun melingkar mengitari titik pusat.
-- Cocok untuk portofolio kreatif atau pengalaman eksploratif dengan sedikit tujuan.
-- Beri label jelas, urutan fokus logis, dan area sentuh yang tidak tumpang tindih.
-- Sediakan menu konvensional untuk mobile, keyboard, dan teknologi bantu.
-- Hindari untuk dashboard padat atau alur kerja yang menuntut pemindaian cepat.
-
-### 5. Vertical Typography Navigation
-Label navigasi disusun vertikal sebagai bagian komposisi tipografi.
-- Cocok untuk editorial, portofolio, studio kreatif, dan landing page berarah seni.
-- Pastikan label terbaca, urutan baca/fokus logis, dan state aktif/fokus terlihat.
-- Gunakan pola horizontal atau konvensional pada breakpoint sempit bila perlu.
-- Hindari bila label panjang atau gaya vertikal mengurangi keterbacaan.
-
-### 6. Scroll Progress Navigation
-Indikator posisi pada halaman panjang dengan penanda bagian yang dapat dipilih.
-- Cocok untuk storytelling, studi kasus, editorial, dan landing page multi-bagian.
-- Hubungkan tiap penanda ke bagian bernama; tampilkan bagian aktif dan dukung klik langsung.
-- Perhitungkan header sticky, deep link, history, konten dinamis, dan posisi mobile.
-- Hindari untuk halaman pendek atau tanpa struktur bagian yang bermakna.
+Video tidak menyediakan kode, riset usability, atau pengukuran performa. Panduan seleksi dan implementasi adalah sintesis operasional.
 
 ## Memilih pola
 
@@ -92,18 +59,7 @@ Ini titik awal, bukan aturan kaku. Kombinasikan pola hanya bila masing-masing pu
 
 ## Pemeriksaan mutu
 
-- Tujuan utama mudah ditemukan dan state aktif jelas.
-- Keyboard, touch, fokus, label, dan nama aksesibel berfungsi.
-- Navigasi tidak menutupi konten atau area sistem.
-- Perilaku responsif dirancang, bukan sekadar mengecilkan layout.
-- Deep link dan browser navigation bekerja.
-- Radial/vertical memiliki fallback.
-- Scroll progress mengikuti bagian aktual.
-- Kompleksitas tambahan memberi manfaat nyata.
-
-## Aturan implementasi AI
-
-Periksa codebase sebelum mengubah navigasi. Ubah cakupan yang diminta saja. Jangan menganggap pola modern otomatis lebih mudah digunakan, jangan mengganti navigasi terlihat dengan palette, jangan memakai ikon tanpa nama aksesibel, dan jangan menyembunyikan aksi penting pada hover. Bila pilihan berdampak besar belum jelas, ajukan satu pertanyaan terarah.
+Pastikan tujuan mudah ditemukan, state aktif jelas, keyboard/touch/fokus/label aksesibel berfungsi, layout tidak menutupi konten atau area sistem, breakpoint dirancang, deep link/back-forward bekerja, radial/vertical memiliki fallback, dan scroll progress mengikuti section aktual.
 
 ## Hubungan skill
 
