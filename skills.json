@@ -49,9 +49,9 @@
       ]
     },
     {
-      "id": "advanced-pagination-and-data-navigation-patterns",
+      "id": "paginasi-data-tingkat-lanjut",
       "domain": "development",
-      "path": "skills/development/advanced-pagination-and-data-navigation-patterns/SKILL.md",
+      "path": "skills/development/paginasi-data-tingkat-lanjut/SKILL.md",
       "owns": "pemilihan pola paginasi dan perpindahan halaman dalam satu koleksi",
       "triggers": [
         "paginasi",
@@ -62,9 +62,9 @@
       ]
     },
     {
-      "id": "ai-interface-design-and-unslop-engineering",
+      "id": "desain-antarmuka-ai-anti-generik",
       "domain": "development",
-      "path": "skills/development/ai-interface-design-and-unslop-engineering/SKILL.md",
+      "path": "skills/development/desain-antarmuka-ai-anti-generik/SKILL.md",
       "owns": "audit antarmuka AI berbasis produk dan penghilangan pola desain generik",
       "triggers": [
         "UI terlihat generik",
@@ -92,9 +92,9 @@
       ]
     },
     {
-      "id": "apple-platform-design-and-hig-review",
+      "id": "review-desain-platform-apple",
       "domain": "development",
-      "path": "skills/development/apple-platform-design-and-hig-review/SKILL.md",
+      "path": "skills/development/review-desain-platform-apple/SKILL.md",
       "owns": "konvensi desain Apple dan review berdasarkan Human Interface Guidelines",
       "triggers": [
         "iOS",
@@ -105,9 +105,9 @@
       ]
     },
     {
-      "id": "application-architecture-planning",
+      "id": "perencanaan-arsitektur-aplikasi",
       "domain": "development",
-      "path": "skills/development/application-architecture-planning/SKILL.md",
+      "path": "skills/development/perencanaan-arsitektur-aplikasi/SKILL.md",
       "owns": "keputusan arsitektur sistem, pemilihan stack, batas layanan, model data, kontrak API, akses, dan urutan pembangunan",
       "triggers": [
         "arsitektur aplikasi",
@@ -147,9 +147,9 @@
       ]
     },
     {
-      "id": "application-parity-evaluation",
+      "id": "evaluasi-kesesuaian-aplikasi",
       "domain": "development",
-      "path": "skills/development/application-parity-evaluation/SKILL.md",
+      "path": "skills/development/evaluasi-kesesuaian-aplikasi/SKILL.md",
       "owns": "penilaian cakupan fitur dan perbedaan perilaku terhadap matriks kebutuhan/referensi",
       "triggers": [
         "bandingkan aplikasi",
