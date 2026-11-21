@@ -2,7 +2,7 @@
 
 Generated from `skills.json` and checked against the repository tree. The governance registry is authoritative for ownership boundaries.
 
-**Totals:** 101 skills across 12 domains.
+**Totals:** 103 skills across 12 domains.
 
 ## Orchestrator
 
@@ -159,6 +159,7 @@ Generated from `skills.json` and checked against the repository tree. The govern
 | Skill | Owns | Triggers | Path |
 |---|---|---|---|
 | OSINT And Digital Footprint Intelligence | lawful open-source research and evidence collection | jejak digital, OSINT, cek informasi publik, verifikasi identitas | [SKILL.md](skills/research/osint-and-digital-footprint-intelligence/SKILL.md) |
+| AI Media Provenance & Watermark Analysis | image, video, and audio metadata, provenance records, visible/invisible watermark inspection, authorized cleanup | watermark AI, hapus metadata, EXIF, XMP, C2PA, SynthID | [SKILL.md](skills/research/ai-media-provenance-and-watermark-analysis/SKILL.md) |
 
 ## Spirituality
 
