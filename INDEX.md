@@ -25,11 +25,11 @@ Dihasilkan dari `skills.json` dan diperiksa terhadap struktur berkas repositori.
 
 | Nama Skill | Tanggung Jawab | Kata Pemicu | Lokasi |
 |---|---|---|---|
-| Inovasi Model Bisnis dan Monetisasi Aset | membandingkan penjualan, penyewaan, langganan, dan pembayaran per penggunaan untuk aset yang dapat digunakan kembali | sewa, langganan, monetisasi aset, model bisnis | [SKILL.md](skills/business/business-model-innovation-and-asset-monetization/SKILL.md) |
-| Operasional dan Pengembangan Skala Bisnis | proses, kapasitas, mutu, tenaga kerja, persediaan, dan peningkatan skala | operasional, produksi, stok, karyawan, perluas usaha | [SKILL.md](skills/business/business-operations-and-scaling/SKILL.md) |
-| Penemuan Peluang Bisnis | masalah pelanggan, diagnosis penawaran-permintaan, bukti permintaan, kesesuaian penawaran, validasi berbiaya rendah | peluang usaha, penawaran dan permintaan, permintaan pasar, validasi, cari ide, pasar | [SKILL.md](skills/business/business-opportunity-discovery/SKILL.md) |
-| Strategi Inovasi dan Keunggulan Bersaing | diferensiasi strategis, posisi pasar, dan keunggulan bersaing yang tahan lama | keunggulan kompetitif, diferensiasi bisnis, sulit ditiru, dari nol ke satu, keunggulan pasar | [SKILL.md](skills/business/innovation-and-competitive-advantage-strategy/SKILL.md) |
-| Kepemilikan Bisnis dan Ekuitas | konsep kepemilikan, ekuitas, saham, dan tata kelola | saham, bagi hasil, kepemilikan, ekuitas, mitra usaha | [SKILL.md](skills/business/business-ownership-and-equity/SKILL.md) |
+| Inovasi Model Bisnis dan Monetisasi Aset | membandingkan penjualan, penyewaan, langganan, dan pembayaran per penggunaan untuk aset yang dapat digunakan kembali | sewa, langganan, monetisasi aset, model bisnis | [SKILL.md](skills/bisnis/inovasi-model-bisnis-dan-monetisasi-aset/SKILL.md) |
+| Operasional dan Pengembangan Skala Bisnis | proses, kapasitas, mutu, tenaga kerja, persediaan, dan peningkatan skala | operasional, produksi, stok, karyawan, perluas usaha | [SKILL.md](skills/bisnis/operasional-dan-pengembangan-skala-bisnis/SKILL.md) |
+| Penemuan Peluang Bisnis | masalah pelanggan, diagnosis penawaran-permintaan, bukti permintaan, kesesuaian penawaran, validasi berbiaya rendah | peluang usaha, penawaran dan permintaan, permintaan pasar, validasi, cari ide, pasar | [SKILL.md](skills/bisnis/penemuan-peluang-bisnis/SKILL.md) |
+| Strategi Inovasi dan Keunggulan Bersaing | diferensiasi strategis, posisi pasar, dan keunggulan bersaing yang tahan lama | keunggulan kompetitif, diferensiasi bisnis, sulit ditiru, dari nol ke satu, keunggulan pasar | [SKILL.md](skills/bisnis/strategi-inovasi-dan-keunggulan-bersaing/SKILL.md) |
+| Kepemilikan Bisnis dan Ekuitas | konsep kepemilikan, ekuitas, saham, dan tata kelola | saham, bagi hasil, kepemilikan, ekuitas, mitra usaha | [SKILL.md](skills/bisnis/dasar-kepemilikan-bisnis-dan-ekuitas/SKILL.md) |
 
 ## Komunikasi
 
