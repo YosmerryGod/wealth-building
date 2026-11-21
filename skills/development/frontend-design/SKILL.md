@@ -26,8 +26,6 @@ Sebelum memilih gaya, identifikasi:
 - Lingkungan: desktop, mobile, tablet, atau lintas perangkat.
 - Batasan: aset merek, stack, konten, aturan bisnis, aksesibilitas, dan preferensi yang disetujui.
 
-Jika konteks penting belum tersedia, ajukan satu interpretasi konkret untuk dikonfirmasi. Gunakan konteks yang diketahui sebagai petunjuk, bukan alasan mengarang fakta. Jangan menyamakan desain POS, aplikasi komunikasi, terminal trading, dan situs restoran.
-
 ## 2. Tetapkan arah visual
 
 Buat rencana desain ringkas:
@@ -36,10 +34,6 @@ Buat rencana desain ringkas:
 - **Tata letak:** jelaskan komposisi, perataan, hierarki, dan alasannya. Biarkan alur tugas menentukan struktur.
 - **Ciri pembeda:** tentukan satu gagasan visual yang terkait dengan produk. Satu fokus kuat lebih efektif daripada dekorasi yang saling bersaing.
 
-## 3. Jadikan struktur bermakna
-
-Border menunjukkan kelompok; divider memisahkan konteks; label menjelaskan status atau tindakan; nomor menunjukkan urutan nyata; spasi memperjelas hierarki; ikon memperkuat konsep yang dikenali. Jangan menambah elemen untuk mengisi ruang. Hindari metadata tanpa fungsi, angka dekoratif, dan ornamen template.
-
 ## 4. Rancang kesan pertama
 
 Pilih pembuka yang paling mewakili nilai produk: judul, gambar, demo, interaksi, atau tugas utama. Jangan otomatis memakai judul besar di tengah, gradasi, atau statistik besar. Untuk aplikasi kerja, utamakan tugas dan konteks kerja, bukan hero pemasaran.
@@ -47,8 +41,6 @@ Pilih pembuka yang paling mewakili nilai produk: judul, gambar, demo, interaksi,
 ## 5. Gerak dan konten antarmuka
 
 Batasi animasi otomatis. Gerak akibat tindakan pengguna berguna bila menjelaskan perubahan, seperti panel terbuka atau penyimpanan berhasil. Jangan menghalangi konten atau memperlambat tugas. Gunakan [Micro-Interactions & UI Feedback Design](../micro-interactions-and-ui-feedback/SKILL.md) untuk pola feedback dan [Modern Web Navigation & Interaction Patterns](../modern-web-navigation-patterns/SKILL.md) untuk navigasi.
-
-Tulis dari sudut pandang pengguna dengan nama tindakan konsisten, kalimat aktif, dan teks ringkas. Error harus menjelaskan kejadian serta cara memperbaiki. Empty state memberi petunjuk tindakan berikutnya.
 
 ## 6. Validasi rencana sebelum coding
 
@@ -59,11 +51,9 @@ Periksa:
 4. Apakah setiap label, garis, angka, dan dekorasi membawa informasi?
 5. Adakah elemen yang hanya mengikuti kebiasaan desain generik AI?
 
-Revisi pilihan generik sebelum implementasi.
-
 ## 7. Spesifikasi dan implementasi
 
-Ikuti framework, komponen, dan arsitektur yang ada. Pisahkan token desain dari kode komponen. Tetapkan peran warna, skala tipografi/spasi, breakpoint, aturan layout, varian komponen, dan state interaksi. Gunakan HTML semantik serta pola aksesibel. Hindari dependensi dan efek dekoratif tanpa manfaat.
+Ikuti framework dan arsitektur yang ada. Pisahkan token warna, tipografi, spasi, breakpoint, layout, varian komponen, dan state dari kode komponen. Gunakan HTML semantik serta pola aksesibel; hindari dependensi/efek tanpa manfaat.
 
 ## 8. Kritik hasil
 
