@@ -30,7 +30,7 @@ Arah berasal dari produk, audiens, tugas, dan konten; bukan tren. Kontrol menduk
 ## Alur kerja
 
 ### Fase 1 — Inspeksi nyata
-Temukan file/komponen; identifikasi framework, routing, sistem komponen, token, font, breakpoint, dan tema. Jalankan aplikasi dan ambil baseline bila memungkinkan. Jika hanya URL atau screenshot tersedia, nyatakan batas bukti; jangan mengaku memeriksa source. Catat fitur, konten, urutan, responsivitas, dan state sebelum edit.
+Temukan komponen, framework, routing, token, font, breakpoint, dan tema. Jalankan aplikasi dan ambil baseline bila tersedia. Jika hanya URL/screenshot, nyatakan batas bukti. Catat fitur, konten, urutan, responsivitas, dan state sebelum edit.
 
 ### Fase 2 — Audit
 Catat lokasi dan bukti terkait kejelasan produk, spasi, warna/kontras, ikon, copy/klaim, tipografi, komposisi, responsivitas, komponen, visual, motion, aksesibilitas, input, performa, dan konsistensi. Jelaskan dampak dan apakah perlu diubah; beda estetika bukan otomatis cacat.
