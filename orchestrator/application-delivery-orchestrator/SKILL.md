@@ -36,7 +36,7 @@ Jika penyimpanan proyek tersedia, pertahankan: tujuan produk/audiens/platform; c
 | Penyelidikan referensi | Rekayasa Balik dan Rekonstruksi Berbasis Referensi | peta bukti, layar, alur, matriks fitur |
 | Arsitektur | Perencanaan Arsitektur Aplikasi | tumpukan teknologi, skema, API, model akses, tonggak |
 | Sistem visual | Desain Frontend | token, komponen, spesifikasi responsif dan interaksi |
-| Merek | Logo Profesional dan Identitas Merek | arahan nama/identitas/suara merek yang berbeda |
+| Merek | Desain Logo Profesional dan Identitas Merek | arahan nama/identitas/suara merek yang berbeda |
 | Implementasi produk | Rekayasa Aplikasi Full-Stack | bagian vertikal yang berfungsi dan catatan pembangunan |
 | Kapabilitas server | Rekayasa Backend dan Integrasi | implementasi data/autentikasi/integrasi yang aman |
 | QA | Pengujian Perangkat Lunak dan Jaminan Mutu | pengujian yang dijalankan, cacat, pemeriksaan belum selesai |
