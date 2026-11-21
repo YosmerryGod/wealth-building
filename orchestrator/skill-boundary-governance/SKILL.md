@@ -200,7 +200,7 @@ Specialist skills provide bounded expertise. They return findings, criteria, dra
 | Digital Brand Awareness & Channel Strategy | Digital presence, platform roles, digital content/channel execution, and permission-based direct marketing | Overall acquisition channel experimentation |
 | Experiential & Event-Based Marketing | Design and delivery of brand/customer experiences and events | Viral-content system or event revenue model integration |
 | Influencer, Opinion Leader & Endorsement Strategy | Creator/endorser selection, collaboration, disclosure, and measurement | General partnership strategy or organic advocacy |
-| AI-Powered Voice of Customer Intelligence | Aggregated customer-feedback analysis, issue frequency/trends, experience-problem prioritization, and improvement measurement | Individual complaint remedies/public replies or operational implementation |
+| Kecerdasan Suara Pelanggan Berbasis AI | Analisis umpan balik pelanggan secara agregat, frekuensi/tren masalah, penentuan prioritas pengalaman pelanggan, dan pengukuran perbaikan | Pemulihan keluhan individual/balasan publik atau pelaksanaan operasional |
 | Service Recovery Marketing & Trust Building | Individual customer complaint triage, proportionate remedies, public reply that satisfies its Output contract, follow-up, and service recovery | Aggregated cross-customer feedback analytics, automatic compensation, or general PR for non-service issues |
 | Viral Content Engineering & Attention Psychology | Hooks, attention, content shareability, and content iteration | Event operations or full event monetization |
 | Viral Event Marketing & Content Monetization | Integrated event-to-content-to-revenue plan | Replacing specialist event, content, finance, and growth methods |
