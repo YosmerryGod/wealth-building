@@ -1,70 +1,65 @@
 ---
 name: persuasive-communication-and-negotiation
-title: Persuasive Communication & Negotiation
+title: Komunikasi Persuasif dan Negosiasi
 category: communication
 subcategory: persuasion-and-negotiation
-source_type: book-inspired-framework-and-operational-synthesis
-source: *Bicara Itu Ada Seninya* by Oh Su Hyang; persuasion and negotiation themes
-language: English
-description: "Use when a request needs ethical persuasion, objection handling, bargaining."
+source_type: sintesis-praktis-berbasis-buku
+source: *Bicara Itu Ada Seninya* karya Oh Su Hyang; tema persuasi dan negosiasi.
+language: Indonesian
+description: "Gunakan untuk menyampaikan alasan, menangani keberatan, dan bernegosiasi secara etis."
 triggers:
-  - "nego"
+  - "negosiasi"
   - "tawar"
   - "yakinkan"
   - "keberatan"
-  - "negotiate"
-out_of_scope: "Manipulation, coercion, or general audience content engineering"
-escalation: "Hand off work involving Manipulation, coercion, or general audience content engineering to its owning skill; invoke Risk Assessment for material legal, safety, exploitation, or high-consequence actions; obtain user approval before external or irreversible actions."
+out_of_scope: "Manipulasi, pemaksaan, atau rekayasa konten untuk audiens umum"
+escalation: "Serahkan analisis psikologi atau strategi domain kepada pemiliknya. Gunakan Penilaian Risiko untuk tindakan berkonsekuensi besar dan minta persetujuan sebelum tindakan eksternal atau sulit dibatalkan."
 ---
 
-# Persuasive Communication & Negotiation
+# Komunikasi Persuasif dan Negosiasi
 
-## Purpose
+## Tujuan
+Membantu pengguna menyampaikan alasan, memahami kepentingan pihak lain, menangani keberatan, dan mencari kesepakatan tanpa penipuan, pemaksaan, atau tekanan yang merusak kebebasan mengambil keputusan.
 
-Help users present reasons, understand the other party's interests, handle objections, and seek agreements without deception, coercion, or pressure that undermines informed choice.
+## Prinsip persuasi
+- Mulai dari kebutuhan dan dasar pertimbangan lawan bicara.
+- Sampaikan klaim yang spesifik dengan alasan atau bukti relevan.
+- Jelaskan manfaat dan konsekuensi secara jujur.
+- Tanggapi keberatan yang paling masuk akal, bukan mengabaikannya.
+- Gunakan contoh yang akurat dan mewakili keadaan.
+- Beri ruang untuk bertanya dan mempertimbangkan keputusan.
 
-## Persuasion principles
+Persuasi bukan memaksa orang setuju. Hasil yang baik juga bisa berupa penolakan yang jelas atau keputusan untuk membahasnya lagi nanti.
 
-- Start with the other person's needs and decision criteria.
-- Make a specific claim and support it with relevant reasons or evidence.
-- Explain benefits and trade-offs honestly.
-- Address the strongest reasonable objection rather than dismissing it.
-- Use examples only when they are accurate and representative.
-- Invite questions and allow time for a decision.
+## Alur negosiasi
+1. Tentukan masalah, hasil yang diinginkan, dan batas minimum yang dapat diterima.
+2. Pahami kepentingan, batasan, dan alternatif pihak lain.
+3. Bedakan posisi (apa yang diminta) dari kepentingan (mengapa hal itu penting).
+4. Cari pilihan yang dapat menciptakan manfaat bersama.
+5. Bandingkan syarat, biaya, risiko, waktu, dan tanggung jawab.
+6. Ajukan penawaran dan konsesi secara sadar; hitung nilai setiap konsesi.
+7. Tegaskan kesepakatan, tanggung jawab, tenggat, dan hal yang belum selesai.
+8. Periksa pelaksanaan kesepakatan.
 
-Persuasion is not the same as forcing agreement. A good outcome may be a clear refusal or a decision to revisit the issue later.
+## Menangani keberatan
+- Dengarkan sampai selesai sebelum menjawab.
+- Pastikan apakah keberatan terkait harga, kepercayaan, waktu, risiko, kecocokan, wewenang, atau informasi yang belum tersedia.
+- Akui kekhawatiran yang memang masuk akal.
+- Berikan bukti atau alternatif.
+- Jangan memaksa orang mengabaikan batas pribadi atau kemampuan keuangannya.
 
-## Negotiation workflow
+## Contoh pertanyaan
+- "Bagian mana yang paling penting bagi Anda?"
+- "Apa yang perlu dipenuhi agar pilihan ini bisa berjalan?"
+- "Ini beberapa konsekuensi yang perlu kita pertimbangkan."
+- "Apakah uji coba kecil bisa mengurangi risikonya?"
+- "Sepertinya pilihan ini belum cocok sekarang. Apakah saya memahami situasinya dengan benar?"
 
-1. Define the issue, desired outcome, and minimum acceptable terms.
-2. Understand the other party's interests, constraints, and alternatives.
-3. Separate positions ("what each side asks for") from interests ("why it matters").
-4. Identify possible options that create mutual value.
-5. Compare terms, costs, risks, timing, and responsibilities.
-6. Make proposals and concessions deliberately; understand what each concession costs.
-7. Confirm the agreement, responsibilities, deadlines, and unresolved points in clear language.
-8. Review whether the agreement is being fulfilled.
+## Memahami taktik dan konsekuensi
+Analisis pembingkaian pesan, gertakan, urgensi buatan, sinyal otoritas, ketimpangan informasi, daya tawar, dan tekanan sebagai fenomena negosiasi. Jelaskan cara kerja, konteks, kemungkinan dampak, risiko, dan konsekuensi jangka panjang. Bedakan analisis deskriptif dari saran untuk diterapkan. Penilaian tindakan berisiko menjadi ranah Penilaian Risiko.
 
-## Handling objections
+## Hubungan dengan skill lain
+Gunakan Mendengarkan Aktif untuk memahami kepentingan, Perancangan Pesan untuk menyusun argumen, serta Psikologi Konsumen untuk keputusan pembelian dan pemasaran. Penilaian substansi proposal bisnis atau keuangan tetap menjadi milik skill domain terkait.
 
-- Listen fully before responding.
-- Clarify whether the concern is about price, trust, timing, risk, fit, authority, or missing information.
-- Acknowledge legitimate concerns.
-- Provide evidence or alternatives.
-- Do not argue someone out of a valid boundary or financial constraint.
-
-## Practical language patterns
-
-- "Which part matters most to you?"
-- "What would need to be true for this to work?"
-- "Here are the trade-offs as I see them."
-- "Would a smaller trial reduce the risk?"
-- "It sounds like this option does not fit right now. Is that accurate?"
-
-## Context and consequence analysis
-
-Analyze transparent persuasion, strategic framing, bluffing, manufactured urgency, authority signals, information asymmetry, leverage, and pressure tactics as negotiation phenomena. Explain mechanisms, contexts, likely effects, risks, and longer-term consequences. Distinguish descriptive analysis from recommendations for real-world use. Repository-wide action assessment belongs to Risk Assessment & Consequence Intelligence.
-
-## Relationship to other skills
-
-Use Consumer Psychology & Persuasion for customer behavior and marketing, Active Listening & Conversational Rapport for understanding interests, and Financial Intelligence or Business Opportunity Discovery when evaluating the substance of a commercial proposal.
+## Batasan
+Jangan menyembunyikan fakta material, membuat kelangkaan palsu, mengeksploitasi kerentanan, atau menganggap persetujuan sebagai satu-satunya hasil yang sah.
