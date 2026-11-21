@@ -160,7 +160,7 @@ State every assumption and show formulas or calculation logic. Do not use outdat
 
 ### Stage 6 — Brand and creative preparation
 
-Use relevant branding, visual identity, design, and creative-production skills when available. When the user supplies a website, application, screenshot, or other digital reference, consult [Reverse Engineering & Reference-Based Reconstruction](../../skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) to inspect the relevant experience and translate useful patterns to the approved business. Then consult [Frontend Design](../../skills/development/frontend-design/SKILL.md) before implementation; combine it with [AI Interface Design & Unslop Engineering](../../skills/development/ai-interface-design-and-unslop-engineering/SKILL.md) for a broader UI audit, and use the navigation and micro-interaction skills when relevant.
+Use relevant branding, visual identity, design, and creative-production skills when available. When the user supplies a website, application, screenshot, or other digital reference, consult [Reverse Engineering & Reference-Based Reconstruction](../../skills/development/reverse-engineering-and-reference-based-reconstruction/SKILL.md) to inspect the relevant experience and translate useful patterns to the approved business. Then consult [Frontend Design](../../skills/development/frontend-design/SKILL.md) before implementation; combine it with [AI Interface Design & Unslop Engineering](../../skills/development/desain-antarmuka-ai-anti-generik/SKILL.md) for a broader UI audit, and use the navigation and micro-interaction skills when relevant.
 
 Prepare only what the selected business needs for its current stage. Deliverables may include:
 
